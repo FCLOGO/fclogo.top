@@ -11,17 +11,22 @@ module.exports = {
     description: ``,
     keywords: ``,
     author: `@fclogo`,
-    siteUrl: `https://fclogo.top/`
+    siteUrl: `https://fclogo.top/`,
   },
   plugins: [
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-transformer-yaml`,
+    {
+      resolve: `gatsby-transformer-yaml`,
+      options: {
+        typeName: `Yaml`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./src/data/`,
-        name: `mainData`
+        name: `mainData`,
       },
     },
     {
@@ -35,6 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-i18n`,
       options: {
+        // Modify the defaultLang in gatsby-node.js at the same time.
         defaultLang: `en`,
         configPath: require.resolve(`./i18n/config.json`),
       },

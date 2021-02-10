@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react"
 
 export default function Home() {
   return (
     <div>
-      <p>Hello, Gatsby!</p>
+      <p>Hello, World!</p>
     </div>
   )
 }
