@@ -30,14 +30,6 @@ module.exports = {
       },
     },
     {
-      resolve: "@chakra-ui/gatsby-plugin",
-      options: {
-        isResettingCSS: true,
-        isUsingColorMode: true,
-        portalZIndex: 40,
-      },
-    },
-    {
       resolve: `gatsby-theme-i18n`,
       options: {
         // Modify the defaultLang in gatsby-node.js at the same time.
