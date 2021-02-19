@@ -1,0 +1,156 @@
+header-height = 60px
+height-normal = 20px
+height-large = 30px
+height-small = 10px
+height-mini = 6px
+
+.headerWrapper
+  background-color var(--brandBg)
+  height header-height
+  padding 0 height-large
+  display flex
+  flex-flow row nowrap
+  justify-content space-between
+  align-items center
+  a
+    border none
+
+.logoWrapper
+  flex 0 auto
+  height header-height
+  line-height header-height
+  padding 0
+  margin 0
+
+.logoLink
+  hide-text()
+  height header-height
+  svg
+    height header-height
+    padding-top height-small
+    padding-bottom height-mini
+    fill white
+
+.togglesWrappper
+  display flex
+  flex-flow row nowrap
+  justify-content flex-end
+  align-items center
+  height header-height
+
+.toggelTheme
+  height header-height
+  padding-top height-normal
+  padding-bottom height-normal
+  flex 1 auto
+  input
+    position absolute
+    opacity 0
+    &:checked+span
+      background-image url('../../../static/assets/images/sun.svg')
+  span
+    background-image url('../../../static/assets/images/moon.svg')
+    background-size 100% 100%
+    position absolute
+    top 0
+    left 0
+    height height-normal
+    width height-normal
+    transform all 0.5s
+  label
+    display inline-block
+    width height-normal
+    height height-normal
+    position relative
+    cursor pointer
+
+.i18nNav
+  height header-height
+  padding-top height-normal
+  padding-bottom height-normal
+  flex 1 auto
+  margin-left height-normal
+  z-index 999
+  position relative
+  cursor pointer
+  svg
+    fill white
+    height height-normal
+    width height-normal
+  &:hover .i18nNavInner
+    visibility visible
+    opacity 1
+
+.i18nNavInner
+  visibility hidden
+  transition 0.2s opacity ease, visibility 0.2s
+
+.i18nNavList
+  text-align center
+  position absolute
+  background-color var(--bodyColor)
+  overflow-x hidden
+  overflow-y scroll
+  padding height-mini 0
+  width 100%
+  min-width 110px
+  max-height 300px
+  border 1px solid var(--hr)
+  border-radius 3px
+  top 50px
+  right -10px
+
+.arrow_1
+  border solid 8px transparent
+  border-bottom-color var(--hr)
+  position absolute
+  top 39px
+  left 2px
+
+.arrow_2
+  border solid 8px transparent
+  border-bottom-color var(--bodyColor)
+  position absolute
+  top 40px
+  left 2px
+
+.i18nNavListItem
+  list-style none
+  a
+    height 36px
+    line-height 36px
+    padding 0 height-normal
+    display block
+    border none
+    &:hover
+      background-color var(--borderColor)
+      color var(--textColor)
+  [aria-current]
+    font-weight 700
+
+.donateButton
+  display flex
+  flex-flow row nowrap
+  justify-content flex-end
+  align-items center
+  height 36px
+  background-color #4AD295
+  padding height-small
+  border-radius 3px
+  margin-left height-normal
+  cursor pointer
+  color white
+  transition background 0.1s ease-out
+  &:hover
+    background-color #2EE895
+  svg
+    width height-normal
+    height height-normal
+    display inline-block
+    line-height height-normal
+    fill white
+  span
+    text-transform uppercase
+    letter-spacing 2px
+    font-weight 700
+    margin-left height-small

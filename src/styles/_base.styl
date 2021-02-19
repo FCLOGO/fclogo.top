@@ -1,0 +1,74 @@
+body
+  --brandColor #2D2CDD
+  --brandBg #2D2CDD
+  --bodyColor #F5F7F9
+  --textColor #1B1B1B
+  --headerText #F5F7F9
+  --textLink #2D2CDD
+  --borderColor #E6ECF1
+  --headerBorder hsla(0, 0%, 0%, 0.1)
+  --hr hsla(0, 0%, 0%, 0.2)
+
+body.dark
+  -webkit-font-smoothing antialiased
+  --brandColor #2D2CDD
+  --brandBg #1A1B1E
+  --bodyColor #1A1B1E
+  --textColor rgba(255, 255, 255, 0.88)
+  --headerText rgba(255, 255, 255, 0.88)
+  --textLink #2D2CDD
+  --borderColor #141516
+  --headerBorder hsla(0, 0%, 0%, 0.1)
+  --hr hsla(0, 0%, 100%, 0.2)
+
+html
+  box-sizing border-box
+
+*, *:before, *:after
+  box-sizing inherit
+
+button, input[type='reset'], input[type='button'], input[type='submit'], &::-moz-focus-inner, padding 0, margin 0, border 0, input, button, select
+  margin 0
+  padding 0
+  border 0
+
+html, body
+  @media screen
+    height 100%
+
+body
+  background-color var(--bodyColor)
+  color var(--textColor)
+  font-size 14px
+  font-family font-sans
+  text-rendering optimizeLegibility
+  -webkit-font-smoothing antialiased
+  -moz-osx-font-smoothing grayscale
+  overflow-x hidden
+  line-height 1.6
+  transition color 0.2s ease-out, background 0.2s ease-out
+
+// Media
+img, video
+  height auto
+  max-width 100%
+  display block
+  margin auto
+
+embed, iframe, object
+  max-width 100%
+
+#content-wrap, #index-content-wrap
+  flex auto
+
+.wrapper
+  clearfix()
+  width 100%
+  @media screen
+    max-width max-width
+    margin 0 auto
+
+.inner
+  clearfix()
+  @media screen
+    padding 0 20px

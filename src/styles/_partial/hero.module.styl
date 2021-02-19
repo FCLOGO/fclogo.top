@@ -1,0 +1,56 @@
+.indexHero
+  border-top 1px solid var(--headerBorder)
+  background-color var(--brandBg)
+  color var(--headerText)
+
+.heroContent
+  max-width 72em
+  margin auto
+  padding 80px 100px 120px
+
+.heroTitle
+  font-size 36px
+  text-transform capitalize
+  text-align center
+  margin 0
+
+.heroSubtitle
+  font-size 18px
+  text-align center
+
+.heroSearch form
+  height 60px
+  line-height 60px
+  background-color #eff3f6
+  border-radius 5px
+  position relative
+  box-shadow 0px 10px 27px 0px rgba(0, 23, 65, 0.25)
+  // box-shadow 0 0 60px rgba(14, 42, 71, 0.25)
+  input
+    padding 0 20px
+    height 60px
+    line-height 60px
+    width 100%
+    border none
+    background none
+  button
+    font-size 0
+    position absolute
+    border none
+    background-color #4AD295
+    height 60px
+    width 60px
+    border-radius 5px
+    right 0
+    cursor pointer
+    transition background 0.1s ease-out
+    &:hover
+      background-color #2EE895
+    svg
+      fill white
+      height 24px
+      width 24px
+  p
+    margin 0
+    line-height 30px
+    text-align center
