@@ -38,11 +38,10 @@ const HeaderToggle = ({ pageContext }) => {
   console.log(menuActive)
   return (
     <>
-      <label
-        htmlFor="main-menu-toggle"
+      <div
         className={`${toggleModal} ${menuActive ? `` : `${modalHidden}`}`}
         onClick={toggleMenu}
-      ></label>
+      ></div>
       <div className={togglesWrappper}>
         <div className={langSelectorWrapper}>
           <button onClick={toggleMenu} className={langSelectorButton}>
