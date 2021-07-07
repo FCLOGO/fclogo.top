@@ -1,0 +1,67 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.main-menu-wrapper
+  overflow visible
+  flex 1 auto
+  display flex
+  flex-flow row nowrap
+  justify-content flex-start
+  height header-height
+  @media mq-tablet
+    flex-direction column
+    overflow-x hidden
+    overflow-y auto
+    height 100%
+
+.main-menu-list
+  margin 0
+  padding 0
+  height header-height
+  display flex
+  flex 1 auto
+  flex-flow row nowrap
+  justify-content flex-start
+  align-items center
+  @media mq-tablet
+    flex-direction column
+    margin-bottom 100px
+    flex 0 auto
+    padding-right size-large
+
+.main-menu-list-item
+  list-style none
+  @media mq-tablet
+    width 100%
+
+.main-menu-link
+  position relative
+  text-transform uppercase
+  letter-spacing 1.5px
+  line-height size-large
+  font-weight 600
+  display inline-block
+  margin-left size-normal
+  color var(--header-text-color)
+  opacity 0.8
+  &:hover
+    color var(--header-text-color)
+    opacity 1
+  @media mq-tablet
+    width 100%
+    margin 0
+    display block
+    height 50px
+    line-height 50px
+    padding 0 size-large
+    color var(--text-color-primary)
+    opacity 1
+    &:hover
+      color var(--text-color-primary)
+      opacity 1

@@ -22,8 +22,8 @@ html, body
     height 100%
 
 body
-  background-color var(--bodyColor)
-  color var(--textColor)
+  background-color var(--bg-color-primary)
+  color var(--text-color-primary)
   font-size 14px
   font-family font-sans
   text-rendering optimizeLegibility
@@ -42,18 +42,3 @@ img, video
 
 embed, iframe, object
   max-width 100%
-
-#content-wrap, #index-content-wrap
-  flex auto
-
-.wrapper
-  clearfix()
-  width 100%
-  @media screen
-    max-width max-width
-    margin 0 auto
-
-.inner
-  clearfix()
-  @media screen
-    padding 0 20px

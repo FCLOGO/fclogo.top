@@ -15,6 +15,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-stylus`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-dark-mode`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -22,8 +23,17 @@ module.exports = {
       resolve: 'gatsby-plugin-react-svg',
       options: {
         rule: {
-          include: /icons/
+          include: /\.inline\.svg$/
         }
+      }
+    },
+    {
+      resolve: `gatsby-plugin-usei18n`,
+      options: {
+        defaultLang: `en`,
+        configPath: require.resolve(`./i18n/config.json`),
+        redirect: true,
+        prefixDefault: false
       }
     },
     {
@@ -37,20 +47,6 @@ module.exports = {
       options: {
         path: `./src/data/`,
         name: `mainData`
-      }
-    },
-    {
-      resolve: `gatsby-theme-i18n`,
-      options: {
-        // Modify the defaultLang in gatsby-node.js at the same time.
-        defaultLang: `en`,
-        configPath: require.resolve(`./i18n/config.json`)
-      }
-    },
-    {
-      resolve: `gatsby-theme-i18n-react-intl`,
-      options: {
-        defaultLocale: `./i18n/react-intl/en.json`
       }
     }
   ]

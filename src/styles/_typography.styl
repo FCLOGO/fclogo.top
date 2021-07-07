@@ -43,7 +43,7 @@ blockquote
   text-align justify
   position relative
   margin 30px 0
-  border-left 5px solid var(--borderColor)
+  border-left 5px solid var(--border-color)
 
 blockquote cite
   display block
@@ -58,7 +58,7 @@ address
   margin 0 0 1.5em
 
 pre
-  background var(--bodyColor)
+  background var(--bg-color-secondary)
   font-family font-mono
   font-size 13px
   line-height 1.4
@@ -74,14 +74,14 @@ code, kbd, tt, var
   margin 0 1px
   padding 0 1px
   border-radius 1px
-  background-color var(--bodyColor)
+  background-color var(--bg-color-secondary)
 
 abbr, acronym
-  border-bottom 1px dotted var(--borderColor)
+  border-bottom 1px dotted var(--bg-color-secondary)
   cursor help
 
 mark, ins
-  background var(--bodyColor)
+  background var(--bg-color-secondary)
   border-radius 2px
   margin 0 1px
   text-decoration none
@@ -162,8 +162,8 @@ th
     padding-right 0
 
 thead th
-  border-top 1.5px solid var(--borderColor)
-  border-bottom 1.5px solid var(--borderColor)
+  border-top 1.5px solid var(--border-color)
+  border-bottom 1.5px solid var(--border-color)
   padding-bottom 0.5em
 
 td
@@ -174,13 +174,13 @@ td
     padding-right 0
 
 thead tr
-  background-color var(--bodyColor)
+  background-color var(--bg-color-secondary)
 
 tbody tr:nth-child(even)
-  background-color var(--bodyColor)
+  background-color var(--bg-color-secondary)
 
 tr:last-child
-  border-bottom 1px solid var(--borderColor)
+  border-bottom 1px solid var(--border-color)
 
 .highlight
   table, th, tr
@@ -190,9 +190,9 @@ tr:last-child
 a
   padding-bottom 1px
   text-decoration none
-  color var(--textColor)
+  color var(--text-color-primary)
   border-bottom 1px dotted
   transition border-bottom 0.2s ease-out
   &:hover
-    color var(--textLink)
+    color var(--text-link-color)
     border-bottom 1px solid

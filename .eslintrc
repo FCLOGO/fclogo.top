@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2016,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "jsx-a11y/label-has-for": 0
+  }
+}
