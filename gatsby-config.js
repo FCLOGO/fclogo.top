@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 /**
  * Configure your Gatsby site with this file.
  *
@@ -47,6 +49,15 @@ module.exports = {
       options: {
         path: `./src/data/`,
         name: `mainData`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.GATSBY_ALGOLIA_API_KEY,
+        indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
+        queries: require('./src/components/_algolia/algoliaQueries')
       }
     }
   ]

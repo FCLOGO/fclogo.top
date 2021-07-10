@@ -35,7 +35,6 @@ const HeaderToggle = ({ pageContext }) => {
   const path = pageContext.originalPath
   const [menuActive, setMenuActive] = useState(false)
   const toggleMenu = () => setMenuActive(!menuActive)
-  console.log(menuActive)
   return (
     <>
       <div
@@ -46,7 +45,7 @@ const HeaderToggle = ({ pageContext }) => {
         <div className={langSelectorWrapper}>
           <button onClick={toggleMenu} className={langSelectorButton}>
             <SwitchLangIcon className={switchLangIcon} />
-            <span className={langText}>{intl.formatMessage({ id: 'langSelect' })}</span>
+            <span className={langText}>{intl.formatMessage({ id: 'switch.lang' })}</span>
             <CaretDownIcon className={caretDownIcon} />
           </button>
           <div className={`${langSelector} ${menuActive ? `${showMenu}` : ``}`}>
@@ -70,9 +69,11 @@ const HeaderToggle = ({ pageContext }) => {
                       onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
                       checked={theme === 'dark'}
                     />
-                    <div class={spanWrapper}>
+                    <div className={spanWrapper}>
                       <span className={themeIcon}></span>{' '}
-                      <span className={themeText}>{intl.formatMessage({ id: 'toggleTheme' })}</span>
+                      <span className={themeText}>
+                        {intl.formatMessage({ id: 'switch.theme' })}
+                      </span>
                     </div>
                   </label>
                 </>
@@ -82,7 +83,7 @@ const HeaderToggle = ({ pageContext }) => {
         </div>
         <div className={donateButton}>
           <DonateIcon className={donateIcon} />
-          <span className={donateText}>{intl.formatMessage({ id: 'sponsor' })}</span>
+          <span className={donateText}>{intl.formatMessage({ id: 'header.sponsor' })}</span>
         </div>
       </div>
     </>

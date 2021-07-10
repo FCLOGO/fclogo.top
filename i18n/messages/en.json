@@ -1,6 +1,14 @@
 {
-  "homeTitle": "Collection of Football Club Vector Logos",
-  "langSelect": "Switch Language",
-  "toggleTheme": "Switch Theme",
-  "sponsor": "Sponsor"
+  "home.title": "Collection of Football Club Vector Logos",
+
+  "switch.lang": "Switch Language",
+  "switch.theme": "Switch Color Theme",
+  "header.sponsor": "Sponsor",
+
+  "hero.title": "Access {s} vector logos",
+  "hero.subtitle": "All logos work with SVG and AI. No account and unlimited downloads for free.",
+
+  "search.placeholder": "Search for football club logos...",
+  "search.tips": "For example: Facebook, Tesla or Coca Cola"
+
 }

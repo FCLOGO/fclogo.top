@@ -8,7 +8,13 @@ size-mini = 6px
 mq-tablet = 'screen and (max-width: 992px)'
 
 .header-wrapper
+  position fixed
+  top 0
+  left 0
+  width 100%
+  z-index 15
   background-color var(--bg-header-color)
+  border-bottom 1px solid var(--header-border-color)
   height header-height
   padding 0 size-large
   display flex

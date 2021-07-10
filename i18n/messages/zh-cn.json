@@ -1,6 +1,11 @@
 {
-  "homeTitle": "Collection of Football Club Vector Logos",
-  "langSelect": "切换语言",
-  "toggleTheme": "更改主题",
-  "sponsor": "捐赠"
+  "home.title": "Collection of Football Club Vector Logos",
+  "switch.lang": "切换语言",
+  "switch.theme": "更改颜色主题",
+  "header.sponsor": "捐赠",
+  "hero.title": "收集 {s} 个矢量标志",
+  "hero.subtitle": "All logos work with SVG and AI. No account and unlimited downloads for free.",
+
+  "search.placeholder": "搜索矢量标志...",
+  "search.tips": "支持本地化语言搜索：山东泰山, Tesla or Coca Cola"
 }

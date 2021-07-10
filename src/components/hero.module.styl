@@ -1,0 +1,56 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.hero-wrapper
+  position relative
+  text-align center
+  background-color var(--bg-header-color)
+  color var(--header-text-color)
+
+.hero-content
+  max-width 1024px
+  margin 0 auto
+  padding 120px 100px 80px
+  @media mq-tablet
+    padding 120px 60px 80px
+
+.hero-title
+  font-size 28px
+  line-height 1.2
+  text-transform capitalize
+  margin 0
+  @media mq-tablet
+    font-size 24px
+
+.logo-num
+  font-size 60px
+  font-weight 100
+  @media mq-tablet
+    font-size 24px
+    font-weight 600
+
+.hero-subtitle
+  text-align center
+  font-size 16px
+  line-height 1.4
+  @media mq-tablet
+    font-size 14px
+    margin-top size-small
+
+.alg-wrapper
+  padding 0
+  margin 0
+  flex 1 auto
+  position relative
+
+.search-tips
+  text-align center
+  margin size-normal 0
+  @media mq-tablet
+    font-size 12px
