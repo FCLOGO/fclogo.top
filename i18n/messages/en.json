@@ -9,6 +9,8 @@
   "hero.subtitle": "All logos work with SVG and AI. No account and unlimited downloads for free.",
 
   "search.placeholder": "Search for football club logos...",
-  "search.tips": "For example: Facebook, Tesla or Coca Cola"
+  "search.tips": "For example: Facebook, Tesla or Coca Cola",
+
+  "footer.copyright": "COPYRIGHT © {1}, ALL CONTENT LICENSED UNDER {2}"
 
 }
