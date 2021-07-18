@@ -1,0 +1,148 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+size-card = 300px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.cards-wrapper
+  flex 1 auto
+  display flex
+  flex-flow column wrap
+  justify-content flex-start
+  align-items flex-start
+  margin-bottom 40px
+
+.cards-header
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+  width 100%
+  height header-height
+  line-height header-height
+
+.cards-title
+  flex 1 auto
+  font-size 16px
+  font-weight 600
+  text-transform uppercase
+  color var(--text-color-secondary)
+  margin 0
+  padding 0
+
+.more-link
+  flex 0 auto
+  text-transform uppercase
+  font-weight 600
+  height size-large
+  line-height size-large
+  border none
+  padding 0 size-small
+  color var(--btn-color-primary)
+  display inline-flex
+  align-items center
+  border-radius 3px
+  &:hover
+    border none
+    color var(--btn-color-primary)
+    background rgba(74, 210, 149, 0.2)
+
+.arrow-icon
+  width size-normal
+  height size-normal
+  margin-left size-mini
+  polyline, line
+    stroke var(--btn-color-primary) !important
+
+.cards-container
+  display flex
+  flex-flow row wrap
+  justify-content center
+  box-pack center
+  width calc(100% + 30px)
+  margin-left -15px
+  overflow hidden
+
+.logo-card
+  min-width size-card
+  padding 15px
+  flex 1
+
+.card-inner
+  position relative
+
+.card-link
+  border-radius size-mini
+  border 1px solid var(--border-color-primary)
+  position relative
+  overflow hidden
+  background-color var(--bg-color-tertiary)
+  display flex
+  flex-flow row wrap
+  font-weight 500
+  color var(--text-color-primary)
+  &:hover
+    border-color var(--border-color-secondary)
+    color var(--text-color-primary)
+    transform translateY(-6px)
+    transition transform 0.3s
+
+.logo-image
+  margin 15% 20%
+
+.logo-image > div
+  margin 0 auto
+
+.logo-image img
+  margin 0 auto
+
+.card-footer
+  width 100%
+  height header-height
+  display flex
+  flex-flow row nowrap
+  justify-content space-between
+  align-content center
+  align-items flex-start
+  padding 0 size-normal
+  border-top 1px solid var(--border-color-primary)
+
+.logo-name
+  margin 0
+  padding 0
+  flex 1 auto
+  line-height header-height
+  font-size 14px
+  font-weight 500
+
+.format-list
+  flex 0 auto
+  list-style none
+  margin 0
+  padding 0
+  display flex
+  flex-flow row nowrap
+  align-content center
+  align-items center
+
+.format-item
+  font-size 12px
+  line-height 20px
+  height 20px
+  margin 20px 0
+  padding 0 3px
+  border-radius 3px
+  background-color var(--btn-color-primary)
+  color var(--header-text-color)
+  &:first-child
+    margin-right 5px
+
+.nothing-text
+  // font-size 16px
+  font-weight 600
+  text-align center
+  color var(--text-color-secondary)

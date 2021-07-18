@@ -1,0 +1,281 @@
+# Associations
+- logoPath: 'assns/cfa.png'
+  uniqueID: cfa-assn-001
+  slug: cfa-cassn-cfa
+  type: assn
+  fullName: CFA
+  shortName: CFA
+  loaclName: 中国足球协会
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+# Competition
+- logoPath: 'comps/cfacup.png'
+  uniqueID: cfa-comp-001
+  slug: cfa-comp-cfacup
+  type: comp
+  fullName: CFA CUP
+  shortName: CFA CUP
+  loaclName: 中国足球协会杯
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'comps/csl.png'
+  uniqueID: cfa-comp-002
+  slug: cfa-comp-csl
+  type: comp
+  fullName: CFA Super League
+  shortName: CFA CSL
+  loaclName: 中国足球协会超级联赛
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'comps/cl1.png'
+  uniqueID: cfa-comp-003
+  slug: cfa-comp-cl1
+  type: comp
+  fullName: CFA League 1
+  shortName: CFA League 1
+  loaclName: 中国足球协会甲级联赛
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'comps/cl2.png'
+  uniqueID: cfa-comp-004
+  slug: cfa-comp-cl2
+  type: comp
+  fullName: CFA League 2
+  shortName: CFA League 2
+  loaclName: 中国足球协会乙级联赛
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'comps/cmcl.png'
+  uniqueID: cfa-comp-005
+  slug: cfa-comp-cmcl
+  type: comp
+  fullName: CFA Champion League
+  shortName: CMCL
+  loaclName: 中国足球协会冠军联赛
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'comps/supercup.png'
+  uniqueID: cfa-comp-006
+  slug: cfa-comp-supercup
+  type: comp
+  fullName: CFA Super Cup
+  shortName: CFA Super Cup
+  loaclName: 中国足球协会超级杯
+  association: CFA
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+# Clubs
+- logoPath: 'clubs/bjga.png'
+  uniqueID: cfa-club-001
+  slug: cfa-bjga
+  type: club
+  fullName: Beijing Guoan Football Club
+  shortName: Beijing Guoan
+  loaclName: 北京国安足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/cdrc.png'
+  uniqueID: cfa-club-002
+  slug: cfa-cdrc
+  type: club
+  fullName: Chengdu Rongcheng Football Club
+  shortName: Chengdu Rongcheng
+  loaclName: 成都蓉城足球俱乐部
+  association: CFA
+  comps:
+    - 'cl1'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/gzc.png'
+  uniqueID: cfa-club-003
+  slug: cfa-gzc
+  type: club
+  fullName: Guangzhou City Football Club
+  shortName: Guangzhou City
+  loaclName: 广州城足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/gzfc.png'
+  uniqueID: cfa-club-004
+  slug: cfa-gzfc
+  type: club
+  fullName: Guangzhou Football Club
+  shortName: Guangzhou FC
+  loaclName: 广州足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/ksfc.png'
+  uniqueID: cfa-club-005
+  slug: cfa-ksfc
+  type: club
+  fullName: KunShan Football Club
+  shortName: KunShan FC
+  loaclName: 昆山足球俱乐部
+  association: CFA
+  comps:
+    - 'cl1'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/qdfc.png'
+  uniqueID: cfa-club-006
+  slug: cfa-qdfc
+  type: club
+  fullName: Qingdao Football Club
+  shortName: Qingdao FC
+  loaclName: 青岛足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/qdhn.png'
+  uniqueID: cfa-club-007
+  slug: cfa-qdhn
+  type: club
+  fullName: Qingdao Hainiu Football Club
+  shortName: Qingdao Hainiu
+  loaclName: 青岛海牛足球俱乐部
+  association: CFA
+  comps:
+    - 'cl2'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/scjn.png'
+  uniqueID: cfa-club-008
+  slug: cfa-scjn
+  type: club
+  fullName: Sichuang Jiuniu Football Club
+  shortName: Sichuang Jiuniu
+  loaclName: 四川九牛足球俱乐部
+  association: CFA
+  comps:
+    - 'cl1'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/sdts.png'
+  uniqueID: cfa-club-009
+  slug: cfa-sdts
+  type: club
+  fullName: Shandong Taishan Football Club
+  shortName: Shandong Taishan
+  loaclName: 山东泰山足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/shsh.png'
+  uniqueID: cfa-club-010
+  slug: cfa-shsh
+  type: club
+  fullName: Shanghai Shenhua Football Club
+  shortName: Shanghai Shenhua
+  loaclName: 上海申花足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/szfc.png'
+  uniqueID: cfa-club-011
+  slug: cfa-szfc
+  type: club
+  fullName: Shenzhen Football Club
+  shortName: Shenzhen FC
+  loaclName: 深圳足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/tjtd.png'
+  uniqueID: cfa-club-012
+  slug: cfa-tjtd
+  type: club
+  fullName: Tianjin Teda Football Club
+  shortName: Tianjin Teda
+  loaclName: 天津泰达足球俱乐部
+  association: CFA
+  comps:
+    - 'csl'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- logoPath: 'clubs/zjlc.png'
+  uniqueID: cfa-club-013
+  slug: cfa-zjlc
+  type: club
+  fullName: Zhejiang Greendown Football Club
+  shortName: Zhejiang Greendown
+  loaclName: 浙江绿城足球俱乐部
+  association: CFA
+  comps:
+    - 'cl1'
+    - 'cfacup'
+  fileFormat:
+    - 'png'
+    - 'svg'

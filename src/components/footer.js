@@ -61,6 +61,7 @@ const Footer = () => {
             <ListLink to="/">About</ListLink>
             <ListLink to="/">Contact</ListLink>
             <ListLink to="/">Terms of Use</ListLink>
+            <ListLink to="/">What’s new</ListLink>
           </ul>
         </div>
         <div className={logoNumbers}>

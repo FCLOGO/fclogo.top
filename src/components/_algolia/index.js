@@ -12,7 +12,6 @@ const AlgoliaSearch = () => {
   const indices = process.env.GATSBY_ALGOLIA_INDEX_NAME
   const [query, setQuery] = useState()
   const [hasFocus, setFocus] = useState(false)
-  console.log(hasFocus)
   return (
     <InstantSearch
       searchClient={searchClient}

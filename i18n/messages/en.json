@@ -11,6 +11,10 @@
   "search.placeholder": "Search for football club logos...",
   "search.tips": "For example: Facebook, Tesla or Coca Cola",
 
+  "index.cardTitle": "Recently Updated",
+  "index.noLogo": "Recently Updated",
+  "index.viewMore": "View More",
+
   "footer.copyright": "COPYRIGHT © {1}, ALL CONTENT LICENSED UNDER {2}"
 
 }

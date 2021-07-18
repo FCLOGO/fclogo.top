@@ -13,16 +13,15 @@ import {
   searchTips
 } from './hero.module.styl'
 
-const Hero = () => {
+const Hero = ({ totalCount }) => {
   const intl = useIntl()
-  const totalNum = 985621
   return (
     <div className={heroWrapper}>
       <div className={heroContent}>
         <h1 className={heroTitle}>
           {intl.formatMessage(
             { id: `hero.title` },
-            { s: <span className={logoNum}>{totalNum}</span> }
+            { s: <span className={logoNum}>{totalCount}</span> }
           )}
         </h1>
         <p className={heroSubtitle}>{intl.formatMessage({ id: `hero.subtitle` })}</p>

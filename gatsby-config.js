@@ -19,8 +19,16 @@ module.exports = {
     `gatsby-plugin-stylus`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-dark-mode`,
-    `gatsby-plugin-sharp`,
+    `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          formats: [`auto`, `webp`, `avif`]
+        }
+      }
+    },
     {
       resolve: 'gatsby-plugin-react-svg',
       options: {
