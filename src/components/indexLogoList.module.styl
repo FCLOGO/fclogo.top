@@ -30,7 +30,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   font-size 16px
   font-weight 600
   text-transform uppercase
-  color var(--text-color-secondary)
+  color var(--text-color-primary)
   margin 0
   padding 0
 
@@ -49,7 +49,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   &:hover
     border none
     color var(--btn-color-primary)
-    background rgba(74, 210, 149, 0.2)
+    background var(--btn-bg-hover)
 
 .arrow-icon
   width size-normal
@@ -77,16 +77,16 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .card-link
   border-radius size-mini
-  border 1px solid var(--border-color-primary)
+  border 1px solid var(--logo-card-border)
   position relative
   overflow hidden
-  background-color var(--bg-color-tertiary)
+  background-color var(--logo-card-bg)
   display flex
   flex-flow row wrap
   font-weight 500
   color var(--text-color-primary)
   &:hover
-    border-color var(--border-color-secondary)
+    border-color var(--logo-card-border-hover)
     color var(--text-color-primary)
 
 .logo-image
@@ -107,7 +107,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   align-content center
   align-items flex-start
   padding 0 size-normal
-  border-top 1px solid var(--border-color-primary)
+  border-top 1px solid var(--logo-card-border)
 
 .logo-name
   margin 0
@@ -136,11 +136,12 @@ mq-tablet = 'screen and (max-width: 992px)'
   border-radius 3px
   background-color var(--btn-color-primary)
   color var(--header-text-color)
+  text-transform uppercase
   &:first-child
     margin-right 5px
 
 .nothing-text
-  // font-size 16px
+  font-size 14px
   font-weight 600
   text-align center
   color var(--text-color-secondary)

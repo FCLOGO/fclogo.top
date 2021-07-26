@@ -38,7 +38,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   display inline-flex !important
   align-items center
   justify-content space-between
-  font-weight 500
+  font-weight 600
   min-width size-large
   height size-large
   vertical-align middle
@@ -70,7 +70,7 @@ mq-tablet = 'screen and (max-width: 992px)'
     display inline
     flex 1 auto
     text-transform capitalize
-    font-weight 700
+    font-weight 600
 
 .caret-down-icon
   display none
@@ -85,7 +85,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   ul
     text-align left
     position absolute
-    background-color var(--bg-color-primary)
+    background-color var(--menu-bg-primary)
     overflow-x hidden
     overflow-y scroll
     padding 0
@@ -106,13 +106,13 @@ mq-tablet = 'screen and (max-width: 992px)'
         display block
         border none
         &:hover
-          background-color var(--border-color-primary)
+          background-color var(--menu-bg-hover)
           color var(--text-color-primary)
       [aria-current]
-        font-weight 700
+        font-weight 600
     @media mq-tablet
       position relative
-      background-color var(--bg-color-tertiary)
+      background-color var(--menu-bg-secondary)
       animation none
       border-radius 3px
       border none
@@ -120,7 +120,7 @@ mq-tablet = 'screen and (max-width: 992px)'
         height 50px
         line-height 50px
         &:hover
-          background-color rgba(0, 0, 0, 0.1)
+          background-color var(--menu-bg-hover)
 
 .show-menu
   display block
@@ -196,12 +196,12 @@ mq-tablet = 'screen and (max-width: 992px)'
     flex 1 auto
     display inline
     text-transform capitalize
-    font-weight 700
+    font-weight 600
     text-align center
     line-height 50px
     cursor pointer
     height 50px
-    background-color var(--bg-color-tertiary)
+    background-color var(--menu-bg-secondary)
     padding 0
     margin 0
 
@@ -249,7 +249,7 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .donate-text
   text-transform uppercase
-  font-weight 700
+  font-weight 600
   margin-left 3px
 
 .donate-icon
