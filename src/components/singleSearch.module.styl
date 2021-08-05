@@ -1,0 +1,58 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.search-wrapper
+  position fixed
+  top 60px
+  width 100%
+  text-align center
+  background-color var(--search-bg-color)
+  color var(--header-text-color)
+  padding size-small size-normal
+  z-index 14
+  border-bottom 1px solid var(--border-color-primary)
+
+.search-inner
+  position relative
+  height 50px
+  line-height 50px
+
+.search-inner form, .search-inner input, .search-inner button, .search-inner svg
+  height 50px
+  line-height 50px
+
+.search-inner svg
+  width 50px
+  background none
+  fill var(--text-color-primary)
+  &:hover
+    background none
+
+.search-inner button[type = reset]
+  width 50px
+  padding 0
+  svg
+    height 50px
+    width 50px
+    padding 15px
+
+.search-inner form
+  background-color var(--single-search-form)
+
+.search-inner > div
+  background-color var(--single-search-form)
+  top 50px
+  border-radius 0 0 5px 5px
+  border-top 1px solid var(--border-color-secondary)
+
+.show-result
+  display block
+
+.show-result ~ form
+  border-radius 5px 5px 0 0

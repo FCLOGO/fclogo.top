@@ -3,7 +3,7 @@ const path = require(`path`)
 exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
   const { createNodeField } = actions
 
-  if (node.internal.type === 'Logo') {
+  if (node.internal.type === 'logo') {
     const i18nNodes = getNodesByType(`SiteI18n`)
     const defaultLang = i18nNodes[0].defaultLang
 
@@ -15,4 +15,93 @@ exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
     createNodeField({ node, name: `locale`, value: lang })
     createNodeField({ node, name: `isDefault`, value: isDefault })
   }
+}
+
+exports.createPages = async ({ graphql, actions }) => {
+  const { createPage } = actions
+  const result = await graphql(`
+    query {
+      allLogo {
+        edges {
+          node {
+            slug
+          }
+        }
+      }
+    }
+  `)
+  result.data.allLogo.edges.forEach(({ node }) => {
+    createPage({
+      path: node.slug,
+      component: path.resolve(`./src/templates/logoDetail.js`),
+      context: {
+        slug: node.slug
+      }
+    })
+  })
+}
+
+exports.createResolvers = ({ createResolvers }) => {
+  const resolvers = {
+    logo: {
+      styleMode: {
+        type: ['logo'],
+        resolve: (source, args, context, info) => {
+          return context.nodeModel.runQuery({
+            query: {
+              filter: {
+                id: {
+                  ne: source.id
+                },
+                sourceID: {
+                  eq: source.sourceID
+                },
+                version: {
+                  eq: source.version
+                }
+              }
+            },
+            type: 'logo'
+          })
+        }
+      },
+      logoHistory: {
+        type: ['logo'],
+        resolve: (source, args, context, info) => {
+          return context.nodeModel.runQuery({
+            query: {
+              filter: {
+                id: {
+                  ne: source.id
+                },
+                sourceID: {
+                  eq: source.sourceID
+                },
+                style: {
+                  eq: 'color'
+                }
+              }
+            },
+            type: 'logo'
+          })
+        }
+      },
+      detailInfo: {
+        type: [`sourceInfo`],
+        resolve: (source, args, context, info) => {
+          return context.nodeModel.runQuery({
+            query: {
+              filter: {
+                sourceID: {
+                  eq: source.sourceID
+                }
+              }
+            },
+            type: `sourceInfo`
+          })
+        }
+      }
+    }
+  }
+  createResolvers(resolvers)
 }

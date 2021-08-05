@@ -10,10 +10,11 @@ import {
   heroSubtitle,
   logoNum,
   algWrapper,
+  showResult,
   searchTips
-} from './hero.module.styl'
+} from './indexHero.module.styl'
 
-const Hero = ({ totalCount }) => {
+const IndexHero = ({ totalCount }) => {
   const intl = useIntl()
   return (
     <div className={heroWrapper}>
@@ -26,7 +27,7 @@ const Hero = ({ totalCount }) => {
         </h1>
         <p className={heroSubtitle}>{intl.formatMessage({ id: `hero.subtitle` })}</p>
         <section className={algWrapper}>
-          <AlgoliaSearch />
+          <AlgoliaSearch showClass={showResult} />
           <p className={searchTips}>{intl.formatMessage({ id: `search.tips` })}</p>
         </section>
       </div>
@@ -34,4 +35,4 @@ const Hero = ({ totalCount }) => {
   )
 }
 
-export default Hero
+export default IndexHero

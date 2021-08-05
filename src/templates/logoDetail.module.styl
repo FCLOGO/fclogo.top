@@ -1,0 +1,101 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.main-content
+  width 100%
+  margin 0 auto
+  flex 1 auto
+  display flex
+  flex-flow column wrap
+  align-items flex-start
+  padding-top 110px
+
+.detail-wrapper
+  width 100%
+  flex 1 auto
+  display flex
+  flex-wrap wrap
+  align-items flex-start
+  border-bottom 1px solid var(--border-color-primary)
+
+.logo-holder
+  flex 1
+  align-self stretch
+  display block
+  background-color var(--logo-holder-bg)
+
+.holder-inner
+  width 100%
+  height 100%
+  flex-flow column wrap
+  justify-content center
+  display flex
+  align-items flex-start
+  padding size-large
+
+.image-holder
+  flex 1
+  display flex
+  flex-wrap wrap
+  width 100%
+  justify-content center
+  align-items center
+
+.logo-image
+  margin 0 auto
+
+.logo-styles
+  height 80px
+  width 100%
+  margin size-normal 0
+
+.style-list
+  padding 0
+  margin 0
+  height 80px
+  display flex
+  flex-flow row nowrap
+  align-items flex-start
+  justify-content center
+
+.style-item
+  width 80px
+  height 80px
+  list-style none
+  border-radius 3px
+  border 1px solid var(--style-list-border)
+  margin-right size-mini
+  &:last-child
+    margin-right 0
+
+.current
+  cursor pointer
+  border 1px solid var(--style-list-border)
+  border-bottom 3px solid var(--btn-color-primary)
+  background-color var(--img-bg-hover)
+
+.style-image
+  width 50px !important
+  height 50px !important
+  margin 15px
+
+.style-link
+  display inline-block
+  width 100%
+  height 100%
+  border none
+  transition none
+  &:hover
+    border none
+    background-color var(--img-bg-hover)
+
+.history-wrapper
+  width 100%
+  margin size-normal 0
+  display block

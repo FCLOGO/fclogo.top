@@ -15,6 +15,17 @@
   "index.noLogo": "Recently Updated",
   "index.viewMore": "View More",
 
+  "sidebar.fileType": "Vector in .SVG format",
+  "sidebar.howToEdit": "How to Edit?",
+  "sidebar.termTitle": "Terms of Use",
+  "sidebar.termText": "By downloading {s} vector logo you agree with our terms of use.",
+  "sidebar.termMore": "More Info",
+  "sidebar.infoTitle": " Information",
+  "sidebar.foundErr": "Found an Error?",
+  "sidebar.tellMe": "Tell Me",
+
+  "detail.historyTitle": "Logo History",
+
   "footer.copyright": "COPYRIGHT © {1}, ALL CONTENT LICENSED UNDER {2}"
 
 }

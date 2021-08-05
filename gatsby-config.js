@@ -49,7 +49,7 @@ module.exports = {
     {
       resolve: `gatsby-transformer-yaml`,
       options: {
-        typeName: `Logo`
+        typeName: ({ node, object, isArray }) => object.data
       }
     },
     {

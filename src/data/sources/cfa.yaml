@@ -1,0 +1,48 @@
+- data: sourceInfo
+  sourceID: cfa-club-009
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Shandong Taishan Football Club'
+      localName:
+        - 'Local Name'
+        - '山东泰山足球俱乐部'
+      city:
+        - 'City'
+        - 'Jinan, China'
+      founded:
+        - 'Founded'
+        - '1993'
+      ground:
+        - 'Ground'
+        - 'Jinan Olympic Sports Center Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/1911180293'
+  websiteURL: 'http://www.lnts.com.cn'
+
+- data: sourceInfo
+  sourceID: cfa-club-010
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Shandong Taishan Football Club'
+      localName:
+        - 'Local Name'
+        - '山东泰山足球俱乐部'
+      city:
+        - 'City'
+        - 'Jinan, China'
+      founded:
+        - 'Founded'
+        - '1993'
+      ground:
+        - 'Ground'
+        - 'Jinan Olympic Sports Center Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  websiteURL: 'http://www.lnts.com.cn'
+  weiboURL: 'http://www.lnts.com.cn'
+  twitterURL: 'http://www.lnts.com.cn'

@@ -9,11 +9,11 @@ import {
   PoweredBy
 } from 'react-instantsearch-dom'
 
-import { searchResultWrapper, showResult } from './searchResult.module.styl'
+import { searchResultWrapper } from './searchResult.module.styl'
 
-const SearchResult = ({ isShow }) => {
+const SearchResult = ({ isShow, showClass }) => {
   return (
-    <div className={`${searchResultWrapper} ${isShow ? `${showResult}` : ``}`}>
+    <div className={`${searchResultWrapper} ${isShow ? `${showClass}` : ``}`}>
       <p>Search Results</p>
       <Hits />
     </div>

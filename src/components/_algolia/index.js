@@ -4,7 +4,7 @@ import { InstantSearch } from 'react-instantsearch-dom'
 import SearchBox from './searchBox'
 import SearchResult from './searchResult'
 
-const AlgoliaSearch = () => {
+const AlgoliaSearch = ({ showClass }) => {
   const searchClient = useMemo(
     () => algoliasearch(process.env.GATSBY_ALGOLIA_APP_ID, process.env.GATSBY_ALGOLIA_SEARCH_KEY),
     []
@@ -18,12 +18,12 @@ const AlgoliaSearch = () => {
       indexName={indices}
       onSearchStateChange={({ query }) => setQuery(query)}
     >
+      <SearchResult isShow={query && query.length > 0 && hasFocus} showClass={showClass} />
       <SearchBox
         onFocus={() => setFocus(true)}
         hasFocus={hasFocus}
         onBlur={() => setFocus(false)}
       />
-      <SearchResult isShow={query && query.length > 0 && hasFocus} />
     </InstantSearch>
   )
 }

@@ -1,0 +1,162 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.detail-sidebar
+  width 460px
+  align-self stretch
+  position relative
+  flex 0 auto
+  z-index 2
+  border-left 1px solid var(--border-color-primary)
+  display block
+  padding-top size-large
+
+.google-ads
+  padding size-large
+  border-bottom 1px solid var(--border-color-primary)
+
+.detail-header
+  padding size-small size-large
+
+.logo-title
+  font-size 16px
+  text-transform capitalize
+
+.detail-download
+  padding 0 size-large
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+
+.png-button, .svg-button
+  background-color var(--btn-color-primary)
+  color var(--btn-text-color)
+  border none
+  border-radius 3px
+  cursor pointer
+  font-size 16px
+  line-height 1
+  text-transform uppercase
+  font-weight 600
+  width 190px
+  height 50px
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+  svg
+    height 50px
+    width 50px
+    padding 12px
+    flex none
+    border-radius 0 3px 3px 0
+    border-left 1px solid var(--btn-border-color)
+    background-color var(--btn-color-secondary)
+    polyline, line, path
+      stroke var(--btn-text-color)
+  span
+    flex 1 auto
+    text-align center
+
+.png-button, .svg-button
+  &:hover
+    border none
+    color var(--btn-text-color)
+    background-color var(--btn-color-secondary)
+
+.detail-license
+  padding size-small size-large
+  display flex
+  flex-flow column wrap
+
+.file-type
+  display block
+  h6
+    display flex
+    flex-flow row nowrap
+    align-items center
+    font-size 12px
+    line-height 12px
+    font-weight 600
+    a
+      margin-left size-small
+
+.vector-icon
+  width size-normal
+  height size-normal
+  margin-right size-mini
+  path, rect
+    stroke var(--text-color-primary)
+
+.use-terms
+  display block
+  margin-top size-small
+  p
+    text-align left
+    font-size 12px
+    margin-bottom size-small
+
+.term-title, .info-title
+  font-weight 600
+  margin-bottom size-mini
+  margin-top size-small
+
+.detail-info
+  padding size-small size-large
+  border-top 1px solid var(--border-color-primary)
+
+.info-table
+  margin-bottom size-small
+
+.info-table tr
+  border none
+
+.info-links
+  display flex
+  flex-flow row nowrap
+  align-items center
+
+.info-links a
+  display inline-block
+  width 40px
+  height 40px
+  padding 10px
+  border none
+  transform none
+  border-radius 3px
+  // margin-right size-mini
+  &:hover
+    background-color var(--social-icon-hover)
+
+.info-links svg
+  width size-normal
+  height size-normal
+  fill var(--social-icon-color)
+
+.err-notes
+  display block
+  padding size-normal size-large
+  border-top 1px solid var(--border-color-primary)
+  h6
+    display flex
+    flex-flow row nowrap
+    align-items center
+    font-size 12px
+    line-height 12px
+    font-weight 600
+    a
+      margin-left size-small
+
+.bug-icon
+  width size-normal
+  height size-normal
+  margin-right size-mini
+  path, line
+    stroke var(--text-color-primary) !important

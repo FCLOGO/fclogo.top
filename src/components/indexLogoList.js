@@ -39,9 +39,9 @@ const LogoList = ({ data }) => {
           data.allLogo.nodes.map(node => (
             <article key={node.uniqueID} className={logoCard}>
               <div className={cardInner}>
-                <LocalizedLink className={cardLink} to="/">
+                <LocalizedLink className={cardLink} to={node.slug}>
                   <GatsbyImage
-                    image={getImage(node.logoPath)}
+                    image={getImage(node.pngPath)}
                     alt={node.fullName}
                     className={logoImage}
                   />

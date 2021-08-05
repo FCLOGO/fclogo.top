@@ -4,24 +4,20 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import Header from '../components/header'
-import Hero from '../components/hero'
+import Hero from '../components/indexHero'
 import LogoList from '../components/indexLogoList'
-import Footer from '../components/footer'
 
-import { container } from './index.module.styl'
+import { mainContent } from './index.module.styl'
 
 const IndexPage = ({ data, pageContext }) => {
   const intl = useIntl()
   return (
-    <Layout>
+    <Layout pageContext={pageContext}>
       <Seo title={intl.formatMessage({ id: 'home.title' })} />
-      <Header pageContext={pageContext} />
       <Hero totalCount={data.allLogo.totalCount} />
-      <div className={container}>
+      <div className={mainContent}>
         <LogoList data={data} />
       </div>
-      <Footer />
     </Layout>
   )
 }
@@ -30,14 +26,17 @@ export default IndexPage
 
 export const query = graphql`
   query ($locale: String!) {
-    allLogo(limit: 12, filter: { fields: { locale: { eq: $locale } } }) {
+    allLogo(
+      sort: { order: DESC, fields: pngPath___birthTime }
+      limit: 12
+      filter: { fields: { locale: { eq: $locale } } }
+    ) {
       nodes {
-        logoPath {
+        pngPath {
           childImageSharp {
-            gatsbyImageData(width: 500, placeholder: BLURRED)
+            gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP)
           }
         }
-        uniqueID
         fullName
         shortName
         fileFormat
