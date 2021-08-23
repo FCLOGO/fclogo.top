@@ -23,6 +23,8 @@ mq-tablet = 'screen and (max-width: 992px)'
   flex-wrap wrap
   align-items flex-start
   border-bottom 1px solid var(--border-color-primary)
+  @media mq-tablet
+    flex-direction column
 
 .logo-holder
   flex 1
@@ -95,7 +97,52 @@ mq-tablet = 'screen and (max-width: 992px)'
     border none
     background-color var(--img-bg-hover)
 
-.history-wrapper
+.detail-nav
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
   width 100%
+  padding size-large size-normal
   margin size-normal 0
-  display block
+  border-top 1px solid var(--border-color-primary)
+
+.link-wrapper
+  flex 0 auto
+  width 50px
+  height 50px
+
+.previous-link, .next-link
+  height 50px
+  width 50px
+  line-height 50px
+  border none
+  padding 15px
+  color var(--text-color-primary)
+  display inline-flex
+  align-items center
+  border-radius 3px
+  &:hover
+    border none
+    color var(--text-color-primary)
+    background var(--btn-bg-hover)
+
+.arrow-icon
+  width size-normal
+  height size-normal
+  polyline, line
+    stroke var(--text-color-primary) !important
+
+.previous-link svg
+  transform rotate(180deg)
+
+.notrans-wrapper
+  width 100%
+  margin-top 100px
+  padding size-normal
+
+.notrans-text
+  text-align center
+  font-size 16px
+  font-weight 600
+  color var(--text-color-secondary)

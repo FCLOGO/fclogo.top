@@ -15,12 +15,17 @@
   "index.noLogo": "Recently Updated",
   "index.viewMore": "View More",
 
+  "sidebar.logoVer": "ver.",
   "sidebar.fileType": "Vector in .SVG format",
   "sidebar.howToEdit": "How to Edit?",
   "sidebar.termTitle": "Terms of Use",
   "sidebar.termText": "By downloading {s} vector logo you agree with our terms of use.",
   "sidebar.termMore": "More Info",
   "sidebar.infoTitle": " Information",
+  "sidebar.website": "Official website",
+  "sidebar.weibo": "Official Weibo",
+  "sidebar.twitter": "Official Twitter",
+  "sidebar.wiki": "WikiPedia",
   "sidebar.foundErr": "Found an Error?",
   "sidebar.tellMe": "Tell Me",
 

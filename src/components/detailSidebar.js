@@ -7,12 +7,14 @@ import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
 import TwitterIcon from '../../static/assets/icons/twitter.inline.svg'
+import WikiIcon from '../../static/assets/icons/wiki.inline.svg'
 import BugIcon from '../../static/assets/icons/bug.inline.svg'
 
 import {
   detailSidebar,
   googleAds,
   detailHeader,
+  logoVersion,
   logoTitle,
   detailDownload,
   pngButton,
@@ -56,6 +58,9 @@ const DetailSidebar = props => {
     <aside className={detailSidebar}>
       <div className={googleAds}>Google Adsense</div>
       <div className={detailHeader}>
+        <span className={logoVersion}>
+          {intl.formatMessage({ id: 'sidebar.logoVer' })} {props.version}
+        </span>
         <h1 className={logoTitle}>{props.fullName}</h1>
       </div>
       <div className={detailDownload}>
@@ -94,22 +99,45 @@ const DetailSidebar = props => {
         <InfoTable info={props.tableInfo} />
         <div className={infoLinks}>
           {props.websiteURL ? (
-            <a href={props.websiteURL} target="_blank">
+            <a
+              href={props.websiteURL}
+              target="_blank"
+              title={intl.formatMessage({ id: 'sidebar.website' })}
+            >
               <WebsiteIcon />
             </a>
           ) : (
             ''
           )}
           {props.weiboURL ? (
-            <a href={props.weiboURL} target="_blank">
+            <a
+              href={props.weiboURL}
+              target="_blank"
+              title={intl.formatMessage({ id: 'sidebar.weibo' })}
+            >
               <WeiboIcon />
             </a>
           ) : (
             ''
           )}
           {props.twitterURL ? (
-            <a href={props.twitterURL} target="_blank">
+            <a
+              href={props.twitterURL}
+              target="_blank"
+              title={intl.formatMessage({ id: 'sidebar.twitter' })}
+            >
               <TwitterIcon />
+            </a>
+          ) : (
+            ''
+          )}
+          {props.wikiURL ? (
+            <a
+              href={props.wikiURL}
+              target="_blank"
+              title={intl.formatMessage({ id: 'sidebar.wiki' })}
+            >
+              <WikiIcon />
             </a>
           ) : (
             ''

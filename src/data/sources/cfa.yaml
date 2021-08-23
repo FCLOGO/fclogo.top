@@ -1,9 +1,13 @@
 - data: sourceInfo
   sourceID: cfa-club-009
+  type: Club
   info:
     - fullName:
         - 'Full Name'
         - 'Shandong Taishan Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Shandong Taishan'
       localName:
         - 'Local Name'
         - '山东泰山足球俱乐部'
@@ -21,19 +25,24 @@
         - 'Chinese Super League'
   weiboURL: 'https://weibo.com/u/1911180293'
   websiteURL: 'http://www.lnts.com.cn'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shandong_Taishan_F.C.'
 
 - data: sourceInfo
   sourceID: cfa-club-010
+  type: Club
   info:
     - fullName:
         - 'Full Name'
-        - 'Shandong Taishan Football Club'
+        - 'Shanghai Shenhua Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Shanghai Shenhua'
       localName:
         - 'Local Name'
-        - '山东泰山足球俱乐部'
+        - '上海申花足球俱乐部'
       city:
         - 'City'
-        - 'Jinan, China'
+        - 'Shanghai, China'
       founded:
         - 'Founded'
         - '1993'

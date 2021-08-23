@@ -14,13 +14,12 @@ import {
   footerLogo,
   logoIcon,
   footerContent,
+  socialLink,
   socialIcons,
   footerMenu,
-  menuTitle,
   menuList,
   menuListItem,
   menuLink,
-  logoNumbers,
   copyright
 } from './footer.module.styl'
 
@@ -34,46 +33,35 @@ const ListLink = props => (
 
 const Footer = () => {
   const intl = useIntl()
-  const logoNum = 4567
-  const compNum = 38
-  const nationNum = 2
   return (
     <footer className={footerWrapper}>
       <section className={footerLogo}>
-        <LogoIcon className={logoIcon} />
+        <LocalizedLink to="/">
+          <LogoIcon className={logoIcon} />
+        </LocalizedLink>
       </section>
       <section className={footerContent}>
         <div className={socialIcons}>
-          <GithubIcon />
-          <TwitterIcon />
-          <WeiboIcon />
-          <RssIcon />
+          <a href="https://github.com/FCLOGO" target="_blank" className={socialLink}>
+            <GithubIcon />
+          </a>
+          <a href="https://twitter.com/fclogotop" target="_blank" className={socialLink}>
+            <TwitterIcon />
+          </a>
+          <a herf="https://weibo.com/7578670869" target="_blank" className={socialLink}>
+            <WeiboIcon />
+          </a>
+          <a href="/" target="_blank" className={socialLink}>
+            <RssIcon />
+          </a>
         </div>
         <div className={footerMenu}>
-          <h3 className={menuTitle}>
-            <label htmlFor="footer-menu">
-              About
-              <CaretIcon />
-            </label>
-          </h3>
-          <input type="checkbox" id="footer-menu" />
           <ul className={menuList}>
             <ListLink to="/">About</ListLink>
             <ListLink to="/">Contact</ListLink>
             <ListLink to="/">Terms of Use</ListLink>
             <ListLink to="/">What’s new</ListLink>
           </ul>
-        </div>
-        <div className={logoNumbers}>
-          <p>
-            <span>{logoNum}</span>logos
-          </p>
-          <p>
-            <span>{compNum}</span>comps
-          </p>
-          <p>
-            <span>{nationNum}</span>nations
-          </p>
         </div>
       </section>
       <section className={copyright}>

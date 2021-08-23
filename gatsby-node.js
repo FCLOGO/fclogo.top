@@ -26,16 +26,34 @@ exports.createPages = async ({ graphql, actions }) => {
           node {
             slug
           }
+          next {
+            slug
+            detailInfo {
+              info {
+                shortName
+              }
+            }
+          }
+          previous {
+            slug
+            detailInfo {
+              info {
+                shortName
+              }
+            }
+          }
         }
       }
     }
   `)
-  result.data.allLogo.edges.forEach(({ node }) => {
+  result.data.allLogo.edges.forEach(({ node, next, previous }) => {
     createPage({
       path: node.slug,
       component: path.resolve(`./src/templates/logoDetail.js`),
       context: {
-        slug: node.slug
+        slug: node.slug,
+        next,
+        previous
       }
     })
   })

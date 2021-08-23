@@ -32,15 +32,20 @@ export const query = graphql`
       filter: { fields: { locale: { eq: $locale } } }
     ) {
       nodes {
+        id
         pngPath {
           childImageSharp {
             gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP)
           }
         }
-        fullName
-        shortName
         fileFormat
         slug
+        detailInfo {
+          info {
+            fullName
+            shortName
+          }
+        }
       }
       totalCount
     }

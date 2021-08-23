@@ -22,18 +22,27 @@ import {
   current,
   styleImage,
   styleLink,
-  historyWrapper
+  detailNav,
+  linkWrapper,
+  previousLink,
+  nextLink,
+  arrowIcon,
+  notransWrapper,
+  notransText
 } from './logoDetail.module.styl'
+
+import HistoryTimline from '../components/historyTimeline'
+import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 
 const LogoDeatil = ({ data, pageContext }) => {
   const intl = useIntl()
-  const info = data.logo.detailInfo[0].info[0]
+  const { next, previous } = pageContext
   return (
     <Layout pageContext={pageContext}>
       <Search />
       {data.logo ? (
         <>
-          <Seo title={info.fullName[1]} />
+          <Seo title={data.logo.detailInfo[0].info[0].fullName[1]} />
           <div className={mainContent}>
             <section className={detailWrapper}>
               <section className={logoHolder}>
@@ -41,7 +50,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                   <div className={imageHolder}>
                     <GatsbyImage
                       image={getImage(data.logo.pngPath)}
-                      alt={info.fullName[1]}
+                      alt={data.logo.detailInfo[0].info[0].fullName[1]}
                       className={logoImage}
                     />
                   </div>
@@ -51,7 +60,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                         <li className={`${styleItem} ${current}`}>
                           <GatsbyImage
                             image={getImage(data.logo.pngPath)}
-                            alt={info.fullName[1]}
+                            alt={data.logo.detailInfo[0].info[0].fullName[1]}
                             className={styleImage}
                           />
                         </li>
@@ -60,7 +69,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                             <LocalizedLink className={styleLink} to={item.slug}>
                               <GatsbyImage
                                 image={getImage(item.pngPath)}
-                                alt={item.fullName}
+                                alt={item.detailInfo[0].info[0].fullName[1]}
                                 className={styleImage}
                               />
                             </LocalizedLink>
@@ -74,18 +83,38 @@ const LogoDeatil = ({ data, pageContext }) => {
                 </div>
               </section>
               <DetailSidebar
-                fullName={info.fullName[1]}
+                version={data.logo.version}
+                fullName={data.logo.detailInfo[0].info[0].fullName[1]}
                 pngURL={data.logo.pngPath.publicURL}
                 svgURL={data.logo.svgPath.publicURL}
-                type={data.logo.type}
-                tableInfo={info}
+                type={data.logo.detailInfo[0].type}
+                tableInfo={data.logo.detailInfo[0].info[0]}
                 websiteURL={data.logo.detailInfo[0].websiteURL}
                 weiboURL={data.logo.detailInfo[0].weiboURL}
                 twitterURL={data.logo.detailInfo[0].twitterURL}
+                wikiURL={data.logo.detailInfo[0].wikiURL}
               />
             </section>
-            <section className={historyWrapper}>
-              <h3>{intl.formatMessage({ id: 'detail.historyTitle' })}</h3>
+            {data.logo.logoHistory.length ? <HistoryTimline logos={data.logo.logoHistory} /> : ''}
+            <section className={detailNav}>
+              <div className={linkWrapper}>
+                {previous ? (
+                  <LocalizedLink className={previousLink} to={previous.slug}>
+                    <ArrowIcon className={arrowIcon} />
+                  </LocalizedLink>
+                ) : (
+                  ''
+                )}
+              </div>
+              <div className={linkWrapper}>
+                {next ? (
+                  <LocalizedLink className={nextLink} to={next.slug}>
+                    <ArrowIcon className={arrowIcon} />
+                  </LocalizedLink>
+                ) : (
+                  ''
+                )}
+              </div>
             </section>
           </div>
         </>
@@ -93,7 +122,9 @@ const LogoDeatil = ({ data, pageContext }) => {
         <>
           <Seo title={intl.formatMessage({ id: 'detail.notransTitle' })} />
           <div className={mainContent}>
-            <h2>{intl.formatMessage({ id: 'detail.notrans' })}</h2>
+            <section className={notransWrapper}>
+              <p className={notransText}>{intl.formatMessage({ id: 'detail.notrans' })}</p>
+            </section>
           </div>
         </>
       )}
@@ -106,10 +137,8 @@ export default LogoDeatil
 export const query = graphql`
   query ($locale: String!, $slug: String!) {
     logo(fields: { locale: { eq: $locale } }, slug: { eq: $slug }) {
-      fullName
-      shortName
-      localName
-      type
+      id
+      version
       pngPath {
         publicURL
         childImageSharp {
@@ -121,15 +150,20 @@ export const query = graphql`
       }
       styleMode {
         id
-        fullName
         slug
         pngPath {
           childImageSharp {
             gatsbyImageData(placeholder: BLURRED, width: 50, layout: FIXED, formats: WEBP)
           }
         }
+        detailInfo {
+          info {
+            fullName
+          }
+        }
       }
       detailInfo {
+        type
         info {
           fullName
           localName
@@ -141,6 +175,17 @@ export const query = graphql`
         websiteURL
         weiboURL
         twitterURL
+        wikiURL
+      }
+      logoHistory {
+        id
+        version
+        slug
+        pngPath {
+          childImageSharp {
+            gatsbyImageData(placeholder: BLURRED, width: 100, layout: FIXED, formats: WEBP)
+          }
+        }
       }
     }
   }

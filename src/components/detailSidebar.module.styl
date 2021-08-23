@@ -16,17 +16,38 @@ mq-tablet = 'screen and (max-width: 992px)'
   border-left 1px solid var(--border-color-primary)
   display block
   padding-top size-large
+  @media mq-tablet
+    width 100%
 
 .google-ads
   padding size-large
   border-bottom 1px solid var(--border-color-primary)
+  @media mq-tablet
+    display none
 
 .detail-header
-  padding size-small size-large
+  padding size-normal size-large size-small
+  display flex
+  flex-flow column wrap
+  align-content flex-start
+  justify-content center
+  align-items flex-start
+
+.logo-version
+  font-size 12px
+  font-weight 600
+  padding 2px size-mini
+  background-color var(--btn-color-primary)
+  color var(--btn-text-color)
+  border-radius 3px
+  width auto
+  margin-bottom size-mini
 
 .logo-title
   font-size 16px
   text-transform capitalize
+  padding 0
+  margin-top 0
 
 .detail-download
   padding 0 size-large
@@ -34,6 +55,8 @@ mq-tablet = 'screen and (max-width: 992px)'
   flex-flow row nowrap
   align-items center
   justify-content space-between
+  @media mq-tablet
+    justify-content start
 
 .png-button, .svg-button
   background-color var(--btn-color-primary)
@@ -70,6 +93,10 @@ mq-tablet = 'screen and (max-width: 992px)'
     border none
     color var(--btn-text-color)
     background-color var(--btn-color-secondary)
+
+.svg-button
+  @media mq-tablet
+    margin-left size-normal
 
 .detail-license
   padding size-small size-large
@@ -131,7 +158,6 @@ mq-tablet = 'screen and (max-width: 992px)'
   border none
   transform none
   border-radius 3px
-  // margin-right size-mini
   &:hover
     background-color var(--social-icon-hover)
 
@@ -142,7 +168,7 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .err-notes
   display block
-  padding size-normal size-large
+  padding size-large
   border-top 1px solid var(--border-color-primary)
   h6
     display flex
@@ -151,6 +177,7 @@ mq-tablet = 'screen and (max-width: 992px)'
     font-size 12px
     line-height 12px
     font-weight 600
+    margin 0
     a
       margin-left size-small
 

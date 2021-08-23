@@ -37,16 +37,16 @@ const LogoList = ({ data }) => {
       <div className={cardsContainer}>
         {data.allLogo.nodes.length ? (
           data.allLogo.nodes.map(node => (
-            <article key={node.uniqueID} className={logoCard}>
+            <article key={node.id} className={logoCard}>
               <div className={cardInner}>
                 <LocalizedLink className={cardLink} to={node.slug}>
                   <GatsbyImage
                     image={getImage(node.pngPath)}
-                    alt={node.fullName}
+                    alt={node.detailInfo[0].info[0].fullName[1]}
                     className={logoImage}
                   />
                   <footer className={cardFooter}>
-                    <h3 className={logoName}>{node.shortName}</h3>
+                    <h3 className={logoName}>{node.detailInfo[0].info[0].shortName[1]}</h3>
                     <ul className={formatList}>
                       {node.fileFormat.map(item => (
                         <li key={item} className={formatItem}>
