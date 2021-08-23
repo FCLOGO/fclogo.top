@@ -28,19 +28,9 @@ exports.createPages = async ({ graphql, actions }) => {
           }
           next {
             slug
-            detailInfo {
-              info {
-                shortName
-              }
-            }
           }
           previous {
             slug
-            detailInfo {
-              info {
-                shortName
-              }
-            }
           }
         }
       }

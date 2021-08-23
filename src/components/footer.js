@@ -7,7 +7,6 @@ import GithubIcon from '../../static/assets/icons/github.inline.svg'
 import TwitterIcon from '../../static/assets/icons/twitter.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
 import RssIcon from '../../static/assets/icons/rss.inline.svg'
-import CaretIcon from '../../static/assets/icons/caretDown.inline.svg'
 
 import {
   footerWrapper,
