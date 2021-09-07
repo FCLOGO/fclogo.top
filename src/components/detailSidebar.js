@@ -78,7 +78,9 @@ const DetailSidebar = props => {
           <h6>
             <VectorIcon className={vectorIcon} />
             {intl.formatMessage({ id: 'sidebar.fileType' })}
-            <LocalizedLink to="/">{intl.formatMessage({ id: 'sidebar.howToEdit' })}</LocalizedLink>
+            <LocalizedLink to="/support/how-to-edit-vector-file">
+              {intl.formatMessage({ id: 'sidebar.howToEdit' })}
+            </LocalizedLink>
           </h6>
         </div>
         <div className={useTerms}>

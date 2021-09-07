@@ -35,8 +35,9 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .logo-version
   font-size 12px
+  line-height size-normal
   font-weight 600
-  padding 2px size-mini
+  padding 0 size-mini
   background-color var(--btn-color-primary)
   color var(--btn-text-color)
   border-radius 3px
@@ -59,6 +60,7 @@ mq-tablet = 'screen and (max-width: 992px)'
     justify-content start
 
 .png-button, .svg-button
+  padding 0
   background-color var(--btn-color-primary)
   color var(--btn-text-color)
   border none
@@ -80,7 +82,7 @@ mq-tablet = 'screen and (max-width: 992px)'
     padding 12px
     flex none
     border-radius 0 3px 3px 0
-    border-left 1px solid var(--btn-border-color)
+    border-left 1px solid rgba(255, 255, 255, 0.35)
     background-color var(--btn-color-secondary)
     polyline, line, path
       stroke var(--btn-text-color)

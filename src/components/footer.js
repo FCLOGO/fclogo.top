@@ -47,7 +47,7 @@ const Footer = () => {
           <a href="https://twitter.com/fclogotop" target="_blank" className={socialLink}>
             <TwitterIcon />
           </a>
-          <a herf="https://weibo.com/7578670869" target="_blank" className={socialLink}>
+          <a href="https://weibo.com/7578670869" target="_blank" className={socialLink}>
             <WeiboIcon />
           </a>
           <a href="/" target="_blank" className={socialLink}>
@@ -68,12 +68,8 @@ const Footer = () => {
         {intl.formatMessage(
           { id: `footer.copyright` },
           {
-            1: <b>{new Date().getFullYear()}</b>,
-            2: (
-              <a href="https://creativecommons.org/licenses/by/4.0/">
-                <b>CC BY 4.0</b>
-              </a>
-            )
+            1: <span>{new Date().getFullYear()}</span>,
+            2: <b>FCLOGO.TOP</b>
           }
         )}
         {` `}

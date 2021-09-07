@@ -30,7 +30,13 @@
   "sidebar.tellMe": "Tell Me",
 
   "detail.historyTitle": "Logo History",
+  "detail.notransTitle": "This page hasn't been translated yet",
+  "detail.notrans": "This page hasn't been translated yet",
 
-  "footer.copyright": "COPYRIGHT © {1}, ALL CONTENT LICENSED UNDER {2}"
+  "support.back": "Go Back",
+  "support.lastUpdated": "Last Updated: ",
+  "support.toc": "Table of Contents",
+
+  "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved"
 
 }

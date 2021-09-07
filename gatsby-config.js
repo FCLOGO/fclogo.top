@@ -67,6 +67,29 @@ module.exports = {
         indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
         queries: require('./src/components/_algolia/algoliaQueries')
       }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `support`,
+        path: `${__dirname}/src/support/`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        defaultLayouts: {
+          default: require.resolve(`./src/components/layout.js`)
+        },
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: `150`
+            }
+          }
+        ]
+      }
     }
   ]
 }

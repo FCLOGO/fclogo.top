@@ -1,4 +1,5 @@
 const path = require(`path`)
+const { execSync } = require('child_process')
 
 exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
   const { createNodeField } = actions
@@ -15,11 +16,19 @@ exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
     createNodeField({ node, name: `locale`, value: lang })
     createNodeField({ node, name: `isDefault`, value: isDefault })
   }
+
+  if (node.internal.type === 'Mdx') {
+    const gitAuthorTime = execSync(
+      `git log -1 --pretty=format:%ad --date=format:'%Y-%m-%d @%H:%M:%S' ${node.fileAbsolutePath}`
+    ).toString()
+
+    createNodeField({ node, name: `gitAuthorTime`, value: gitAuthorTime })
+  }
 }
 
-exports.createPages = async ({ graphql, actions }) => {
+exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
-  const result = await graphql(`
+  const detail = await graphql(`
     query {
       allLogo {
         edges {
@@ -36,7 +45,31 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `)
-  result.data.allLogo.edges.forEach(({ node, next, previous }) => {
+  const support = await graphql(`
+    {
+      support: allFile(filter: { sourceInstanceName: { eq: "support" } }) {
+        nodes {
+          childMdx {
+            frontmatter {
+              slug
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  if (detail.errors) {
+    reporter.panicOnBuild(detail.errors)
+    return
+  }
+
+  if (support.errors) {
+    reporter.panicOnBuild(support.errors)
+    return
+  }
+
+  detail.data.allLogo.edges.forEach(({ node, next, previous }) => {
     createPage({
       path: node.slug,
       component: path.resolve(`./src/templates/logoDetail.js`),
@@ -44,6 +77,16 @@ exports.createPages = async ({ graphql, actions }) => {
         slug: node.slug,
         next,
         previous
+      }
+    })
+  })
+
+  support.data.support.nodes.forEach(({ childMdx: node }) => {
+    createPage({
+      path: `/support/${node.frontmatter.slug}`,
+      component: path.resolve(`./src/templates/support.js`),
+      context: {
+        slug: node.frontmatter.slug
       }
     })
   })
@@ -79,9 +122,9 @@ exports.createResolvers = ({ createResolvers }) => {
           return context.nodeModel.runQuery({
             query: {
               filter: {
-                id: {
-                  ne: source.id
-                },
+                // version: {
+                //   ne: source.version
+                // },
                 sourceID: {
                   eq: source.sourceID
                 },

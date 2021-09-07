@@ -13,7 +13,9 @@
   "index.noLogo": "努力更新中...过几天再来看看吧！:)",
   "index.viewMore": "查看更多",
 
-    "detail.fileType": "下载",
+  "detail.historyTitle": "队徽历史",
+  "detail.notransTitle": "This page hasn't been translated yet",
+  "detail.notrans": "这个页面还没有翻译哦",
 
   "footer.copyright": "COPYRIGHT © {1}, ALL CONTENT LICENSED UNDER {2}"
 }
