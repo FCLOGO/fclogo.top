@@ -12,14 +12,13 @@ import {
   moreLink,
   arrowIcon,
   cardsContainer,
-  logoCard,
-  cardInner,
   cardLink,
   logoImage,
   cardFooter,
   logoName,
   formatList,
   formatItem,
+  nothingContainer,
   nothingText
 } from './indexLogoList.module.styl'
 
@@ -29,42 +28,41 @@ const LogoList = ({ data }) => {
     <section className={cardsWrapper}>
       <div className={cardsHeader}>
         <h2 className={cardsTitle}>{intl.formatMessage({ id: `index.cardTitle` })}</h2>
-        <LocalizedLink className={moreLink} to="/">
+        <LocalizedLink className={moreLink} to="/logos">
           {intl.formatMessage({ id: `index.viewMore` })}
           <ArrowIcon className={arrowIcon} />
         </LocalizedLink>
       </div>
-      <div className={cardsContainer}>
-        {data.allLogo.nodes.length ? (
-          data.allLogo.nodes.map(node => (
-            <article key={node.id} className={logoCard}>
-              <div className={cardInner}>
-                <LocalizedLink className={cardLink} to={node.slug}>
-                  <GatsbyImage
-                    image={getImage(node.pngPath)}
-                    alt={node.detailInfo[0].info[0].fullName[1]}
-                    className={logoImage}
-                  />
-                  <footer className={cardFooter}>
-                    <h3 className={logoName}>{node.detailInfo[0].info[0].shortName[1]}</h3>
-                    <ul className={formatList}>
-                      {node.fileFormat.map(item => (
-                        <li key={item} className={formatItem}>
-                          {item}
-                        </li>
-                      ))}
-                    </ul>
-                  </footer>
-                </LocalizedLink>
-              </div>
+
+      {data.allLogo.nodes.length ? (
+        <div className={cardsContainer}>
+          {data.allLogo.nodes.slice(0, 12).map(node => (
+            <article key={node.id}>
+              <LocalizedLink className={cardLink} to={node.slug}>
+                <GatsbyImage
+                  image={getImage(node.pngPath)}
+                  alt={node.detailInfo[0].info[0].fullName[1]}
+                  className={logoImage}
+                />
+                <footer className={cardFooter}>
+                  <h3 className={logoName}>{node.detailInfo[0].info[0].shortName[1]}</h3>
+                  <ul className={formatList}>
+                    {node.fileFormat.map(item => (
+                      <li key={item} className={formatItem}>
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                </footer>
+              </LocalizedLink>
             </article>
-          ))
-        ) : (
-          <article className={logoCard}>
-            <h2 className={nothingText}>{intl.formatMessage({ id: `index.noLogo` })}</h2>
-          </article>
-        )}
-      </div>
+          ))}
+        </div>
+      ) : (
+        <div className={nothingContainer}>
+          <h2 className={nothingText}>{intl.formatMessage({ id: `index.noLogo` })}</h2>
+        </div>
+      )}
     </section>
   )
 }

@@ -6,6 +6,7 @@ import Layout from '../components/layout'
 import Seo from '../components/seo'
 import Hero from '../components/indexHero'
 import LogoList from '../components/indexLogoList'
+import RandomList from '../components/indexRandom'
 
 import { mainContent } from './index.module.styl'
 
@@ -17,6 +18,7 @@ const IndexPage = ({ data, pageContext }) => {
       <Hero totalCount={data.allLogo.totalCount} />
       <div className={mainContent}>
         <LogoList data={data} />
+        {data.allLogo.nodes.length > 10 ? <RandomList data={data} /> : ''}
       </div>
     </Layout>
   )
@@ -28,14 +30,13 @@ export const query = graphql`
   query ($locale: String!) {
     allLogo(
       sort: { order: DESC, fields: pngPath___birthTime }
-      limit: 12
       filter: { fields: { locale: { eq: $locale } } }
     ) {
       nodes {
         id
         pngPath {
           childImageSharp {
-            gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP)
+            gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
           }
         }
         fileFormat

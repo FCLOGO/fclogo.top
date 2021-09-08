@@ -12,8 +12,12 @@
   "search.tips": "For example: Facebook, Tesla or Coca Cola",
 
   "index.cardTitle": "Recently Updated",
+  "index.randomTitle": "Rabdom Logos",
   "index.noLogo": "Recently Updated",
   "index.viewMore": "View More",
+  "index.backHome": "Back Home",
+  "index.loading": "Loading...",
+  "index.noMore": "No more results",
 
   "sidebar.logoVer": "ver.",
   "sidebar.fileType": "Vector in .SVG format",

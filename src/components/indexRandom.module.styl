@@ -1,0 +1,68 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+size-card = 300px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.cards-wrapper
+  flex 1 auto
+  display flex
+  flex-flow column wrap
+  justify-content flex-start
+  align-items flex-start
+  margin-bottom 40px
+
+.cards-header
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+  width 100%
+  height header-height
+  line-height header-height
+
+.cards-title
+  flex 1 auto
+  font-size 16px
+  font-weight 600
+  text-transform uppercase
+  color var(--text-color-primary)
+  margin 0
+  padding 0
+
+.cards-container
+  width 100%
+  flex 1 auto
+  display flex
+  flex-flow row nowrap
+  justify-content space-between
+  @media mq-tablet
+    flex-wrap wrap
+
+.logo-card
+  width 8vw
+  height 8vw
+  max-width 125px
+  max-height 125px
+  border 1px solid var(--border-color-primary)
+  border-radius 5px
+  padding 1vw
+  @media mq-tablet
+    width 16vw
+    height 16vw
+    max-width 175px
+    max-height 175px
+    margin-bottom size-normal
+
+.card-link
+  display flex
+  flex-flow column wrap
+  align-items center
+  border none
+  &:hover
+    border none
+    color var(--text-color-primary)
