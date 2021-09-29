@@ -60,18 +60,23 @@ mq-tablet = 'screen and (max-width: 992px)'
     height header-height
     line-height header-height
 
-.donate-icon
+.donate-link
   display none
+  border none
+  width header-height
+  height header-height
+  line-height header-height
   @media mq-tablet
     order 2
     display inline-block
-    background-color var(--btn-color-primary)
-    width header-height
-    height header-height
-    line-height header-height
-    text-align center
-    padding 16px
-    color var(--header-text-color)
-    cursor pointer
-    &:hover
-      background-color var(--btn-color-secondary)
+  &:hover
+    border none
+
+.donate-icon
+  background-color var(--btn-color-primary)
+  text-align center
+  padding 16px
+  color var(--header-text-color)
+  cursor pointer
+  &:hover
+    background-color var(--btn-color-secondary)

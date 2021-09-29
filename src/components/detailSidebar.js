@@ -87,7 +87,7 @@ const DetailSidebar = props => {
           <h6 className={termTitle}>{intl.formatMessage({ id: 'sidebar.termTitle' })}</h6>
           <p>
             {intl.formatMessage({ id: 'sidebar.termText' }, { s: <b>{props.fullName}</b> })}{' '}
-            <LocalizedLink to="/">
+            <LocalizedLink to="/support/terms-of-use">
               <b>{intl.formatMessage({ id: 'sidebar.termMore' })}</b>
             </LocalizedLink>
           </p>

@@ -5,6 +5,14 @@
   "switch.theme": "Switch Color Theme",
   "header.sponsor": "Sponsor",
 
+  "menu.logo": "Logos",
+  "menu.news": "News",
+  "menu.support": "Support",
+  "menu.about": "About",
+  "menu.contact": "Contact",
+  "menu.terms": "Terms of Use",
+  "menu.whatsnew": "What's new",
+
   "hero.title": "Access {s} vector logos",
   "hero.subtitle": "All logos work with SVG and AI. No account and unlimited downloads for free.",
 
@@ -18,6 +26,29 @@
   "index.backHome": "Back Home",
   "index.loading": "Loading...",
   "index.noMore": "No more results",
+
+  "about.title": "Get to Know US",
+  "about.slogan": "make all{br}vector football club logos{br}accessible to you",
+  "about.content": "<p>We started Worldvectorlogo because we as designers want to empower designers across the globe.</p><p>Our mission is to make all <b>logos in the world</b> accessible to you.</p><p>This is a huge challenge, and we are constantly improving our service to make that happen.</p><p>We are not alone in this.</p><p>We always like to receive your feedback and new ideas. </p><p>Feel free reaching out to us: info@worldvectorlogo.com.</p>",
+  "about.achievements": "Our achievements",
+  "about.logos": "Logos",
+  "about.clubs": "Clubs",
+  "about.comps": "Competitions",
+  "about.cy": "Countries / Regions",
+  "about.clubKey": "Club",
+  "about.compKey": "Competition",
+  "about.moreStatistics": "View Full Statistics",
+  "about.contactTittle": "Feel free reaching out to us",
+  "about.contactButton": "Contact",
+
+  "contact.title": "Feel Free Reaching Out to US",
+  "contact.slogan": "Feel Free Reaching Out to US",
+
+  "news.title": "Football Logo News",
+  "news.slogan": "Football Logo News",
+
+  "statistics.title": "Logo Statistics",
+  "statistics.subtitle": "under construction.....",
 
   "sidebar.logoVer": "ver.",
   "sidebar.fileType": "Vector in .SVG format",
@@ -41,6 +72,6 @@
   "support.lastUpdated": "Last Updated: ",
   "support.toc": "Table of Contents",
 
+  "footer.statement": "本站文中出现的商标及图像版权属于其合法持有人，只供传递信息之用，非商务用途。如有侵犯您的权益，请及时告知删除。",
   "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved"
-
 }

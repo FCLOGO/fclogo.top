@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-009
-  type: Club
+  type: 俱乐部
   nation: China
   info:
     - fullName:

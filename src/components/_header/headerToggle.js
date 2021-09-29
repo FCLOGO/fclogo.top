@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useIntl } from 'react-intl'
-import { LocaleContext, LangSelector } from 'gatsby-plugin-usei18n'
+import { LocaleContext, LangSelector, LocalizedLink } from 'gatsby-plugin-usei18n'
 import { ThemeToggler } from 'gatsby-plugin-dark-mode'
 
 import SwitchLangIcon from '../../../static/assets/icons/language.inline.svg'
@@ -81,10 +81,10 @@ const HeaderToggle = ({ pageContext }) => {
             }}
           </ThemeToggler>
         </div>
-        <div className={donateButton}>
+        <LocalizedLink to="/sponsor" className={donateButton}>
           <DonateIcon className={donateIcon} />
           <span className={donateText}>{intl.formatMessage({ id: 'header.sponsor' })}</span>
-        </div>
+        </LocalizedLink>
       </div>
     </>
   )

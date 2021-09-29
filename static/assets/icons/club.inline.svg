@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M424,192.3H88c-13.2,0-24-10.8-24-24v0c0-13.2,10.8-24,24-24h336c13.2,0,24,10.8,24,24v0
+	C448,181.5,437.2,192.3,424,192.3z" style="fill:none;stroke:#000;stroke-width:32;stroke-miterlimit:10;"/>
+<polyline style="fill:none;stroke:#000;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="116.5,144.3 256.5,64 395.6,144.3 "/>
+<polygon style="fill:none;stroke:#000;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="116.5,385.2 395.5,192.3 395.5,385.2 256,448 116.5,385.2 116.5,192.3 "/></svg>
