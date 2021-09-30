@@ -150,7 +150,9 @@ const DetailSidebar = props => {
         <h6>
           <BugIcon className={bugIcon} />
           {intl.formatMessage({ id: 'sidebar.foundErr' })}
-          <LocalizedLink to="/">{intl.formatMessage({ id: 'sidebar.tellMe' })}</LocalizedLink>
+          <LocalizedLink to="/contact">
+            {intl.formatMessage({ id: 'sidebar.tellMe' })}
+          </LocalizedLink>
         </h6>
       </div>
     </aside>

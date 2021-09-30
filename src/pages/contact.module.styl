@@ -16,3 +16,95 @@ mq-tablet = 'screen and (max-width: 992px)'
   align-items center
   justify-content center
   padding header-height size-large
+
+.main-content section
+  width 100%
+
+.inner
+  max-width 1280px
+  margin 0 auto
+  text-align center
+  margin-bottom header-height
+  display flex
+  flex-flow column nowrap
+  align-items center
+  justify-content center
+
+.inner h2
+  display inline-block
+  font-size 20px
+  font-weight 600
+  text-transform uppercase
+  margin-bottom size-small
+  letter-spacing 3px
+
+.separator
+  display block
+  background-color var(--border-color-secondary)
+  width header-height
+  height 2px
+  margin-bottom size-large
+
+.contact-subtitle
+  font-weight 600
+  text-transform uppercase
+  letter-spacing 2px
+  font-size 16px
+  color var(--text-color-secondary)
+
+.link-wrapper
+  margin-top size-large
+  display flex
+  flex-flow row wrap
+  justify-content space-between
+  align-items center
+  width 100%
+
+.link
+  border none
+  display flex
+  flex-direction column
+  justify-content center
+  align-items center
+  width 48%
+  height 180px
+  overflow hidden
+  padding size-normal size-large
+  border-radius size-small
+  margin-bottom header-height
+  background-color var(--logo-card-bg)
+  box-shadow 2px 4px 12px rgba(0, 0, 0, 0.08)
+  transition all 0.3s cubic-bezier(0, 0, 0.5, 1)
+  &:hover
+    border none
+    color var(--text-color-primary)
+    box-shadow 2px 4px 16px rgba(0, 0, 0, 0.16)
+    transform scale3d(1.01, 1.01, 1.01)
+  @media mq-tablet
+    width 100%
+    margin-bottom size-large
+
+.link svg
+  height size-large
+  width size-large
+  margin-bottom size-normal
+  fill var(--text-color-secondary)
+
+.link .separator
+  margin size-small 0
+
+.link h3, .link p
+  width 100%
+  text-align center
+  padding 0
+  margin 0
+  line-height 1
+
+.link-title
+  font-weight 600
+
+.link-description
+  white-space nowrap
+  overflow hidden
+  text-overflow ellipsis
+  color var(--text-color-secondary)
