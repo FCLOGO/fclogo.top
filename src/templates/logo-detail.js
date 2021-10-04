@@ -4,7 +4,8 @@ import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
 import { useIntl } from 'react-intl'
 
-import Layout from '../components/layout'
+// import Layout from '../components/layout'
+import ConditionalLayout from '../components/conditional-layout'
 import Seo from '../components/seo'
 import Search from '../components/single-search'
 import DetailSidebar from '../components/detail-sidebar'
@@ -38,8 +39,8 @@ const LogoDeatil = ({ data, pageContext }) => {
   const intl = useIntl()
   const { next, previous } = pageContext
   return (
-    <Layout pageContext={pageContext}>
-      <Search locale={pageContext.locale} />
+    <ConditionalLayout pageContext={pageContext}>
+      {/* <Search locale={pageContext.locale} /> */}
       {data.logo ? (
         <>
           <Seo title={data.logo.detailInfo[0].info[0].fullName[1]} />
@@ -99,7 +100,14 @@ const LogoDeatil = ({ data, pageContext }) => {
             <section className={detailNav}>
               <div className={linkWrapper}>
                 {previous ? (
-                  <LocalizedLink className={previousLink} to={previous.slug}>
+                  <LocalizedLink
+                    className={previousLink}
+                    to={previous.slug}
+                    state={{
+                      modal: true,
+                      noScroll: true
+                    }}
+                  >
                     <ArrowIcon className={arrowIcon} />
                   </LocalizedLink>
                 ) : (
@@ -108,7 +116,14 @@ const LogoDeatil = ({ data, pageContext }) => {
               </div>
               <div className={linkWrapper}>
                 {next ? (
-                  <LocalizedLink className={nextLink} to={next.slug}>
+                  <LocalizedLink
+                    className={nextLink}
+                    to={next.slug}
+                    state={{
+                      modal: true,
+                      noScroll: true
+                    }}
+                  >
                     <ArrowIcon className={arrowIcon} />
                   </LocalizedLink>
                 ) : (
@@ -128,7 +143,7 @@ const LogoDeatil = ({ data, pageContext }) => {
           </div>
         </>
       )}
-    </Layout>
+    </ConditionalLayout>
   )
 }
 

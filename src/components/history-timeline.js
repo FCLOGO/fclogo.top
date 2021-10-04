@@ -24,7 +24,14 @@ const HistoryTimline = props => {
         <div className={logoContainer}>
           {sortLogos.map(logo => (
             <article key={logo.id} className={logoCard}>
-              <LocalizedLink to={logo.slug} className={cardLink}>
+              <LocalizedLink
+                to={logo.slug}
+                className={cardLink}
+                state={{
+                  modal: true,
+                  noScroll: true
+                }}
+              >
                 <GatsbyImage
                   image={getImage(logo.pngPath)}
                   alt={logo.version.toString()}

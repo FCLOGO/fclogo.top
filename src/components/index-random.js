@@ -29,7 +29,14 @@ const RandomLogo = ({ data }) => {
           .map(node => (
             <article key={node.id} className={logoCard}>
               <div>
-                <LocalizedLink className={cardLink} to={node.slug}>
+                <LocalizedLink
+                  className={cardLink}
+                  to={node.slug}
+                  state={{
+                    modal: true,
+                    noScroll: true
+                  }}
+                >
                   <GatsbyImage
                     image={getImage(node.pngPath)}
                     alt={node.detailInfo[0].info[0].fullName[1]}

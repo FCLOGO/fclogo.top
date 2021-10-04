@@ -22,6 +22,18 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     {
+      resolve: `gatsby-plugin-modal-routing-3`,
+      options: {
+        appElement: '#___gatsby',
+        modalProps: {
+          portalClassName: 'modal_portal',
+          overlayClassName: 'modal_overlay',
+          className: 'modal_content',
+          shouldCloseOnOverlayClick: false
+        }
+      }
+    },
+    {
       resolve: `gatsby-plugin-sharp`,
       options: {
         defaults: {
@@ -89,12 +101,6 @@ module.exports = {
             }
           }
         ]
-      }
-    },
-    {
-      resolve: `gatsby-plugin-modal-routing-3`,
-      options: {
-        appElement: '#___gatsby'
       }
     }
   ]

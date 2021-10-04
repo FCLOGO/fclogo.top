@@ -120,6 +120,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   color var(--text-color-primary)
   display inline-flex
   align-items center
+  justify-content center
   border-radius 3px
   &:hover
     border none
@@ -145,3 +146,28 @@ mq-tablet = 'screen and (max-width: 992px)'
   font-size 16px
   font-weight 600
   color var(--text-color-secondary)
+
+:global(.modal_content)
+  .main-content
+    padding-top 0
+  .detail-nav
+    border-top none
+    position fixed
+    top 45%
+    left 0px
+    padding 0 40px
+  .link-wrapper
+    width header-height
+    height header-height
+  .previous-link, .next-link
+    height header-height
+    width header-height
+    border-radius 50%
+    padding 10px
+    line-height header-height
+    padding 0
+  .arrow-icon
+    width 40px
+    height 40px
+    polyline, line
+      stroke var(--header-text-color) !important

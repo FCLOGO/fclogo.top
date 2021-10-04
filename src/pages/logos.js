@@ -93,7 +93,14 @@ const AllLogo = ({ data, pageContext }) => {
               <div className={logosContainer}>
                 {list.map(logo => (
                   <article key={logo.id}>
-                    <LocalizedLink className={cardLink} to={logo.slug}>
+                    <LocalizedLink
+                      className={cardLink}
+                      to={logo.slug}
+                      state={{
+                        modal: true,
+                        noScroll: true
+                      }}
+                    >
                       <GatsbyImage
                         image={getImage(logo.pngPath)}
                         alt={logo.detailInfo[0].info[0].fullName[1]}
