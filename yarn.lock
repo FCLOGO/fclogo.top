@@ -1835,12 +1835,12 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@formatjs/ecma402-abstract@1.9.8":
-  version "1.9.8"
-  resolved "https://registry.nlark.com/@formatjs/ecma402-abstract/download/@formatjs/ecma402-abstract-1.9.8.tgz#f3dad447fbc7f063f88e2a148b7a353161740e74"
-  integrity sha1-89rUR/vH8GP4jioUi3o1MWF0DnQ=
+"@formatjs/ecma402-abstract@1.9.9":
+  version "1.9.9"
+  resolved "https://registry.npmmirror.com/@formatjs/ecma402-abstract/download/@formatjs/ecma402-abstract-1.9.9.tgz#f556782fc12398af283ae2f8be64e938f969d240"
+  integrity sha1-9VZ4L8EjmK8oOuL4vmTpOPlp0kA=
   dependencies:
-    "@formatjs/intl-localematcher" "0.2.20"
+    "@formatjs/intl-localematcher" "0.2.21"
     tslib "^2.1.0"
 
 "@formatjs/fast-memoize@1.2.0":
@@ -1850,59 +1850,59 @@
   dependencies:
     tslib "^2.1.0"
 
-"@formatjs/icu-messageformat-parser@2.0.11":
-  version "2.0.11"
-  resolved "https://registry.nlark.com/@formatjs/icu-messageformat-parser/download/@formatjs/icu-messageformat-parser-2.0.11.tgz#e4ba40b9a8aefc8bccfc96be5906d3bca305b4b3"
-  integrity sha1-5LpAuaiu/IvM/Ja+WQbTvKMFtLM=
+"@formatjs/icu-messageformat-parser@2.0.12":
+  version "2.0.12"
+  resolved "https://registry.npmmirror.com/@formatjs/icu-messageformat-parser/download/@formatjs/icu-messageformat-parser-2.0.12.tgz#0e03b2c83c03d4f95debb51a727934cb8d8fdbea"
+  integrity sha1-DgOyyDwD1Pld67Uacnk0y42P2+o=
   dependencies:
-    "@formatjs/ecma402-abstract" "1.9.8"
-    "@formatjs/icu-skeleton-parser" "1.2.12"
+    "@formatjs/ecma402-abstract" "1.9.9"
+    "@formatjs/icu-skeleton-parser" "1.2.13"
     tslib "^2.1.0"
 
-"@formatjs/icu-skeleton-parser@1.2.12":
-  version "1.2.12"
-  resolved "https://registry.nlark.com/@formatjs/icu-skeleton-parser/download/@formatjs/icu-skeleton-parser-1.2.12.tgz#45426eb1448c0c08c931eb9f0672283c0e4d0062"
-  integrity sha1-RUJusUSMDAjJMeufBnIoPA5NAGI=
+"@formatjs/icu-skeleton-parser@1.2.13":
+  version "1.2.13"
+  resolved "https://registry.npmmirror.com/@formatjs/icu-skeleton-parser/download/@formatjs/icu-skeleton-parser-1.2.13.tgz#8360fd8b24f70e1894a891aa63566a19c8e9cffa"
+  integrity sha1-g2D9iyT3DhiUqJGqY1ZqGcjpz/o=
   dependencies:
-    "@formatjs/ecma402-abstract" "1.9.8"
+    "@formatjs/ecma402-abstract" "1.9.9"
     tslib "^2.1.0"
 
-"@formatjs/intl-displaynames@5.2.3":
-  version "5.2.3"
-  resolved "https://registry.nlark.com/@formatjs/intl-displaynames/download/@formatjs/intl-displaynames-5.2.3.tgz#a0cebc81e89c5414177ade71a2f2388d799ee6e8"
-  integrity sha1-oM68geicVBQXet5xovI4jXme5ug=
+"@formatjs/intl-displaynames@5.2.4":
+  version "5.2.4"
+  resolved "https://registry.npmmirror.com/@formatjs/intl-displaynames/download/@formatjs/intl-displaynames-5.2.4.tgz?cache=0&sync_timestamp=1632715809298&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40formatjs%2Fintl-displaynames%2Fdownload%2F%40formatjs%2Fintl-displaynames-5.2.4.tgz#3e076eb2c35f04c2acdd5526464f7ef9355d414c"
+  integrity sha1-PgdussNfBMKs3VUmRk9++TVdQUw=
   dependencies:
-    "@formatjs/ecma402-abstract" "1.9.8"
-    "@formatjs/intl-localematcher" "0.2.20"
+    "@formatjs/ecma402-abstract" "1.9.9"
+    "@formatjs/intl-localematcher" "0.2.21"
     tslib "^2.1.0"
 
-"@formatjs/intl-listformat@6.3.3":
-  version "6.3.3"
-  resolved "https://registry.nlark.com/@formatjs/intl-listformat/download/@formatjs/intl-listformat-6.3.3.tgz#0cb83a012c0ae46876e30589a086695298e0fb5c"
-  integrity sha1-DLg6ASwK5Gh24wWJoIZpUpjg+1w=
+"@formatjs/intl-listformat@6.3.4":
+  version "6.3.4"
+  resolved "https://registry.npmmirror.com/@formatjs/intl-listformat/download/@formatjs/intl-listformat-6.3.4.tgz?cache=0&sync_timestamp=1632715808725&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40formatjs%2Fintl-listformat%2Fdownload%2F%40formatjs%2Fintl-listformat-6.3.4.tgz#aec02df277627fce416d15bf0c455406fd312d89"
+  integrity sha1-rsAt8ndif85BbRW/DEVUBv0xLYk=
   dependencies:
-    "@formatjs/ecma402-abstract" "1.9.8"
-    "@formatjs/intl-localematcher" "0.2.20"
+    "@formatjs/ecma402-abstract" "1.9.9"
+    "@formatjs/intl-localematcher" "0.2.21"
     tslib "^2.1.0"
 
-"@formatjs/intl-localematcher@0.2.20":
-  version "0.2.20"
-  resolved "https://registry.nlark.com/@formatjs/intl-localematcher/download/@formatjs/intl-localematcher-0.2.20.tgz#782aef53d1c1b6112ee67468dc59f9b8d1ba7b17"
-  integrity sha1-eCrvU9HBthEu5nRo3Fn5uNG6exc=
+"@formatjs/intl-localematcher@0.2.21":
+  version "0.2.21"
+  resolved "https://registry.npmmirror.com/@formatjs/intl-localematcher/download/@formatjs/intl-localematcher-0.2.21.tgz#39ef33d701fe8084f3d693cd3ff7cbe03cdd3a49"
+  integrity sha1-Oe8z1wH+gITz1pPNP/fL4DzdOkk=
   dependencies:
     tslib "^2.1.0"
 
-"@formatjs/intl@1.14.1":
-  version "1.14.1"
-  resolved "https://registry.nlark.com/@formatjs/intl/download/@formatjs/intl-1.14.1.tgz#03e12f7e2cf557defdd1a5aeb1c143efb8cfbc7b"
-  integrity sha1-A+Evfiz1V9790aWuscFD77jPvHs=
+"@formatjs/intl@1.14.2":
+  version "1.14.2"
+  resolved "https://registry.npmmirror.com/@formatjs/intl/download/@formatjs/intl-1.14.2.tgz#86584bc2802437eb4f1cddda8c4171b1578048c5"
+  integrity sha1-hlhLwoAkN+tPHN3ajEFxsVeASMU=
   dependencies:
-    "@formatjs/ecma402-abstract" "1.9.8"
+    "@formatjs/ecma402-abstract" "1.9.9"
     "@formatjs/fast-memoize" "1.2.0"
-    "@formatjs/icu-messageformat-parser" "2.0.11"
-    "@formatjs/intl-displaynames" "5.2.3"
-    "@formatjs/intl-listformat" "6.3.3"
-    intl-messageformat "9.9.1"
+    "@formatjs/icu-messageformat-parser" "2.0.12"
+    "@formatjs/intl-displaynames" "5.2.4"
+    "@formatjs/intl-listformat" "6.3.4"
+    intl-messageformat "9.9.2"
     tslib "^2.1.0"
 
 "@gatsbyjs/reach-router@^1.3.6":
@@ -2815,10 +2815,10 @@
     "@types/prop-types" "*"
     csstype "^3.0.2"
 
-"@types/react@17":
-  version "17.0.19"
-  resolved "https://registry.nlark.com/@types/react/download/@types/react-17.0.19.tgz?cache=0&sync_timestamp=1629349455820&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Freact%2Fdownload%2F%40types%2Freact-17.0.19.tgz#8f2a85e8180a43b57966b237d26a29481dacc991"
-  integrity sha1-jyqF6BgKQ7V5ZrI30mopSB2syZE=
+"@types/react@16 || 17":
+  version "17.0.27"
+  resolved "https://registry.npmmirror.com/@types/react/download/@types/react-17.0.27.tgz#6498ed9b3ad117e818deb5525fa1946c09f2e0e6"
+  integrity sha1-ZJjtmzrRF+gY3rVSX6GUbAny4OY=
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -6707,15 +6707,15 @@ gatsby-plugin-typescript@^3.14.0:
     "@babel/runtime" "^7.15.4"
     babel-plugin-remove-graphql-queries "^3.14.0"
 
-gatsby-plugin-usei18n@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.nlark.com/gatsby-plugin-usei18n/download/gatsby-plugin-usei18n-1.0.4.tgz?cache=0&sync_timestamp=1632038522784&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fgatsby-plugin-usei18n%2Fdownload%2Fgatsby-plugin-usei18n-1.0.4.tgz#f386a7c6a555edf3dd3c6a373c7f77d6dd697908"
-  integrity sha1-84anxqVV7fPdPGo3PH931t1peQg=
+gatsby-plugin-usei18n@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.5.tgz#20b0b21dc9988d63923dd7c846c35dbb8c9035fa"
+  integrity sha512-wNYuqlg3Xjmrs0oqoPYXAcuRujfbsJ4uKiDfRGk6Pu18uqftEA2mBo3vnjjR7pry0g24ntGGkC3dlbdCN+dqSw==
   dependencies:
     browser-lang "^0.1.0"
     gatsby-plugin-react-helmet "^4.14.0"
     react-helmet "^6.1.0"
-    react-intl "^5.20.10"
+    react-intl "^5.20.12"
 
 gatsby-plugin-utils@^1.14.0:
   version "1.14.0"
@@ -6879,10 +6879,10 @@ gatsby-worker@^0.5.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^3.14.0:
-  version "3.14.0"
-  resolved "https://registry.nlark.com/gatsby/download/gatsby-3.14.0.tgz#06c27464f1a9d044169ec910d0c9d7ef44e0b1d8"
-  integrity sha1-BsJ0ZPGp0EQWnskQ0MnX70Tgsdg=
+gatsby@^3.14.1:
+  version "3.14.1"
+  resolved "https://registry.npmmirror.com/gatsby/download/gatsby-3.14.1.tgz#0b0edde45bedd18845ec338ca65b1e88d4de3384"
+  integrity sha1-Cw7d5Fvt0YhF7DOMplseiNTeM4Q=
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -7848,13 +7848,13 @@ internal-slot@^1.0.3:
     has "^1.0.3"
     side-channel "^1.0.4"
 
-intl-messageformat@9.9.1:
-  version "9.9.1"
-  resolved "https://registry.nlark.com/intl-messageformat/download/intl-messageformat-9.9.1.tgz#255d453b0656b4f7e741f31d2b4a95bf2adfe064"
-  integrity sha1-JV1FOwZWtPfnQfMdK0qVvyrf4GQ=
+intl-messageformat@9.9.2:
+  version "9.9.2"
+  resolved "https://registry.npmmirror.com/intl-messageformat/download/intl-messageformat-9.9.2.tgz#59a364ffbfc882660c9584a6198998c3d06e4eea"
+  integrity sha1-WaNk/7/IgmYMlYSmGYmYw9BuTuo=
   dependencies:
     "@formatjs/fast-memoize" "1.2.0"
-    "@formatjs/icu-messageformat-parser" "2.0.11"
+    "@formatjs/icu-messageformat-parser" "2.0.12"
     tslib "^2.1.0"
 
 invariant@^2.2.3, invariant@^2.2.4:
@@ -10935,20 +10935,20 @@ react-instantsearch-dom@^6.12.1:
     react-fast-compare "^3.0.0"
     react-instantsearch-core "^6.12.1"
 
-react-intl@^5.20.10:
-  version "5.20.10"
-  resolved "https://registry.nlark.com/react-intl/download/react-intl-5.20.10.tgz#8b0f18a5b76e9f8f5a3ccc993deb0c4cef9dcde0"
-  integrity sha1-iw8Ypbdun49aPMyZPesMTO+dzeA=
+react-intl@^5.20.12:
+  version "5.20.12"
+  resolved "https://registry.npmmirror.com/react-intl/download/react-intl-5.20.12.tgz#1a4969d15c381378cae35912fa2ec7010e27b4f7"
+  integrity sha1-Gklp0Vw4E3jK41kS+i7HAQ4ntPc=
   dependencies:
-    "@formatjs/ecma402-abstract" "1.9.8"
-    "@formatjs/icu-messageformat-parser" "2.0.11"
-    "@formatjs/intl" "1.14.1"
-    "@formatjs/intl-displaynames" "5.2.3"
-    "@formatjs/intl-listformat" "6.3.3"
+    "@formatjs/ecma402-abstract" "1.9.9"
+    "@formatjs/icu-messageformat-parser" "2.0.12"
+    "@formatjs/intl" "1.14.2"
+    "@formatjs/intl-displaynames" "5.2.4"
+    "@formatjs/intl-listformat" "6.3.4"
     "@types/hoist-non-react-statics" "^3.3.1"
-    "@types/react" "17"
+    "@types/react" "16 || 17"
     hoist-non-react-statics "^3.3.2"
-    intl-messageformat "9.9.1"
+    intl-messageformat "9.9.2"
     tslib "^2.1.0"
 
 react-is@^16.12.0, react-is@^16.7.0, react-is@^16.8.1:

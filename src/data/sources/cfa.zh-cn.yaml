@@ -5,10 +5,10 @@
   info:
     - fullName:
         - 'Full Name'
-        - 'Shandong Taishan Football Club'
+        - '山东泰山足球俱乐部'
       shortName:
         - 'Short Name'
-        - 'Shandong Taishan'
+        - '山东泰山'
       localName:
         - 'Local Name'
         - '山东泰山足球俱乐部'
@@ -23,37 +23,7 @@
         - 'Jinan Olympic Sports Center Stadium'
       league:
         - 'League'
-        - 'Chinese Super League'
+        - '中国足球超级联赛'
   weiboURL: 'https://weibo.com/u/1911180293'
   websiteURL: 'http://www.lnts.com.cn'
   wikiURL: 'https://en.wikipedia.org/wiki/Shandong_Taishan_F.C.'
-
-- data: sourceInfo
-  sourceID: cfa-club-010
-  type: Club
-  nation: England
-  info:
-    - fullName:
-        - 'Full Name'
-        - 'Shanghai Shenhua Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Shanghai Shenhua'
-      localName:
-        - 'Local Name'
-        - '上海申花足球俱乐部'
-      city:
-        - 'City'
-        - 'Shanghai, China'
-      founded:
-        - 'Founded'
-        - '1993'
-      ground:
-        - 'Ground'
-        - 'Jinan Olympic Sports Center Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
-  websiteURL: 'http://www.lnts.com.cn'
-  weiboURL: 'http://www.lnts.com.cn'
-  twitterURL: 'http://www.lnts.com.cn'

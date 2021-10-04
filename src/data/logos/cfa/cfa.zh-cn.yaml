@@ -1,0 +1,21 @@
+- data: logo
+  version: 1999
+  pngPath: 'clubs/bjga.png'
+  svgPath: 'clubs/svg/sdts-02.svg'
+  sourceID: cfa-club-009
+  style: color
+  slug: /cfa-bjga
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- data: logo
+  version: 1991
+  pngPath: 'clubs/cdrc.png'
+  svgPath: 'clubs/svg/sdts-02.svg'
+  sourceID: cfa-club-009
+  style: color
+  slug: /cfa-cdrc
+  fileFormat:
+    - 'png'
+    - 'svg'
