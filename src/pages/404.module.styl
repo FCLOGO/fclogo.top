@@ -1,0 +1,74 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.main-content
+  width 100%
+  margin 0 auto
+  flex 1 auto
+  display flex
+  flex-flow column nowrap
+  align-items center
+  justify-content center
+  padding 180px size-large header-height size-large
+
+.title
+  margin 0
+  padding 0
+  line-height 1
+  font-weight 100
+  font-size 200px
+  color var(--about-number-color)
+
+.subtitle
+  font-size 24px
+  font-weight 600
+
+.description
+  font-size 18px
+  text-transform uppercase
+  font-weight 600
+
+.back-link
+  padding 0
+  margin-top header-height
+  background-color var(--btn-color-primary)
+  color var(--btn-text-color)
+  border none
+  border-radius 3px
+  cursor pointer
+  font-size 18px
+  line-height 1
+  text-transform uppercase
+  font-weight 600
+  width 200px
+  height 50px
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+  svg
+    transform rotate(180deg)
+    height 50px
+    width 50px
+    padding 12px
+    flex none
+    border-radius 3px 0 0 3px
+    border-left 1px solid rgba(255, 255, 255, 0.35)
+    background-color var(--btn-color-secondary)
+    polyline, line
+      stroke var(--btn-text-color) !important
+  span
+    flex 1 auto
+    text-align center
+
+.back-link
+  &:hover
+    border none
+    color var(--btn-text-color)
+    background-color var(--btn-color-secondary)
