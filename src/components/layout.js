@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { MDXProvider } from '@mdx-js/react'
-import { MdxLink, LocalizedLink, LocaleContext } from 'gatsby-plugin-usei18n'
+import { MdxLink } from 'gatsby-plugin-usei18n'
 import Header from './header'
 import Footer from './footer'
 
