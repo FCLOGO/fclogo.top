@@ -90,6 +90,12 @@ module.exports = {
           }
         ]
       }
+    },
+    {
+      resolve: `gatsby-plugin-modal-routing-3`,
+      options: {
+        appElement: '#___gatsby'
+      }
     }
   ]
 }

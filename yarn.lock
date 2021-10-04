@@ -3844,8 +3844,8 @@ braces@^3.0.1, braces@~3.0.2:
 
 browser-lang@^0.1.0:
   version "0.1.0"
-  resolved "https://registry.nlark.com/browser-lang/download/browser-lang-0.1.0.tgz#da9bb26e4f82b4385a51054af5495f6a9de475f7"
-  integrity sha1-2puybk+CtDhaUQVK9Ulfap3kdfc=
+  resolved "https://registry.yarnpkg.com/browser-lang/-/browser-lang-0.1.0.tgz#da9bb26e4f82b4385a51054af5495f6a9de475f7"
+  integrity sha512-p4mdcU9fIsoDtbAVorKtxo5H86mK040MYn96yshyhfN3OF0iySuITgR8IxldI72MJAultMnwqDgwfWWwjUrSsw==
 
 browserslist@4.14.2:
   version "4.14.2"
@@ -6707,10 +6707,10 @@ gatsby-plugin-typescript@^3.14.0:
     "@babel/runtime" "^7.15.4"
     babel-plugin-remove-graphql-queries "^3.14.0"
 
-gatsby-plugin-usei18n@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.5.tgz#20b0b21dc9988d63923dd7c846c35dbb8c9035fa"
-  integrity sha512-wNYuqlg3Xjmrs0oqoPYXAcuRujfbsJ4uKiDfRGk6Pu18uqftEA2mBo3vnjjR7pry0g24ntGGkC3dlbdCN+dqSw==
+gatsby-plugin-usei18n@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.6.tgz#7feeaed97c90545616786a9c8e00366813b99f77"
+  integrity sha512-69Mt2YD0K8K+zB6FeGCEaTbtlCSwfPqZ+M+l8BrpcS+8cmzwsHILDHeqWs7eOYdsxPdha0uL5mmzmxHWI77/Zg==
   dependencies:
     browser-lang "^0.1.0"
     gatsby-plugin-react-helmet "^4.14.0"
@@ -10937,8 +10937,8 @@ react-instantsearch-dom@^6.12.1:
 
 react-intl@^5.20.12:
   version "5.20.12"
-  resolved "https://registry.npmmirror.com/react-intl/download/react-intl-5.20.12.tgz#1a4969d15c381378cae35912fa2ec7010e27b4f7"
-  integrity sha1-Gklp0Vw4E3jK41kS+i7HAQ4ntPc=
+  resolved "https://registry.yarnpkg.com/react-intl/-/react-intl-5.20.12.tgz#1a4969d15c381378cae35912fa2ec7010e27b4f7"
+  integrity sha512-5Vcjcz/1WRiLMft6daLZpH2To66GV9YYSTJOCSAKaiOox9mAciLJTtHB+3l4zMTVPt0JVHEXEWkILDdSQaSbZw==
   dependencies:
     "@formatjs/ecma402-abstract" "1.9.9"
     "@formatjs/icu-messageformat-parser" "2.0.12"
