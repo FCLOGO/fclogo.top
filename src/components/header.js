@@ -1,6 +1,6 @@
 import React from 'react'
 import { LocalizedLink as Link } from 'gatsby-plugin-usei18n'
-import MainNav from './_header/mainNav'
+import MainNav from './_header/main-nav'
 
 import LogoIcon from '../../static/assets/icons/fclogo.inline.svg'
 import DonateIcon from '../../static/assets/icons/heart.inline.svg'

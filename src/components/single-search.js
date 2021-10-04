@@ -2,13 +2,13 @@ import React from 'react'
 
 import AlgoliaSearch from './_algolia'
 
-import { searchWrapper, searchInner, showResult } from './singleSearch.module.styl'
+import { searchWrapper, searchInner, showResult } from './single-search.module.styl'
 
-const SingleHero = () => {
+const SingleHero = ({ locale }) => {
   return (
     <div className={searchWrapper}>
       <div className={searchInner}>
-        <AlgoliaSearch showClass={showResult} />
+        <AlgoliaSearch showClass={showResult} locale={locale} />
       </div>
     </div>
   )

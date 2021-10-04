@@ -6,7 +6,7 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import Search from '../components/singleSearch'
+import Search from '../components/single-search'
 
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 import ChevronIcon from '../../static/assets/icons/chevron.inline.svg'
@@ -94,7 +94,7 @@ const SupportTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout pageContext={pageContext}>
-      <Search />
+      <Search locale={pageContext.locale} />
       {data.mdx ? (
         <>
           <Seo title={data.mdx.frontmatter.title} />

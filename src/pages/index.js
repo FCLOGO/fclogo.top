@@ -4,9 +4,9 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import Hero from '../components/indexHero'
-import LogoList from '../components/indexLogoList'
-import RandomList from '../components/indexRandom'
+import Hero from '../components/index-hero'
+import LogoList from '../components/index-logo-list'
+import RandomList from '../components/index-random'
 
 import { mainContent } from './index.module.styl'
 
@@ -15,7 +15,7 @@ const IndexPage = ({ data, pageContext }) => {
   return (
     <Layout pageContext={pageContext}>
       <Seo title={intl.formatMessage({ id: 'home.title' })} />
-      <Hero totalCount={data.allLogo.totalCount} />
+      <Hero totalCount={data.allLogo.totalCount} locale={pageContext.locale} />
       <div className={mainContent}>
         <LogoList data={data} />
         {data.allLogo.nodes.length > 50 ? <RandomList data={data} /> : ''}

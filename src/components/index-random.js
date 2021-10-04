@@ -10,7 +10,7 @@ import {
   cardsContainer,
   logoCard,
   cardLink
-} from './indexRandom.module.styl'
+} from './index-random.module.styl'
 
 const RandomLogo = ({ data }) => {
   const intl = useIntl()

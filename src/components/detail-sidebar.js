@@ -30,7 +30,7 @@ import {
   infoLinks,
   errNotes,
   bugIcon
-} from './detailSidebar.module.styl'
+} from './detail-sidebar.module.styl'
 
 const InfoTable = ({ info }) => {
   const newInfo = {}
@@ -59,7 +59,8 @@ const DetailSidebar = props => {
       <div className={googleAds}>Google Adsense</div>
       <div className={detailHeader}>
         <span className={logoVersion}>
-          {intl.formatMessage({ id: 'sidebar.logoVer' })} {props.version}
+          {intl.formatMessage({ id: 'sidebar.logoVer' })}
+          {props.version}
         </span>
         <h1 className={logoTitle}>{props.fullName}</h1>
       </div>

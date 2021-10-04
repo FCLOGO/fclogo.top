@@ -6,8 +6,8 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import Search from '../components/singleSearch'
-import DetailSidebar from '../components/detailSidebar'
+import Search from '../components/single-search'
+import DetailSidebar from '../components/detail-sidebar'
 
 import {
   mainContent,
@@ -29,9 +29,9 @@ import {
   arrowIcon,
   notransWrapper,
   notransText
-} from './logoDetail.module.styl'
+} from './logo-detail.module.styl'
 
-import HistoryTimline from '../components/historyTimeline'
+import HistoryTimline from '../components/history-timeline'
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 
 const LogoDeatil = ({ data, pageContext }) => {
@@ -39,7 +39,7 @@ const LogoDeatil = ({ data, pageContext }) => {
   const { next, previous } = pageContext
   return (
     <Layout pageContext={pageContext}>
-      <Search />
+      <Search locale={pageContext.locale} />
       {data.logo ? (
         <>
           <Seo title={data.logo.detailInfo[0].info[0].fullName[1]} />

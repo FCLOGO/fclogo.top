@@ -5,7 +5,7 @@ import { LocalizedLink } from 'gatsby-plugin-usei18n'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import PageHero from '../components/pageHero'
+import PageHero from '../components/page-hero'
 
 import AlipayIcon from '../../static/assets/icons/alipay.inline.svg'
 import WechatpayIcon from '../../static/assets/icons/wechatpay.inline.svg'

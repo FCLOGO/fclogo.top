@@ -12,9 +12,9 @@ import {
   algWrapper,
   showResult,
   searchTips
-} from './indexHero.module.styl'
+} from './index-hero.module.styl'
 
-const IndexHero = ({ totalCount }) => {
+const IndexHero = ({ totalCount, locale }) => {
   const intl = useIntl()
   return (
     <div className={heroWrapper}>
@@ -27,7 +27,7 @@ const IndexHero = ({ totalCount }) => {
         </h1>
         <p className={heroSubtitle}>{intl.formatMessage({ id: `hero.subtitle` })}</p>
         <section className={algWrapper}>
-          <AlgoliaSearch showClass={showResult} />
+          <AlgoliaSearch showClass={showResult} locale={locale} />
           <p className={searchTips}>{intl.formatMessage({ id: `search.tips` })}</p>
         </section>
       </div>

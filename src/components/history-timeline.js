@@ -12,7 +12,7 @@ import {
   cardLink,
   logoImage,
   versionText
-} from './historyTimeline.module.styl'
+} from './history-timeline.module.styl'
 
 const HistoryTimline = props => {
   const intl = useIntl()

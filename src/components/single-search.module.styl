@@ -45,14 +45,11 @@ mq-tablet = 'screen and (max-width: 992px)'
 .search-inner form
   background-color var(--single-search-form)
 
-.search-inner > div
+.show-result > section
+  display block
   background-color var(--single-search-form)
   top 50px
-  border-radius 0 0 5px 5px
-  border-top 1px solid var(--border-color-secondary)
+  border-top none
 
-.show-result
-  display block
-
-.show-result ~ form
-  border-radius 5px 5px 0 0
+.show-result > form
+  border-radius size-mini size-mini 0 0

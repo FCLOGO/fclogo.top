@@ -7,14 +7,17 @@ size-mini = 6px
 // Media queries
 mq-tablet = 'screen and (max-width: 992px)'
 
+// search-box
 .alg-form
   background-color var(--search-box-bg)
+  border 1px solid var(--border-color-primary)
   height header-height
   line-height header-height
-  border-radius 5px
+  border-radius size-mini
   display flex
   flex-wrap nowrap
-  align-items space-between
+  justify-content space-between
+  align-items center
 
 .alg-input
   color var(--search-text-color)
@@ -45,12 +48,13 @@ mq-tablet = 'screen and (max-width: 992px)'
 .search-icon
   flex 0 auto
   width 100px
-  height header-height
+  height 60px
   background-color var(--btn-color-primary)
   cursor pointer
   border none
   padding 15px
-  border-radius 5px
+  margin-right -1px
+  border-radius size-mini
   fill var(--header-text-color)
   &:hover
     background-color var(--btn-color-secondary)

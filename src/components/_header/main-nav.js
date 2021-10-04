@@ -1,6 +1,6 @@
 import React from 'react'
 
-import MainMenu from './mainMenu'
+import MainMenu from './main-menu'
 import MenuIcon from '../../../static/assets/icons/menu.inline.svg'
 import CloseIcon from '../../../static/assets/icons/close.inline.svg'
 
@@ -13,7 +13,7 @@ import {
   mainMenuModal,
   mainMenuClose,
   closeIcon
-} from './mainNav.module.styl'
+} from './main-nav.module.styl'
 
 const MainNav = ({ pageContext }) => {
   return (

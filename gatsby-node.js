@@ -72,7 +72,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   detail.data.allLogo.edges.forEach(({ node, next, previous }) => {
     createPage({
       path: node.slug,
-      component: path.resolve(`./src/templates/logoDetail.js`),
+      component: path.resolve(`./src/templates/logo-detail.js`),
       context: {
         slug: node.slug,
         next,
@@ -104,6 +104,11 @@ exports.createResolvers = ({ createResolvers }) => {
                 id: {
                   ne: source.id
                 },
+                fields: {
+                  locale: {
+                    eq: source.fields.locale
+                  }
+                },
                 sourceID: {
                   eq: source.sourceID
                 },
@@ -125,6 +130,11 @@ exports.createResolvers = ({ createResolvers }) => {
                 // version: {
                 //   ne: source.version
                 // },
+                fields: {
+                  locale: {
+                    eq: source.fields.locale
+                  }
+                },
                 sourceID: {
                   eq: source.sourceID
                 },
@@ -145,6 +155,11 @@ exports.createResolvers = ({ createResolvers }) => {
               filter: {
                 sourceID: {
                   eq: source.sourceID
+                },
+                fields: {
+                  locale: {
+                    eq: source.fields.locale
+                  }
                 }
               }
             },

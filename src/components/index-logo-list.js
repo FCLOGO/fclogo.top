@@ -20,7 +20,7 @@ import {
   formatItem,
   nothingContainer,
   nothingText
-} from './indexLogoList.module.styl'
+} from './index-logo-list.module.styl'
 
 const LogoList = ({ data }) => {
   const intl = useIntl()

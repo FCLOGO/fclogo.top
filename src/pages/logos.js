@@ -6,7 +6,7 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import Search from '../components/singleSearch'
+import Search from '../components/single-search'
 
 import {
   mainContent,
@@ -82,7 +82,7 @@ const AllLogo = ({ data, pageContext }) => {
   return (
     <Layout pageContext={pageContext}>
       <Seo title={intl.formatMessage({ id: 'home.title' })} />
-      <Search />
+      <Search locale={pageContext.locale} />
       <div className={mainContent}>
         <section className={logosWrapper}>
           <div className={adsenseContainer}>

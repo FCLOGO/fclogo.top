@@ -3,7 +3,7 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import PageHero from '../components/pageHero'
+import PageHero from '../components/page-hero'
 
 import { mainContent, inner, separator } from './news.module.styl'
 

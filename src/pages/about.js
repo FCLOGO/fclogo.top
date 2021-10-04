@@ -5,7 +5,7 @@ import { LocalizedLink } from 'gatsby-plugin-usei18n'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import PageHero from '../components/pageHero'
+import PageHero from '../components/page-hero'
 
 import LogoIcon from '../../static/assets/icons/logo.inline.svg'
 import ClubIcon from '../../static/assets/icons/club.inline.svg'

@@ -2,14 +2,14 @@ import React from 'react'
 import { useIntl } from 'react-intl'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
 
-import HeaderToggle from './headerToggle'
+import HeaderToggle from './header-toggle'
 
 import {
   mainMenuWrapper,
   mainMenuList,
   mainMenuListItem,
   mainMenuLink
-} from './mainMenu.module.styl'
+} from './main-menu.module.styl'
 
 const ListLink = props => (
   <li className={mainMenuListItem}>

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { heroWrapper, heroContent, heroSlogan } from './pageHero.module.styl'
+import { heroWrapper, heroContent, heroSlogan } from './page-hero.module.styl'
 
 const PageHero = ({ pageSlogan }) => {
   return (

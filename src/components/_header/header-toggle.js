@@ -27,7 +27,7 @@ import {
   donateButton,
   donateIcon,
   donateText
-} from './headerToggle.module.styl'
+} from './header-toggle.module.styl'
 
 const HeaderToggle = ({ pageContext }) => {
   const intl = useIntl()

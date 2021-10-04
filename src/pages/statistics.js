@@ -3,7 +3,7 @@ import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
-import Search from '../components/singleSearch'
+import Search from '../components/single-search'
 
 import { mainContent } from './statistics.module.styl'
 
@@ -12,7 +12,7 @@ const Statistics = ({ pageContext }) => {
   return (
     <Layout pageContext={pageContext}>
       <Seo title={intl.formatMessage({ id: 'statistics.title' })} />
-      <Search />
+      <Search locale={pageContext.locale} />
       <div className={mainContent}>
         <h1>{intl.formatMessage({ id: 'statistics.subtitle' })}</h1>
       </div>
