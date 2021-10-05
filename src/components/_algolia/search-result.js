@@ -21,7 +21,6 @@ import {
   hitsLink,
   hitsImage,
   hitsTitle,
-  localTitle,
   poweredBy
 } from './search-result.module.styl'
 
