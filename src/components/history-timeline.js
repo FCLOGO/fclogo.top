@@ -3,6 +3,8 @@ import { useIntl } from 'react-intl'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
 
+import ModalLink from './modal-link'
+
 import {
   timelineWrapper,
   timelineInner,
@@ -24,7 +26,7 @@ const HistoryTimline = props => {
         <div className={logoContainer}>
           {sortLogos.map(logo => (
             <article key={logo.id} className={logoCard}>
-              <LocalizedLink
+              <ModalLink
                 to={logo.slug}
                 className={cardLink}
                 state={{
@@ -38,7 +40,7 @@ const HistoryTimline = props => {
                   className={logoImage}
                 />
                 <span className={versionText}>{logo.version}</span>
-              </LocalizedLink>
+              </ModalLink>
             </article>
           ))}
         </div>

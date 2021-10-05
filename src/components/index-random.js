@@ -2,6 +2,7 @@ import React from 'react'
 import { useIntl } from 'react-intl'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
+import ModalLink from './modal-link'
 
 import {
   cardsWrapper,
@@ -29,7 +30,7 @@ const RandomLogo = ({ data }) => {
           .map(node => (
             <article key={node.id} className={logoCard}>
               <div>
-                <LocalizedLink
+                <ModalLink
                   className={cardLink}
                   to={node.slug}
                   state={{
@@ -41,7 +42,7 @@ const RandomLogo = ({ data }) => {
                     image={getImage(node.pngPath)}
                     alt={node.detailInfo[0].info[0].fullName[1]}
                   />
-                </LocalizedLink>
+                </ModalLink>
               </div>
             </article>
           ))}

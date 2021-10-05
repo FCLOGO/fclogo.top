@@ -2,6 +2,7 @@ import React from 'react'
 import { useIntl } from 'react-intl'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
+import ModalLink from './modal-link'
 
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 
@@ -38,7 +39,7 @@ const LogoList = ({ data }) => {
         <div className={cardsContainer}>
           {data.allLogo.nodes.slice(0, 12).map(node => (
             <article key={node.id}>
-              <LocalizedLink
+              <ModalLink
                 className={cardLink}
                 to={node.slug}
                 state={{
@@ -61,7 +62,7 @@ const LogoList = ({ data }) => {
                     ))}
                   </ul>
                 </footer>
-              </LocalizedLink>
+              </ModalLink>
             </article>
           ))}
         </div>

@@ -6,8 +6,9 @@ import { useIntl } from 'react-intl'
 
 // import Layout from '../components/layout'
 import ConditionalLayout from '../components/conditional-layout'
+import ModalLink from '../components/modal-link'
 import Seo from '../components/seo'
-import Search from '../components/single-search'
+// import Search from '../components/single-search'
 import DetailSidebar from '../components/detail-sidebar'
 
 import {
@@ -67,13 +68,20 @@ const LogoDeatil = ({ data, pageContext }) => {
                         </li>
                         {data.logo.styleMode.map(item => (
                           <li key={item.id} className={styleItem}>
-                            <LocalizedLink className={styleLink} to={item.slug}>
+                            <ModalLink
+                              className={styleLink}
+                              to={item.slug}
+                              state={{
+                                modal: true,
+                                noScroll: true
+                              }}
+                            >
                               <GatsbyImage
                                 image={getImage(item.pngPath)}
                                 alt={item.detailInfo[0].info[0].fullName[1]}
                                 className={styleImage}
                               />
-                            </LocalizedLink>
+                            </ModalLink>
                           </li>
                         ))}
                       </ul>
@@ -100,7 +108,7 @@ const LogoDeatil = ({ data, pageContext }) => {
             <section className={detailNav}>
               <div className={linkWrapper}>
                 {previous ? (
-                  <LocalizedLink
+                  <ModalLink
                     className={previousLink}
                     to={previous.slug}
                     state={{
@@ -109,14 +117,14 @@ const LogoDeatil = ({ data, pageContext }) => {
                     }}
                   >
                     <ArrowIcon className={arrowIcon} />
-                  </LocalizedLink>
+                  </ModalLink>
                 ) : (
                   ''
                 )}
               </div>
               <div className={linkWrapper}>
                 {next ? (
-                  <LocalizedLink
+                  <ModalLink
                     className={nextLink}
                     to={next.slug}
                     state={{
@@ -125,7 +133,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                     }}
                   >
                     <ArrowIcon className={arrowIcon} />
-                  </LocalizedLink>
+                  </ModalLink>
                 ) : (
                   ''
                 )}
