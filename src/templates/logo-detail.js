@@ -93,7 +93,6 @@ const LogoDeatil = ({ data, pageContext }) => {
               </section>
               <DetailSidebar
                 version={data.logo.version}
-                fullName={data.logo.detailInfo[0].info[0].fullName[1]}
                 pngURL={data.logo.pngPath.publicURL}
                 svgURL={data.logo.svgPath.publicURL}
                 type={data.logo.detailInfo[0].type}
@@ -104,7 +103,11 @@ const LogoDeatil = ({ data, pageContext }) => {
                 wikiURL={data.logo.detailInfo[0].wikiURL}
               />
             </section>
-            {data.logo.logoHistory.length ? <HistoryTimline logos={data.logo.logoHistory} /> : ''}
+            {data.logo.logoHistory.length > 1 ? (
+              <HistoryTimline logos={data.logo.logoHistory} />
+            ) : (
+              ''
+            )}
             <section className={detailNav}>
               <div className={linkWrapper}>
                 {previous ? (
@@ -189,6 +192,7 @@ export const query = graphql`
         type
         info {
           fullName
+          shortName
           localName
           city
           founded
