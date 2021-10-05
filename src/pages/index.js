@@ -18,7 +18,7 @@ const IndexPage = ({ data, pageContext }) => {
       <Hero totalCount={data.allLogo.totalCount} locale={pageContext.locale} />
       <div className={mainContent}>
         <LogoList data={data} />
-        {data.allLogo.nodes.length > 10 ? <RandomList data={data} /> : ''}
+        {data.allLogo.nodes.length > 50 ? <RandomList data={data} /> : ''}
       </div>
     </Layout>
   )
