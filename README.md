@@ -16,7 +16,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 - All logos work with SVG and PNG.
 - No account and unlimited downloads for free.
 - Support for searching using localized names.
-- Two color formats: multicolor and monochrome.
+- Two color modes: multicolor and monochrome.
 - Logo history timeline.
 - ...
 
