@@ -80,7 +80,7 @@ const ListItem = ({ item }) => {
 const SupportTemplate = ({ data, pageContext }) => {
   const intl = useIntl()
   const group = data.allFile.group
-  const sortBy = ['support', 'terms', 'release']
+  const sortBy = ['support', '帮助', 'terms', '条款', 'release', '发布']
   const customSort = ({ data, sortBy, sortField }) => {
     const sortByObject = sortBy.reduce(
       (obj, item, index) => ({

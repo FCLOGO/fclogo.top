@@ -1,0 +1,30 @@
+- data: sourceInfo
+  sourceID: cfa-club-001
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Shandong Taishan Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Shandong Taishan'
+      localName:
+        - 'Local Name'
+        - '山东泰山足球俱乐部'
+      city:
+        - 'City'
+        - 'Jinan, China'
+      founded:
+        - 'Founded'
+        - '1993'
+      ground:
+        - 'Ground'
+        - 'Jinan Olympic Sports Center Stadium'
+      league:
+        - 'League'
+        - 'Chinese Football Association Super League'
+  weiboURL: 'https://weibo.com/u/1911180293'
+  twitterURL: ''
+  websiteURL: 'http://www.lnts.com.cn'
+  wikiURL: 'https://zh.wikipedia.org/wiki/山东泰山足球俱乐部'

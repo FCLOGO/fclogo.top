@@ -93,6 +93,7 @@ const LogoDeatil = ({ data, pageContext }) => {
               </section>
               <DetailSidebar
                 version={data.logo.version}
+                fullName={data.logo.detailInfo[0].info[0].fullName[1]}
                 pngURL={data.logo.pngPath.publicURL}
                 svgURL={data.logo.svgPath.publicURL}
                 type={data.logo.detailInfo[0].type}

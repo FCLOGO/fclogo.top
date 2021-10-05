@@ -10,7 +10,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `FCLOGO`,
-    description: `Collection of football club vector logos. All logos work with SVG and AI. No account and unlimited downloads for free.`,
+    description: `Collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.`,
     keywords: `football,football club,logo,vector,vector logo,football logo,football badge,AI,SVG`,
     author: `@fclogo`,
     siteUrl: `https://fclogo.top/`
