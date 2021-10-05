@@ -2,6 +2,8 @@ import React from 'react'
 import { useIntl } from 'react-intl'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
 
+import Adsense from './adsense'
+
 import DownloadIcon from '../../static/assets/icons/download.inline.svg'
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
@@ -56,7 +58,9 @@ const DetailSidebar = props => {
   const intl = useIntl()
   return (
     <aside className={detailSidebar}>
-      <div className={googleAds}>Google Adsense</div>
+      <div className={googleAds}>
+        <Adsense />
+      </div>
       <div className={detailHeader}>
         <span className={logoVersion}>
           {intl.formatMessage({ id: 'sidebar.logoVer' })}
