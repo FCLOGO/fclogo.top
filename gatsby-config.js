@@ -22,23 +22,17 @@ module.exports = {
     `gatsby-plugin-dark-mode`,
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-adsense`,
-    //   options: {
-    //     publisherId: `ca-pub-9573165480183467`
-    //   }
-    // },
-    // {
-    //   resolve: `gatsby-plugin-google-gtag`,
-    //   options: {
-    //     trackingIds: ['G-FLQ3DMRD17'],
-    //     pluginConfig: {
-    //       head: true,
-    //       respectDNT: true,
-    //       exclude: ['/preview/**', '/do-not-track/me/too/']
-    //     }
-    //   }
-    // },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ['G-FLQ3DMRD17'],
+        pluginConfig: {
+          head: true,
+          respectDNT: true,
+          exclude: ['/preview/**', '/do-not-track/me/too/']
+        }
+      }
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

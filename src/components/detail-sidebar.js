@@ -68,9 +68,7 @@ const DetailSidebar = props => {
   const intl = useIntl()
   return (
     <aside className={detailSidebar}>
-      <div className={googleAds}>
-        <DetailAdsense />
-      </div>
+      <div className={googleAds}>{/* <DetailAdsense /> */}</div>
       <div className={detailHeader}>
         <span className={logoVersion}>
           {intl.formatMessage({ id: 'sidebar.logoVer' })}
