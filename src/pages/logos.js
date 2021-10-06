@@ -7,6 +7,7 @@ import { useIntl } from 'react-intl'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
 import Search from '../components/single-search'
+import ModalLink from '../components/modal-link'
 
 import {
   mainContent,
@@ -93,7 +94,7 @@ const AllLogo = ({ data, pageContext }) => {
               <div className={logosContainer}>
                 {list.map(logo => (
                   <article key={logo.id}>
-                    <LocalizedLink
+                    <ModalLink
                       className={cardLink}
                       to={logo.slug}
                       state={{
@@ -116,7 +117,7 @@ const AllLogo = ({ data, pageContext }) => {
                           ))}
                         </ul>
                       </footer>
-                    </LocalizedLink>
+                    </ModalLink>
                   </article>
                 ))}
               </div>
