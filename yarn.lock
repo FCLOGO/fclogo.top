@@ -6727,14 +6727,13 @@ gatsby-plugin-typescript@^3.14.0:
     "@babel/runtime" "^7.15.4"
     babel-plugin-remove-graphql-queries "^3.14.0"
 
-gatsby-plugin-usei18n@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.7.tgz#f98b908038afceb8d9b84305447b067c3af39ab1"
-  integrity sha512-5pstY93gjtTPzWSwHbseIaCofWD9gGcgq0g6j/T5LdKyo7lH8wjD95U7D/xXsQW8umpyAVr9JO+tlbPAt+Xdrg==
+gatsby-plugin-usei18n@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.8.tgz#fbef619e0cdd42e921a61bb33e99e98e1d49e5b1"
+  integrity sha512-CBt3/SM0x74BoeaOgtMYP3TOdkI/30M4kr7k8g0En56tXZMzpZrrLj39QQTaBY0obmWHQFfyzLwm58hekYzBiQ==
   dependencies:
     browser-lang "^0.1.0"
     gatsby-plugin-react-helmet "^4.14.0"
-    react-device-detect "^2.0.1"
     react-helmet "^6.1.0"
     react-intl "^5.20.12"
 
@@ -10922,13 +10921,6 @@ react-dev-utils@^11.0.3:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
-react-device-detect@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/react-device-detect/-/react-device-detect-2.0.1.tgz#663530bafe1dad333b67eae4252556244f45c2fc"
-  integrity sha512-DrDKiKky/L/DSEJUw5CL2I38s/18zCLIoKP4pE4CyO1FyL6XhQZMIjHmv0pbYQBlfdKB+ZUXP53tWeLkt0eqJw==
-  dependencies:
-    ua-parser-js "^0.7.28"
-
 react-dom@^17.0.1, react-dom@^17.0.2:
   version "17.0.2"
   resolved "https://registry.nlark.com/react-dom/download/react-dom-17.0.2.tgz#ecffb6845e3ad8dbfcdc498f0d0a939736502c23"
@@ -12820,11 +12812,6 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-ua-parser-js@^0.7.28:
-  version "0.7.28"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
-  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 unbox-primitive@^1.0.1:
   version "1.0.1"
