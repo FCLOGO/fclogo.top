@@ -53,4 +53,4 @@ For casual chit-chat:
 
 ## ☕️ BUY ME A COFFEE
 
-[Buy Me a Coffee](https://fclogo.top/sopnsor)
+[Buy Me a Coffee](https://fclogo.top/sponsor)

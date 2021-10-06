@@ -11,6 +11,7 @@ import RandomList from '../components/index-random'
 import { mainContent } from './index.module.styl'
 
 const IndexPage = ({ data, pageContext }) => {
+  console.log(window.location.href)
   const intl = useIntl()
   return (
     <Layout pageContext={pageContext}>
