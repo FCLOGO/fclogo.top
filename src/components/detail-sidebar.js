@@ -1,8 +1,7 @@
 import React from 'react'
 import { useIntl } from 'react-intl'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
-
-import Adsense from './adsense'
+import AdSense from 'react-adsense'
 
 import DownloadIcon from '../../static/assets/icons/download.inline.svg'
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
@@ -34,6 +33,17 @@ import {
   bugIcon
 } from './detail-sidebar.module.styl'
 
+const DetailAdsense = () => {
+  return (
+    <AdSense.Google
+      client="ca-pub-9573165480183467"
+      slot="1355874422"
+      format="auto"
+      responsive="true"
+    />
+  )
+}
+
 const InfoTable = ({ info }) => {
   const newInfo = {}
   Object.entries(info)
@@ -58,7 +68,9 @@ const DetailSidebar = props => {
   const intl = useIntl()
   return (
     <aside className={detailSidebar}>
-      <div className={googleAds}>{/* <Adsense /> */}</div>
+      <div className={googleAds}>
+        <DetailAdsense />
+      </div>
       <div className={detailHeader}>
         <span className={logoVersion}>
           {intl.formatMessage({ id: 'sidebar.logoVer' })}
