@@ -60,7 +60,7 @@ mq-tablet = 'screen and (max-width: 992px)'
   flex-flow row nowrap
   justify-content space-between
   align-content center
-  align-items flex-start
+  align-items center
   padding 0 size-normal
   border-top 1px solid var(--logo-card-border)
 
@@ -84,9 +84,8 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .format-item
   font-size 12px
-  line-height 20px
-  height 20px
-  margin 20px 0
+  line-height size-normal
+  height size-normal
   padding 0 3px
   border-radius 3px
   background-color var(--btn-color-primary)
@@ -94,6 +93,20 @@ mq-tablet = 'screen and (max-width: 992px)'
   text-transform uppercase
   &:first-child
     margin-right 5px
+
+.style-badge
+  flex 0 auto
+  margin 0
+  padding 0
+  line-height size-normal
+  text-transform uppercase
+  font-size 12px
+  font-weight 700
+  height size-normal
+  padding 0 3px
+  border-radius 3px
+  background-color var(--btn-color-primary)
+  color var(--header-text-color)
 
 .load-ref-container
   padding-top header-height

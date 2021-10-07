@@ -34,12 +34,12 @@ export const query = graphql`
     ) {
       nodes {
         id
+        style
         pngPath {
           childImageSharp {
             gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
           }
         }
-        fileFormat
         slug
         detailInfo {
           info {

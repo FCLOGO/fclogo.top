@@ -20,6 +20,7 @@ import {
   logoName,
   formatList,
   formatItem,
+  styleBadge,
   loadRefContainer,
   nothingContainer,
   nothingText
@@ -109,13 +110,14 @@ const AllLogo = ({ data, pageContext }) => {
                       />
                       <footer className={cardFooter}>
                         <h3 className={logoName}>{logo.detailInfo[0].info[0].shortName[1]}</h3>
-                        <ul className={formatList}>
+                        {/* <ul className={formatList}>
                           {logo.fileFormat.map(item => (
                             <li key={item} className={formatItem}>
                               {item}
                             </li>
                           ))}
-                        </ul>
+                        </ul> */}
+                        <span className={styleBadge}>{logo.style}</span>
                       </footer>
                     </ModalLink>
                   </article>
@@ -152,12 +154,12 @@ export const query = graphql`
     ) {
       nodes {
         id
+        style
         pngPath {
           childImageSharp {
             gatsbyImageData(width: 300, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
           }
         }
-        fileFormat
         slug
         detailInfo {
           info {
@@ -166,7 +168,6 @@ export const query = graphql`
           }
         }
       }
-      totalCount
     }
   }
 `

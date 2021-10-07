@@ -19,6 +19,7 @@ import {
   logoName,
   formatList,
   formatItem,
+  styleBadge,
   nothingContainer,
   nothingText
 } from './index-logo-list.module.styl'
@@ -54,13 +55,14 @@ const LogoList = ({ data }) => {
                 />
                 <footer className={cardFooter}>
                   <h3 className={logoName}>{node.detailInfo[0].info[0].shortName[1]}</h3>
-                  <ul className={formatList}>
+                  {/* <ul className={formatList}>
                     {node.fileFormat.map(item => (
                       <li key={item} className={formatItem}>
                         {item}
                       </li>
                     ))}
-                  </ul>
+                  </ul> */}
+                  <span className={styleBadge}>{node.style}</span>
                 </footer>
               </ModalLink>
             </article>
