@@ -199,6 +199,12 @@ export const query = graphql`
           founded
           ground
           league
+          headquarter
+          affiliations
+          confederation
+          teams
+          level
+          relegation
         }
         websiteURL
         weiboURL

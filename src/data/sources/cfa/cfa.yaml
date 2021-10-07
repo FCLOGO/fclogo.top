@@ -1,3 +1,67 @@
+# Associations
+- data: sourceInfo
+  sourceID: cfa-assn-001
+  type: Association
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Chinese Football Association'
+      shortName:
+        - 'Short Name'
+        - 'CFA'
+      localName:
+        - 'Local Name'
+        - '中国足球协会'
+      founded:
+        - 'Founded'
+        - '1955'
+      headquarter:
+        - 'Headquarter'
+        - 'Beijing, China'
+      affiliations:
+        - 'Affiliate With'
+        - 'EAFF  ▸  AFC  ▸  FIFA'
+  weiboURL: 'https://weibo.com/u/2428962854'
+  twitterURL: 'https://twitter.com/CFA'
+  websiteURL: 'http://www.thecfa.cn'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Football_Association'
+
+# Competitions
+- data: sourceInfo
+  sourceID: cfa-comp-001
+  type: Competition
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Chinese Football Association Super League'
+      shortName:
+        - 'Short Name'
+        - 'CFA Super League'
+      localName:
+        - 'Local Name'
+        - '中国足球协会超级联赛'
+      founded:
+        - 'Founded'
+        - '2004'
+      confederation:
+        - 'Confederation'
+        - 'AFC'
+      teams:
+        - 'Number of Teams'
+        - '16'
+      level:
+        - 'Level on'
+        - '1'
+      relegation:
+        - 'Relegation to'
+        - 'China League One'
+  weiboURL: 'https://weibo.com/u/1800991937'
+  websiteURL: 'http://csl-china.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Super_League'
+
+# Clubs
 - data: sourceInfo
   sourceID: cfa-club-001
   type: Club
@@ -27,4 +91,4 @@
   weiboURL: 'https://weibo.com/u/1911180293'
   twitterURL: ''
   websiteURL: 'http://www.lnts.com.cn'
-  wikiURL: 'https://zh.wikipedia.org/wiki/山东泰山足球俱乐部'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shandong_Taishan_F.C.'

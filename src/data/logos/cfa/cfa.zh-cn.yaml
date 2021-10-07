@@ -1,3 +1,60 @@
+# Associations
+- data: logo
+  version: 2018
+  pngPath: 'assns/chinese-football-association.png'
+  svgPath: 'assns/svg/chinese-football-association.svg'
+  sourceID: cfa-assn-001
+  style: color
+  slug: /chinese-football-association
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- data: logo
+  version: 2018
+  pngPath: 'assns/chinese-football-association-mono.png'
+  svgPath: 'assns/svg/chinese-football-association-mono.svg'
+  sourceID: cfa-assn-001
+  style: mono
+  slug: /chinese-football-association-mono
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- data: logo
+  version: 2018
+  pngPath: 'assns/chinese-football-association-text.png'
+  svgPath: 'assns/svg/chinese-football-association-text.svg'
+  sourceID: cfa-assn-001
+  style: text
+  slug: /chinese-football-association-text
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+# Competitions
+- data: logo
+  version: 2004
+  pngPath: 'comps/cfa-super-league.png'
+  svgPath: 'comps/svg/cfa-super-league.svg'
+  sourceID: cfa-comp-001
+  style: color
+  slug: /cfa-super-league
+  fileFormat:
+    - 'png'
+    - 'svg'
+
+- data: logo
+  version: 2004
+  pngPath: 'comps/cfa-super-league-mono.png'
+  svgPath: 'comps/svg/cfa-super-league-mono.svg'
+  sourceID: cfa-comp-001
+  style: mono
+  slug: /cfa-super-league-mono
+  fileFormat:
+    - 'png'
+    - 'svg'
+
 # Clubs
 - data: logo
   version: 1999

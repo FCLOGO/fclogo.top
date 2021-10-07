@@ -1,3 +1,67 @@
+# Associations
+- data: sourceInfo
+  sourceID: cfa-assn-001
+  type: 协会
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '中国足球协会'
+      shortName:
+        - '简称'
+        - '中国足协'
+      localName:
+        - '本地名称'
+        - '中国足球协会'
+      founded:
+        - '成立'
+        - '1955'
+      headquarter:
+        - '总部'
+        - '北京，中国'
+      affiliations:
+        - '隶属于'
+        - '东亚足联  ▸  亚足联  ▸  国际足联'
+  weiboURL: 'https://weibo.com/u/2428962854'
+  twitterURL: 'https://twitter.com/CFA'
+  websiteURL: 'http://www.thecfa.cn'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会'
+
+# Competitions
+- data: sourceInfo
+  sourceID: cfa-comp-001
+  type: 赛事
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '中国足球协会超级联赛'
+      shortName:
+        - '简称'
+        - '中超联赛'
+      localName:
+        - '本地名称'
+        - '中国足球协会超级联赛'
+      founded:
+        - '成立'
+        - '2004'
+      confederation:
+        - '所属联盟'
+        - 'AFC'
+      teams:
+        - '俱乐部数量'
+        - '16'
+      level:
+        - '联赛等级'
+        - '1'
+      relegation:
+        - '降级至'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/1800991937'
+  websiteURL: 'http://csl-china.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会超级联赛'
+
+# Clubs
 - data: sourceInfo
   sourceID: cfa-club-001
   type: 俱乐部
@@ -14,7 +78,7 @@
         - '山东泰山足球俱乐部'
       city:
         - '城市'
-        - '济南, 中国'
+        - '济南，中国'
       founded:
         - '成立'
         - '1993'
@@ -25,6 +89,5 @@
         - '联赛'
         - '中国足球协会超级联赛'
   weiboURL: 'https://weibo.com/u/1911180293'
-  twitterURL: ''
   websiteURL: 'http://www.lnts.com.cn'
-  wikiURL: 'https://en.wikipedia.org/wiki/Shandong_Taishan_F.C.'
+  wikiURL: 'https://zh.wikipedia.org/wiki/山东泰山足球俱乐部'
