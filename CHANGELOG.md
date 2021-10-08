@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/FCLOGO/fclogo.top/compare/v1.0.1...v1.0.2) (2021-10-08)
+
+
+### Bug Fixes
+
+* :bug: fix algolia league err ([e9f788e](https://github.com/FCLOGO/fclogo.top/commit/e9f788e08bfb71d3d097f03062fef863fe81f452))
+
 ### [1.0.1](https://github.com/FCLOGO/fclogo.top/compare/v1.0.0...v1.0.1) (2021-10-07)
 
 
