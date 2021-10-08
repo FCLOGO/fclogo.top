@@ -16,7 +16,7 @@ import {
   googleAds,
   detailHeader,
   logoVersion,
-  logoTitle,
+  detailTitle,
   detailDownload,
   pngButton,
   svgButton,
@@ -69,13 +69,17 @@ const DetailSidebar = props => {
   return (
     <aside className={detailSidebar}>
       <div className={googleAds}>{/* <DetailAdsense /> */}</div>
-      <div className={detailHeader}>
+      <header className={detailHeader}>
         <span className={logoVersion}>
           {intl.formatMessage({ id: 'sidebar.logoVer' })}
           {props.version}
+          {props.isDoubtful ? intl.formatMessage({ id: 'sidebar.doubtful' }) : ''}
         </span>
-        <h1 className={logoTitle}>{props.fullName}</h1>
-      </div>
+        <div className={detailTitle}>
+          <h1>{props.fullName}</h1>
+          <span>{props.status ? intl.formatMessage({ id: 'sidebar.disband' }) : ''}</span>
+        </div>
+      </header>
       <div className={detailDownload}>
         <a href={props.pngURL} download className={pngButton}>
           <span>PNG</span>

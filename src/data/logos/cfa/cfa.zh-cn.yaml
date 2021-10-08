@@ -1,58 +1,123 @@
 # Associations
 - data: logo
   version: 2018
-  pngPath: 'assns/chinese-football-association.png'
-  svgPath: 'assns/svg/chinese-football-association.svg'
+  verName: CFA
+  pngPath: 'assns/chinese-football-association-v2018.png'
+  svgPath: 'assns/svg/chinese-football-association-v2018.svg'
   sourceID: cfa-assn-001
   style: color
-  slug: /chinese-football-association
+  slug: /chinese-football-association-v2018
 
 - data: logo
   version: 2018
-  pngPath: 'assns/chinese-football-association-mono.png'
-  svgPath: 'assns/svg/chinese-football-association-mono.svg'
+  verName: CFA
+  pngPath: 'assns/chinese-football-association-v2018-mono.png'
+  svgPath: 'assns/svg/chinese-football-association-v2018-mono.svg'
   sourceID: cfa-assn-001
   style: mono
-  slug: /chinese-football-association-mono
+  slug: /chinese-football-association-v2018-mono
 
 - data: logo
   version: 2018
-  pngPath: 'assns/chinese-football-association-text.png'
-  svgPath: 'assns/svg/chinese-football-association-text.svg'
+  verName: CFA
+  pngPath: 'assns/chinese-football-association-v2018-text.png'
+  svgPath: 'assns/svg/chinese-football-association-v2018-text.svg'
   sourceID: cfa-assn-001
   style: text
-  slug: /chinese-football-association-text
+  slug: /chinese-football-association-v2018-text
 
 # Competitions
 - data: logo
+  verName: 中超
   version: 2004
-  pngPath: 'comps/cfa-super-league.png'
-  svgPath: 'comps/svg/cfa-super-league.svg'
+  pngPath: 'comps/cfa-super-league-v2004.png'
+  svgPath: 'comps/svg/cfa-super-league-v2004.svg'
   sourceID: cfa-comp-001
   style: color
-  slug: /cfa-super-league
+  slug: /cfa-super-league-v2004
 
 - data: logo
   version: 2004
-  pngPath: 'comps/cfa-super-league-mono.png'
-  svgPath: 'comps/svg/cfa-super-league-mono.svg'
+  verName: 中超
+  pngPath: 'comps/cfa-super-league-v2004-mono.png'
+  svgPath: 'comps/svg/cfa-super-league-v2004-mono.svg'
   sourceID: cfa-comp-001
   style: mono
-  slug: /cfa-super-league-mono
+  slug: /cfa-super-league-v2004-mono
 
 # Clubs
 - data: logo
   version: 1998
-  pngPath: 'clubs/cfa-shandongtaishan.png'
-  svgPath: 'clubs/svg/cfa-shandongtaishan.svg'
+  verName: 山东泰山
+  pngPath: 'clubs/cfa-shandongtaishan-v1998.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1998.svg'
   sourceID: cfa-club-001
   style: color
-  slug: /cfa-shandongtaishan
+  slug: /cfa-shandongtaishan-v1998
 
 - data: logo
   version: 1998
-  pngPath: 'clubs/cfa-shandongtaishan-mono.png'
-  svgPath: 'clubs/svg/cfa-shandongtaishan-mono.svg'
+  verName: 山东泰山
+  pngPath: 'clubs/cfa-shandongtaishan-v1998-mono.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1998-mono.svg'
   sourceID: cfa-club-001
   style: mono
-  slug: /cfa-shandongtaishan-mono
+  slug: /cfa-shandongtaishan-v1998-mono
+
+- data: logo
+  verName: 山东泰山
+  version: 1993
+  isDoubtful: true
+  pngPath: 'clubs/cfa-shandongtaishan-v1993.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1993.svg'
+  sourceID: cfa-club-001
+  style: color
+  slug: /cfa-shandongtaishan-v1993
+
+- data: logo
+  verName: 山东泰山
+  version: 1993
+  isDoubtful: true
+  pngPath: 'clubs/cfa-shandongtaishan-v1993-mono.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1993-mono.svg'
+  sourceID: cfa-club-001
+  style: mono
+  slug: /cfa-shandongtaishan-v1993-mono
+
+- data: logo
+  verName: 山东济南泰山
+  version: 1995
+  isDoubtful: true
+  pngPath: 'clubs/cfa-shandongtaishan-v1995.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1995.svg'
+  sourceID: cfa-club-001
+  style: color
+  slug: /cfa-shandongtaishan-v1995
+
+- data: logo
+  verName: 山东济南泰山
+  version: 1995
+  isDoubtful: true
+  pngPath: 'clubs/cfa-shandongtaishan-v1995-mono.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1995-mono.svg'
+  sourceID: cfa-club-001
+  style: mono
+  slug: /cfa-shandongtaishan-v1995-mono
+
+- data: logo
+  verName: 济南泰山将军
+  version: 1996
+  pngPath: 'clubs/cfa-shandongtaishan-v1996.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1996.svg'
+  sourceID: cfa-club-001
+  style: color
+  slug: /cfa-shandongtaishan-v1996
+
+- data: logo
+  verName: 济南泰山将军
+  version: 1996
+  pngPath: 'clubs/cfa-shandongtaishan-v1996-mono.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1996-mono.svg'
+  sourceID: cfa-club-001
+  style: mono
+  slug: /cfa-shandongtaishan-v1996-mono

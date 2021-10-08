@@ -65,6 +65,7 @@
 - data: sourceInfo
   sourceID: cfa-club-001
   type: 俱乐部
+  isDisband: false
   nation: China
   info:
     - fullName:

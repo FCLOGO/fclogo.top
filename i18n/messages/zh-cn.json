@@ -74,6 +74,8 @@
   "statistics.subtitle": "建设中.....",
 
   "sidebar.logoVer": "版本：",
+  "sidebar.doubtful": "?",
+  "sidebar.disband": "已解散",
   "sidebar.fileType": ".svg 矢量格式",
   "sidebar.howToEdit": "如何编辑？",
   "sidebar.termTitle": "使用条款",

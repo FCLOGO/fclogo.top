@@ -45,13 +45,33 @@ mq-tablet = 'screen and (max-width: 992px)'
   color var(--btn-text-color)
   border-radius 3px
   width auto
-  margin-bottom size-mini
+  margin-bottom size-small
 
-.logo-title
+.detail-title
+  width 100%
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+  margin-bottom size-small
+
+.detail-title h1
+  flex auto
   font-size 16px
   text-transform capitalize
   padding 0
-  margin-top 0
+  margin 0
+
+.detail-title span
+  flex none
+  font-size 12px
+  text-transform uppercase
+  font-weight 600
+  line-height 1.5
+  background-color var(--text-disabled-color)
+  color var(--btn-text-color)
+  padding 0 size-mini
+  border-radius 3px
 
 .detail-download
   padding 0 size-large

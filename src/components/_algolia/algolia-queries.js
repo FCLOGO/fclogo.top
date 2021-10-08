@@ -7,6 +7,7 @@ const pageQuery = `{
     nodes {
       id
       slug
+      verName
       fields {
         locale
       }
@@ -27,13 +28,14 @@ const pageQuery = `{
   }
 }`
 
-function pageToAlgoliaRecord({ id, slug, fields, detailInfo, league, pngPath, ...rest }) {
+function pageToAlgoliaRecord({ id, slug, fields, verName, detailInfo, league, pngPath, ...rest }) {
   detailInfo[0].info[0].league ? (league = detailInfo[0].info[0].league[1]) : ''
-
+  verName ? verName : ''
   return {
     objectID: id,
     slug,
     locale: fields.locale,
+    verName,
     fullName: detailInfo[0].info[0].fullName[1],
     localName: detailInfo[0].info[0].localName[1],
     shortName: detailInfo[0].info[0].shortName[1],
@@ -51,9 +53,15 @@ const queries = [
     settings: {
       hitsPerPage: 10,
       attributesForFaceting: ['filterOnly(locale)'],
-      searchableAttributes: ['fullName', 'localName', 'shortName', 'league'],
+      searchableAttributes: ['fullName', 'localName', 'shortName', 'verName', 'league'],
       attributesToSnippet: ['localName'],
-      customRanking: ['desc(fullName)', 'desc(localName)', 'desc(shortName)', 'desc(league)']
+      customRanking: [
+        'desc(fullName)',
+        'desc(localName)',
+        'desc(shortName)',
+        'desc(verName)',
+        'desc(league)'
+      ]
     }
   }
 ]

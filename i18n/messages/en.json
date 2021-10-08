@@ -74,6 +74,8 @@
   "statistics.subtitle": "under construction.....",
 
   "sidebar.logoVer": "ver. ",
+  "sidebar.doubtful": "?",
+  "sidebar.disband": "Disbanded",
   "sidebar.fileType": "Vector in .SVG format",
   "sidebar.howToEdit": "How to Edit?",
   "sidebar.termTitle": "Terms of Use",

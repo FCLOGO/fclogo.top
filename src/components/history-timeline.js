@@ -39,7 +39,10 @@ const HistoryTimline = props => {
                   alt={logo.version.toString()}
                   className={logoImage}
                 />
-                <span className={versionText}>{logo.version}</span>
+                <span className={versionText}>
+                  {logo.version}
+                  {logo.isDoubtful ? intl.formatMessage({ id: 'sidebar.doubtful' }) : ''}
+                </span>
               </ModalLink>
             </article>
           ))}
