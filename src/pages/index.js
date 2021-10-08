@@ -29,7 +29,7 @@ export default IndexPage
 export const query = graphql`
   query ($locale: String!) {
     allLogo(
-      sort: { order: DESC, fields: pngPath___birthTime }
+      sort: { order: DESC, fields: uniqueID }
       filter: { fields: { locale: { eq: $locale } } }
     ) {
       nodes {
