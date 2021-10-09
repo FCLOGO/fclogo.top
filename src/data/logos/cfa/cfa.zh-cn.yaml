@@ -54,7 +54,7 @@
 - data: logo
   uniqueID: 20211007-006
   version: 1998
-  verName: 山东泰山
+  verName: 山东鲁能泰山
   pngPath: 'clubs/cfa-shandongtaishan-v1998.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1998.svg'
   sourceID: cfa-club-001
@@ -64,7 +64,7 @@
 - data: logo
   uniqueID: 20211007-007
   version: 1998
-  verName: 山东泰山
+  verName: 山东鲁能泰山
   pngPath: 'clubs/cfa-shandongtaishan-v1998-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1998-mono.svg'
   sourceID: cfa-club-001
@@ -134,3 +134,23 @@
   sourceID: cfa-club-001
   style: mono
   slug: /cfa-shandongtaishan-v1996-mono
+
+- data: logo
+  uniqueID: 20211009-001
+  version: 1997
+  verName: 济南泰山将军
+  pngPath: 'clubs/cfa-shandongtaishan-v1997.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1997.svg'
+  sourceID: cfa-club-001
+  style: color
+  slug: /cfa-shandongtaishan-v1997
+
+- data: logo
+  uniqueID: 20211009-002
+  version: 1997
+  verName: 济南泰山将军
+  pngPath: 'clubs/cfa-shandongtaishan-v1997-mono.png'
+  svgPath: 'clubs/svg/cfa-shandongtaishan-v1997-mono.svg'
+  sourceID: cfa-club-001
+  style: mono
+  slug: /cfa-shandongtaishan-v1997-mono
