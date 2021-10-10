@@ -7032,10 +7032,10 @@ gatsby-plugin-dark-mode@^1.1.2:
   dependencies:
     prop-types "^15.5.7"
 
-gatsby-plugin-firebase-v9.0@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-firebase-v9.0/-/gatsby-plugin-firebase-v9.0-1.0.0.tgz#e2c2f7ea00a0ec2b616f0f69502a8436bc4860e9"
-  integrity sha512-mO97UfStQyEDJei2ruwaOUOSlwE6MsUgzeTEkaYmDgWLuCQseoVvAMfHqfKnpMWi6/Fe30Ym/wjkxupHBPbyGg==
+gatsby-plugin-firebase-v9.0@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-firebase-v9.0/-/gatsby-plugin-firebase-v9.0-1.0.2.tgz#9683d40b95a0d91ca1586ae200aca723fc465bc9"
+  integrity sha512-GczTpys7eVsmPfVQOY15O5K+Vcti8wnUNCbda77vQzij522DrKvx2O4iVbOq8hLRhN4Yfb2Vp5n28EJwZ9cbTA==
 
 gatsby-plugin-google-gtag@^3.14.0:
   version "3.14.0"
@@ -7219,10 +7219,10 @@ gatsby-plugin-typescript@^3.14.0:
     "@babel/runtime" "^7.15.4"
     babel-plugin-remove-graphql-queries "^3.14.0"
 
-gatsby-plugin-usei18n@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.9.tgz#2c17f8f73d103f46b3b2ceddbeb71b14a5d30aaf"
-  integrity sha512-gjApUtbtMiUL3zYQXPuJc43Hw5ARoG9kQQCd7Bcs+7ExNsk387CuqakBvIVCS30E0bHaGvNfG6mWFNSXI5np4g==
+gatsby-plugin-usei18n@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.10.tgz#b03d105cbb471bc37e293cf5a4d7b8c07aca76ec"
+  integrity sha512-lGVFdd2fAN36/oXCOcO60SeImgOsL247xR9ophWPf1+jOeHgSPior2D6nnawqxpfLJTTMooRRz9fbnPTGV1iuw==
   dependencies:
     browser-lang "^0.1.0"
     gatsby-plugin-react-helmet "^4.14.0"

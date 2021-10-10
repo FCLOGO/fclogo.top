@@ -10,8 +10,24 @@ import RandomList from '../components/index-random'
 
 import { mainContent } from './index.module.styl'
 
+import app from 'gatsby-plugin-firebase-v9.0'
+import { getAuth, signInWithEmailAndPassword } from 'firebase/auth'
+
 const IndexPage = ({ data, pageContext }) => {
   const intl = useIntl()
+  const auth = getAuth(app)
+  const email = 'info@fclogo.top'
+  const password = 'Wkn(VsnBFf]x39xn4c2R'
+  signInWithEmailAndPassword(auth, email, password)
+    .then(userCredential => {
+      // Signed in
+      const user = userCredential.user
+      console.log(user)
+    })
+    .catch(error => {
+      const errorMessage = error.message
+      console.log(errorMessage)
+    })
   return (
     <Layout pageContext={pageContext}>
       <Seo title={intl.formatMessage({ id: 'home.title' })} />
