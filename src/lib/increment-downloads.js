@@ -1,13 +1,13 @@
 import app from 'gatsby-plugin-firebase-v9.0'
 import { getDatabase, ref, runTransaction } from 'firebase/database'
 
-const incrementViews = async postId => {
+const IncrementDownloads = async logoId => {
   const db = getDatabase(app)
-  const viewRef = ref(db, 'views/' + postId + '/starCount')
+  const downloadRef = ref(db, 'downloads/' + logoId + '/downloadCount')
 
-  runTransaction(viewRef, post => {
-    return post + 1
+  runTransaction(downloadRef, snapshot => {
+    return snapshot + 1
   })
 }
 
-export default incrementViews
+export default IncrementDownloads

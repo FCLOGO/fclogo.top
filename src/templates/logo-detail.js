@@ -96,6 +96,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                 <DetailSidebar
                   version={data.logo.version}
                   isDoubtful={data.logo.isDoubtful}
+                  slug={data.logo.slug}
                   status={data.logo.detailInfo[0].isDisband}
                   fullName={data.logo.detailInfo[0].info[0].fullName[1]}
                   pngURL={data.logo.pngPath.publicURL}
@@ -170,6 +171,7 @@ export const query = graphql`
   query ($locale: String!, $slug: String!) {
     logo(fields: { locale: { eq: $locale } }, slug: { eq: $slug }) {
       id
+      slug
       version
       isDoubtful
       pngPath {

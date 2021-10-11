@@ -2,6 +2,8 @@ import React from 'react'
 import { useIntl } from 'react-intl'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
 import AdSense from 'react-adsense'
+import IncrementDownloads from '../lib/increment-downloads'
+import DownloadCounter from '../components/download-counter'
 
 import DownloadIcon from '../../static/assets/icons/download.inline.svg'
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
@@ -66,6 +68,7 @@ const InfoTable = ({ info }) => {
 
 const DetailSidebar = props => {
   const intl = useIntl()
+  const pushCounter = () => IncrementDownloads(props.slug)
   return (
     <aside className={detailSidebar}>
       <div className={googleAds}>{/* <DetailAdsense /> */}</div>
@@ -81,11 +84,11 @@ const DetailSidebar = props => {
         </div>
       </header>
       <div className={detailDownload}>
-        <a href={props.pngURL} download className={pngButton}>
+        <a href={props.pngURL} download className={pngButton} onClick={pushCounter}>
           <span>PNG</span>
           <DownloadIcon />
         </a>
-        <a href={props.svgURL} download className={svgButton}>
+        <a href={props.svgURL} download className={svgButton} onClick={pushCounter}>
           <span>SVG</span>
           <DownloadIcon />
         </a>
@@ -109,6 +112,7 @@ const DetailSidebar = props => {
             </LocalizedLink>
           </p>
         </div>
+        <DownloadCounter logoId={props.slug} />
       </div>
       <div className={detailInfo}>
         <h6 className={infoTitle}>
