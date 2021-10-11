@@ -10,11 +10,14 @@ mq-tablet = 'screen and (max-width: 992px)'
 .main-content
   width 100%
   margin 0 auto
+  padding-top 110px
+  display block
+
+.content-inner
   flex 1 auto
   display flex
   flex-flow column wrap
   align-items flex-start
-  padding-top 110px
 
 .detail-wrapper
   width 100%
@@ -149,7 +152,20 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 :global(.modal_content)
   .main-content
-    padding-top 0
+    padding 0 120px
+    margin 0 auto
+    overflow auto
+  .content-inner
+    width 100%
+    margin size-large auto
+    border-radius size-small
+    border 1px solid var(--border-color-secondary)
+    background var(--body-color)
+    position relative
+    overflow hidden
+    min-height calc(100vh - 60px)
+  .logo-holder
+    border-radius size-small 0 0 0
   .detail-wrapper
     z-index 2
   .detail-nav

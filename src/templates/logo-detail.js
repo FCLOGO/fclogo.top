@@ -13,6 +13,7 @@ import DetailSidebar from '../components/detail-sidebar'
 
 import {
   mainContent,
+  contentInner,
   detailWrapper,
   logoHolder,
   holderInner,
@@ -46,105 +47,107 @@ const LogoDeatil = ({ data, pageContext }) => {
         <>
           <Seo title={data.logo.detailInfo[0].info[0].fullName[1]} />
           <div className={mainContent}>
-            <section className={detailWrapper}>
-              <section className={logoHolder}>
-                <div className={holderInner}>
-                  <div className={imageHolder}>
-                    <GatsbyImage
-                      image={getImage(data.logo.pngPath)}
-                      alt={data.logo.detailInfo[0].info[0].fullName[1]}
-                      className={logoImage}
-                    />
-                  </div>
-                  {data.logo.styleMode.length > 0 ? (
-                    <div className={logoStyles}>
-                      <ul className={styleList}>
-                        <li className={`${styleItem} ${current}`}>
-                          <GatsbyImage
-                            image={getImage(data.logo.pngPath)}
-                            alt={data.logo.detailInfo[0].info[0].fullName[1]}
-                            className={styleImage}
-                          />
-                        </li>
-                        {data.logo.styleMode.map(item => (
-                          <li key={item.id} className={styleItem}>
-                            <ModalLink
-                              className={styleLink}
-                              to={item.slug}
-                              state={{
-                                modal: true,
-                                noScroll: true
-                              }}
-                            >
-                              <GatsbyImage
-                                image={getImage(item.pngPath)}
-                                alt={item.detailInfo[0].info[0].fullName[1]}
-                                className={styleImage}
-                              />
-                            </ModalLink>
-                          </li>
-                        ))}
-                      </ul>
+            <div className={contentInner}>
+              <section className={detailWrapper}>
+                <section className={logoHolder}>
+                  <div className={holderInner}>
+                    <div className={imageHolder}>
+                      <GatsbyImage
+                        image={getImage(data.logo.pngPath)}
+                        alt={data.logo.detailInfo[0].info[0].fullName[1]}
+                        className={logoImage}
+                      />
                     </div>
+                    {data.logo.styleMode.length > 0 ? (
+                      <div className={logoStyles}>
+                        <ul className={styleList}>
+                          <li className={`${styleItem} ${current}`}>
+                            <GatsbyImage
+                              image={getImage(data.logo.pngPath)}
+                              alt={data.logo.detailInfo[0].info[0].fullName[1]}
+                              className={styleImage}
+                            />
+                          </li>
+                          {data.logo.styleMode.map(item => (
+                            <li key={item.id} className={styleItem}>
+                              <ModalLink
+                                className={styleLink}
+                                to={item.slug}
+                                state={{
+                                  modal: true,
+                                  noScroll: true
+                                }}
+                              >
+                                <GatsbyImage
+                                  image={getImage(item.pngPath)}
+                                  alt={item.detailInfo[0].info[0].fullName[1]}
+                                  className={styleImage}
+                                />
+                              </ModalLink>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    ) : (
+                      ''
+                    )}
+                  </div>
+                </section>
+                <DetailSidebar
+                  version={data.logo.version}
+                  isDoubtful={data.logo.isDoubtful}
+                  status={data.logo.detailInfo[0].isDisband}
+                  fullName={data.logo.detailInfo[0].info[0].fullName[1]}
+                  pngURL={data.logo.pngPath.publicURL}
+                  svgURL={data.logo.svgPath.publicURL}
+                  type={data.logo.detailInfo[0].type}
+                  tableInfo={data.logo.detailInfo[0].info[0]}
+                  websiteURL={data.logo.detailInfo[0].websiteURL}
+                  weiboURL={data.logo.detailInfo[0].weiboURL}
+                  twitterURL={data.logo.detailInfo[0].twitterURL}
+                  wikiURL={data.logo.detailInfo[0].wikiURL}
+                />
+              </section>
+              {data.logo.logoHistory.length > 1 ? (
+                <HistoryTimline logos={data.logo.logoHistory} />
+              ) : (
+                ''
+              )}
+              <section className={detailNav}>
+                <div className={linkWrapper}>
+                  {previous ? (
+                    <ModalLink
+                      className={previousLink}
+                      to={previous.slug}
+                      state={{
+                        modal: true,
+                        noScroll: true
+                      }}
+                    >
+                      <ArrowIcon className={arrowIcon} />
+                    </ModalLink>
+                  ) : (
+                    ''
+                  )}
+                </div>
+                <div className={linkWrapper}>
+                  {next ? (
+                    <ModalLink
+                      className={nextLink}
+                      to={next.slug}
+                      state={{
+                        modal: true,
+                        noScroll: true
+                      }}
+                    >
+                      <ArrowIcon className={arrowIcon} />
+                    </ModalLink>
                   ) : (
                     ''
                   )}
                 </div>
               </section>
-              <DetailSidebar
-                version={data.logo.version}
-                isDoubtful={data.logo.isDoubtful}
-                status={data.logo.detailInfo[0].isDisband}
-                fullName={data.logo.detailInfo[0].info[0].fullName[1]}
-                pngURL={data.logo.pngPath.publicURL}
-                svgURL={data.logo.svgPath.publicURL}
-                type={data.logo.detailInfo[0].type}
-                tableInfo={data.logo.detailInfo[0].info[0]}
-                websiteURL={data.logo.detailInfo[0].websiteURL}
-                weiboURL={data.logo.detailInfo[0].weiboURL}
-                twitterURL={data.logo.detailInfo[0].twitterURL}
-                wikiURL={data.logo.detailInfo[0].wikiURL}
-              />
-            </section>
-            {data.logo.logoHistory.length > 1 ? (
-              <HistoryTimline logos={data.logo.logoHistory} />
-            ) : (
-              ''
-            )}
-            <section className={detailNav}>
-              <div className={linkWrapper}>
-                {previous ? (
-                  <ModalLink
-                    className={previousLink}
-                    to={previous.slug}
-                    state={{
-                      modal: true,
-                      noScroll: true
-                    }}
-                  >
-                    <ArrowIcon className={arrowIcon} />
-                  </ModalLink>
-                ) : (
-                  ''
-                )}
-              </div>
-              <div className={linkWrapper}>
-                {next ? (
-                  <ModalLink
-                    className={nextLink}
-                    to={next.slug}
-                    state={{
-                      modal: true,
-                      noScroll: true
-                    }}
-                  >
-                    <ArrowIcon className={arrowIcon} />
-                  </ModalLink>
-                ) : (
-                  ''
-                )}
-              </div>
-            </section>
+            </div>
           </div>
         </>
       ) : (
