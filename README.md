@@ -27,7 +27,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 - [ ] Logo News
 - [ ] Site Feed
 - [ ] Logo Package
-- [ ] Number of Logo Downloads
+- [x] Number of Logo Downloads
 
 *For anything you may think necessary tell me by opening an issue or a PR : )!*
 
@@ -35,7 +35,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 
 | COUNTRIES/REGIONS | ASSOCIATIONS | COMPETITIONS | CLUBS | LOGOS |
 | :--: | :--: | :--: | :--: | :--: |
-| 🇨🇳 CHINA | 1 | 1 | 1 | 13 |
+| 🇨🇳 CHINA | 1 | 1 | 1 | 15 |
 
 
 ## 📝 CONTRIBUTING
