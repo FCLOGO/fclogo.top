@@ -20,7 +20,7 @@ const DownloadCounter = ({ logoId }) => {
   return (
     <div className={counterContainer}>
       <CloudIcon />
-      {downloadCount ? downloadCount : `-`}
+      {downloadCount}
       {intl.formatMessage({ id: 'sidebar.downloads' })}
     </div>
   )
