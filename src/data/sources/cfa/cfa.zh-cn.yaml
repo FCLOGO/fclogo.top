@@ -88,7 +88,38 @@
         - '济南奥体中心'
       league:
         - '联赛'
-        - '中国足球协会超级联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/u/1911180293'
   websiteURL: 'http://www.lnts.com.cn'
   wikiURL: 'https://zh.wikipedia.org/wiki/山东泰山足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-002
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '北京国安足球俱乐部'
+      shortName:
+        - '简称'
+        - '北京国安'
+      localName:
+        - '本地名称'
+        - '北京国安足球俱乐部'
+      city:
+        - '城市'
+        - '北京，中国'
+      founded:
+        - '成立'
+        - '1992'
+      ground:
+        - '主场'
+        - '北京工人体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
+  weiboURL: 'https://weibo.com/u/1912052995'
+  twitterURL: ''
+  websiteURL: 'http://www.fcguoan.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京国安足球俱乐部'

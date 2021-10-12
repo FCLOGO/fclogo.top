@@ -72,7 +72,7 @@
         - 'Shandong Taishan Football Club'
       shortName:
         - 'Short Name'
-        - 'Shandong Taishan'
+        - 'Shandong Taishan FC'
       localName:
         - 'Local Name'
         - '山东泰山足球俱乐部'
@@ -87,8 +87,39 @@
         - 'Jinan Olympic Sports Center Stadium'
       league:
         - 'League'
-        - 'Chinese Football Association Super League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/u/1911180293'
   twitterURL: ''
   websiteURL: 'http://www.lnts.com.cn'
   wikiURL: 'https://en.wikipedia.org/wiki/Shandong_Taishan_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-002
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Beijing Guoan Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Beijing Guoan FC'
+      localName:
+        - 'Local Name'
+        - '北京国安足球俱乐部'
+      city:
+        - 'City'
+        - 'Beijing, China'
+      founded:
+        - 'Founded'
+        - '1992'
+      ground:
+        - 'Ground'
+        - 'Beijing Fengtai Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/1912052995'
+  twitterURL: ''
+  websiteURL: 'http://www.fcguoan.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Guoan_F.C.'
