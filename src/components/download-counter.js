@@ -22,6 +22,7 @@ const DownloadCounter = ({ logoId }) => {
       <CloudIcon />
       {downloadCount}
       {intl.formatMessage({ id: 'sidebar.downloads' })}
+      {downloadCount > 1 ? intl.formatMessage({ id: 'sidebar.s' }) : ``}
     </div>
   )
 }

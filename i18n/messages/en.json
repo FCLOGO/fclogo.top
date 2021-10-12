@@ -88,7 +88,8 @@
   "sidebar.wiki": "WikiPedia",
   "sidebar.foundErr": "Found an Error?",
   "sidebar.tellMe": "Tell Me",
-  "sidebar.downloads": " downloads",
+  "sidebar.downloads": " download",
+  "sidebar.s": "s",
 
   "detail.historyTitle": "Logo History",
   "detail.notransTitle": "This page hasn't been translated yet",
