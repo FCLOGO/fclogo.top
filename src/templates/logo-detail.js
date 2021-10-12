@@ -95,6 +95,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                 </section>
                 <DetailSidebar
                   version={data.logo.version}
+                  isOutdated={data.logo.isOutdated}
                   isDoubtful={data.logo.isDoubtful}
                   slug={data.logo.slug}
                   status={data.logo.detailInfo[0].isDisband}
@@ -174,6 +175,7 @@ export const query = graphql`
       slug
       version
       isDoubtful
+      isOutdated
       pngPath {
         publicURL
         childImageSharp {

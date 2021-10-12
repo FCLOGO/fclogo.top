@@ -36,7 +36,13 @@ mq-tablet = 'screen and (max-width: 992px)'
   justify-content center
   align-items flex-start
 
-.logo-version
+.logo-badges
+  display flex
+  flex-flow row nowrap
+  justify-content flex-start
+  align-items center
+
+.logo-badges span
   font-size 12px
   line-height size-normal
   font-weight 600
@@ -46,6 +52,8 @@ mq-tablet = 'screen and (max-width: 992px)'
   border-radius 3px
   width auto
   margin-bottom size-small
+  &:first-child
+    margin-right size-mini
 
 .detail-title
   width 100%
