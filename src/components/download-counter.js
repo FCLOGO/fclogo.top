@@ -14,13 +14,13 @@ const DownloadCounter = ({ logoId }) => {
     const downloadCountRef = ref(db, 'downloads/' + logoId + '/downloadCount')
     onValue(downloadCountRef, snapshot => {
       const data = snapshot.val()
-      setDownloadCount(data ? data : 0)
+      setDownloadCount(data)
     })
   }, [logoId])
   return (
     <div className={counterContainer}>
       <CloudIcon />
-      {downloadCount}
+      {downloadCount ? downloadCount : 0}
       {intl.formatMessage({ id: 'sidebar.downloads' })}
       {downloadCount > 1 ? intl.formatMessage({ id: 'sidebar.s' }) : ``}
     </div>
