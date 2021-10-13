@@ -248,3 +248,23 @@
   sourceID: cfa-club-002
   style: mono
   slug: /cfa-beijingguoan-v1996-mono
+
+- data: logo
+  uniqueID: 20211013-001
+  version: 201407
+  verName: ['上海绿地', '上海绿地申花']
+  pngPath: 'clubs/cfa-shanghaishenhua-v201407.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v201407.svg'
+  sourceID: cfa-club-003
+  style: color
+  slug: /cfa-shanghaishenhua-v201407
+
+- data: logo
+  uniqueID: 20211013-002
+  version: 201407
+  verName: ['上海绿地', '上海绿地申花']
+  pngPath: 'clubs/cfa-shanghaishenhua-v201407-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v201407-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+  slug: /cfa-shanghaishenhua-v201407-mono

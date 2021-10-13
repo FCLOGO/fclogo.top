@@ -123,3 +123,34 @@
   twitterURL: ''
   websiteURL: 'http://www.fcguoan.com'
   wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Guoan_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-003
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Shanghai Shenhua Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Shanghai Shenhua FC'
+      localName:
+        - 'Local Name'
+        - '上海申花足球俱乐部'
+      city:
+        - 'City'
+        - 'Shanghai, China'
+      founded:
+        - 'Founded'
+        - '1993'
+      ground:
+        - 'Ground'
+        - 'Shanghai Hongkou Football Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/1912052995'
+  twitterURL: ''
+  websiteURL: 'https://weibo.com/u/1650107735'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Shenhua_F.C.'

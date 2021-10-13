@@ -123,3 +123,34 @@
   twitterURL: ''
   websiteURL: 'http://www.fcguoan.com'
   wikiURL: 'https://zh.wikipedia.org/wiki/北京国安足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-003
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '上海申花足球俱乐部'
+      shortName:
+        - '简称'
+        - '上海申花'
+      localName:
+        - '本地名称'
+        - '上海申花足球俱乐部'
+      city:
+        - '城市'
+        - '上海，中国'
+      founded:
+        - '成立'
+        - '1993'
+      ground:
+        - '主场'
+        - '上海虹口足球场'
+      league:
+        - '联赛'
+        - '中超联赛'
+  weiboURL: 'https://weibo.com/u/1912052995'
+  twitterURL: ''
+  websiteURL: 'https://weibo.com/u/1650107735'
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海申花足球俱乐部'
