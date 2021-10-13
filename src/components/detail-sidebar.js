@@ -82,7 +82,10 @@ const DetailSidebar = props => {
           {props.isOutdated ? <span>{intl.formatMessage({ id: 'sidebar.outdated' })}</span> : ''}
         </section>
         <div className={detailTitle}>
-          <h1>{props.fullName}</h1>
+          <h1>
+            {props.fullName}
+            {intl.formatMessage({ id: 'detail.titleVector' })}
+          </h1>
           {props.status ? <span>{intl.formatMessage({ id: 'sidebar.disband' })}</span> : ''}
         </div>
       </header>

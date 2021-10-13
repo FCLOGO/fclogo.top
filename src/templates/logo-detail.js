@@ -45,7 +45,11 @@ const LogoDeatil = ({ data, pageContext }) => {
       {/* <Search locale={pageContext.locale} /> */}
       {data.logo ? (
         <>
-          <Seo title={data.logo.detailInfo[0].info[0].fullName[1]} />
+          <Seo
+            title={`${data.logo.detailInfo[0].info[0].fullName[1]}${intl.formatMessage({
+              id: 'detail.titleVector'
+            })}`}
+          />
           <div className={mainContent}>
             <div className={contentInner}>
               <section className={detailWrapper}>
