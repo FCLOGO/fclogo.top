@@ -54,9 +54,9 @@ const Footer = () => {
           <a href="https://discord.gg/gVcbysaEWD" target="_blank" className={socialLink}>
             <DiscordIcon />
           </a>
-          <a href="/" target="_blank" className={socialLink}>
+          {/* <a href="/" target="_blank" className={socialLink}>
             <RssIcon />
-          </a>
+          </a> */}
         </div>
         <div className={footerMenu}>
           <ul className={menuList}>
