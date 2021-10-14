@@ -154,3 +154,65 @@
   twitterURL: ''
   websiteURL: 'https://weibo.com/u/1650107735'
   wikiURL: 'https://zh.wikipedia.org/wiki/上海申花足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-004
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '广州足球俱乐部'
+      shortName:
+        - '简称'
+        - '广州 FC'
+      localName:
+        - '本地名称'
+        - '广州足球俱乐部'
+      city:
+        - '城市'
+        - '广州，中国'
+      founded:
+        - '成立'
+        - '1993'
+      ground:
+        - '主场'
+        - '广州天和足球场'
+      league:
+        - '联赛'
+        - '中超联赛'
+  weiboURL: 'https://weibo.com/u/1894798092'
+  twitterURL: ''
+  websiteURL: 'https://gzfc.evergrande.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/广州足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-005
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '深圳市足球俱乐部'
+      shortName:
+        - '简称'
+        - '深圳 FC'
+      localName:
+        - '本地名称'
+        - '深圳市足球俱乐部'
+      city:
+        - '城市'
+        - '深圳，中国'
+      founded:
+        - '成立'
+        - '1994'
+      ground:
+        - '主场'
+        - '深圳世界大学生运动会体育中心'
+      league:
+        - '联赛'
+        - '中超联赛'
+  weiboURL: 'https://weibo.com/u/1913624334'
+  twitterURL: ''
+  websiteURL: 'http://shenzhenfc.com.cn/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/深圳市足球俱乐部'

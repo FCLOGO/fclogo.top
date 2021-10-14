@@ -268,3 +268,53 @@
   sourceID: cfa-club-003
   style: mono
   slug: /cfa-shanghaishenhua-v201407-mono
+
+- data: logo
+  uniqueID: 20211014-001
+  version: 2015
+  verName: ['Guangzhou FC', 'Guangzhou Evergrande Taobao FC']
+  pngPath: 'clubs/cfa-guangzhoufc-v2015.png'
+  svgPath: 'clubs/svg/cfa-guangzhoufc-v2015.svg'
+  sourceID: cfa-club-004
+  style: color
+  slug: /cfa-guangzhoufc-v2015
+
+- data: logo
+  uniqueID: 20211014-002
+  version: 2015
+  verName: ['Guangzhou FC', 'Guangzhou Evergrande Taobao FC']
+  pngPath: 'clubs/cfa-guangzhoufc-v2015-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhoufc-v2015-mono.svg'
+  sourceID: cfa-club-004
+  style: mono
+  slug: /cfa-guangzhoufc-v2015-mono
+
+- data: logo
+  uniqueID: 20211014-003
+  version: 2017
+  verName: ['Shenzhen FC']
+  pngPath: 'clubs/cfa-shenzhenfc-v2017.png'
+  svgPath: 'clubs/svg/cfa-shenzhenfc-v2017.svg'
+  sourceID: cfa-club-005
+  style: color
+  slug: /cfa-shenzhenfc-v2017
+
+- data: logo
+  uniqueID: 20211014-004
+  version: 2017
+  verName: ['Shenzhen FC']
+  pngPath: 'clubs/cfa-shenzhenfc-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-shenzhenfc-v2017-mono.svg'
+  sourceID: cfa-club-005
+  style: mono
+  slug: /cfa-shenzhenfc-v2017-mono
+
+- data: logo
+  uniqueID: 20211014-005
+  version: 2017
+  verName: ['Shenzhen FC']
+  pngPath: 'clubs/cfa-shenzhenfc-v2017-mono-2.png'
+  svgPath: 'clubs/svg/cfa-shenzhenfc-v2017-mono-2.svg'
+  sourceID: cfa-club-005
+  style: mono
+  slug: /cfa-shenzhenfc-v2017-mono-2
