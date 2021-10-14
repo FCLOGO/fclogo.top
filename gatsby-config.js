@@ -143,6 +143,24 @@ module.exports = {
           }
         ]
       }
+    },
+    `gatsby-plugin-robots-txt`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        createLinkInHead: true,
+        excludes: [
+          `/dev-404-page`,
+          `/zh-cn/dev-404-page`,
+          `/404`,
+          `/zh-cn/404`,
+          `/404.html`,
+          `/zh-cn/404.html`,
+          `/offline-plugin-app-shell-fallback`,
+          `/zh-cn/offline-plugin-app-shell-fallback`
+        ],
+        entryLimit: 5000
+      }
     }
   ]
 }
