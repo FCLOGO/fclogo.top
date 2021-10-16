@@ -340,3 +340,30 @@
   twitterURL: ''
   websiteURL: 'http://www.dangdailifanfc.cn'
   wikiURL: 'https://en.wikipedia.org/wiki/Chongqing_Liangjiang_Athletic_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-010
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Jiangsu Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Jiangsu FC'
+      localName:
+        - 'Local Name'
+        - '江苏足球俱乐部'
+      city:
+        - 'City'
+        - 'Nanjing, China'
+      founded:
+        - 'Founded'
+        - '1994'
+      ground:
+        - 'Ground'
+        - 'Nanjing Olympic Sports Centre'
+  weiboURL: 'https://weibo.com/u/1915964974'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangsu_F.C.'

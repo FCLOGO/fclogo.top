@@ -444,3 +444,25 @@
   sourceID: cfa-club-009
   style: color
   slug: /cfa-chongqing-liangjiang-athletic-v2018
+
+- data: logo
+  uniqueID: 20211016-011
+  version: 2017
+  isOutdated: true
+  verName: ['Jiangsu Suning FC']
+  pngPath: 'clubs/cfa-jiangsufc-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2017-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+  slug: /cfa-jiangsufc-v2017-mono
+
+- data: logo
+  uniqueID: 20211016-012
+  version: 2017
+  isOutdated: true
+  verName: ['Jiangsu Suning FC']
+  pngPath: 'clubs/cfa-jiangsufc-v2017.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2017.svg'
+  sourceID: cfa-club-010
+  style: color
+  slug: /cfa-jiangsufc-v2017
