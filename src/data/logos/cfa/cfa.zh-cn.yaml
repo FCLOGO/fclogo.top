@@ -318,3 +318,129 @@
   sourceID: cfa-club-005
   style: mono
   slug: /cfa-shenzhenfc-v2017-mono-2
+
+- data: logo
+  uniqueID: 20211015-001
+  version: 2014
+  isOutdated: true
+  verName: ['上海上港']
+  pngPath: 'clubs/cfa-shanghai-port-v2014.png'
+  svgPath: 'clubs/svg/cfa-shanghai-port-v2014.svg'
+  sourceID: cfa-club-006
+  style: color
+  slug: /cfa-shanghai-port-v2014
+
+- data: logo
+  uniqueID: 20211015-002
+  version: 2014
+  isOutdated: true
+  verName: ['上海上港']
+  pngPath: 'clubs/cfa-shanghai-port-v2014-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghai-port-v2014-mono.svg'
+  sourceID: cfa-club-006
+  style: mono
+  slug: /cfa-shanghai-port-v2014-mono
+
+- data: logo
+  uniqueID: 20211016-001
+  version: 2015
+  isOutdated: true
+  verName: ['深圳 FC']
+  pngPath: 'clubs/cfa-shenzhenfc-v2015.png'
+  svgPath: 'clubs/svg/cfa-shenzhenfc-v2015.svg'
+  sourceID: cfa-club-005
+  style: color
+  slug: /cfa-shenzhenfc-v2015
+
+- data: logo
+  uniqueID: 20211016-002
+  version: 2016
+  isOutdated: true
+  verName: ['深圳 FC']
+  pngPath: 'clubs/cfa-shenzhenfc-v2016.png'
+  svgPath: 'clubs/svg/cfa-shenzhenfc-v2016.svg'
+  sourceID: cfa-club-005
+  style: color
+  slug: /cfa-shenzhenfc-v2016
+
+- data: logo
+  uniqueID: 20211016-003
+  version: 2020
+  verName: ['大连人']
+  pngPath: 'clubs/cfa-dalian-professional-v2020.png'
+  svgPath: 'clubs/svg/cfa-dalian-professional-v2020.svg'
+  sourceID: cfa-club-007
+  style: color
+  slug: /cfa-dalian-professional-v2020
+
+- data: logo
+  uniqueID: 20211016-004
+  version: 2020
+  verName: ['大连人']
+  pngPath: 'clubs/cfa-dalian-professional-v2020-mono.png'
+  svgPath: 'clubs/svg/cfa-dalian-professional-v2020-mono.svg'
+  sourceID: cfa-club-007
+  style: mono
+  slug: /cfa-dalian-professional-v2020-mono
+
+- data: logo
+  uniqueID: 20211016-005
+  version: 2016
+  isOutdated: true
+  verName: ['大连一方']
+  pngPath: 'clubs/cfa-dalian-professional-v2016.png'
+  svgPath: 'clubs/svg/cfa-dalian-professional-v2016.svg'
+  sourceID: cfa-club-007
+  style: color
+  slug: /cfa-dalian-professional-v2016
+
+- data: logo
+  uniqueID: 20211016-006
+  version: 2016
+  isOutdated: true
+  verName: ['大连一方']
+  pngPath: 'clubs/cfa-dalian-professional-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-dalian-professional-v2016-mono.svg'
+  sourceID: cfa-club-007
+  style: mono
+  slug: /cfa-dalian-professional-v2016-mono
+
+- data: logo
+  uniqueID: 20211016-007
+  version: 2018
+  verName: ['广州富力', '广州城']
+  pngPath: 'clubs/cfa-guangzhou-city-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2018-mono.svg'
+  sourceID: cfa-club-008
+  style: mono
+  slug: /cfa-guangzhou-city-v2018-mono
+
+- data: logo
+  uniqueID: 20211016-008
+  version: 2018
+  verName: ['广州富力', '广州城']
+  pngPath: 'clubs/cfa-guangzhou-city-v2018.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2018.svg'
+  sourceID: cfa-club-008
+  style: color
+  slug: /cfa-guangzhou-city-v2018
+
+- data: logo
+  uniqueID: 20211016-009
+  version: 2018
+  verName: ['重庆当代力帆', '重庆两江竞技']
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2018-mono.svg'
+  sourceID: cfa-club-009
+  style: mono
+  slug: /cfa-chongqing-liangjiang-athletic-v2018-mono
+
+- data: logo
+  uniqueID: 20211016-010
+  version: 2018
+  verName: ['重庆当代力帆', '重庆两江竞技']
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2018.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2018.svg'
+  sourceID: cfa-club-009
+  style: color
+  slug: /cfa-chongqing-liangjiang-athletic-v2018

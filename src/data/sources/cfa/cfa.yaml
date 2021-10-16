@@ -216,3 +216,127 @@
   twitterURL: ''
   websiteURL: 'http://shenzhenfc.com.cn/'
   wikiURL: 'https://en.wikipedia.org/wiki/Shenzhen_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-006
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Shanghai Port Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Shanghai Port FC'
+      localName:
+        - 'Local Name'
+        - '上海海港足球俱乐部'
+      city:
+        - 'City'
+        - 'Shanghai, China'
+      founded:
+        - 'Founded'
+        - '2005'
+      ground:
+        - 'Ground'
+        - 'SAIC Motor Pudong Arena'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/3593916900'
+  twitterURL: ''
+  websiteURL: 'http://www.sipg-fc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Port_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-007
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Dalian Professional Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Dalian Pro FC'
+      localName:
+        - 'Local Name'
+        - '大连人职业足球俱乐部'
+      city:
+        - 'City'
+        - 'Dalian, China'
+      founded:
+        - 'Founded'
+        - '2009'
+      ground:
+        - 'Ground'
+        - 'Dalian Sports Center Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/1601538693'
+  twitterURL: ''
+  websiteURL: 'http://www.dlpro.com.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Dalian_Professional_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-008
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Guangzhou City Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Guangzhou City FC'
+      localName:
+        - 'Local Name'
+        - '广州城足球俱乐部'
+      city:
+        - 'City'
+        - 'Guangzhou, China'
+      founded:
+        - 'Founded'
+        - '1987?'
+      ground:
+        - 'Ground'
+        - 'Guangzhou Yuexiushan Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/2456231390'
+  twitterURL: ''
+  websiteURL: 'http://www.gzrffc.com.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Guangzhou_City_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-009
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Chongqing Liangjiang Athletic Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Chongqing Liangjiang Athletic FC'
+      localName:
+        - 'Local Name'
+        - '重庆两江竞技足球俱乐部'
+      city:
+        - 'City'
+        - 'Chongqing, China'
+      founded:
+        - 'Founded'
+        - '1995'
+      ground:
+        - 'Ground'
+        - 'Chongqing Olympic Sports Center'
+      league:
+        - 'League'
+        - 'Chinese Super League'
+  weiboURL: 'https://weibo.com/u/2059760773'
+  twitterURL: ''
+  websiteURL: 'http://www.dangdailifanfc.cn'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chongqing_Liangjiang_Athletic_F.C.'
