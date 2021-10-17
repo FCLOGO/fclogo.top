@@ -362,8 +362,196 @@
       founded:
         - 'Founded'
         - '1994'
+      duration:
+        - 'Lifetime'
+        - '1994 - 2021'
       ground:
         - 'Ground'
         - 'Nanjing Olympic Sports Centre'
   weiboURL: 'https://weibo.com/u/1915964974'
   wikiURL: 'https://en.wikipedia.org/wiki/Jiangsu_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-011
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Changchun Yatai Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Changchun Yatai FC'
+      localName:
+        - 'Local Name'
+        - '长春亚泰俱乐部'
+      city:
+        - 'City'
+        - 'Changchun, China'
+      founded:
+        - 'Founded'
+        - '1996'
+      ground:
+        - 'Ground'
+        - 'Changchun Stadium'
+  weiboURL: 'https://weibo.com/yataifc'
+  websiteURL: 'http://www.yataifc.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Changchun_Yatai_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-012
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Henan Songshan Longmen Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Henan Songshan Longmen FC'
+      localName:
+        - 'Local Name'
+        - '河南嵩山龙门足球俱乐部'
+      city:
+        - 'City'
+        - 'Zhengzhou, China'
+      founded:
+        - 'Founded'
+        - '1994'
+      ground:
+        - 'Ground'
+        - 'Zhengzhou Hanghai Stadium'
+  weiboURL: 'https://weibo.com/henanjianye1994'
+  websiteURL: 'http://www.jianyefc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Henan_Songshan_Longmen_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-013
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Tianjin Jinmen Tiger Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Tianjin Jinmen Tiger FC'
+      localName:
+        - 'Local Name'
+        - '天津津门虎足球俱乐部'
+      city:
+        - 'City'
+        - 'Tianjin, China'
+      founded:
+        - 'Founded'
+        - '1998'
+      ground:
+        - 'Ground'
+        - 'Tianjin Olympic Center'
+  weiboURL: 'https://weibo.com/tedafc/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Jinmen_Tiger_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-014
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Wuhan Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Wuhan FC'
+      localName:
+        - 'Local Name'
+        - '武汉足球俱乐部'
+      city:
+        - 'City'
+        - 'Wuhan, China'
+      founded:
+        - 'Founded'
+        - '2009'
+      ground:
+        - 'Ground'
+        - 'Wuhan Five Rings Sports Center'
+  weiboURL: 'https://weibo.com/whzallfc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Wuhan_F.C./'
+
+- data: sourceInfo
+  sourceID: cfa-club-015
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Qingdao Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Qingdao FC'
+      localName:
+        - 'Local Name'
+        - '青岛足球俱乐部'
+      city:
+        - 'City'
+        - 'Qingdao, China'
+      founded:
+        - 'Founded'
+        - '2013'
+      ground:
+        - 'Ground'
+        - 'Qingdao Conson Stadium'
+  weiboURL: 'https://weibo.com/whzallfc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-016
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Cangzhou Mighty Lions Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Cangzhou Mighty Lions'
+      localName:
+        - 'Local Name'
+        - '沧州雄狮足球俱乐部'
+      city:
+        - 'City'
+        - 'Cangzhou, China'
+      founded:
+        - 'Founded'
+        - '2011'
+      ground:
+        - 'Ground'
+        - 'Cangzhou Stadium'
+  weiboURL: 'https://weibo.com/u/3032079382'
+  wikiURL: 'https://en.wikipedia.org/wiki/Cangzhou_Mighty_Lions_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-017
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Hebei Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Hebei FC'
+      localName:
+        - 'Local Name'
+        - '河北足球俱乐部'
+      city:
+        - 'City'
+        - 'Langfang, China'
+      founded:
+        - 'Founded'
+        - '2009'
+      ground:
+        - 'Ground'
+        - 'Langfang Stadium'
+  weiboURL: 'https://weibo.com/u/2131874461'
+  websiteURL: 'http://www.hebeifootball.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Hebei_F.C.'

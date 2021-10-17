@@ -466,3 +466,155 @@
   sourceID: cfa-club-010
   style: color
   slug: /cfa-jiangsufc-v2017
+
+- data: logo
+  uniqueID: 20211016-013
+  version: 2007
+  verName: ['长春亚泰']
+  pngPath: 'clubs/cfa-changchun-yatai-v2007-mono.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v2007-mono.svg'
+  sourceID: cfa-club-011
+  style: mono
+  slug: /cfa-changchun-yatai-v2007-mono
+
+- data: logo
+  uniqueID: 20211016-014
+  version: 2007
+  verName: ['长春亚泰']
+  pngPath: 'clubs/cfa-changchun-yatai-v2007.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v2007.svg'
+  sourceID: cfa-club-011
+  style: color
+  slug: /cfa-changchun-yatai-v2007
+
+- data: logo
+  uniqueID: 20211017-001
+  version: 2016
+  isOutdated: true
+  verName: ['河北华夏幸福']
+  pngPath: 'clubs/cfa-hebeifc-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-hebeifc-v2016-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa-hebeifc-v2016-mono
+
+- data: logo
+  uniqueID: 20211017-002
+  version: 2016
+  isOutdated: true
+  verName: ['河北华夏幸福']
+  pngPath: 'clubs/cfa-hebeifc-v2016.png'
+  svgPath: 'clubs/svg/cfa-hebeifc-v2016.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa-hebeifc-v2016
+
+- data: logo
+  uniqueID: 20211017-003
+  version: 2016
+  isOutdated: true
+  verName: ['河南建业']
+  pngPath: 'clubs/cfa-henan-songshan-longmen-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2016-mono.svg'
+  sourceID: cfa-club-012
+  style: mono
+  slug: /cfa-henan-songshan-longmen-v2016-mono
+
+- data: logo
+  uniqueID: 20211017-004
+  version: 2016
+  isOutdated: true
+  verName: ['河南建业']
+  pngPath: 'clubs/cfa-henan-songshan-longmen-v2016.png'
+  svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2016.svg'
+  sourceID: cfa-club-012
+  style: mono
+  slug: /cfa-henan-songshan-longmen-v2016
+
+- data: logo
+  uniqueID: 20211017-005
+  version: 2016
+  isOutdated: true
+  verName: ['青岛黄海']
+  pngPath: 'clubs/cfa-qingdaofc-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-qingdaofc-v2016-mono.svg'
+  sourceID: cfa-club-015
+  style: mono
+  slug: /cfa-qingdaofc-v2016-mono
+
+- data: logo
+  uniqueID: 20211017-006
+  version: 2016
+  isOutdated: true
+  verName: ['青岛黄海']
+  pngPath: 'clubs/cfa-qingdaofc-v2016.png'
+  svgPath: 'clubs/svg/cfa-qingdaofc-v2016.svg'
+  sourceID: cfa-club-015
+  style: mono
+  slug: /cfa-qingdaofc-v2016
+
+- data: logo
+  uniqueID: 20211017-007
+  version: 2012
+  isOutdated: true
+  verName: ['武汉卓尔']
+  pngPath: 'clubs/cfa-wuhanfc-v2012-mono.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2012-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+  slug: /cfa-wuhanfc-v2012-mono
+
+- data: logo
+  uniqueID: 20211017-008
+  version: 2012
+  isOutdated: true
+  verName: ['武汉卓尔']
+  pngPath: 'clubs/cfa-wuhanfc-v2012.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2012.svg'
+  sourceID: cfa-club-014
+  style: mono
+  slug: /cfa-wuhanfc-v2012
+
+- data: logo
+  uniqueID: 20211017-009
+  version: 2015
+  isOutdated: true
+  verName: ['石家庄永昌']
+  pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2015-mono.png'
+  svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2015-mono.svg'
+  sourceID: cfa-club-016
+  style: mono
+  slug: /cfa-cangzhou-mighty-lions-v2015-mono
+
+- data: logo
+  uniqueID: 20211017-010
+  version: 2015
+  isOutdated: true
+  verName: ['石家庄永昌']
+  pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2015.png'
+  svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2015.svg'
+  sourceID: cfa-club-016
+  style: mono
+  slug: /cfa-cangzhou-mighty-lions-v2015
+
+- data: logo
+  uniqueID: 20211017-011
+  version: 2011
+  isOutdated: true
+  verName: ['天津泰达']
+  pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2011-mono.png'
+  svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2011-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+  slug: /cfa-tianjin-jinmen-tiger-v2011
+
+- data: logo
+  uniqueID: 20211017-012
+  version: 2011
+  isOutdated: true
+  verName: ['天津泰达']
+  pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2011.png'
+  svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2011.svg'
+  sourceID: cfa-club-013
+  style: mono
+  slug: /cfa-tianjin-jinmen-tiger-v2011

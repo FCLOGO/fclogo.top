@@ -212,6 +212,7 @@ export const query = graphql`
           localName
           city
           founded
+          duration
           ground
           league
           headquarter
