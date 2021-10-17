@@ -394,6 +394,9 @@
       ground:
         - 'Ground'
         - 'Changchun Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/yataifc'
   websiteURL: 'http://www.yataifc.cn/'
   wikiURL: 'https://en.wikipedia.org/wiki/Changchun_Yatai_F.C.'
@@ -421,6 +424,9 @@
       ground:
         - 'Ground'
         - 'Zhengzhou Hanghai Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/henanjianye1994'
   websiteURL: 'http://www.jianyefc.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Henan_Songshan_Longmen_F.C.'
@@ -448,6 +454,9 @@
       ground:
         - 'Ground'
         - 'Tianjin Olympic Center'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/tedafc/'
   wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Jinmen_Tiger_F.C.'
 
@@ -474,6 +483,9 @@
       ground:
         - 'Ground'
         - 'Wuhan Five Rings Sports Center'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://en.wikipedia.org/wiki/Wuhan_F.C./'
 
@@ -500,6 +512,9 @@
       ground:
         - 'Ground'
         - 'Qingdao Conson Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_F.C.'
 
@@ -526,6 +541,9 @@
       ground:
         - 'Ground'
         - 'Cangzhou Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/u/3032079382'
   wikiURL: 'https://en.wikipedia.org/wiki/Cangzhou_Mighty_Lions_F.C.'
 
@@ -552,6 +570,9 @@
       ground:
         - 'Ground'
         - 'Langfang Stadium'
+      league:
+        - 'League'
+        - 'Chinese Super League'
   weiboURL: 'https://weibo.com/u/2131874461'
   websiteURL: 'http://www.hebeifootball.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Hebei_F.C.'

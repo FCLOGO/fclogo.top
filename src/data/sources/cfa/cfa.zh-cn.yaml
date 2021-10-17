@@ -394,6 +394,9 @@
       ground:
         - '主场'
         - '长春体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/yataifc'
   websiteURL: 'http://www.yataifc.cn/'
   wikiURL: 'https://zh.wikipedia.org/wiki/长春亚泰足球俱乐部'
@@ -421,6 +424,9 @@
       ground:
         - '主场'
         - '航海体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/henanjianye1994'
   websiteURL: 'http://www.jianyefc.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/河南嵩山龙门足球俱乐部'
@@ -448,6 +454,9 @@
       ground:
         - '主场'
         - '天津奥林匹克体育中心体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/tedafc'
   wikiURL: 'https://zh.wikipedia.org/wiki/天津津门虎足球俱乐部'
 
@@ -474,6 +483,9 @@
       ground:
         - '主场'
         - '五环体育中心'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://zh.wikipedia.org/wiki/武汉足球俱乐部'
 
@@ -500,6 +512,9 @@
       ground:
         - '主场'
         - '青岛国信体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/qingdaohainiufc'
   wikiURL: 'https://zh.wikipedia.org/wiki/青岛足球俱乐部'
 
@@ -526,6 +541,9 @@
       ground:
         - '主场'
         - '沧州体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/u/3032079382'
   wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'
 
@@ -552,6 +570,9 @@
       ground:
         - '主场'
         - '廊坊体育场'
+      league:
+        - '联赛'
+        - '中超联赛'
   weiboURL: 'https://weibo.com/u/2131874461'
   websiteURL: 'http://www.hebeifootball.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'
