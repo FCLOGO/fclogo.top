@@ -506,7 +506,7 @@
   pngPath: 'clubs/cfa-hebeifc-v2016.png'
   svgPath: 'clubs/svg/cfa-hebeifc-v2016.svg'
   sourceID: cfa-club-017
-  style: mono
+  style: color
   slug: /cfa-hebeifc-v2016
 
 - data: logo
@@ -528,7 +528,7 @@
   pngPath: 'clubs/cfa-henan-songshan-longmen-v2016.png'
   svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2016.svg'
   sourceID: cfa-club-012
-  style: mono
+  style: color
   slug: /cfa-henan-songshan-longmen-v2016
 
 - data: logo
@@ -550,7 +550,7 @@
   pngPath: 'clubs/cfa-qingdaofc-v2016.png'
   svgPath: 'clubs/svg/cfa-qingdaofc-v2016.svg'
   sourceID: cfa-club-015
-  style: mono
+  style: color
   slug: /cfa-qingdaofc-v2016
 
 - data: logo
@@ -572,7 +572,7 @@
   pngPath: 'clubs/cfa-wuhanfc-v2012.png'
   svgPath: 'clubs/svg/cfa-wuhanfc-v2012.svg'
   sourceID: cfa-club-014
-  style: mono
+  style: color
   slug: /cfa-wuhanfc-v2012
 
 - data: logo
@@ -594,7 +594,7 @@
   pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2015.png'
   svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2015.svg'
   sourceID: cfa-club-016
-  style: mono
+  style: color
   slug: /cfa-cangzhou-mighty-lions-v2015
 
 - data: logo
@@ -606,7 +606,7 @@
   svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2011-mono.svg'
   sourceID: cfa-club-013
   style: mono
-  slug: /cfa-tianjin-jinmen-tiger-v2011
+  slug: /cfa-tianjin-jinmen-tiger-v2011-mono
 
 - data: logo
   uniqueID: 20211017-012
@@ -616,5 +616,65 @@
   pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2011.png'
   svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2011.svg'
   sourceID: cfa-club-013
-  style: mono
+  style: color
   slug: /cfa-tianjin-jinmen-tiger-v2011
+
+- data: logo
+  uniqueID: 20211018-001
+  version: 2021
+  verName: ['上海上港']
+  pngPath: 'clubs/cfa-shanghai-port-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghai-port-v2021-mono.svg'
+  sourceID: cfa-club-006
+  style: mono
+  slug: /cfa-shanghai-port-v2021-mono
+
+- data: logo
+  uniqueID: 20211018-002
+  version: 2021
+  verName: ['上海上港']
+  pngPath: 'clubs/cfa-shanghai-port-v2021.png'
+  svgPath: 'clubs/svg/cfa-shanghai-port-v2021.svg'
+  sourceID: cfa-club-006
+  style: color
+  slug: /cfa-shanghai-port-v2021
+
+- data: logo
+  uniqueID: 20211018-003
+  version: 2021
+  verName: ['青岛 FC']
+  pngPath: 'clubs/cfa-qingdaofc-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-qingdaofc-v2021-mono.svg'
+  sourceID: cfa-club-015
+  style: mono
+  slug: /cfa-qingdaofc-v2021-mono
+
+- data: logo
+  uniqueID: 20211018-004
+  version: 2021
+  verName: ['青岛 FC']
+  pngPath: 'clubs/cfa-qingdaofc-v2021.png'
+  svgPath: 'clubs/svg/cfa-qingdaofc-v2021.svg'
+  sourceID: cfa-club-015
+  style: color
+  slug: /cfa-qingdaofc-v2021
+
+- data: logo
+  uniqueID: 20211018-005
+  version: 2021
+  verName: ['河北 FC']
+  pngPath: 'clubs/cfa-hebeifc-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-hebeifc-v2021-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa-hebeifc-v2021-mono
+
+- data: logo
+  uniqueID: 20211018-006
+  version: 2021
+  verName: ['河北 FC']
+  pngPath: 'clubs/cfa-hebeifc-v2021.png'
+  svgPath: 'clubs/svg/cfa-hebeifc-v2021.svg'
+  sourceID: cfa-club-017
+  style: color
+  slug: /cfa-hebeifc-v2021
