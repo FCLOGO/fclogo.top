@@ -678,3 +678,83 @@
   sourceID: cfa-club-017
   style: color
   slug: /cfa-hebeifc-v2021
+
+- data: logo
+  uniqueID: 20211019-001
+  version: 2021
+  verName: ['武汉 FC']
+  pngPath: 'clubs/cfa-wuhanfc-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2021-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+  slug: /cfa-wuhanfc-v2021-mono
+
+- data: logo
+  uniqueID: 20211019-002
+  version: 2021
+  verName: ['武汉 FC']
+  pngPath: 'clubs/cfa-wuhanfc-v2021.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2021.svg'
+  sourceID: cfa-club-014
+  style: color
+  slug: /cfa-wuhanfc-v2021
+
+- data: logo
+  uniqueID: 20211020-001
+  version: 2021
+  verName: ['沧州雄狮']
+  pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2021-mono.svg'
+  sourceID: cfa-club-016
+  style: mono
+  slug: /cfa-cangzhou-mighty-lions-v2021-mono
+
+- data: logo
+  uniqueID: 20211020-002
+  version: 2021
+  verName: ['沧州雄狮']
+  pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2021.png'
+  svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2021.svg'
+  sourceID: cfa-club-016
+  style: color
+  slug: /cfa-cangzhou-mighty-lions-v2021
+
+- data: logo
+  uniqueID: 20211020-003
+  version: 2021
+  verName: ['河南嵩山龙门']
+  pngPath: 'clubs/cfa-henan-songshan-longmen-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2021-mono.svg'
+  sourceID: cfa-club-012
+  style: mono
+  slug: /cfa-henan-songshan-longmen-v2021-mono
+
+- data: logo
+  uniqueID: 20211020-004
+  version: 2021
+  verName: ['河南嵩山龙门']
+  pngPath: 'clubs/cfa-henan-songshan-longmen-v2021.png'
+  svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2021.svg'
+  sourceID: cfa-club-012
+  style: color
+  slug: /cfa-henan-songshan-longmen-v2021
+
+- data: logo
+  uniqueID: 20211021-001
+  version: 2021
+  verName: ['天津津门虎']
+  pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2021-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+  slug: /cfa-tianjin-jinmen-tiger-v2021-mono
+
+- data: logo
+  uniqueID: 20211021-002
+  version: 2021
+  verName: ['天津津门虎']
+  pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2021.png'
+  svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2021.svg'
+  sourceID: cfa-club-013
+  style: color
+  slug: /cfa-tianjin-jinmen-tiger-v2021
