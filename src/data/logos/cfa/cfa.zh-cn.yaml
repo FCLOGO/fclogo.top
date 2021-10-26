@@ -804,3 +804,51 @@
   svgPath: 'clubs/svg/cfa-beijing-guoan-v2022-mono.svg'
   sourceID: cfa-club-002
   style: mono
+
+- data: logo
+  uniqueID: 20211026-001
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['浙江绿城', '浙江能源绿城', '浙江 FC']
+  slug: /cfa-zhejiang-professional-v2019-mono
+  pngPath: 'clubs/cfa-zhejiang-professional-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-zhejiang-professional-v2019-mono.svg'
+  sourceID: cfa-club-018
+  style: mono
+
+- data: logo
+  uniqueID: 20211026-002
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['浙江绿城', '浙江能源绿城', '浙江 FC']
+  slug: /cfa-zhejiang-professional-v2019
+  pngPath: 'clubs/cfa-zhejiang-professional-v2019.png'
+  svgPath: 'clubs/svg/cfa-zhejiang-professional-v2019.svg'
+  sourceID: cfa-club-018
+  style: color
+
+- data: logo
+  uniqueID: 20211026-003
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['武汉三镇']
+  slug: /cfa-wuhan-three-towns-v2019-mono
+  pngPath: 'clubs/cfa-wuhan-three-towns-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-wuhan-three-towns-v2019-mono.svg'
+  sourceID: cfa-club-019
+  style: mono
+
+- data: logo
+  uniqueID: 20211026-004
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['武汉三镇']
+  slug: /cfa-wuhan-three-towns-v2019
+  pngPath: 'clubs/cfa-wuhan-three-towns-v2019.png'
+  svgPath: 'clubs/svg/cfa-wuhan-three-towns-v2019.svg'
+  sourceID: cfa-club-019
+  style: color

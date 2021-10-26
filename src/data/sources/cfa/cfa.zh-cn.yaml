@@ -610,3 +610,67 @@
   weiboURL: 'https://weibo.com/u/2131874461'
   websiteURL: 'http://www.hebeifootball.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-018
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '浙江职业足球俱乐部'
+      shortName:
+        - '简称'
+        - '浙江 FC'
+      localName:
+        - '本地名称'
+        - '浙江职业足球俱乐部'
+      city:
+        - '城市'
+        - '杭州，中国'
+      founded:
+        - '成立'
+        - '1998'
+      ground:
+        - '主场'
+        - '杭州黄龙体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/1983327567'
+  twitterURL: ''
+  websiteURL: 'http://www.greentownfc.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/浙江职业足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-019
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '武汉三镇足球俱乐部'
+      shortName:
+        - '简称'
+        - '武汉三镇'
+      localName:
+        - '本地名称'
+        - '武汉三镇足球俱乐部'
+      city:
+        - '城市'
+        - '武汉，中国'
+      founded:
+        - '成立'
+        - '2013'
+      ground:
+        - '主场'
+        - '汉口文化体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/6637434462'
+  twitterURL: ''
+  websiteURL: 'http://www.whszfc.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/武汉三镇足球俱乐部'
