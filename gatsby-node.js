@@ -97,8 +97,8 @@ exports.createResolvers = ({ createResolvers }) => {
     logo: {
       styleMode: {
         type: ['logo'],
-        resolve: (source, args, context, info) => {
-          return context.nodeModel.runQuery({
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
                 id: {
@@ -119,12 +119,13 @@ exports.createResolvers = ({ createResolvers }) => {
             },
             type: 'logo'
           })
+          return entries
         }
       },
       logoHistory: {
         type: ['logo'],
-        resolve: (source, args, context, info) => {
-          return context.nodeModel.runQuery({
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
                 // version: {
@@ -145,12 +146,13 @@ exports.createResolvers = ({ createResolvers }) => {
             },
             type: 'logo'
           })
+          return entries
         }
       },
       detailInfo: {
         type: [`sourceInfo`],
-        resolve: (source, args, context, info) => {
-          return context.nodeModel.runQuery({
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
                 sourceID: {
@@ -165,6 +167,7 @@ exports.createResolvers = ({ createResolvers }) => {
             },
             type: `sourceInfo`
           })
+          return entries
         }
       }
     }
