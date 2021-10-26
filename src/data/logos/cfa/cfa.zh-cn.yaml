@@ -50,6 +50,28 @@
   style: mono
   slug: /cfa-super-league-v2004-mono
 
+- data: logo
+  uniqueID: 20211023-001
+  version: 2004
+  isOutdated: false
+  verName: ['中甲联赛']
+  slug: /cfa-china-league-one-v2004
+  pngPath: 'comps/cfa-china-league-one-v2004.png'
+  svgPath: 'comps/svg/cfa-china-league-one-v2004.svg'
+  sourceID: cfa-comp-002
+  style: color
+
+- data: logo
+  uniqueID: 20211023-002
+  version: 2004
+  isOutdated: false
+  verName: ['中甲联赛']
+  slug: /cfa-china-league-one-v2004-mono
+  pngPath: 'comps/cfa-china-league-one-v2004-mono.png'
+  svgPath: 'comps/svg/cfa-china-league-one-v2004-mono.svg'
+  sourceID: cfa-comp-002
+  style: mono
+
 # Clubs
 - data: logo
   uniqueID: 20211007-006
@@ -758,3 +780,27 @@
   sourceID: cfa-club-013
   style: color
   slug: /cfa-tianjin-jinmen-tiger-v2021
+
+- data: logo
+  uniqueID: 20211024-001
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京国安']
+  slug: /cfa-beijing-guoan-v2022
+  pngPath: 'clubs/cfa-beijing-guoan-v2022.png'
+  svgPath: 'clubs/svg/cfa-beijing-guoan-v2022.svg'
+  sourceID: cfa-club-002
+  style: color
+
+- data: logo
+  uniqueID: 20211024-002
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京国安']
+  slug: /cfa-beijing-guoan-v2022-mono
+  pngPath: 'clubs/cfa-beijing-guoan-v2022-mono.png'
+  svgPath: 'clubs/svg/cfa-beijing-guoan-v2022-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
