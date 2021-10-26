@@ -61,6 +61,40 @@
   websiteURL: 'http://csl-china.com'
   wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Super_League'
 
+- data: sourceInfo
+  sourceID: cfa-comp-002
+  type: Competition
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Chinese Football Association China League'
+      shortName:
+        - 'Short Name'
+        - 'China League One'
+      localName:
+        - 'Local Name'
+        - '中国足球协会甲级联赛'
+      founded:
+        - 'Founded'
+        - '2004'
+      confederation:
+        - 'Confederation'
+        - 'AFC'
+      teams:
+        - 'Number of Teams'
+        - '18'
+      level:
+        - 'Level on'
+        - '2'
+      relegation:
+        - 'Relegation to'
+        - 'China League Two'
+  weiboURL: 'https://weibo.com/u/5643143867'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/China_League_One'
+
 # Clubs
 - data: sourceInfo
   sourceID: cfa-club-001
@@ -239,7 +273,7 @@
         - '2005'
       ground:
         - 'Ground'
-        - 'SAIC Motor Pudong Arena'
+        - 'Shanghai Pudong Football Stadium'
       league:
         - 'League'
         - 'Chinese Super League'

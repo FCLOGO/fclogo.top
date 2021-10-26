@@ -61,6 +61,40 @@
   websiteURL: 'http://csl-china.com'
   wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会超级联赛'
 
+- data: sourceInfo
+  sourceID: cfa-comp-002
+  type: 赛事
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '中国足球协会甲级联赛'
+      shortName:
+        - '简称'
+        - '中甲联赛'
+      localName:
+        - '本地名称'
+        - '中国足球协会甲级联赛'
+      founded:
+        - '成立'
+        - '2004'
+      confederation:
+        - '所属联盟'
+        - 'AFC'
+      teams:
+        - '俱乐部数量'
+        - '18'
+      level:
+        - '联赛等级'
+        - '2'
+      relegation:
+        - '降级至'
+        - '中乙联赛'
+  weiboURL: 'https://weibo.com/u/5643143867'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会甲级联赛'
+
 # Clubs
 - data: sourceInfo
   sourceID: cfa-club-001
@@ -239,7 +273,7 @@
         - '2005'
       ground:
         - '主场'
-        - '上汽浦东足球场'
+        - '上海浦东足球场'
       league:
         - '联赛'
         - '中超联赛'
