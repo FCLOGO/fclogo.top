@@ -674,3 +674,323 @@
   twitterURL: ''
   websiteURL: 'http://www.whszfc.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/武汉三镇足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-020
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '昆山足球俱乐部'
+      shortName:
+        - '简称'
+        - '昆山 FC'
+      localName:
+        - '本地名称'
+        - '昆山足球俱乐部'
+      city:
+        - '城市'
+        - '昆山，中国'
+      founded:
+        - '成立'
+        - '2014'
+      ground:
+        - '主场'
+        - '昆山体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/6609527736'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/昆山足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-021
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '陕西长安竞技足球俱乐部'
+      shortName:
+        - '简称'
+        - '陕西长安竞技'
+      localName:
+        - '本地名称'
+        - '陕西长安竞技足球俱乐部'
+      city:
+        - '城市'
+        - '西安，中国'
+      founded:
+        - '成立'
+        - '2016'
+      ground:
+        - '主场'
+        - '陕西省体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/5893966904'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/zh-cn/陕西长安竞技足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-022
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '南通支云足球俱乐部'
+      shortName:
+        - '简称'
+        - '南通支云'
+      localName:
+        - '本地名称'
+        - '南通支云足球俱乐部'
+      city:
+        - '城市'
+        - '南通，中国'
+      founded:
+        - '成立'
+        - '2014'
+      ground:
+        - '主场'
+        - '如皋奥林匹克体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/5800740152'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/南通支云足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-023
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '四川九牛足球俱乐部'
+      shortName:
+        - '简称'
+        - '四川九牛'
+      localName:
+        - '本地名称'
+        - '四川九牛足球俱乐部'
+      city:
+        - '城市'
+        - '成都，中国'
+      founded:
+        - '成立'
+        - '2017'
+      ground:
+        - '主场'
+        - '成都龙泉驿足球场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/2717233841'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/四川九牛足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-024
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '贵州足球俱乐部'
+      shortName:
+        - '简称'
+        - '贵州 FC'
+      localName:
+        - '本地名称'
+        - '贵州足球俱乐部'
+      city:
+        - '城市'
+        - '贵阳，中国'
+      founded:
+        - '成立'
+        - '2005'
+      ground:
+        - '主场'
+        - '贵阳市奥林匹克体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/2611553927'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/贵州足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-025
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '苏州东吴足球俱乐部'
+      shortName:
+        - '简称'
+        - '苏州东吴'
+      localName:
+        - '本地名称'
+        - '苏州东吴足球俱乐部'
+      city:
+        - '城市'
+        - '苏州，中国'
+      founded:
+        - '成立'
+        - '2008'
+      ground:
+        - '主场'
+        - '苏州体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/5804172181'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/苏州东吴足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-026
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '淄博蹴鞠足球俱乐部'
+      shortName:
+        - '简称'
+        - '淄博蹴鞠'
+      localName:
+        - '本地名称'
+        - '淄博蹴鞠足球俱乐部'
+      city:
+        - '城市'
+        - '淄博，中国'
+      founded:
+        - '成立'
+        - '1982'
+      ground:
+        - '主场'
+        - '淄博体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/6467934803'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-027
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '北京北体大足球俱乐部'
+      shortName:
+        - '简称'
+        - '北京北体大'
+      localName:
+        - '本地名称'
+        - '北京北体大足球俱乐部'
+      city:
+        - '城市'
+        - '北京，中国'
+      founded:
+        - '成立'
+        - '2004'
+      ground:
+        - '主场'
+        - '北京奥体中心体育场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/2123392247'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京北体大足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-028
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '江西北大门足球俱乐部'
+      shortName:
+        - '简称'
+        - '江西北大门'
+      localName:
+        - '本地名称'
+        - '江西北大门足球俱乐部'
+      city:
+        - '城市'
+        - '瑞昌，中国'
+      founded:
+        - '成立'
+        - '2002'
+      ground:
+        - '主场'
+        - '瑞昌市体育公园'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/3194836594'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/江西北大门足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-029
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '北京理工足球俱乐部'
+      shortName:
+        - '简称'
+        - '北京理工'
+      localName:
+        - '本地名称'
+        - '北京理工足球俱乐部'
+      city:
+        - '城市'
+        - '北京，中国'
+      founded:
+        - '成立'
+        - '2000'
+      ground:
+        - '主场'
+        - '北京理工大学中关村校区东体育场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/2727173971'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京理工足球俱乐部'

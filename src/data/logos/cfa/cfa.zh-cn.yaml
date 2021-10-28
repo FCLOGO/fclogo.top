@@ -852,3 +852,279 @@
   svgPath: 'clubs/svg/cfa-wuhan-three-towns-v2019.svg'
   sourceID: cfa-club-019
   style: color
+
+- data: logo
+  uniqueID: 20211027-001
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['昆山 FC']
+  slug: /cfa-kunshan-v2018-mono-2
+  pngPath: 'clubs/cfa-kunshan-v2018-mono-2.png'
+  svgPath: 'clubs/svg/cfa-kunshan-v2018-mono-2.svg'
+  sourceID: cfa-club-020
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-002
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['昆山 FC']
+  slug: /cfa-kunshan-v2018-mono
+  pngPath: 'clubs/cfa-kunshan-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-kunshan-v2018-mono.svg'
+  sourceID: cfa-club-020
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['昆山 FC']
+  slug: /cfa-kunshan-v2018
+  pngPath: 'clubs/cfa-kunshan-v2018.png'
+  svgPath: 'clubs/svg/cfa-kunshan-v2018.svg'
+  sourceID: cfa-club-020
+  style: color
+
+- data: logo
+  uniqueID: 20211027-004
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['陕西长安竞技']
+  slug: /cfa-shannxi-changan-athletic-v2016-mono
+  pngPath: 'clubs/cfa-shannxi-changan-athletic-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-shannxi-changan-athletic-v2016-mono.svg'
+  sourceID: cfa-club-021
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-005
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['陕西长安竞技']
+  slug: /cfa-shannxi-changan-athletic-v2016
+  pngPath: 'clubs/cfa-shannxi-changan-athletic-v2016.png'
+  svgPath: 'clubs/svg/cfa-shannxi-changan-athletic-v2016.svg'
+  sourceID: cfa-club-021
+  style: color
+
+- data: logo
+  uniqueID: 20211027-006
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['南通支云']
+  slug: /cfa-nantong-zhiyun-v2018-mono
+  pngPath: 'clubs/cfa-nantong-zhiyun-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-nantong-zhiyun-v2018-mono.svg'
+  sourceID: cfa-club-022
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-007
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['南通支云']
+  slug: /cfa-nantong-zhiyun-v2018
+  pngPath: 'clubs/cfa-nantong-zhiyun-v2018.png'
+  svgPath: 'clubs/svg/cfa-nantong-zhiyun-v2018.svg'
+  sourceID: cfa-club-022
+  style: color
+
+- data: logo
+  uniqueID: 20211027-008
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['四川九牛']
+  slug: /cfa-sichuan-jiuniu-v2017-mono
+  pngPath: 'clubs/cfa-sichuan-jiuniu-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-sichuan-jiuniu-v2017-mono.svg'
+  sourceID: cfa-club-023
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-009
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['四川九牛']
+  slug: /cfa-sichuan-jiuniu-v2017
+  pngPath: 'clubs/cfa-sichuan-jiuniu-v2017.png'
+  svgPath: 'clubs/svg/cfa-sichuan-jiuniu-v2017.svg'
+  sourceID: cfa-club-023
+  style: color
+
+- data: logo
+  uniqueID: 20211028-001
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['贵州恒丰', '贵州']
+  slug: /cfa-guizhou-v2018-mono
+  pngPath: 'clubs/cfa-guizhou-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-guizhou-v2018-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-002
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['贵州恒丰', '贵州']
+  slug: /cfa-guizhou-v2018
+  pngPath: 'clubs/cfa-guizhou-v2018.png'
+  svgPath: 'clubs/svg/cfa-guizhou-v2018.svg'
+  sourceID: cfa-club-024
+  style: color
+
+- data: logo
+  uniqueID: 20211028-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['苏州东吴']
+  slug: /cfa-suzhou-dongwu-v2018-mono
+  pngPath: 'clubs/cfa-suzhou-dongwu-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-suzhou-dongwu-v2018-mono.svg'
+  sourceID: cfa-club-025
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['苏州东吴']
+  slug: /cfa-suzhou-dongwu-v2018
+  pngPath: 'clubs/cfa-suzhou-dongwu-v2018.png'
+  svgPath: 'clubs/svg/cfa-suzhou-dongwu-v2018.svg'
+  sourceID: cfa-club-025
+  style: color
+
+- data: logo
+  uniqueID: 20211028-005
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['淄博蹴鞠']
+  slug: /cfa-zibo-cuju-v2019-mono
+  pngPath: 'clubs/cfa-zibo-cuju-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-zibo-cuju-v2019-mono.svg'
+  sourceID: cfa-club-026
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-006
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['淄博蹴鞠']
+  slug: /cfa-zibo-cuju-v2019
+  pngPath: 'clubs/cfa-zibo-cuju-v2019.png'
+  svgPath: 'clubs/svg/cfa-zibo-cuju-v2019.svg'
+  sourceID: cfa-club-026
+  style: color
+
+- data: logo
+  uniqueID: 20211028-007
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京控股']
+  slug: /cfa-beijing-sport-university-v2015-mono
+  pngPath: 'clubs/cfa-beijing-sport-university-v2015-mono.png'
+  svgPath: 'clubs/svg/cfa-beijing-sport-university-v2015-mono.svg'
+  sourceID: cfa-club-027
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-008
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京控股']
+  slug: /cfa-beijing-sport-university-v2015
+  pngPath: 'clubs/cfa-beijing-sport-university-v2015.png'
+  svgPath: 'clubs/svg/cfa-beijing-sport-university-v2015.svg'
+  sourceID: cfa-club-027
+  style: color
+
+- data: logo
+  uniqueID: 20211028-009
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京北体大']
+  slug: /cfa-beijing-sport-university-v2019-mono
+  pngPath: 'clubs/cfa-beijing-sport-university-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-beijing-sport-university-v2019-mono.svg'
+  sourceID: cfa-club-027
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-010
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京北体大']
+  slug: /cfa-beijing-sport-university-v2019
+  pngPath: 'clubs/cfa-beijing-sport-university-v2019.png'
+  svgPath: 'clubs/svg/cfa-beijing-sport-university-v2019.svg'
+  sourceID: cfa-club-027
+  style: color
+
+- data: logo
+  uniqueID: 20211028-011
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['江北联盛', '江西北大门']
+  slug: /cfa-jiangxi-beidamen-v2012-mono
+  pngPath: 'clubs/cfa-jiangxi-beidamen-v2012-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangxi-beidamen-v2012-mono.svg'
+  sourceID: cfa-club-028
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-012
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['江西联盛', '江西北大门']
+  slug: /cfa-jiangxi-beidamen-v2012
+  pngPath: 'clubs/cfa-jiangxi-beidamen-v2012.png'
+  svgPath: 'clubs/svg/cfa-jiangxi-beidamen-v2012.svg'
+  sourceID: cfa-club-028
+  style: color
+
+- data: logo
+  uniqueID: 20211028-013
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京理工']
+  slug: /cfa-beijing-institute-of-technology-v2000-mono
+  pngPath: 'clubs/cfa-beijing-institute-of-technology-v2000-mono.png'
+  svgPath: 'clubs/svg/cfa-beijing-institute-of-technology-v2000-mono.svg'
+  sourceID: cfa-club-029
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-014
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京理工']
+  slug: /cfa-beijing-institute-of-technology-v2000
+  pngPath: 'clubs/cfa-beijing-institute-of-technology-v2000.png'
+  svgPath: 'clubs/svg/cfa-beijing-institute-of-technology-v2000.svg'
+  sourceID: cfa-club-029
+  style: color

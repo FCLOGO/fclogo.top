@@ -674,3 +674,323 @@
   twitterURL: ''
   websiteURL: 'http://www.whszfc.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Wuhan_Three_Towns_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-020
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Kunshan Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Kunshan FC'
+      localName:
+        - 'Local Name'
+        - '昆山足球俱乐部'
+      city:
+        - 'City'
+        - 'Kunshan, China'
+      founded:
+        - 'Founded'
+        - '2014'
+      ground:
+        - 'Ground'
+        - 'Kunshan Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/6609527736'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Kunshan_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-021
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - "Shaanxi Chang'an Athletic Football Club"
+      shortName:
+        - 'Short Name'
+        - "Shaanxi Chang'an Athletic"
+      localName:
+        - 'Local Name'
+        - '陕西长安竞技足球俱乐部'
+      city:
+        - 'City'
+        - "Xi'an, China"
+      founded:
+        - 'Founded'
+        - '2016'
+      ground:
+        - 'Ground'
+        - 'Shaanxi Province Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/5893966904'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaanxi_Chang%27an_Athletic_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-022
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Nantong Zhiyun Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Nantong Zhiyun'
+      localName:
+        - 'Local Name'
+        - '南通支云足球俱乐部'
+      city:
+        - 'City'
+        - 'Nantong, China'
+      founded:
+        - 'Founded'
+        - '2014'
+      ground:
+        - 'Ground'
+        - 'Rugao Olympic Sports Center'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/5800740152'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Nantong_Zhiyun_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-023
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Sichuan Jiuniu Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Sichuan Jiuniu'
+      localName:
+        - 'Local Name'
+        - '四川九牛足球俱乐部'
+      city:
+        - 'City'
+        - 'Chengdu, China'
+      founded:
+        - 'Founded'
+        - '2017'
+      ground:
+        - 'Ground'
+        - 'Chengdu Longquanyi Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/2717233841'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Sichuan_Jiuniu_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-024
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Guizhou Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Guizhou FC'
+      localName:
+        - 'Local Name'
+        - 'Guizhou Football Club'
+      city:
+        - 'City'
+        - 'Guiyang, China'
+      founded:
+        - 'Founded'
+        - '2005'
+      ground:
+        - 'Ground'
+        - 'Guiyang Olympic Sports Center'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/2611553927'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Guizhou_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-025
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Suzhou Dongwu Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Suzhou Dongwu'
+      localName:
+        - 'Local Name'
+        - '苏州东吴足球俱乐部'
+      city:
+        - 'City'
+        - 'Suzhou, China'
+      founded:
+        - 'Founded'
+        - '2008'
+      ground:
+        - 'Ground'
+        - 'Suzhou Sports Center'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/5804172181'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-026
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Zibo Cuju Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Zibo Cuju'
+      localName:
+        - 'Local Name'
+        - '淄博蹴鞠足球俱乐部'
+      city:
+        - 'City'
+        - 'Zibo, China'
+      founded:
+        - 'Founded'
+        - '1982'
+      ground:
+        - 'Ground'
+        - 'Zibo Sports Center'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/6467934803'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-027
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Beijing Sport University Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Beijing BSU'
+      localName:
+        - 'Local Name'
+        - '北京北体大足球俱乐部'
+      city:
+        - 'City'
+        - 'Beijing, China'
+      founded:
+        - 'Founded'
+        - '2004'
+      ground:
+        - 'Ground'
+        - 'Beijing Olympic Sports Centre'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/2123392247'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Sport_University_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-028
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Jiangxi Beidamen Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Jiangxi Beidamen'
+      localName:
+        - 'Local Name'
+        - '江西北大门足球俱乐部'
+      city:
+        - 'City'
+        - 'Ruichang, China'
+      founded:
+        - 'Founded'
+        - '2002'
+      ground:
+        - 'Ground'
+        - 'Ruichang Sports Park'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/3194836594'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangxi_Beidamen_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-029
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Beijing Institute of Technology Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Beijing Institute of Technology'
+      localName:
+        - 'Local Name'
+        - '北京理工足球俱乐部'
+      city:
+        - 'City'
+        - 'Beijing, China'
+      founded:
+        - 'Founded'
+        - '2000'
+      ground:
+        - 'Ground'
+        - 'BIT Eastern Athletic Field'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/2727173971'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology_F.C.'
