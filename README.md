@@ -9,7 +9,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 ## 🔗 SITE URL
 
 - primary: [https://fclogo.top](https://fclogo.top)
-- secondary: [https://fclogo.gatsbyjs.io](https://fclogo.gatsbyjs.io)
+- secondary: [https://fclogo.netlify.app](https://fclogo.netlify.app)
 
 ## 🛠 MAIN FEATURES
 
@@ -35,7 +35,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 
 | COUNTRIES/REGIONS | ASSOCIATIONS | COMPETITIONS | CLUBS | LOGOS |
 | :--: | :--: | :--: | :--: | :--: |
-| 🇨🇳 CHINA | 1 | 1 | 5 | 30 |
+| 🇨🇳 CHINA PR | 1 | 2 | 29 | 103 |
 
 
 ## 📝 CONTRIBUTING

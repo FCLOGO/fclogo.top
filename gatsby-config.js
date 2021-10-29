@@ -33,6 +33,7 @@ module.exports = {
         }
       }
     },
+    `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-stylus`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,

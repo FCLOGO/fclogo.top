@@ -5,3 +5,18 @@
  */
 
 // You can delete this file if you're not using it
+
+const React = require('react')
+
+const HeadComponents = [
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9573165480183467"
+    crossOrigin="anonymous"
+    key="google-adsense"
+  />
+]
+
+exports.onRenderBody = ({ setHeadComponents }, pluginOptions) => {
+  setHeadComponents(HeadComponents)
+}
