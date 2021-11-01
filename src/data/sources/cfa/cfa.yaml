@@ -994,3 +994,99 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-030
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Meizhou Hakka Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Meizhou Hakka'
+      localName:
+        - 'Local Name'
+        - '梅州客家足球俱乐部'
+      city:
+        - 'City'
+        - 'Meizhou, China'
+      founded:
+        - 'Founded'
+        - '2013'
+      ground:
+        - 'Ground'
+        - 'Wuhua Huitang Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/3211113322'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Meizhou_Hakka_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-031
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Chengdu Rongcheng Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Chengdu Rongcheng'
+      localName:
+        - 'Local Name'
+        - '成都蓉城足球俱乐部'
+      city:
+        - 'City'
+        - 'Chengdu, China'
+      founded:
+        - 'Founded'
+        - '2018'
+      ground:
+        - 'Ground'
+        - 'Chengdu Longquanyi Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/6487273451'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-032
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Heilongjiang Ice City Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Heilongjiang Ice City'
+      localName:
+        - 'Local Name'
+        - '黑龙江冰城足球俱乐部'
+      city:
+        - 'City'
+        - 'Harbin, China'
+      founded:
+        - 'Founded'
+        - '2014'
+      ground:
+        - 'Ground'
+        - 'Harbin IEC Center Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/2405478533'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

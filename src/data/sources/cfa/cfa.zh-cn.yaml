@@ -994,3 +994,99 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/北京理工足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-030
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '梅州客家足球俱乐部'
+      shortName:
+        - '简称'
+        - '梅州客家'
+      localName:
+        - '本地名称'
+        - '梅州客家足球俱乐部'
+      city:
+        - '城市'
+        - '梅州，中国'
+      founded:
+        - '成立'
+        - '2013'
+      ground:
+        - '主场'
+        - '五华惠堂体育场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/3211113322'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/梅州客家足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-031
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '成都蓉城足球俱乐部'
+      shortName:
+        - '简称'
+        - '成都蓉城'
+      localName:
+        - '本地名称'
+        - '成都蓉城足球俱乐部'
+      city:
+        - '城市'
+        - '成都，中国'
+      founded:
+        - '成立'
+        - '2018'
+      ground:
+        - '主场'
+        - '成都龙泉驿足球场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/6487273451'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/成都蓉城足球俱乐部/'
+
+- data: sourceInfo
+  sourceID: cfa-club-032
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '黑龙江冰城足球俱乐部'
+      shortName:
+        - '简称'
+        - '黑龙江冰城'
+      localName:
+        - '本地名称'
+        - '黑龙江冰城足球俱乐部'
+      city:
+        - '城市'
+        - '哈尔滨，中国'
+      founded:
+        - '成立'
+        - '2014'
+      ground:
+        - '主场'
+        - '哈尔滨国际会展中心体育场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/2405478533'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/黑龙江冰城足球俱乐部/'

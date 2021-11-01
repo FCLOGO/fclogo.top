@@ -1128,3 +1128,147 @@
   svgPath: 'clubs/svg/cfa-beijing-institute-of-technology-v2000.svg'
   sourceID: cfa-club-029
   style: color
+
+- data: logo
+  uniqueID: 20211101-001
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['梅州客家']
+  slug: /cfa-meizhou-hakka-v2016-mono
+  pngPath: 'clubs/cfa-meizhou-hakka-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-meizhou-hakka-v2016-mono.svg'
+  sourceID: cfa-club-030
+  style: mono
+
+- data: logo
+  uniqueID: 20211101-002
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['梅州客家']
+  slug: /cfa-meizhou-hakka-v2016
+  pngPath: 'clubs/cfa-meizhou-hakka-v2016.png'
+  svgPath: 'clubs/svg/cfa-meizhou-hakka-v2016.svg'
+  sourceID: cfa-club-030
+  style: color
+
+- data: logo
+  uniqueID: 20211101-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['成都兴城']
+  slug: /cfa-chengdu-rongcheng-v2018-mono
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-mono.svg'
+  sourceID: cfa-club-031
+  style: mono
+
+- data: logo
+  uniqueID: 20211101-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['成都兴城']
+  slug: /cfa-chengdu-rongcheng-v2018
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018.svg'
+  sourceID: cfa-club-031
+  style: color
+
+- data: logo
+  uniqueID: 20211101-005
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['成都兴城', '成都蓉城']
+  slug: /cfa-chengdu-rongcheng-v2018-graphic-mono
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graphic-mono.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graphic-mono.svg'
+  sourceID: cfa-club-031
+  style: graphic
+
+- data: logo
+  uniqueID: 20211101-006
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['成都兴城', '成都蓉城']
+  slug: /cfa-chengdu-rongcheng-v2018-graphic
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graphic.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graphic.svg'
+  sourceID: cfa-club-031
+  style: graphic
+
+- data: logo
+  uniqueID: 20211101-007
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['成都蓉城']
+  slug: /cfa-chengdu-rongcheng-v2021-mono
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2021-mono.svg'
+  sourceID: cfa-club-031
+  style: mono
+
+- data: logo
+  uniqueID: 20211101-008
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['成都蓉城']
+  slug: /cfa-chengdu-rongcheng-v2021
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2021.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2021.svg'
+  sourceID: cfa-club-031
+  style: color
+
+- data: logo
+  uniqueID: 20211101-009
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['黑龙江火山鸣泉']
+  slug: /cfa-heilongjiang-ice-city-v2016-mono
+  pngPath: 'clubs/cfa-heilongjiang-ice-city-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2016-mono.svg'
+  sourceID: cfa-club-032
+  style: mono
+
+- data: logo
+  uniqueID: 20211101-010
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['黑龙江火山鸣泉']
+  slug: /cfa-heilongjiang-ice-city-v2016
+  pngPath: 'clubs/cfa-heilongjiang-ice-city-v2016.png'
+  svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2016.svg'
+  sourceID: cfa-club-032
+  style: color
+
+- data: logo
+  uniqueID: 20211101-011
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['黑龙江冰城']
+  slug: /cfa-heilongjiang-ice-city-v2021-mono
+  pngPath: 'clubs/cfa-heilongjiang-ice-city-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2021-mono.svg'
+  sourceID: cfa-club-032
+  style: mono
+
+- data: logo
+  uniqueID: 20211101-012
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['黑龙江冰城']
+  slug: /cfa-heilongjiang-ice-city-v2021
+  pngPath: 'clubs/cfa-heilongjiang-ice-city-v2021.png'
+  svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2021.svg'
+  sourceID: cfa-club-032
+  style: color
