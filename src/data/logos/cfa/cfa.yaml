@@ -1392,3 +1392,243 @@
   svgPath: 'clubs/svg/cfa-xinjiang-tianshan-leopard-v2020.svg'
   sourceID: cfa-club-035
   style: color
+
+- data: logo
+  uniqueID: 20211103-005
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Beijing Renhe', 'Beijing Chengfeng']
+  slug: /cfa-beijing-chengfeng-v2016-mono
+  pngPath: 'clubs/cfa-beijing-chengfeng-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-beijing-chengfeng-v2016-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-006
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Beijing Renhe', 'Beijing Chengfeng']
+  slug: /cfa-beijing-chengfeng-v2016
+  pngPath: 'clubs/cfa-beijing-chengfeng-v2016.png'
+  svgPath: 'clubs/svg/cfa-beijing-chengfeng-v2016.svg'
+  sourceID: cfa-club-036
+  style: color
+
+- data: logo
+  uniqueID: 20211103-007
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Meixian Techand']
+  slug: /cfa-guangdong-south-china-tiger-v2017-mono
+  pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2017-mono.svg'
+  sourceID: cfa-club-037
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-008
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Meixian Techand']
+  slug: /cfa-guangdong-south-china-tiger-v2017
+  pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2017.png'
+  svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2017.svg'
+  sourceID: cfa-club-037
+  style: color
+
+- data: logo
+  uniqueID: 20211103-009
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangdong South China Tiger']
+  slug: /cfa-guangdong-south-china-tiger-v2019-mono
+  pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2019-mono.svg'
+  sourceID: cfa-club-037
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-010
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangdong South China Tiger']
+  slug: /cfa-guangdong-south-china-tiger-v2019
+  pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2019.png'
+  svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2019.svg'
+  sourceID: cfa-club-037
+  style: color
+
+- data: logo
+  uniqueID: 20211103-011
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Inner Mongolia Zhongyou']
+  slug: /cfa-inner-mongolia-zhongyou-v2019-mono
+  pngPath: 'clubs/cfa-inner-mongolia-zhongyou-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-inner-mongolia-zhongyou-v2019-mono.svg'
+  sourceID: cfa-club-038
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-012
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Inner Mongolia Zhongyou']
+  slug: /cfa-inner-mongolia-zhongyou-v2019
+  pngPath: 'clubs/cfa-inner-mongolia-zhongyou-v2019.png'
+  svgPath: 'clubs/svg/cfa-inner-mongolia-zhongyou-v2019.svg'
+  sourceID: cfa-club-038
+  style: color
+
+- data: logo
+  uniqueID: 20211103-013
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Liaoning', 'Liaoning Hongyun']
+  slug: /cfa-liaoningfc-v2013-mono
+  pngPath: 'clubs/cfa-liaoningfc-v2013-mono.png'
+  svgPath: 'clubs/svg/cfa-liaoningfc-v2013-mono.svg'
+  sourceID: cfa-club-039
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-014
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Liaoning', 'Liaoning Hongyun']
+  slug: /cfa-liaoningfc-v2013
+  pngPath: 'clubs/cfa-liaoningfc-v2013.png'
+  svgPath: 'clubs/svg/cfa-liaoningfc-v2013.svg'
+  sourceID: cfa-club-039
+  style: color
+
+- data: logo
+  uniqueID: 20211103-015
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenxin']
+  slug: /cfa-shanghai-shenxin-v2017-mono
+  pngPath: 'clubs/cfa-shanghai-shenxin-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghai-shenxin-v2017-mono.svg'
+  sourceID: cfa-club-040
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-016
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenxin']
+  slug: /cfa-shanghai-shenxin-v2017
+  pngPath: 'clubs/cfa-shanghai-shenxin-v2017.png'
+  svgPath: 'clubs/svg/cfa-shanghai-shenxin-v2017.svg'
+  sourceID: cfa-club-040
+  style: color
+
+- data: logo
+  uniqueID: 20211103-017
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sichuan Longfor']
+  slug: /cfa-sichuan-longfor-v2019-mono
+  pngPath: 'clubs/cfa-sichuan-longfor-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-sichuan-longfor-v2019-mono.svg'
+  sourceID: cfa-club-041
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-018
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sichuan Longfor']
+  slug: /cfa-sichuan-longfor-v2019
+  pngPath: 'clubs/cfa-sichuan-longfor-v2019.png'
+  svgPath: 'clubs/svg/cfa-sichuan-longfor-v2019.svg'
+  sourceID: cfa-club-041
+  style: color
+
+- data: logo
+  uniqueID: 20211103-019
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Yanbian Baekdu', 'Yanbian Funde']
+  slug: /cfa-yanbian-funde-v2014-mono
+  pngPath: 'clubs/cfa-yanbian-funde-v2014-mono.png'
+  svgPath: 'clubs/svg/cfa-yanbian-funde-v2014-mono.svg'
+  sourceID: cfa-club-042
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-020
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Yanbian Baekdu', 'Yanbian Funde']
+  slug: /cfa-yanbian-funde-v2014
+  pngPath: 'clubs/cfa-yanbian-funde-v2014.png'
+  svgPath: 'clubs/svg/cfa-yanbian-funde-v2014.svg'
+  sourceID: cfa-club-042
+  style: color
+
+- data: logo
+  uniqueID: 20211103-021
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin Quanjian']
+  slug: /cfa-tianjin-tianhai-v2016-mono
+  pngPath: 'clubs/cfa-tianjin-tianhai-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2016-mono.svg'
+  sourceID: cfa-club-043
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-022
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin Quanjian']
+  slug: /cfa-tianjin-tianhai-v2016
+  pngPath: 'clubs/cfa-tianjin-tianhai-v2016.png'
+  svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2016.svg'
+  sourceID: cfa-club-043
+  style: color
+
+- data: logo
+  uniqueID: 20211103-023
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin Tianhai']
+  slug: /cfa-tianjin-tianhai-v2019-mono
+  pngPath: 'clubs/cfa-tianjin-tianhai-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2019-mono.svg'
+  sourceID: cfa-club-043
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-024
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin Tianhai']
+  slug: /cfa-tianjin-tianhai-v2019
+  pngPath: 'clubs/cfa-tianjin-tianhai-v2019.png'
+  svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2019.svg'
+  sourceID: cfa-club-043
+  style: color

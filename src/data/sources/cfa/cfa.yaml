@@ -1186,3 +1186,235 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Xinjiang_Tianshan_Leopard_F.C./'
+
+- data: sourceInfo
+  sourceID: cfa-club-036
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Beijing Chengfeng Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Beijing Chengfeng'
+      localName:
+        - 'Local Name'
+        - '北京橙丰足球俱乐部'
+      city:
+        - 'City'
+        - 'Beijing, China'
+      founded:
+        - 'Founded'
+        - '1995'
+      duration:
+        - 'Duration'
+        - '1995 - 2021'
+      ground:
+        - 'Ground'
+        - 'Beijing Fengtai Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Renhe_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-037
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Guangdong South China Tiger Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Guangdong South China Tiger'
+      localName:
+        - 'Local Name'
+        - '广东华南虎足球俱乐部'
+      city:
+        - 'City'
+        - 'Meizhou, China'
+      founded:
+        - 'Founded'
+        - '2003'
+      duration:
+        - 'Duration'
+        - '2003 - 2020'
+      ground:
+        - 'Ground'
+        - 'Meixian Tsang Hin-chi Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Guangdong_South_China_Tiger_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-038
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Inner Mongolia Zhongyou Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Inner Mongolia Zhongyou'
+      localName:
+        - 'Local Name'
+        - '内蒙古中优足球俱乐部'
+      city:
+        - 'City'
+        - 'Hohhot, China'
+      founded:
+        - 'Founded'
+        - '2011'
+      duration:
+        - 'Duration'
+        - '2011 - 2021'
+      ground:
+        - 'Ground'
+        - 'Hohhot City Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Inner_Mongolia_Zhongyou_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-039
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Liaoning Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Liaoning FC'
+      localName:
+        - 'Local Name'
+        - '辽宁足球俱乐部'
+      city:
+        - 'City'
+        - 'Shenyang, China'
+      founded:
+        - 'Founded'
+        - '1995'
+      duration:
+        - 'Duration'
+        - '1995 - 2020'
+      ground:
+        - 'Ground'
+        - 'Tiexi New District Sports Center'
+  wikiURL: 'https://en.wikipedia.org/wiki/Liaoning_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-040
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Shanghai Shenxin Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Shanghai Shenxin'
+      localName:
+        - 'Local Name'
+        - '上海申鑫足球俱乐部'
+      city:
+        - 'City'
+        - 'Shanghai, China'
+      founded:
+        - 'Founded'
+        - '2003'
+      duration:
+        - 'Duration'
+        - '2003 - 2020'
+      ground:
+        - 'Ground'
+        - 'Jinshan Football Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Shenxin_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-041
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Sichuan Longfor Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Sichuan Longfor'
+      localName:
+        - 'Local Name'
+        - '四川隆发足球俱乐部'
+      city:
+        - 'City'
+        - 'Chengdu, China'
+      founded:
+        - 'Founded'
+        - '2013'
+      duration:
+        - 'Duration'
+        - '2013 - 2020'
+      ground:
+        - 'Ground'
+        - 'Dujiangyan Phoenix Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sichuan_Longfor_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-042
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Yanbian Funde Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Yanbian Funde'
+      localName:
+        - 'Local Name'
+        - '延边富德足球俱乐部'
+      city:
+        - 'City'
+        - 'Yanbian, China'
+      founded:
+        - 'Founded'
+        - '1994'
+      duration:
+        - 'Duration'
+        - '1994 - 2019'
+      ground:
+        - 'Ground'
+        - 'Yanji Nationwide Fitness Centre Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Funde_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-043
+  isDisband: true
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Tianjin Tianhai Footbal Club'
+      shortName:
+        - 'Short Name'
+        - 'Tianjin Tianhai'
+      localName:
+        - 'Local Name'
+        - '天津天海足球俱乐部'
+      city:
+        - 'City'
+        - 'Tianjin, China'
+      founded:
+        - 'Founded'
+        - '2006'
+      duration:
+        - 'Duration'
+        - '2006 - 2020'
+      ground:
+        - 'Ground'
+        - 'Tianjin Olympic Center Stadium'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Tianhai_F.C.'

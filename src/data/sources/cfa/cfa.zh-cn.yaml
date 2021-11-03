@@ -1186,3 +1186,235 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/新疆天山雪豹足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-036
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '北京橙丰足球俱乐部'
+      shortName:
+        - '简称'
+        - '北京橙丰'
+      localName:
+        - '本地名称'
+        - '北京橙丰足球俱乐部'
+      city:
+        - '城市'
+        - '北京，中国'
+      founded:
+        - '成立'
+        - '1995'
+      duration:
+        - '生存期间'
+        - '1995 - 2021'
+      ground:
+        - '主场'
+        - '丰台体育中心体育场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京橙丰足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-037
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '广东华南虎足球俱乐部'
+      shortName:
+        - '简称'
+        - '广东华南虎'
+      localName:
+        - '本地名称'
+        - '广东华南虎足球俱乐部'
+      city:
+        - '城市'
+        - '梅州，中国'
+      founded:
+        - '成立'
+        - '2003'
+      duration:
+        - '生存期间'
+        - '2003 - 2020'
+      ground:
+        - '主场'
+        - '梅县区曾宪梓体育场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/广东华南虎足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-038
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '内蒙古中优足球俱乐部'
+      shortName:
+        - '简称'
+        - '内蒙古中优'
+      localName:
+        - '本地名称'
+        - '内蒙古中优足球俱乐部'
+      city:
+        - '城市'
+        - '呼和浩特，中国'
+      founded:
+        - '成立'
+        - '2011'
+      duration:
+        - '生存期间'
+        - '2011 - 2021'
+      ground:
+        - '主场'
+        - '呼和浩特体育场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/内蒙古中优足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-039
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '辽宁足球俱乐部'
+      shortName:
+        - '简称'
+        - '辽宁 FC'
+      localName:
+        - '本地名称'
+        - '辽宁足球俱乐部'
+      city:
+        - '城市'
+        - '沈阳，中国'
+      founded:
+        - '成立'
+        - '1995'
+      duration:
+        - '生存期间'
+        - '1995 - 2020'
+      ground:
+        - '主场'
+        - '沈阳铁西体育场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/辽宁宏运足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-040
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '上海申鑫足球俱乐部'
+      shortName:
+        - '简称'
+        - '上海申鑫'
+      localName:
+        - '本地名称'
+        - '上海申鑫足球俱乐部'
+      city:
+        - '城市'
+        - '上海，中国'
+      founded:
+        - '成立'
+        - '2003'
+      duration:
+        - '生存期间'
+        - '2003 - 2020'
+      ground:
+        - '主场'
+        - '金山足球场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海申鑫足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-041
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '四川隆发足球俱乐部'
+      shortName:
+        - '简称'
+        - '四川隆发'
+      localName:
+        - '本地名称'
+        - '四川隆发足球俱乐部'
+      city:
+        - '城市'
+        - '成都，中国'
+      founded:
+        - '成立'
+        - '2013'
+      duration:
+        - '生存期间'
+        - '2013 - 2020'
+      ground:
+        - '主场'
+        - '都江堰凤凰体育场'
+  wikiURL: 'https://baike.baidu.com/item/四川隆发足球俱乐部/'
+
+- data: sourceInfo
+  sourceID: cfa-club-042
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '延边富德足球俱乐部'
+      shortName:
+        - '简称'
+        - '延边富德'
+      localName:
+        - '本地名称'
+        - '延边富德足球俱乐部'
+      city:
+        - '城市'
+        - '延边，中国'
+      founded:
+        - '成立'
+        - '1994'
+      duration:
+        - '生存期间'
+        - '1994 - 2019'
+      ground:
+        - '主场'
+        - '延吉市人民体育场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/延边富德足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-043
+  isDisband: true
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '天津天海足球俱乐部'
+      shortName:
+        - '简称'
+        - '天津天海'
+      localName:
+        - '本地名称'
+        - '天津天海足球俱乐部'
+      city:
+        - '城市'
+        - '天津，中国'
+      founded:
+        - '成立'
+        - '2006'
+      duration:
+        - '生存期间'
+        - '2006 - 2020'
+      ground:
+        - '主场'
+        - '天津奥体中心体育场'
+  wikiURL: 'https://zh.wikipedia.org/wiki/天津天海足球俱乐部'
