@@ -1090,3 +1090,99 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://baike.baidu.com/item/黑龙江冰城足球俱乐部/'
+
+- data: sourceInfo
+  sourceID: cfa-club-033
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '南京城市足球俱乐部'
+      shortName:
+        - '简称'
+        - '南京城市'
+      localName:
+        - '本地名称'
+        - '南京城市足球俱乐部'
+      city:
+        - '城市'
+        - '南京，中国'
+      founded:
+        - '成立'
+        - '2014'
+      ground:
+        - '主场'
+        - '南京青奥体育公园'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/7266596722'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/南京城市足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-034
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '辽宁沈阳城市足球俱乐部'
+      shortName:
+        - '简称'
+        - '辽宁沈阳城市'
+      localName:
+        - '本地名称'
+        - '辽宁沈阳城市足球俱乐部'
+      city:
+        - '城市'
+        - '沈阳，中国'
+      founded:
+        - '成立'
+        - '2015'
+      ground:
+        - '主场'
+        - '沈阳城市建设学院体育场'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/3972643388'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/辽宁沈阳城市足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-035
+  isDisband: false
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName:
+        - '全称'
+        - '新疆天山雪豹足球俱乐部'
+      shortName:
+        - '简称'
+        - '新疆天山雪豹'
+      localName:
+        - '本地名称'
+        - '新疆天山雪豹足球俱乐部'
+      city:
+        - '城市'
+        - '乌鲁木齐，中国'
+      founded:
+        - '成立'
+        - '2011'
+      ground:
+        - '主场'
+        - '新疆维吾尔自治区体育中心'
+      league:
+        - '联赛'
+        - '中甲联赛'
+  weiboURL: 'https://weibo.com/u/3501306747'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/新疆天山雪豹足球俱乐部'

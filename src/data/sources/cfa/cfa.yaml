@@ -1090,3 +1090,99 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-033
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Nanjing City Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Nanjing City'
+      localName:
+        - 'Local Name'
+        - '南京城市足球俱乐部'
+      city:
+        - 'City'
+        - 'Nanjing, China'
+      founded:
+        - 'Founded'
+        - '2014'
+      ground:
+        - 'Ground'
+        - 'Nanjing Youth Olympic Sports Park'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/7266596722'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Nanjing_City_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-034
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Liaoning Shenyang Urban Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Liaoning Shenyang Urban'
+      localName:
+        - 'Local Name'
+        - '辽宁沈阳城市足球俱乐部'
+      city:
+        - 'City'
+        - 'Shenyang, China'
+      founded:
+        - 'Founded'
+        - '2015'
+      ground:
+        - 'Ground'
+        - 'Shenyang Urban Construction University Stadium'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/3972643388'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Liaoning_Shenyang_Urban_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-035
+  isDisband: false
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Xinjiang Tianshan Leopard Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Xinjiang Tianshan Leopard'
+      localName:
+        - 'Local Name'
+        - '新疆天山雪豹足球俱乐部'
+      city:
+        - 'City'
+        - 'Urumqi, China'
+      founded:
+        - 'Founded'
+        - '2011'
+      ground:
+        - 'Ground'
+        - 'Xinjiang Sports Centre'
+      league:
+        - 'League'
+        - 'China League'
+  weiboURL: 'https://weibo.com/u/3501306747/'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Xinjiang_Tianshan_Leopard_F.C./'
