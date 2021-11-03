@@ -56,7 +56,7 @@
         - '1'
       relegation:
         - 'Relegation to'
-        - 'China League One'
+        - 'China League'
   weiboURL: 'https://weibo.com/u/1800991937'
   websiteURL: 'http://csl-china.com'
   wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Super_League'
@@ -87,6 +87,9 @@
       level:
         - 'Level on'
         - '2'
+      promotion:
+        - 'Promotion to'
+        - 'Chinese Super League'
       relegation:
         - 'Relegation to'
         - 'China League Two'
@@ -94,6 +97,43 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/China_League_One'
+
+- data: sourceInfo
+  sourceID: cfa-comp-003
+  type: Competition
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Chinese Football Association Division Two League'
+      shortName:
+        - 'Short Name'
+        - 'China League Two'
+      localName:
+        - 'Local Name'
+        - '中国足球协会乙级联赛'
+      founded:
+        - 'Founded'
+        - '2004'
+      confederation:
+        - 'Confederation'
+        - 'AFC'
+      teams:
+        - 'Number of Teams'
+        - '24'
+      level:
+        - 'Level on'
+        - '3'
+      promotion:
+        - 'Promotion to'
+        - 'China League'
+      relegation:
+        - 'Relegation to'
+        - 'CMCL'
+  weiboURL: 'https://weibo.com/u/6498429917'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/China_League_Two'
 
 # Clubs
 - data: sourceInfo

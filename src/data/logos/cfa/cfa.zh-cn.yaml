@@ -72,6 +72,18 @@
   sourceID: cfa-comp-002
   style: mono
 
+- data: logo
+  uniqueID: 20211103-025
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['中乙联赛']
+  slug: /cfa-china-league-2-v2004
+  pngPath: 'comps/cfa-china-league-2-v2004.png'
+  svgPath: 'comps/svg/cfa-china-league-2-v2004.svg'
+  sourceID: cfa-comp-003
+  style: color
+
 # Clubs
 - data: logo
   uniqueID: 20211007-006

@@ -220,6 +220,7 @@ export const query = graphql`
           confederation
           teams
           level
+          promotion
           relegation
         }
         websiteURL
