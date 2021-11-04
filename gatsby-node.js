@@ -30,7 +30,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
   const detail = await graphql(`
     query {
-      allLogo {
+      allLogo(sort: { fields: uniqueID }, filter: { fields: { locale: { eq: "en" } } }) {
         edges {
           node {
             slug
