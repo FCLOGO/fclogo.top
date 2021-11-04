@@ -1,94 +1,8 @@
-# Associations
-- data: logo
-  uniqueID: 20211007-001
-  version: 2018
-  verName: ['CFA']
-  pngPath: 'assns/chinese-football-association-v2018.png'
-  svgPath: 'assns/svg/chinese-football-association-v2018.svg'
-  sourceID: cfa-assn-001
-  style: color
-  slug: /chinese-football-association-v2018
-
-- data: logo
-  uniqueID: 20211007-002
-  version: 2018
-  verName: ['CFA']
-  pngPath: 'assns/chinese-football-association-v2018-mono.png'
-  svgPath: 'assns/svg/chinese-football-association-mono-v2018.svg'
-  sourceID: cfa-assn-001
-  style: mono
-  slug: /chinese-football-association-v2018-mono
-
-- data: logo
-  uniqueID: 20211007-003
-  version: 2018
-  verName: ['CFA']
-  pngPath: 'assns/chinese-football-association-v2018-text.png'
-  svgPath: 'assns/svg/chinese-football-association-v2018-text.svg'
-  sourceID: cfa-assn-001
-  style: text
-  slug: /chinese-football-association-v2018-text
-
-# Competitions
-- data: logo
-  uniqueID: 20211007-004
-  version: 2004
-  verName: ['Chinese Super League']
-  pngPath: 'comps/cfa-super-league-v2004.png'
-  svgPath: 'comps/svg/cfa-super-league-v2004.svg'
-  sourceID: cfa-comp-001
-  style: color
-  slug: /cfa-super-league-v2004
-
-- data: logo
-  uniqueID: 20211007-005
-  version: 2004
-  verName: ['Chinese Super League']
-  pngPath: 'comps/cfa-super-league-v2004-mono.png'
-  svgPath: 'comps/svg/cfa-super-league-v2004-mono.svg'
-  sourceID: cfa-comp-001
-  style: mono
-  slug: /cfa-super-league-v2004-mono
-
-- data: logo
-  uniqueID: 20211023-001
-  version: 2004
-  isOutdated: false
-  verName: ['China League One']
-  slug: /cfa-china-league-one-v2004
-  pngPath: 'comps/cfa-china-league-one-v2004.png'
-  svgPath: 'comps/svg/cfa-china-league-one-v2004.svg'
-  sourceID: cfa-comp-002
-  style: color
-
-- data: logo
-  uniqueID: 20211023-002
-  version: 2004
-  isOutdated: false
-  verName: ['China League One']
-  slug: /cfa-china-league-one-v2004-mono
-  pngPath: 'comps/cfa-china-league-one-v2004-mono.png'
-  svgPath: 'comps/svg/cfa-china-league-one-v2004-mono.svg'
-  sourceID: cfa-comp-002
-  style: mono
-
-- data: logo
-  uniqueID: 20211103-025
-  version: 2004
-  isDoubtful: false
-  isOutdated: false
-  verName: ['China League 2']
-  slug: /cfa-china-league-2-v2004
-  pngPath: 'comps/cfa-china-league-2-v2004.png'
-  svgPath: 'comps/svg/cfa-china-league-2-v2004.svg'
-  sourceID: cfa-comp-003
-  style: color
-
 # Clubs
 - data: logo
   uniqueID: 20211007-006
   version: 1998
-  verName: ['Shandong Luneng Taishan FC', 'Shandong Taishan FC']
+  verName: ['山东鲁能泰山', '山东泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1998.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1998.svg'
   sourceID: cfa-club-001
@@ -98,7 +12,7 @@
 - data: logo
   uniqueID: 20211007-007
   version: 1998
-  verName: ['Shandong Luneng Taishan FC', 'Shandong Taishan FC']
+  verName: ['山东鲁能泰山', '山东泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1998-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1998-mono.svg'
   sourceID: cfa-club-001
@@ -110,7 +24,7 @@
   version: 1993
   isDoubtful: true
   isOutdated: true
-  verName: ['Shandong Taishan FC']
+  verName: ['山东泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1993.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1993.svg'
   sourceID: cfa-club-001
@@ -122,7 +36,7 @@
   version: 1993
   isDoubtful: true
   isOutdated: true
-  verName: ['Shandong Taishan FC']
+  verName: ['山东泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1993-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1993-mono.svg'
   sourceID: cfa-club-001
@@ -134,7 +48,7 @@
   version: 1995
   isDoubtful: true
   isOutdated: true
-  verName: ['Jinan Taishan FC']
+  verName: ['山东济南泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1995.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1995.svg'
   sourceID: cfa-club-001
@@ -146,7 +60,7 @@
   version: 1995
   isDoubtful: true
   isOutdated: true
-  verName: ['Jinan Taishan FC']
+  verName: ['山东济南泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1995-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1995-mono.svg'
   sourceID: cfa-club-001
@@ -157,7 +71,7 @@
   uniqueID: 20211008-005
   version: 1996
   isOutdated: true
-  verName: ['Jinan Taishan General FC']
+  verName: ['济南泰山将军']
   pngPath: 'clubs/cfa-shandongtaishan-v1996.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1996.svg'
   sourceID: cfa-club-001
@@ -168,7 +82,7 @@
   uniqueID: 20211008-006
   version: 1996
   isOutdated: true
-  verName: ['Jinan Taishan General FC']
+  verName: ['济南泰山将军']
   pngPath: 'clubs/cfa-shandongtaishan-v1996-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1996-mono.svg'
   sourceID: cfa-club-001
@@ -179,7 +93,7 @@
   uniqueID: 20211009-001
   version: 1997
   isOutdated: true
-  verName: ['Jinan Taishan General FC']
+  verName: ['济南泰山将军']
   pngPath: 'clubs/cfa-shandongtaishan-v1997.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1997.svg'
   sourceID: cfa-club-001
@@ -190,7 +104,7 @@
   uniqueID: 20211009-002
   version: 1997
   isOutdated: true
-  verName: ['Jinan Taishan General FC']
+  verName: ['济南泰山将军']
   pngPath: 'clubs/cfa-shandongtaishan-v1997-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1997-mono.svg'
   sourceID: cfa-club-001
@@ -200,7 +114,7 @@
 - data: logo
   uniqueID: 20211012-001
   version: 2002
-  verName: ['Beijing Guoan FC', 'Beijing Sinobo Guoan FC']
+  verName: ['北京国安', '北京中赫国安']
   pngPath: 'clubs/cfa-beijingguoan-v2002.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v2002.svg'
   sourceID: cfa-club-002
@@ -210,7 +124,7 @@
 - data: logo
   uniqueID: 20211012-002
   version: 2002
-  verName: ['Beijing Guoan FC', 'Beijing Sinobo Guoan FC']
+  verName: ['北京国安', '北京中赫国安']
   pngPath: 'clubs/cfa-beijingguoan-v2002-mono.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v2002-mono.svg'
   sourceID: cfa-club-002
@@ -221,7 +135,7 @@
   uniqueID: 20211012-003
   version: 1992
   isOutdated: true
-  verName: ['Beijing Guoan FC']
+  verName: ['北京国安']
   pngPath: 'clubs/cfa-beijingguoan-v1992.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v1992.svg'
   sourceID: cfa-club-002
@@ -232,7 +146,7 @@
   uniqueID: 20211012-004
   version: 1992
   isOutdated: true
-  verName: ['Beijing Guoan FC']
+  verName: ['北京国安']
   pngPath: 'clubs/cfa-beijingguoan-v1992-mono.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v1992-mono.svg'
   sourceID: cfa-club-002
@@ -243,7 +157,7 @@
   uniqueID: 20211012-005
   version: 1995
   isOutdated: true
-  verName: ['Beijing Guoan FC']
+  verName: ['北京国安']
   pngPath: 'clubs/cfa-beijingguoan-v1995.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v1995.svg'
   sourceID: cfa-club-002
@@ -254,7 +168,7 @@
   uniqueID: 20211012-006
   version: 1995
   isOutdated: true
-  verName: ['Beijing Guoan FC']
+  verName: ['北京国安']
   pngPath: 'clubs/cfa-beijingguoan-v1995-mono.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v1995-mono.svg'
   sourceID: cfa-club-002
@@ -265,7 +179,7 @@
   uniqueID: 20211012-007
   version: 1996
   isOutdated: true
-  verName: ['Beijing Guoan FC']
+  verName: ['北京国安']
   pngPath: 'clubs/cfa-beijingguoan-v1996.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v1996.svg'
   sourceID: cfa-club-002
@@ -276,7 +190,7 @@
   uniqueID: 20211012-008
   version: 1996
   isOutdated: true
-  verName: ['Beijing Guoan FC']
+  verName: ['北京国安']
   pngPath: 'clubs/cfa-beijingguoan-v1996-mono.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v1996-mono.svg'
   sourceID: cfa-club-002
@@ -285,8 +199,8 @@
 
 - data: logo
   uniqueID: 20211013-001
-  version: 201407
-  verName: ['Shanghai Grenland FC', 'Shanghai Greenland Shenhua FC']
+  version: 2014.07
+  verName: ['上海绿地', '上海绿地申花']
   pngPath: 'clubs/cfa-shanghaishenhua-v201407.png'
   svgPath: 'clubs/svg/cfa-shanghaishenhua-v201407.svg'
   sourceID: cfa-club-003
@@ -295,8 +209,8 @@
 
 - data: logo
   uniqueID: 20211013-002
-  version: 201407
-  verName: ['Shanghai Grenland FC', 'Shanghai Greenland Shenhua FC']
+  version: 2014.07
+  verName: ['上海绿地', '上海绿地申花']
   pngPath: 'clubs/cfa-shanghaishenhua-v201407-mono.png'
   svgPath: 'clubs/svg/cfa-shanghaishenhua-v201407-mono.svg'
   sourceID: cfa-club-003
@@ -306,7 +220,7 @@
 - data: logo
   uniqueID: 20211014-001
   version: 2015
-  verName: ['Guangzhou FC', 'Guangzhou Evergrande Taobao FC']
+  verName: ['广州 FC', '广州恒大淘宝']
   pngPath: 'clubs/cfa-guangzhoufc-v2015.png'
   svgPath: 'clubs/svg/cfa-guangzhoufc-v2015.svg'
   sourceID: cfa-club-004
@@ -316,7 +230,7 @@
 - data: logo
   uniqueID: 20211014-002
   version: 2015
-  verName: ['Guangzhou FC', 'Guangzhou Evergrande Taobao FC']
+  verName: ['广州 FC', '广州恒大淘宝']
   pngPath: 'clubs/cfa-guangzhoufc-v2015-mono.png'
   svgPath: 'clubs/svg/cfa-guangzhoufc-v2015-mono.svg'
   sourceID: cfa-club-004
@@ -326,7 +240,7 @@
 - data: logo
   uniqueID: 20211014-003
   version: 2017
-  verName: ['Shenzhen FC']
+  verName: ['深圳 FC']
   pngPath: 'clubs/cfa-shenzhenfc-v2017.png'
   svgPath: 'clubs/svg/cfa-shenzhenfc-v2017.svg'
   sourceID: cfa-club-005
@@ -336,7 +250,7 @@
 - data: logo
   uniqueID: 20211014-004
   version: 2017
-  verName: ['Shenzhen FC']
+  verName: ['深圳 FC']
   pngPath: 'clubs/cfa-shenzhenfc-v2017-mono.png'
   svgPath: 'clubs/svg/cfa-shenzhenfc-v2017-mono.svg'
   sourceID: cfa-club-005
@@ -346,7 +260,7 @@
 - data: logo
   uniqueID: 20211014-005
   version: 2017
-  verName: ['Shenzhen FC']
+  verName: ['深圳 FC']
   pngPath: 'clubs/cfa-shenzhenfc-v2017-mono-2.png'
   svgPath: 'clubs/svg/cfa-shenzhenfc-v2017-mono-2.svg'
   sourceID: cfa-club-005
@@ -357,7 +271,7 @@
   uniqueID: 20211015-001
   version: 2014
   isOutdated: true
-  verName: ['Shanghai SIPG FC']
+  verName: ['上海上港']
   pngPath: 'clubs/cfa-shanghai-port-v2014.png'
   svgPath: 'clubs/svg/cfa-shanghai-port-v2014.svg'
   sourceID: cfa-club-006
@@ -368,7 +282,7 @@
   uniqueID: 20211015-002
   version: 2014
   isOutdated: true
-  verName: ['Shanghai SIPG FC']
+  verName: ['上海上港']
   pngPath: 'clubs/cfa-shanghai-port-v2014-mono.png'
   svgPath: 'clubs/svg/cfa-shanghai-port-v2014-mono.svg'
   sourceID: cfa-club-006
@@ -379,7 +293,7 @@
   uniqueID: 20211016-001
   version: 2015
   isOutdated: true
-  verName: ['Shenzhen FC']
+  verName: ['深圳 FC']
   pngPath: 'clubs/cfa-shenzhenfc-v2015.png'
   svgPath: 'clubs/svg/cfa-shenzhenfc-v2015.svg'
   sourceID: cfa-club-005
@@ -390,7 +304,7 @@
   uniqueID: 20211016-002
   version: 2016
   isOutdated: true
-  verName: ['Shenzhen FC']
+  verName: ['深圳 FC']
   pngPath: 'clubs/cfa-shenzhenfc-v2016.png'
   svgPath: 'clubs/svg/cfa-shenzhenfc-v2016.svg'
   sourceID: cfa-club-005
@@ -400,7 +314,7 @@
 - data: logo
   uniqueID: 20211016-003
   version: 2020
-  verName: ['Dalian Professional FC']
+  verName: ['大连人']
   pngPath: 'clubs/cfa-dalian-professional-v2020.png'
   svgPath: 'clubs/svg/cfa-dalian-professional-v2020.svg'
   sourceID: cfa-club-007
@@ -410,7 +324,7 @@
 - data: logo
   uniqueID: 20211016-004
   version: 2020
-  verName: ['Dalian Professional FC']
+  verName: ['大连人']
   pngPath: 'clubs/cfa-dalian-professional-v2020-mono.png'
   svgPath: 'clubs/svg/cfa-dalian-professional-v2020-mono.svg'
   sourceID: cfa-club-007
@@ -421,7 +335,7 @@
   uniqueID: 20211016-005
   version: 2016
   isOutdated: true
-  verName: ['Dalian Yifang FC']
+  verName: ['大连一方']
   pngPath: 'clubs/cfa-dalian-professional-v2016.png'
   svgPath: 'clubs/svg/cfa-dalian-professional-v2016.svg'
   sourceID: cfa-club-007
@@ -432,7 +346,7 @@
   uniqueID: 20211016-006
   version: 2016
   isOutdated: true
-  verName: ['Dalian Yifang FC']
+  verName: ['大连一方']
   pngPath: 'clubs/cfa-dalian-professional-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-dalian-professional-v2016-mono.svg'
   sourceID: cfa-club-007
@@ -442,7 +356,7 @@
 - data: logo
   uniqueID: 20211016-007
   version: 2018
-  verName: ['Guzngzhou R&F', 'Guangzhou City']
+  verName: ['广州富力', '广州城']
   pngPath: 'clubs/cfa-guangzhou-city-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-guangzhou-city-v2018-mono.svg'
   sourceID: cfa-club-008
@@ -452,7 +366,7 @@
 - data: logo
   uniqueID: 20211016-008
   version: 2018
-  verName: ['Guzngzhou R&F', 'Guangzhou City']
+  verName: ['广州富力', '广州城']
   pngPath: 'clubs/cfa-guangzhou-city-v2018.png'
   svgPath: 'clubs/svg/cfa-guangzhou-city-v2018.svg'
   sourceID: cfa-club-008
@@ -462,7 +376,7 @@
 - data: logo
   uniqueID: 20211016-009
   version: 2018
-  verName: ['Chongqiong Dangdai Lifan', 'Chongqing Liangjiang Athletic']
+  verName: ['重庆当代力帆', '重庆两江竞技']
   pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2018-mono.svg'
   sourceID: cfa-club-009
@@ -472,7 +386,7 @@
 - data: logo
   uniqueID: 20211016-010
   version: 2018
-  verName: ['Chongqiong Dangdai Lifan', 'Chongqing Liangjiang Athletic']
+  verName: ['重庆当代力帆', '重庆两江竞技']
   pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2018.png'
   svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2018.svg'
   sourceID: cfa-club-009
@@ -483,7 +397,7 @@
   uniqueID: 20211016-011
   version: 2017
   isOutdated: true
-  verName: ['Jiangsu Suning FC']
+  verName: ['江苏苏宁']
   pngPath: 'clubs/cfa-jiangsufc-v2017-mono.png'
   svgPath: 'clubs/svg/cfa-jiangsufc-v2017-mono.svg'
   sourceID: cfa-club-010
@@ -494,7 +408,7 @@
   uniqueID: 20211016-012
   version: 2017
   isOutdated: true
-  verName: ['Jiangsu Suning FC']
+  verName: ['江苏苏宁']
   pngPath: 'clubs/cfa-jiangsufc-v2017.png'
   svgPath: 'clubs/svg/cfa-jiangsufc-v2017.svg'
   sourceID: cfa-club-010
@@ -504,7 +418,7 @@
 - data: logo
   uniqueID: 20211016-013
   version: 2007
-  verName: ['Changchun Yatai FC']
+  verName: ['长春亚泰']
   pngPath: 'clubs/cfa-changchun-yatai-v2007-mono.png'
   svgPath: 'clubs/svg/cfa-changchun-yatai-v2007-mono.svg'
   sourceID: cfa-club-011
@@ -514,7 +428,7 @@
 - data: logo
   uniqueID: 20211016-014
   version: 2007
-  verName: ['Changchun Yatai FC']
+  verName: ['长春亚泰']
   pngPath: 'clubs/cfa-changchun-yatai-v2007.png'
   svgPath: 'clubs/svg/cfa-changchun-yatai-v2007.svg'
   sourceID: cfa-club-011
@@ -525,7 +439,7 @@
   uniqueID: 20211017-001
   version: 2016
   isOutdated: true
-  verName: ['Hebei China Fortune']
+  verName: ['河北华夏幸福']
   pngPath: 'clubs/cfa-hebeifc-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-hebeifc-v2016-mono.svg'
   sourceID: cfa-club-017
@@ -536,7 +450,7 @@
   uniqueID: 20211017-002
   version: 2016
   isOutdated: true
-  verName: ['Hebei China Fortune']
+  verName: ['河北华夏幸福']
   pngPath: 'clubs/cfa-hebeifc-v2016.png'
   svgPath: 'clubs/svg/cfa-hebeifc-v2016.svg'
   sourceID: cfa-club-017
@@ -547,7 +461,7 @@
   uniqueID: 20211017-003
   version: 2016
   isOutdated: true
-  verName: ['Henan Jianye']
+  verName: ['河南建业']
   pngPath: 'clubs/cfa-henan-songshan-longmen-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2016-mono.svg'
   sourceID: cfa-club-012
@@ -558,7 +472,7 @@
   uniqueID: 20211017-004
   version: 2016
   isOutdated: true
-  verName: ['Henan Jianye']
+  verName: ['河南建业']
   pngPath: 'clubs/cfa-henan-songshan-longmen-v2016.png'
   svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2016.svg'
   sourceID: cfa-club-012
@@ -569,7 +483,7 @@
   uniqueID: 20211017-005
   version: 2016
   isOutdated: true
-  verName: ['Qingdao Huanghai']
+  verName: ['青岛黄海']
   pngPath: 'clubs/cfa-qingdaofc-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-qingdaofc-v2016-mono.svg'
   sourceID: cfa-club-015
@@ -580,7 +494,7 @@
   uniqueID: 20211017-006
   version: 2016
   isOutdated: true
-  verName: ['Qingdao Huanghai']
+  verName: ['青岛黄海']
   pngPath: 'clubs/cfa-qingdaofc-v2016.png'
   svgPath: 'clubs/svg/cfa-qingdaofc-v2016.svg'
   sourceID: cfa-club-015
@@ -591,7 +505,7 @@
   uniqueID: 20211017-007
   version: 2012
   isOutdated: true
-  verName: ['Wuhan Zall Professional FC']
+  verName: ['武汉卓尔']
   pngPath: 'clubs/cfa-wuhanfc-v2012-mono.png'
   svgPath: 'clubs/svg/cfa-wuhanfc-v2012-mono.svg'
   sourceID: cfa-club-014
@@ -602,7 +516,7 @@
   uniqueID: 20211017-008
   version: 2012
   isOutdated: true
-  verName: ['Wuhan Zall Professional FC']
+  verName: ['武汉卓尔']
   pngPath: 'clubs/cfa-wuhanfc-v2012.png'
   svgPath: 'clubs/svg/cfa-wuhanfc-v2012.svg'
   sourceID: cfa-club-014
@@ -613,7 +527,7 @@
   uniqueID: 20211017-009
   version: 2015
   isOutdated: true
-  verName: ['Shijiazhuang Ever Bright']
+  verName: ['石家庄永昌']
   pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2015-mono.png'
   svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2015-mono.svg'
   sourceID: cfa-club-016
@@ -624,7 +538,7 @@
   uniqueID: 20211017-010
   version: 2015
   isOutdated: true
-  verName: ['Shijiazhuang Ever Bright']
+  verName: ['石家庄永昌']
   pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2015.png'
   svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2015.svg'
   sourceID: cfa-club-016
@@ -635,7 +549,7 @@
   uniqueID: 20211017-011
   version: 2011
   isOutdated: true
-  verName: ['Tianjin Teda']
+  verName: ['天津泰达']
   pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2011-mono.png'
   svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2011-mono.svg'
   sourceID: cfa-club-013
@@ -646,7 +560,7 @@
   uniqueID: 20211017-012
   version: 2011
   isOutdated: true
-  verName: ['Tianjin Teda']
+  verName: ['天津泰达']
   pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2011.png'
   svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2011.svg'
   sourceID: cfa-club-013
@@ -656,7 +570,7 @@
 - data: logo
   uniqueID: 20211018-001
   version: 2021
-  verName: ['Shanghai Port']
+  verName: ['上海上港']
   pngPath: 'clubs/cfa-shanghai-port-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-shanghai-port-v2021-mono.svg'
   sourceID: cfa-club-006
@@ -666,7 +580,7 @@
 - data: logo
   uniqueID: 20211018-002
   version: 2021
-  verName: ['Shanghai Port']
+  verName: ['上海上港']
   pngPath: 'clubs/cfa-shanghai-port-v2021.png'
   svgPath: 'clubs/svg/cfa-shanghai-port-v2021.svg'
   sourceID: cfa-club-006
@@ -676,7 +590,7 @@
 - data: logo
   uniqueID: 20211018-003
   version: 2021
-  verName: ['Qingdao FC']
+  verName: ['青岛 FC']
   pngPath: 'clubs/cfa-qingdaofc-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-qingdaofc-v2021-mono.svg'
   sourceID: cfa-club-015
@@ -686,7 +600,7 @@
 - data: logo
   uniqueID: 20211018-004
   version: 2021
-  verName: ['Qingdao FC']
+  verName: ['青岛 FC']
   pngPath: 'clubs/cfa-qingdaofc-v2021.png'
   svgPath: 'clubs/svg/cfa-qingdaofc-v2021.svg'
   sourceID: cfa-club-015
@@ -696,7 +610,7 @@
 - data: logo
   uniqueID: 20211018-005
   version: 2021
-  verName: ['Hebei FC']
+  verName: ['河北 FC']
   pngPath: 'clubs/cfa-hebeifc-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-hebeifc-v2021-mono.svg'
   sourceID: cfa-club-017
@@ -706,7 +620,7 @@
 - data: logo
   uniqueID: 20211018-006
   version: 2021
-  verName: ['Hebei FC']
+  verName: ['河北 FC']
   pngPath: 'clubs/cfa-hebeifc-v2021.png'
   svgPath: 'clubs/svg/cfa-hebeifc-v2021.svg'
   sourceID: cfa-club-017
@@ -716,7 +630,7 @@
 - data: logo
   uniqueID: 20211019-001
   version: 2021
-  verName: ['Wuhan FC']
+  verName: ['武汉 FC']
   pngPath: 'clubs/cfa-wuhanfc-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-wuhanfc-v2021-mono.svg'
   sourceID: cfa-club-014
@@ -726,7 +640,7 @@
 - data: logo
   uniqueID: 20211019-002
   version: 2021
-  verName: ['Wuhan FC']
+  verName: ['武汉 FC']
   pngPath: 'clubs/cfa-wuhanfc-v2021.png'
   svgPath: 'clubs/svg/cfa-wuhanfc-v2021.svg'
   sourceID: cfa-club-014
@@ -736,7 +650,7 @@
 - data: logo
   uniqueID: 20211020-001
   version: 2021
-  verName: ['Cangzhou Mighty Lions']
+  verName: ['沧州雄狮']
   pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2021-mono.svg'
   sourceID: cfa-club-016
@@ -746,7 +660,7 @@
 - data: logo
   uniqueID: 20211020-002
   version: 2021
-  verName: ['Cangzhou Mighty Lions']
+  verName: ['沧州雄狮']
   pngPath: 'clubs/cfa-cangzhou-mighty-lions-v2021.png'
   svgPath: 'clubs/svg/cfa-cangzhou-mighty-lions-v2021.svg'
   sourceID: cfa-club-016
@@ -756,7 +670,7 @@
 - data: logo
   uniqueID: 20211020-003
   version: 2021
-  verName: ['Henan Songshan Longmen']
+  verName: ['河南嵩山龙门']
   pngPath: 'clubs/cfa-henan-songshan-longmen-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2021-mono.svg'
   sourceID: cfa-club-012
@@ -766,7 +680,7 @@
 - data: logo
   uniqueID: 20211020-004
   version: 2021
-  verName: ['Henan Songshan Longmen']
+  verName: ['河南嵩山龙门']
   pngPath: 'clubs/cfa-henan-songshan-longmen-v2021.png'
   svgPath: 'clubs/svg/cfa-henan-songshan-longmen-v2021.svg'
   sourceID: cfa-club-012
@@ -776,7 +690,7 @@
 - data: logo
   uniqueID: 20211021-001
   version: 2021
-  verName: ['Tianjin Jinmen Tiger']
+  verName: ['天津津门虎']
   pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2021-mono.svg'
   sourceID: cfa-club-013
@@ -786,7 +700,7 @@
 - data: logo
   uniqueID: 20211021-002
   version: 2021
-  verName: ['Tianjin Jinmen Tiger']
+  verName: ['天津津门虎']
   pngPath: 'clubs/cfa-tianjin-jinmen-tiger-v2021.png'
   svgPath: 'clubs/svg/cfa-tianjin-jinmen-tiger-v2021.svg'
   sourceID: cfa-club-013
@@ -798,7 +712,7 @@
   version: 2022
   isDoubtful: false
   isOutdated: false
-  verName: ['Beijing Guoan']
+  verName: ['北京国安']
   slug: /cfa-beijing-guoan-v2022
   pngPath: 'clubs/cfa-beijing-guoan-v2022.png'
   svgPath: 'clubs/svg/cfa-beijing-guoan-v2022.svg'
@@ -810,7 +724,7 @@
   version: 2022
   isDoubtful: false
   isOutdated: false
-  verName: ['Beijing Guoan']
+  verName: ['北京国安']
   slug: /cfa-beijing-guoan-v2022-mono
   pngPath: 'clubs/cfa-beijing-guoan-v2022-mono.png'
   svgPath: 'clubs/svg/cfa-beijing-guoan-v2022-mono.svg'
@@ -822,7 +736,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Zhejiang Greentown', 'Zhejiang Energy Greentown', 'Zhejiang Professional']
+  verName: ['浙江绿城', '浙江能源绿城', '浙江 FC']
   slug: /cfa-zhejiang-professional-v2019-mono
   pngPath: 'clubs/cfa-zhejiang-professional-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-zhejiang-professional-v2019-mono.svg'
@@ -834,7 +748,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Zhejiang Greentown', 'Zhejiang Energy Greentown', 'Zhejiang Professional']
+  verName: ['浙江绿城', '浙江能源绿城', '浙江 FC']
   slug: /cfa-zhejiang-professional-v2019
   pngPath: 'clubs/cfa-zhejiang-professional-v2019.png'
   svgPath: 'clubs/svg/cfa-zhejiang-professional-v2019.svg'
@@ -846,7 +760,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Wuhan Three Towns']
+  verName: ['武汉三镇']
   slug: /cfa-wuhan-three-towns-v2019-mono
   pngPath: 'clubs/cfa-wuhan-three-towns-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-wuhan-three-towns-v2019-mono.svg'
@@ -858,7 +772,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Wuhan Three Towns']
+  verName: ['武汉三镇']
   slug: /cfa-wuhan-three-towns-v2019
   pngPath: 'clubs/cfa-wuhan-three-towns-v2019.png'
   svgPath: 'clubs/svg/cfa-wuhan-three-towns-v2019.svg'
@@ -870,7 +784,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Kunshan FC']
+  verName: ['昆山 FC']
   slug: /cfa-kunshan-v2018-mono-2
   pngPath: 'clubs/cfa-kunshan-v2018-mono-2.png'
   svgPath: 'clubs/svg/cfa-kunshan-v2018-mono-2.svg'
@@ -882,7 +796,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Kunshan FC']
+  verName: ['昆山 FC']
   slug: /cfa-kunshan-v2018-mono
   pngPath: 'clubs/cfa-kunshan-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-kunshan-v2018-mono.svg'
@@ -894,7 +808,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Kunshan FC']
+  verName: ['昆山 FC']
   slug: /cfa-kunshan-v2018
   pngPath: 'clubs/cfa-kunshan-v2018.png'
   svgPath: 'clubs/svg/cfa-kunshan-v2018.svg'
@@ -906,7 +820,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: false
-  verName: ["Shannxi Chang'an Athletic"]
+  verName: ['陕西长安竞技']
   slug: /cfa-shannxi-changan-athletic-v2016-mono
   pngPath: 'clubs/cfa-shannxi-changan-athletic-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-shannxi-changan-athletic-v2016-mono.svg'
@@ -918,7 +832,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: false
-  verName: ["Shannxi Chang'an Athletic"]
+  verName: ['陕西长安竞技']
   slug: /cfa-shannxi-changan-athletic-v2016
   pngPath: 'clubs/cfa-shannxi-changan-athletic-v2016.png'
   svgPath: 'clubs/svg/cfa-shannxi-changan-athletic-v2016.svg'
@@ -930,7 +844,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Nantong Zhiyun']
+  verName: ['南通支云']
   slug: /cfa-nantong-zhiyun-v2018-mono
   pngPath: 'clubs/cfa-nantong-zhiyun-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-nantong-zhiyun-v2018-mono.svg'
@@ -942,7 +856,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Nantong Zhiyun']
+  verName: ['南通支云']
   slug: /cfa-nantong-zhiyun-v2018
   pngPath: 'clubs/cfa-nantong-zhiyun-v2018.png'
   svgPath: 'clubs/svg/cfa-nantong-zhiyun-v2018.svg'
@@ -954,7 +868,7 @@
   version: 2017
   isDoubtful: false
   isOutdated: false
-  verName: ['Sichuan Jiuniu']
+  verName: ['四川九牛']
   slug: /cfa-sichuan-jiuniu-v2017-mono
   pngPath: 'clubs/cfa-sichuan-jiuniu-v2017-mono.png'
   svgPath: 'clubs/svg/cfa-sichuan-jiuniu-v2017-mono.svg'
@@ -966,7 +880,7 @@
   version: 2017
   isDoubtful: false
   isOutdated: false
-  verName: ['Sichuan Jiuniu']
+  verName: ['四川九牛']
   slug: /cfa-sichuan-jiuniu-v2017
   pngPath: 'clubs/cfa-sichuan-jiuniu-v2017.png'
   svgPath: 'clubs/svg/cfa-sichuan-jiuniu-v2017.svg'
@@ -978,7 +892,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Guizhou Henngfeng', 'Guizhou']
+  verName: ['贵州恒丰', '贵州']
   slug: /cfa-guizhou-v2018-mono
   pngPath: 'clubs/cfa-guizhou-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-guizhou-v2018-mono.svg'
@@ -990,7 +904,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Guizhou Henngfeng', 'Guizhou']
+  verName: ['贵州恒丰', '贵州']
   slug: /cfa-guizhou-v2018
   pngPath: 'clubs/cfa-guizhou-v2018.png'
   svgPath: 'clubs/svg/cfa-guizhou-v2018.svg'
@@ -1002,7 +916,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Suzhou Dongwu']
+  verName: ['苏州东吴']
   slug: /cfa-suzhou-dongwu-v2018-mono
   pngPath: 'clubs/cfa-suzhou-dongwu-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-suzhou-dongwu-v2018-mono.svg'
@@ -1014,7 +928,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Suzhou Dongwu']
+  verName: ['苏州东吴']
   slug: /cfa-suzhou-dongwu-v2018
   pngPath: 'clubs/cfa-suzhou-dongwu-v2018.png'
   svgPath: 'clubs/svg/cfa-suzhou-dongwu-v2018.svg'
@@ -1026,7 +940,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Zibo Cuju']
+  verName: ['淄博蹴鞠']
   slug: /cfa-zibo-cuju-v2019-mono
   pngPath: 'clubs/cfa-zibo-cuju-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-zibo-cuju-v2019-mono.svg'
@@ -1038,7 +952,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Zibo Cuju']
+  verName: ['淄博蹴鞠']
   slug: /cfa-zibo-cuju-v2019
   pngPath: 'clubs/cfa-zibo-cuju-v2019.png'
   svgPath: 'clubs/svg/cfa-zibo-cuju-v2019.svg'
@@ -1050,7 +964,7 @@
   version: 2015
   isDoubtful: false
   isOutdated: true
-  verName: ['Beijing Enterprises Group']
+  verName: ['北京控股']
   slug: /cfa-beijing-sport-university-v2015-mono
   pngPath: 'clubs/cfa-beijing-sport-university-v2015-mono.png'
   svgPath: 'clubs/svg/cfa-beijing-sport-university-v2015-mono.svg'
@@ -1062,7 +976,7 @@
   version: 2015
   isDoubtful: false
   isOutdated: true
-  verName: ['Beijing Enterprises Group']
+  verName: ['北京控股']
   slug: /cfa-beijing-sport-university-v2015
   pngPath: 'clubs/cfa-beijing-sport-university-v2015.png'
   svgPath: 'clubs/svg/cfa-beijing-sport-university-v2015.svg'
@@ -1074,7 +988,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Beijing Sport University']
+  verName: ['北京北体大']
   slug: /cfa-beijing-sport-university-v2019-mono
   pngPath: 'clubs/cfa-beijing-sport-university-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-beijing-sport-university-v2019-mono.svg'
@@ -1086,7 +1000,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: false
-  verName: ['Beijing Sport University']
+  verName: ['北京北体大']
   slug: /cfa-beijing-sport-university-v2019
   pngPath: 'clubs/cfa-beijing-sport-university-v2019.png'
   svgPath: 'clubs/svg/cfa-beijing-sport-university-v2019.svg'
@@ -1098,7 +1012,7 @@
   version: 2012
   isDoubtful: false
   isOutdated: false
-  verName: ['Jiangxi Liansheng', 'Jiangxi Beidamen']
+  verName: ['江北联盛', '江西北大门']
   slug: /cfa-jiangxi-beidamen-v2012-mono
   pngPath: 'clubs/cfa-jiangxi-beidamen-v2012-mono.png'
   svgPath: 'clubs/svg/cfa-jiangxi-beidamen-v2012-mono.svg'
@@ -1110,7 +1024,7 @@
   version: 2012
   isDoubtful: false
   isOutdated: false
-  verName: ['Jiangxi Liansheng', 'Jiangxi Beidamen']
+  verName: ['江西联盛', '江西北大门']
   slug: /cfa-jiangxi-beidamen-v2012
   pngPath: 'clubs/cfa-jiangxi-beidamen-v2012.png'
   svgPath: 'clubs/svg/cfa-jiangxi-beidamen-v2012.svg'
@@ -1122,7 +1036,7 @@
   version: 2000
   isDoubtful: false
   isOutdated: false
-  verName: ['BIT FC']
+  verName: ['北京理工']
   slug: /cfa-beijing-institute-of-technology-v2000-mono
   pngPath: 'clubs/cfa-beijing-institute-of-technology-v2000-mono.png'
   svgPath: 'clubs/svg/cfa-beijing-institute-of-technology-v2000-mono.svg'
@@ -1134,7 +1048,7 @@
   version: 2000
   isDoubtful: false
   isOutdated: false
-  verName: ['BIT FC']
+  verName: ['北京理工']
   slug: /cfa-beijing-institute-of-technology-v2000
   pngPath: 'clubs/cfa-beijing-institute-of-technology-v2000.png'
   svgPath: 'clubs/svg/cfa-beijing-institute-of-technology-v2000.svg'
@@ -1146,7 +1060,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: false
-  verName: ['Meizhou Hakka']
+  verName: ['梅州客家']
   slug: /cfa-meizhou-hakka-v2016-mono
   pngPath: 'clubs/cfa-meizhou-hakka-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-meizhou-hakka-v2016-mono.svg'
@@ -1158,7 +1072,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: false
-  verName: ['Meizhou Hakka']
+  verName: ['梅州客家']
   slug: /cfa-meizhou-hakka-v2016
   pngPath: 'clubs/cfa-meizhou-hakka-v2016.png'
   svgPath: 'clubs/svg/cfa-meizhou-hakka-v2016.svg'
@@ -1170,7 +1084,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: true
-  verName: ['Chengdu Better City']
+  verName: ['成都兴城']
   slug: /cfa-chengdu-rongcheng-v2018-mono
   pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-mono.svg'
@@ -1182,7 +1096,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: true
-  verName: ['Chengdu Better City']
+  verName: ['成都兴城']
   slug: /cfa-chengdu-rongcheng-v2018
   pngPath: 'clubs/cfa-chengdu-rongcheng-v2018.png'
   svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018.svg'
@@ -1194,7 +1108,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Chengdu Better City', 'Chengdu Rongcheng']
+  verName: ['成都兴城', '成都蓉城']
   slug: /cfa-chengdu-rongcheng-v2018-graphic-mono
   pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graphic-mono.png'
   svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graphic-mono.svg'
@@ -1206,7 +1120,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['Chengdu Better City', 'Chengdu Rongcheng']
+  verName: ['成都兴城', '成都蓉城']
   slug: /cfa-chengdu-rongcheng-v2018-graphic
   pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graphic.png'
   svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graphic.svg'
@@ -1218,7 +1132,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: false
-  verName: ['Chengdu Rongcheng']
+  verName: ['成都蓉城']
   slug: /cfa-chengdu-rongcheng-v2021-mono
   pngPath: 'clubs/cfa-chengdu-rongcheng-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2021-mono.svg'
@@ -1230,7 +1144,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: false
-  verName: ['Chengdu Rongcheng']
+  verName: ['成都蓉城']
   slug: /cfa-chengdu-rongcheng-v2021
   pngPath: 'clubs/cfa-chengdu-rongcheng-v2021.png'
   svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2021.svg'
@@ -1242,7 +1156,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['Heilongjiang Lava Spring']
+  verName: ['黑龙江火山鸣泉']
   slug: /cfa-heilongjiang-ice-city-v2016-mono
   pngPath: 'clubs/cfa-heilongjiang-ice-city-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2016-mono.svg'
@@ -1254,7 +1168,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['Heilongjiang Lava Spring']
+  verName: ['黑龙江火山鸣泉']
   slug: /cfa-heilongjiang-ice-city-v2016
   pngPath: 'clubs/cfa-heilongjiang-ice-city-v2016.png'
   svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2016.svg'
@@ -1266,7 +1180,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: false
-  verName: ['Heilongjiang Ice City']
+  verName: ['黑龙江冰城']
   slug: /cfa-heilongjiang-ice-city-v2021-mono
   pngPath: 'clubs/cfa-heilongjiang-ice-city-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2021-mono.svg'
@@ -1278,7 +1192,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: false
-  verName: ['Heilongjiang Ice City']
+  verName: ['黑龙江冰城']
   slug: /cfa-heilongjiang-ice-city-v2021
   pngPath: 'clubs/cfa-heilongjiang-ice-city-v2021.png'
   svgPath: 'clubs/svg/cfa-heilongjiang-ice-city-v2021.svg'
@@ -1290,7 +1204,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: false
-  verName: ['Nanjing City']
+  verName: ['南京城市']
   slug: /cfa-nanjing-city-v2021-mono
   pngPath: 'clubs/cfa-nanjing-city-v2021-mono.png'
   svgPath: 'clubs/svg/cfa-nanjing-city-v2021-mono.svg'
@@ -1302,7 +1216,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: false
-  verName: ['Nanjing City']
+  verName: ['南京城市']
   slug: /cfa-nanjing-city-v2021
   pngPath: 'clubs/cfa-nanjing-city-v2021.png'
   svgPath: 'clubs/svg/cfa-nanjing-city-v2021.svg'
@@ -1314,7 +1228,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Shenyang Urban']
+  verName: ['沈阳城市']
   slug: /cfa-liaoning-shenyang-urban-v2019-mono
   pngPath: 'clubs/cfa-liaoning-shenyang-urban-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-liaoning-shenyang-urban-v2019-mono.svg'
@@ -1326,7 +1240,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Shenyang Urban']
+  verName: ['沈阳城市']
   slug: /cfa-liaoning-shenyang-urban-v2019
   pngPath: 'clubs/cfa-liaoning-shenyang-urban-v2019.png'
   svgPath: 'clubs/svg/cfa-liaoning-shenyang-urban-v2019.svg'
@@ -1338,7 +1252,7 @@
   version: 2020
   isDoubtful: false
   isOutdated: false
-  verName: ['Liaoning Shenyang Urban']
+  verName: ['辽宁沈阳城市']
   slug: /cfa-liaoning-shenyang-urban-v2020-mono
   pngPath: 'clubs/cfa-liaoning-shenyang-urban-v2020-mono.png'
   svgPath: 'clubs/svg/cfa-liaoning-shenyang-urban-v2020-mono.svg'
@@ -1350,7 +1264,7 @@
   version: 2020
   isDoubtful: false
   isOutdated: false
-  verName: ['Liaoning Shenyang Urban']
+  verName: ['辽宁沈阳城市']
   slug: /cfa-liaoning-shenyang-urban-v2020
   pngPath: 'clubs/cfa-liaoning-shenyang-urban-v2020.png'
   svgPath: 'clubs/svg/cfa-liaoning-shenyang-urban-v2020.svg'
@@ -1362,7 +1276,7 @@
   version: 2014
   isDoubtful: false
   isOutdated: true
-  verName: ['Xinjiang Tianshan Leopard']
+  verName: ['新疆天山雪豹']
   slug: /cfa-xinjiang-tianshan-leopard-v2014-mono
   pngPath: 'clubs/cfa-xinjiang-tianshan-leopard-v2014-mono.png'
   svgPath: 'clubs/svg/cfa-xinjiang-tianshan-leopard-v2014-mono.svg'
@@ -1374,7 +1288,7 @@
   version: 2014
   isDoubtful: false
   isOutdated: true
-  verName: ['Xinjiang Tianshan Leopard']
+  verName: ['新疆天山雪豹']
   slug: /cfa-xinjiang-tianshan-leopard-v2014
   pngPath: 'clubs/cfa-xinjiang-tianshan-leopard-v2014.png'
   svgPath: 'clubs/svg/cfa-xinjiang-tianshan-leopard-v2014.svg'
@@ -1386,7 +1300,7 @@
   version: 2020
   isDoubtful: false
   isOutdated: false
-  verName: ['Xinjiang Tianshan Leopard']
+  verName: ['新疆天山雪豹']
   slug: /cfa-xinjiang-tianshan-leopard-v2020-mono
   pngPath: 'clubs/cfa-xinjiang-tianshan-leopard-v2020-mono.png'
   svgPath: 'clubs/svg/cfa-xinjiang-tianshan-leopard-v2020-mono.svg'
@@ -1398,7 +1312,7 @@
   version: 2020
   isDoubtful: false
   isOutdated: false
-  verName: ['Xinjiang Tianshan Leopard']
+  verName: ['新疆天山雪豹']
   slug: /cfa-xinjiang-tianshan-leopard-v2020
   pngPath: 'clubs/cfa-xinjiang-tianshan-leopard-v2020.png'
   svgPath: 'clubs/svg/cfa-xinjiang-tianshan-leopard-v2020.svg'
@@ -1410,7 +1324,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['Beijing Renhe', 'Beijing Chengfeng']
+  verName: ['北京人和', '北京橙丰']
   slug: /cfa-beijing-chengfeng-v2016-mono
   pngPath: 'clubs/cfa-beijing-chengfeng-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-beijing-chengfeng-v2016-mono.svg'
@@ -1422,7 +1336,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['Beijing Renhe', 'Beijing Chengfeng']
+  verName: ['北京人和', '北京橙丰']
   slug: /cfa-beijing-chengfeng-v2016
   pngPath: 'clubs/cfa-beijing-chengfeng-v2016.png'
   svgPath: 'clubs/svg/cfa-beijing-chengfeng-v2016.svg'
@@ -1434,7 +1348,7 @@
   version: 2017
   isDoubtful: false
   isOutdated: true
-  verName: ['Meixian Techand']
+  verName: ['梅县铁汉']
   slug: /cfa-guangdong-south-china-tiger-v2017-mono
   pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2017-mono.png'
   svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2017-mono.svg'
@@ -1446,7 +1360,7 @@
   version: 2017
   isDoubtful: false
   isOutdated: true
-  verName: ['Meixian Techand']
+  verName: ['梅县铁汉']
   slug: /cfa-guangdong-south-china-tiger-v2017
   pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2017.png'
   svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2017.svg'
@@ -1458,7 +1372,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Guangdong South China Tiger']
+  verName: ['广东华南虎']
   slug: /cfa-guangdong-south-china-tiger-v2019-mono
   pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2019-mono.svg'
@@ -1470,7 +1384,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Guangdong South China Tiger']
+  verName: ['广东华南虎']
   slug: /cfa-guangdong-south-china-tiger-v2019
   pngPath: 'clubs/cfa-guangdong-south-china-tiger-v2019.png'
   svgPath: 'clubs/svg/cfa-guangdong-south-china-tiger-v2019.svg'
@@ -1482,7 +1396,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Inner Mongolia Zhongyou']
+  verName: ['内蒙古中优']
   slug: /cfa-inner-mongolia-zhongyou-v2019-mono
   pngPath: 'clubs/cfa-inner-mongolia-zhongyou-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-inner-mongolia-zhongyou-v2019-mono.svg'
@@ -1494,7 +1408,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Inner Mongolia Zhongyou']
+  verName: ['内蒙古中优']
   slug: /cfa-inner-mongolia-zhongyou-v2019
   pngPath: 'clubs/cfa-inner-mongolia-zhongyou-v2019.png'
   svgPath: 'clubs/svg/cfa-inner-mongolia-zhongyou-v2019.svg'
@@ -1506,7 +1420,7 @@
   version: 2013
   isDoubtful: false
   isOutdated: true
-  verName: ['Liaoning', 'Liaoning Hongyun']
+  verName: ['辽宁', '辽宁宏运']
   slug: /cfa-liaoningfc-v2013-mono
   pngPath: 'clubs/cfa-liaoningfc-v2013-mono.png'
   svgPath: 'clubs/svg/cfa-liaoningfc-v2013-mono.svg'
@@ -1518,7 +1432,7 @@
   version: 2013
   isDoubtful: false
   isOutdated: true
-  verName: ['Liaoning', 'Liaoning Hongyun']
+  verName: ['辽宁', '辽宁宏运']
   slug: /cfa-liaoningfc-v2013
   pngPath: 'clubs/cfa-liaoningfc-v2013.png'
   svgPath: 'clubs/svg/cfa-liaoningfc-v2013.svg'
@@ -1530,7 +1444,7 @@
   version: 2017
   isDoubtful: false
   isOutdated: true
-  verName: ['Shanghai Shenxin']
+  verName: ['上海申鑫']
   slug: /cfa-shanghai-shenxin-v2017-mono
   pngPath: 'clubs/cfa-shanghai-shenxin-v2017-mono.png'
   svgPath: 'clubs/svg/cfa-shanghai-shenxin-v2017-mono.svg'
@@ -1542,7 +1456,7 @@
   version: 2017
   isDoubtful: false
   isOutdated: true
-  verName: ['Shanghai Shenxin']
+  verName: ['上海申鑫']
   slug: /cfa-shanghai-shenxin-v2017
   pngPath: 'clubs/cfa-shanghai-shenxin-v2017.png'
   svgPath: 'clubs/svg/cfa-shanghai-shenxin-v2017.svg'
@@ -1554,7 +1468,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Sichuan Longfor']
+  verName: ['四川隆发']
   slug: /cfa-sichuan-longfor-v2019-mono
   pngPath: 'clubs/cfa-sichuan-longfor-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-sichuan-longfor-v2019-mono.svg'
@@ -1566,7 +1480,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Sichuan Longfor']
+  verName: ['四川隆发']
   slug: /cfa-sichuan-longfor-v2019
   pngPath: 'clubs/cfa-sichuan-longfor-v2019.png'
   svgPath: 'clubs/svg/cfa-sichuan-longfor-v2019.svg'
@@ -1578,7 +1492,7 @@
   version: 2014
   isDoubtful: false
   isOutdated: true
-  verName: ['Yanbian Baekdu', 'Yanbian Funde']
+  verName: ['延边长白山', '延边富德']
   slug: /cfa-yanbian-funde-v2014-mono
   pngPath: 'clubs/cfa-yanbian-funde-v2014-mono.png'
   svgPath: 'clubs/svg/cfa-yanbian-funde-v2014-mono.svg'
@@ -1590,7 +1504,7 @@
   version: 2014
   isDoubtful: false
   isOutdated: true
-  verName: ['Yanbian Baekdu', 'Yanbian Funde']
+  verName: ['延边长白山', '延边富德']
   slug: /cfa-yanbian-funde-v2014
   pngPath: 'clubs/cfa-yanbian-funde-v2014.png'
   svgPath: 'clubs/svg/cfa-yanbian-funde-v2014.svg'
@@ -1602,7 +1516,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['Tianjin Quanjian']
+  verName: ['天津权健']
   slug: /cfa-tianjin-tianhai-v2016-mono
   pngPath: 'clubs/cfa-tianjin-tianhai-v2016-mono.png'
   svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2016-mono.svg'
@@ -1614,7 +1528,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['Tianjin Quanjian']
+  verName: ['天津权健']
   slug: /cfa-tianjin-tianhai-v2016
   pngPath: 'clubs/cfa-tianjin-tianhai-v2016.png'
   svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2016.svg'
@@ -1626,7 +1540,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Tianjin Tianhai']
+  verName: ['天津天海']
   slug: /cfa-tianjin-tianhai-v2019-mono
   pngPath: 'clubs/cfa-tianjin-tianhai-v2019-mono.png'
   svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2019-mono.svg'
@@ -1638,7 +1552,7 @@
   version: 2019
   isDoubtful: false
   isOutdated: true
-  verName: ['Tianjin Tianhai']
+  verName: ['天津天海']
   slug: /cfa-tianjin-tianhai-v2019
   pngPath: 'clubs/cfa-tianjin-tianhai-v2019.png'
   svgPath: 'clubs/svg/cfa-tianjin-tianhai-v2019.svg'
