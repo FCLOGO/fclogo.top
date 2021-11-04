@@ -35,7 +35,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 
 | COUNTRIES/REGIONS | ASSOCIATIONS | COMPETITIONS | CLUBS | LOGOS |
 | :--: | :--: | :--: | :--: | :--: |
-| 🇨🇳 CHINA PR | 1 | 2 | 29 | 103 |
+| 🇨🇳 CHINA PR | 1 | 2 | 43 | 146 |
 
 
 ## 📝 CONTRIBUTING

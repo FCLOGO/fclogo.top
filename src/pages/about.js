@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import { useIntl } from 'react-intl'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
+import { StaticImage } from 'gatsby-plugin-image'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
@@ -23,6 +24,9 @@ import {
   number,
   numTitle,
   moreStatistics,
+  contributorSubtitle,
+  contributorWrapper,
+  contributors,
   contactButton
 } from './about.module.styl'
 
@@ -96,6 +100,25 @@ const AboutPage = ({ data, pageContext }) => {
         </section>
         <section>
           <div className={inner}>
+            <h2>{intl.formatMessage({ id: 'about.contributorTitle' })}</h2>
+            <span className={separator}></span>
+            <p className={contributorSubtitle}>
+              {intl.formatMessage({ id: 'about.contributorDes' })}
+            </p>
+            <div className={contributorWrapper}>
+              <div className={contributors}>
+                {data.allContributor.nodes.map(node => (
+                  <a key={node.id} href={node.link} target="_blank">
+                    <img src={node.avatar} alt={node.name} />
+                    <span>@{node.name}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div className={inner}>
             <h2>{intl.formatMessage({ id: 'about.contactTittle' })}</h2>
             <span className={separator}></span>
             <LocalizedLink to="/contact" className={contactButton}>
@@ -120,6 +143,14 @@ export const query = graphql`
       nodes {
         nation
         type
+      }
+    }
+    allContributor {
+      nodes {
+        id
+        name
+        avatar
+        link
       }
     }
   }
