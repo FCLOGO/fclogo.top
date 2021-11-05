@@ -64,8 +64,8 @@
       confederation: AFC
       teams: 24
       level: Level 1
-      promotion: 'China League'
-      relegation: 'CMCL'
+      promotion: China League
+      relegation: CMCL
   weiboURL: 'https://weibo.com/u/6498429917'
   twitterURL: ''
   websiteURL: ''

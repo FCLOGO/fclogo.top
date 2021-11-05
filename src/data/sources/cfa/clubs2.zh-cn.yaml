@@ -13,4 +13,123 @@
   weiboURL: 'https://weibo.com/u/7016190400'
   twitterURL: ''
   websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/湖北青年星足球俱乐部/'
+
+- data: sourceInfo
+  sourceID: cfa-club-045
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 绍兴柯桥越甲足球俱乐部
+      shortName: 绍兴柯桥越甲
+      localName: 绍兴柯桥越甲足球俱乐部
+      founded: 1994
+      city: 绍兴，中国
+      ground: 中国轻纺城体育中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/1411642757'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/绍兴柯桥越甲足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-046
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 西安骏狼足球俱乐部
+      shortName: 西安骏狼
+      localName: 西安骏狼足球俱乐部
+      founded: 2018
+      city: 西安，中国
+      ground: 西北大学长安校区体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/6714252256'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/西安骏狼足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-047
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 广西平果哈嘹足球俱乐部
+      shortName: 广西平果哈嘹
+      localName: 广西平果哈嘹足球俱乐部
+      founded: 2018
+      city: 柳州，中国
+      ground: 广西体育中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7588479512'
+  twitterURL: ''
+  websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-048
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 内蒙古草上飞足球俱乐部
+      shortName: 内蒙古草上飞
+      localName: 内蒙古草上飞足球俱乐部
+      founded: 1998
+      city: 包头，中国
+      ground: 包头奥林匹克体育中心体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/5461024268'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/内蒙古草上飞足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-049
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 山西龙晋足球俱乐部
+      shortName: 山西龙晋
+      localName: 山西龙晋足球俱乐部
+      founded: 2015
+      city: 太原，中国
+      ground: 山西省体育中心体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7514226543'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/山西龙晋足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-050
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 河北功夫足球俱乐部
+      shortName: 河北功夫
+      localName: 河北功夫足球俱乐部
+      founded: 2020
+      city: 石家庄，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/5075302049'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-051
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 丹东腾跃足球俱乐部
+      shortName: 丹东腾跃
+      localName: 丹东腾跃足球俱乐部
+      founded: 2015
+      city: 丹东，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7304280780'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/丹东腾跃足球俱乐部/'

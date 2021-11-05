@@ -1,0 +1,95 @@
+- data: logo
+  uniqueID: 20211105-001
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Wuhan Chufeng Heli']
+  slug: /cfa-hubei-istar-v2016-mono
+  pngPath: 'clubs/cfa-hubei-istar-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-hubei-istar-v2016-mono.svg'
+  sourceID: cfa-club-044
+  style: mono
+
+- data: logo
+  uniqueID: 20211105-002
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Wuhan Chufeng Heli']
+  slug: /cfa-hubei-istar-v2016
+  pngPath: 'clubs/cfa-hubei-istar-v2016.png'
+  svgPath: 'clubs/svg/cfa-hubei-istar-v2016.svg'
+  sourceID: cfa-club-044
+  style: color
+
+- data: logo
+  uniqueID: 20211105-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Hubei Chufeng Heli']
+  slug: /cfa-hubei-istar-v2018-mono
+  pngPath: 'clubs/cfa-hubei-istar-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-hubei-istar-v2018-mono.svg'
+  sourceID: cfa-club-044
+  style: mono
+
+- data: logo
+  uniqueID: 20211105-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Hubei Chufeng Heli']
+  slug: /cfa-hubei-istar-v2018
+  pngPath: 'clubs/cfa-hubei-istar-v2018.png'
+  svgPath: 'clubs/svg/cfa-hubei-istar-v2018.svg'
+  sourceID: cfa-club-044
+  style: color
+
+- data: logo
+  uniqueID: 20211105-005
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hubei Istar']
+  slug: /cfa-hubei-istar-v2021-mono
+  pngPath: 'clubs/cfa-hubei-istar-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-hubei-istar-v2021-mono.svg'
+  sourceID: cfa-club-044
+  style: mono
+
+- data: logo
+  uniqueID: 20211105-006
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hubei Istar']
+  slug: /cfa-hubei-istar-v2021
+  pngPath: 'clubs/cfa-hubei-istar-v2021.png'
+  svgPath: 'clubs/svg/cfa-hubei-istar-v2021.svg'
+  sourceID: cfa-club-044
+  style: color
+
+- data: logo
+  uniqueID: 20211105-007
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Harbin Yiteng', 'Zhejiang Yiteng', 'Shaoxing Keqiao Yuejia']
+  slug: /cfa-shaoxing-keqiao-yuejia-v2012-mono
+  pngPath: 'clubs/cfa-shaoxing-keqiao-yuejia-v2012-mono.png'
+  svgPath: 'clubs/svg/cfa-shaoxing-keqiao-yuejia-v2012-mono.svg'
+  sourceID: cfa-club-045
+  style: mono
+
+- data: logo
+  uniqueID: 20211105-008
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Harbin Yiteng', 'Zhejiang Yiteng', 'Shaoxing Keqiao Yuejia']
+  slug: /cfa-shaoxing-keqiao-yuejia-v2012
+  pngPath: 'clubs/cfa-shaoxing-keqiao-yuejia-v2012.png'
+  svgPath: 'clubs/svg/cfa-shaoxing-keqiao-yuejia-v2012.svg'
+  sourceID: cfa-club-045
+  style: color

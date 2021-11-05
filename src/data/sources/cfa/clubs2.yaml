@@ -14,3 +14,122 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-045
+  type: Club
+  nation: China
+  info:
+    - fullName: Shaoxing Keqiao Yuejia Football Club
+      shortName: Shaoxing Keqiao Yuejia
+      localName: 绍兴柯桥越甲足球俱乐部
+      founded: 1994
+      city: Shaoxing, China
+      ground: China Textile City Sports Center
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/1411642757'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaoxing_Keqiao_Yuejia_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-046
+  type: Club
+  nation: China
+  info:
+    - fullName: Xi'an Wolves Football Club
+      shortName: Xi'an Wolves
+      localName: 西安骏狼足球俱乐部
+      founded: 2018
+      city: Xi'an, China
+      ground: Northwest University Chang'an Campus Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/6714252256'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Xi%27an_Wolves_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-047
+  type: Club
+  nation: China
+  info:
+    - fullName: Guangxi Pingguo Haliao Football Club
+      shortName: Guangxi Pingguo Haliao
+      localName: 广西平果哈嘹足球俱乐部
+      founded: 2018
+      city: Liuzhou, China
+      ground: Guangxi Sports Centre Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7588479512'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-048
+  type: Club
+  nation: China
+  info:
+    - fullName: Inner Mongolia Caoshangfei Football Club
+      shortName: Inner Mongolia Caoshangfei
+      localName: 内蒙古草上飞足球俱乐部
+      founded: 1998
+      city: Baotou, China
+      ground: Baotou Olympic Sports Centre Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/5461024268'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Inner_Mongolia_Caoshangfei_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-049
+  type: Club
+  nation: China
+  info:
+    - fullName: Shanxi Longjin Football Club
+      shortName: Shanxi Longjin
+      localName: 山西龙晋足球俱乐部
+      founded: 2015
+      city: Taiyuan, China
+      ground: Shanxi Sports Centre Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7514226543'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanxi_Longjin_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-050
+  type: Club
+  nation: China
+  info:
+    - fullName: Hebei KungFu Football Club
+      shortName: Hebei KungFu
+      localName: 河北功夫足球俱乐部
+      founded: 2020
+      city: Shijiazhuang, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/5075302049'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-051
+  type: Club
+  nation: China
+  info:
+    - fullName: Dandong Tengyue Football Club
+      shortName: Dandong Tengyue
+      localName: 丹东腾跃足球俱乐部
+      founded: 2015
+      city: Dandong, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7304280780'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
