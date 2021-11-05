@@ -104,5 +104,11 @@
   "support.toc": "目录",
 
   "footer.statement": "本站出现的徽标版权归其合法持有人所有，仅供个人使用，非商务用途。",
-  "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved"
+  "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved",
+
+  "nation": "国家/地区",
+  "assns": "协会",
+  "comps": "赛事",
+  "clubs": "俱乐部",
+  "logos": "徽标"
 }

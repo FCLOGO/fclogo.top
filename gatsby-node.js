@@ -4,7 +4,11 @@ const { execSync } = require('child_process')
 exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
   const { createNodeField } = actions
 
-  if (node.internal.type === 'logo' || node.internal.type === 'sourceInfo') {
+  if (
+    node.internal.type === 'logo' ||
+    node.internal.type === 'sourceInfo' ||
+    node.internal.type === 'statistics'
+  ) {
     const i18nNodes = getNodesByType(`SiteI18n`)
     const defaultLang = i18nNodes[0].defaultLang
 

@@ -1,0 +1,30 @@
+- data: sourceInfo
+  sourceID: cfa-club-044
+  type: Club
+  nation: China
+  info:
+    - fullName:
+        - 'Full Name'
+        - 'Hubei Istar Football Club'
+      shortName:
+        - 'Short Name'
+        - 'Hubei Istar'
+      localName:
+        - 'Local Name'
+        - '湖北青年星足球俱乐部'
+      city:
+        - 'City'
+        - 'Wuhan, China'
+      founded:
+        - 'Founded'
+        - '2016'
+      ground:
+        - 'Ground'
+        - 'Wuhan Xinhua Road Stadium'
+      league:
+        - 'League'
+        - 'China League 2'
+  weiboURL: 'https://weibo.com/u/7016190400'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

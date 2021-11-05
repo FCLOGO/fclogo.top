@@ -1,0 +1,13 @@
+- data: statistics
+  nation: 中国
+  assns: CFA
+  comps: 3
+  clubs: 43
+  logos: 146
+
+- data: statistics
+  nation: 中国香港
+  assns: AFC
+  comps: 36
+  clubs: 430
+  logos: 1406

@@ -1,0 +1,13 @@
+- data: statistics
+  nation: China PR
+  assns: CFA
+  comps: 3
+  clubs: 43
+  logos: 146
+
+- data: statistics
+  nation: China HK
+  assns: AFC
+  comps: 36
+  clubs: 430
+  logos: 1406
