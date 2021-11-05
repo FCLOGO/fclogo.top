@@ -105,11 +105,11 @@ const AllLogo = ({ data, pageContext }) => {
                     >
                       <GatsbyImage
                         image={getImage(logo.pngPath)}
-                        alt={logo.detailInfo[0].info[0].fullName[1]}
+                        alt={logo.detailInfo[0].info[0].fullName}
                         className={logoImage}
                       />
                       <footer className={cardFooter}>
-                        <h3 className={logoName}>{logo.detailInfo[0].info[0].shortName[1]}</h3>
+                        <h3 className={logoName}>{logo.detailInfo[0].info[0].shortName}</h3>
                         {/* <ul className={formatList}>
                           {logo.fileFormat.map(item => (
                             <li key={item} className={formatItem}>

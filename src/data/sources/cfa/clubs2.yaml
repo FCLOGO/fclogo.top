@@ -3,27 +3,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Hubei Istar Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Hubei Istar'
-      localName:
-        - 'Local Name'
-        - '湖北青年星足球俱乐部'
-      city:
-        - 'City'
-        - 'Wuhan, China'
-      founded:
-        - 'Founded'
-        - '2016'
-      ground:
-        - 'Ground'
-        - 'Wuhan Xinhua Road Stadium'
-      league:
-        - 'League'
-        - 'China League 2'
+    - fullName: Hubei Istar Football Club
+      shortName: Hubei Istar
+      localName: 湖北青年星足球俱乐部
+      city: Wuhan, China
+      founded: 2016
+      ground: Wuhan Xinhua Road Stadium
+      league: China League 2
   weiboURL: 'https://weibo.com/u/7016190400'
   twitterURL: ''
   websiteURL: ''

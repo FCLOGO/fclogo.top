@@ -29,16 +29,16 @@ const pageQuery = `{
 }`
 
 function pageToAlgoliaRecord({ id, slug, fields, verName, detailInfo, league, pngPath, ...rest }) {
-  detailInfo[0].info[0].league ? (league = detailInfo[0].info[0].league[1]) : ''
+  detailInfo[0].info[0].league ? (league = detailInfo[0].info[0].league) : ''
   verName ? verName : ''
   return {
     objectID: id,
     slug,
     locale: fields.locale,
     verName,
-    fullName: detailInfo[0].info[0].fullName[1],
-    localName: detailInfo[0].info[0].localName[1],
-    shortName: detailInfo[0].info[0].shortName[1],
+    fullName: detailInfo[0].info[0].fullName,
+    localName: detailInfo[0].info[0].localName,
+    shortName: detailInfo[0].info[0].shortName,
     league,
     pngPath,
     ...rest

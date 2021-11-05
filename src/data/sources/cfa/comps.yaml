@@ -4,24 +4,12 @@
   type: Association
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Chinese Football Association'
-      shortName:
-        - 'Short Name'
-        - 'CFA'
-      localName:
-        - 'Local Name'
-        - '中国足球协会'
-      founded:
-        - 'Founded'
-        - '1955'
-      headquarter:
-        - 'Headquarter'
-        - 'Beijing, China'
-      affiliations:
-        - 'Affiliate With'
-        - 'EAFF  ▸  AFC  ▸  FIFA'
+    - fullName: Chinese Football Association
+      shortName: CFA
+      localName: 中国足球协会
+      founded: 1955
+      headquarter: Beijing, China
+      affiliations: EAFF  ▸  AFC  ▸  FIFA
   weiboURL: 'https://weibo.com/u/2428962854'
   twitterURL: 'https://twitter.com/CFA'
   websiteURL: 'http://www.thecfa.cn'
@@ -33,30 +21,14 @@
   type: Competition
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Chinese Football Association Super League'
-      shortName:
-        - 'Short Name'
-        - 'Chinese Super League'
-      localName:
-        - 'Local Name'
-        - '中国足球协会超级联赛'
-      founded:
-        - 'Founded'
-        - '2004'
-      confederation:
-        - 'Confederation'
-        - 'AFC'
-      teams:
-        - 'Number of Teams'
-        - '16'
-      level:
-        - 'Level on'
-        - '1'
-      relegation:
-        - 'Relegation to'
-        - 'China League'
+    - fullName: Chinese Football Association Super League
+      shortName: Chinese Super League
+      localName: 中国足球协会超级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 16
+      level: Level 1
+      relegation: China League
   weiboURL: 'https://weibo.com/u/1800991937'
   websiteURL: 'http://csl-china.com'
   wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Super_League'
@@ -66,33 +38,15 @@
   type: Competition
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Chinese Football Association China League'
-      shortName:
-        - 'Short Name'
-        - 'China League One'
-      localName:
-        - 'Local Name'
-        - '中国足球协会甲级联赛'
-      founded:
-        - 'Founded'
-        - '2004'
-      confederation:
-        - 'Confederation'
-        - 'AFC'
-      teams:
-        - 'Number of Teams'
-        - '18'
-      level:
-        - 'Level on'
-        - '2'
-      promotion:
-        - 'Promotion to'
-        - 'Chinese Super League'
-      relegation:
-        - 'Relegation to'
-        - 'China League Two'
+    - fullName: Chinese Football Association China League
+      shortName: China League One
+      localName: 中国足球协会甲级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 18
+      level: Level 1
+      promotion: Chinese Super League
+      relegation: China League Two
   weiboURL: 'https://weibo.com/u/5643143867'
   twitterURL: ''
   websiteURL: ''
@@ -103,33 +57,15 @@
   type: Competition
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Chinese Football Association Division Two League'
-      shortName:
-        - 'Short Name'
-        - 'China League Two'
-      localName:
-        - 'Local Name'
-        - '中国足球协会乙级联赛'
-      founded:
-        - 'Founded'
-        - '2004'
-      confederation:
-        - 'Confederation'
-        - 'AFC'
-      teams:
-        - 'Number of Teams'
-        - '24'
-      level:
-        - 'Level on'
-        - '3'
-      promotion:
-        - 'Promotion to'
-        - 'China League'
-      relegation:
-        - 'Relegation to'
-        - 'CMCL'
+    - fullName: Chinese Football Association Division Two League
+      shortName: China League Two
+      localName: 中国足球协会乙级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 24
+      level: Level 1
+      promotion: 'China League'
+      relegation: 'CMCL'
   weiboURL: 'https://weibo.com/u/6498429917'
   twitterURL: ''
   websiteURL: ''

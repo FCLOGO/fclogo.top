@@ -47,6 +47,7 @@ const DetailAdsense = () => {
 }
 
 const InfoTable = ({ info }) => {
+  const intl = useIntl()
   const newInfo = {}
   Object.entries(info)
     .filter(([, value]) => value !== null)
@@ -57,8 +58,8 @@ const InfoTable = ({ info }) => {
       <tbody>
         {keys.map((key, index) => (
           <tr key={index}>
-            <th>{newInfo[key][0]}</th>
-            <td>{newInfo[key][1]}</td>
+            <th>{intl.formatMessage({ id: key })}</th>
+            <td>{newInfo[key]}</td>
           </tr>
         ))}
       </tbody>

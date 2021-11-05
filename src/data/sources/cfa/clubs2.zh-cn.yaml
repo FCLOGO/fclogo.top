@@ -3,27 +3,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '湖北青年星足球俱乐部'
-      shortName:
-        - '简称'
-        - '湖北青年星'
-      localName:
-        - '本地名称'
-        - '湖北青年星足球俱乐部'
-      city:
-        - '城市'
-        - '武汉，中国'
-      founded:
-        - '成立'
-        - '2016'
-      ground:
-        - '主场'
-        - '武汉新华路体育场'
-      league:
-        - '联赛'
-        - '中乙联赛'
+    - fullName: 湖北青年星足球俱乐部
+      shortName: 湖北青年星
+      localName: 湖北青年星足球俱乐部
+      city: 武汉，中国
+      founded: 2016
+      ground: 武汉新华路体育场
+      league: 中乙联赛
   weiboURL: 'https://weibo.com/u/7016190400'
   twitterURL: ''
   websiteURL: ''

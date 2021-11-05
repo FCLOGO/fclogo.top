@@ -110,5 +110,21 @@
   "assns": "ASSOCIATIONS",
   "comps": "COMPETITIONS",
   "clubs": "CLUBS",
-  "logos": "LOGOS"
+  "logos": "LOGOS",
+
+  "fullName": "Full Name",
+  "shortName": "Short Name",
+  "localName": "Local Name",
+  "founded": "Founded",
+  "headquarter": "Headquarter",
+  "affiliations": "Affiliations",
+  "confederation": "Confederation",
+  "teams": "Number of Teams",
+  "level": "Level on",
+  "promotion": "Promotion to",
+  "relegation": "Relegation to",
+  "ground": "Ground",
+  "city": "City",
+  "league": "League",
+  "duration": "Duration"
 }

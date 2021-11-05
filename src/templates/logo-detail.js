@@ -46,7 +46,7 @@ const LogoDeatil = ({ data, pageContext }) => {
       {data.logo ? (
         <>
           <Seo
-            title={`${data.logo.detailInfo[0].info[0].fullName[1]}${intl.formatMessage({
+            title={`${data.logo.detailInfo[0].info[0].fullName}${intl.formatMessage({
               id: 'detail.titleVector'
             })}`}
           />
@@ -58,7 +58,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                     <div className={imageHolder}>
                       <GatsbyImage
                         image={getImage(data.logo.pngPath)}
-                        alt={data.logo.detailInfo[0].info[0].fullName[1]}
+                        alt={data.logo.detailInfo[0].info[0].fullName}
                         className={logoImage}
                       />
                     </div>
@@ -68,7 +68,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                           <li className={`${styleItem} ${current}`}>
                             <GatsbyImage
                               image={getImage(data.logo.pngPath)}
-                              alt={data.logo.detailInfo[0].info[0].fullName[1]}
+                              alt={data.logo.detailInfo[0].info[0].fullName}
                               className={styleImage}
                             />
                           </li>
@@ -84,7 +84,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                               >
                                 <GatsbyImage
                                   image={getImage(item.pngPath)}
-                                  alt={item.detailInfo[0].info[0].fullName[1]}
+                                  alt={item.detailInfo[0].info[0].fullName}
                                   className={styleImage}
                                 />
                               </ModalLink>
@@ -103,7 +103,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                   isDoubtful={data.logo.isDoubtful}
                   slug={data.logo.slug}
                   status={data.logo.detailInfo[0].isDisband}
-                  fullName={data.logo.detailInfo[0].info[0].fullName[1]}
+                  fullName={data.logo.detailInfo[0].info[0].fullName}
                   pngURL={data.logo.pngPath.publicURL}
                   svgURL={data.logo.svgPath.publicURL}
                   type={data.logo.detailInfo[0].type}

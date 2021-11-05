@@ -50,18 +50,11 @@ const LogoList = ({ data }) => {
               >
                 <GatsbyImage
                   image={getImage(node.pngPath)}
-                  alt={node.detailInfo[0].info[0].fullName[1]}
+                  alt={node.detailInfo[0].info[0].fullName}
                   className={logoImage}
                 />
                 <footer className={cardFooter}>
-                  <h3 className={logoName}>{node.detailInfo[0].info[0].shortName[1]}</h3>
-                  {/* <ul className={formatList}>
-                    {node.fileFormat.map(item => (
-                      <li key={item} className={formatItem}>
-                        {item}
-                      </li>
-                    ))}
-                  </ul> */}
+                  <h3 className={logoName}>{node.detailInfo[0].info[0].shortName}</h3>
                   <span className={styleBadge}>{node.style}</span>
                 </footer>
               </ModalLink>

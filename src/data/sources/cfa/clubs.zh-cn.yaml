@@ -5,27 +5,13 @@
   isDisband: false
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '山东泰山足球俱乐部'
-      shortName:
-        - '简称'
-        - '山东泰山'
-      localName:
-        - '本地名称'
-        - '山东泰山足球俱乐部'
-      city:
-        - '城市'
-        - '济南，中国'
-      founded:
-        - '成立'
-        - '1993'
-      ground:
-        - '主场'
-        - '济南奥体中心'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 山东泰山足球俱乐部
+      shortName: 山东泰山
+      localName: 山东泰山足球俱乐部
+      city: 济南，中国
+      founded: 1993
+      ground: 济南奥体中心
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1911180293'
   websiteURL: 'http://www.lnts.com.cn'
   wikiURL: 'https://zh.wikipedia.org/wiki/山东泰山足球俱乐部'
@@ -35,27 +21,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '北京国安足球俱乐部'
-      shortName:
-        - '简称'
-        - '北京国安'
-      localName:
-        - '本地名称'
-        - '北京国安足球俱乐部'
-      city:
-        - '城市'
-        - '北京，中国'
-      founded:
-        - '成立'
-        - '1992'
-      ground:
-        - '主场'
-        - '北京工人体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 北京国安足球俱乐部
+      shortName: 北京国安
+      localName: 北京国安足球俱乐部
+      city: 北京，中国
+      founded: 1992
+      ground: 北京工人体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1912052995'
   twitterURL: ''
   websiteURL: 'http://www.fcguoan.com'
@@ -66,27 +38,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '上海申花足球俱乐部'
-      shortName:
-        - '简称'
-        - '上海申花'
-      localName:
-        - '本地名称'
-        - '上海申花足球俱乐部'
-      city:
-        - '城市'
-        - '上海，中国'
-      founded:
-        - '成立'
-        - '1993'
-      ground:
-        - '主场'
-        - '上海虹口足球场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 上海申花足球俱乐部
+      shortName: 上海申花
+      localName: 上海申花足球俱乐部
+      city: 上海，中国
+      founded: 1993
+      ground: 上海虹口足球场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1912052995'
   twitterURL: ''
   websiteURL: 'https://weibo.com/u/1650107735'
@@ -97,27 +55,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '广州足球俱乐部'
-      shortName:
-        - '简称'
-        - '广州 FC'
-      localName:
-        - '本地名称'
-        - '广州足球俱乐部'
-      city:
-        - '城市'
-        - '广州，中国'
-      founded:
-        - '成立'
-        - '1993'
-      ground:
-        - '主场'
-        - '广州天和足球场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 广州足球俱乐部
+      shortName: 广州 FC
+      localName: 广州足球俱乐部
+      city: 广州，中国
+      founded: 1993
+      ground: 广州天和足球场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1894798092'
   twitterURL: ''
   websiteURL: 'https://gzfc.evergrande.com/'
@@ -128,27 +72,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '深圳市足球俱乐部'
-      shortName:
-        - '简称'
-        - '深圳 FC'
-      localName:
-        - '本地名称'
-        - '深圳市足球俱乐部'
-      city:
-        - '城市'
-        - '深圳，中国'
-      founded:
-        - '成立'
-        - '1994'
-      ground:
-        - '主场'
-        - '深圳世界大学生运动会体育中心'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 深圳市足球俱乐部
+      shortName: 深圳 FC
+      localName: 深圳市足球俱乐部
+      city: 深圳，中国
+      founded: 1994
+      ground: 深圳世界大学生运动会体育中心
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1913624334'
   twitterURL: ''
   websiteURL: 'http://shenzhenfc.com.cn/'
@@ -159,27 +89,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '上海海港足球俱乐部'
-      shortName:
-        - '简称'
-        - '上海海港'
-      localName:
-        - '本地名称'
-        - '上海海港足球俱乐部'
-      city:
-        - '城市'
-        - '上海，中国'
-      founded:
-        - '成立'
-        - '2005'
-      ground:
-        - '主场'
-        - '上海浦东足球场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 上海海港足球俱乐部
+      shortName: 上海海港
+      localName: 上海海港足球俱乐部
+      city: 上海，中国
+      founded: 2005
+      ground: 上海浦东足球场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/3593916900'
   twitterURL: ''
   websiteURL: 'http://www.sipg-fc.com/'
@@ -190,27 +106,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '大连人职业足球俱乐部'
-      shortName:
-        - '简称'
-        - '大连人'
-      localName:
-        - '本地名称'
-        - '大连人职业足球俱乐部'
-      city:
-        - '城市'
-        - '大连，中国'
-      founded:
-        - '成立'
-        - '2009'
-      ground:
-        - '主场'
-        - '大连体育中心体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 大连人职业足球俱乐部
+      shortName: 大连人
+      localName: 大连人职业足球俱乐部
+      city: 大连，中国
+      founded: 2009
+      ground: 大连体育中心体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1601538693'
   twitterURL: ''
   websiteURL: 'http://www.dlpro.com.cn/'
@@ -221,27 +123,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '广州城足球俱乐部'
-      shortName:
-        - '简称'
-        - '广州城'
-      localName:
-        - '本地名称'
-        - '广州城足球俱乐部'
-      city:
-        - '城市'
-        - '广州，中国'
-      founded:
-        - '成立'
-        - '1987?'
-      ground:
-        - '主场'
-        - '广州越秀山体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 广州城足球俱乐部
+      shortName: 广州城
+      localName: 广州城足球俱乐部
+      city: 广州，中国
+      founded: 1994
+      ground: 广州越秀山体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/2456231390'
   twitterURL: ''
   websiteURL: 'http://www.gzrffc.com.cn/'
@@ -252,27 +140,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '重庆两江竞技足球俱乐部'
-      shortName:
-        - '简称'
-        - '重庆两江竞技'
-      localName:
-        - '本地名称'
-        - '重庆两江竞技足球俱乐部'
-      city:
-        - '城市'
-        - '重庆，中国'
-      founded:
-        - '成立'
-        - '1995'
-      ground:
-        - '主场'
-        - '重庆奥林匹克体育中心'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 重庆两江竞技足球俱乐部
+      shortName: 重庆两江竞技
+      localName: 重庆两江竞技足球俱乐部
+      city: 重庆，中国
+      founded: 1995
+      ground: 重庆奥林匹克体育中心
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/2059760773'
   twitterURL: ''
   websiteURL: 'http://www.dangdailifanfc.cn'
@@ -284,27 +158,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '江苏足球俱乐部'
-      shortName:
-        - '简称'
-        - '江苏 FC'
-      localName:
-        - '本地名称'
-        - '江苏足球俱乐部'
-      city:
-        - '城市'
-        - '南京，中国'
-      founded:
-        - '成立'
-        - '1994'
-      duration:
-        - '生存期间'
-        - '1994 - 2021'
-      ground:
-        - '主场'
-        - '南京奥林匹克体育中心'
+    - fullName: 江苏足球俱乐部
+      shortName: 江苏 FC
+      localName: 江苏足球俱乐部
+      city: 南京，中国
+      founded: 1994
+      duration: 1994 - 2021
+      ground: 南京奥林匹克体育中心
   weiboURL: 'https://weibo.com/u/1915964974'
   wikiURL: 'https://zh.wikipedia.org/wiki/江苏足球俱乐部'
 
@@ -313,27 +173,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '长春亚泰俱乐部'
-      shortName:
-        - '简称'
-        - '长春亚泰'
-      localName:
-        - '本地名称'
-        - '长春亚泰俱乐部'
-      city:
-        - '城市'
-        - '长春，中国'
-      founded:
-        - '成立'
-        - '1996'
-      ground:
-        - '主场'
-        - '长春体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 长春亚泰俱乐部
+      shortName: 长春亚泰
+      localName: 长春亚泰俱乐部
+      city: 长春，中国
+      founded: 1996
+      ground: 长春体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/yataifc'
   websiteURL: 'http://www.yataifc.cn/'
   wikiURL: 'https://zh.wikipedia.org/wiki/长春亚泰足球俱乐部'
@@ -343,27 +189,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '河南嵩山龙门足球俱乐部'
-      shortName:
-        - '简称'
-        - '河南嵩山龙门'
-      localName:
-        - '本地名称'
-        - '河南嵩山龙门足球俱乐部'
-      city:
-        - '城市'
-        - '郑州，中国'
-      founded:
-        - '成立'
-        - '1994'
-      ground:
-        - '主场'
-        - '航海体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 河南嵩山龙门足球俱乐部
+      shortName: 河南嵩山龙门
+      localName: 河南嵩山龙门足球俱乐部
+      city: 郑州，中国
+      founded: 1994
+      ground: 航海体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/henanjianye1994'
   websiteURL: 'http://www.jianyefc.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/河南嵩山龙门足球俱乐部'
@@ -373,27 +205,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '天津津门虎足球俱乐部'
-      shortName:
-        - '简称'
-        - '天津津门虎'
-      localName:
-        - '本地名称'
-        - '天津津门虎足球俱乐部'
-      city:
-        - '城市'
-        - '天津，中国'
-      founded:
-        - '成立'
-        - '1998'
-      ground:
-        - '主场'
-        - '天津奥林匹克体育中心体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 天津津门虎足球俱乐部
+      shortName: 天津津门虎
+      localName: 天津津门虎足球俱乐部
+      city: 天津，中国
+      founded: 1998
+      ground: 天津奥林匹克体育中心体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/tedafc'
   wikiURL: 'https://zh.wikipedia.org/wiki/天津津门虎足球俱乐部'
 
@@ -402,27 +220,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '武汉足球俱乐部'
-      shortName:
-        - '简称'
-        - '武汉 FC'
-      localName:
-        - '本地名称'
-        - '武汉足球俱乐部'
-      city:
-        - '城市'
-        - '武汉，中国'
-      founded:
-        - '成立'
-        - '2009'
-      ground:
-        - '主场'
-        - '五环体育中心'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 武汉足球俱乐部
+      shortName: 武汉 FC
+      localName: 武汉足球俱乐部
+      city: 武汉，中国
+      founded: 2009
+      ground: 五环体育中心
+      league: 中超联赛
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://zh.wikipedia.org/wiki/武汉足球俱乐部'
 
@@ -431,27 +235,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '青岛足球俱乐部'
-      shortName:
-        - '简称'
-        - '青岛 FC'
-      localName:
-        - '本地名称'
-        - '青岛足球俱乐部'
-      city:
-        - '城市'
-        - '青岛，中国'
-      founded:
-        - '成立'
-        - '2013'
-      ground:
-        - '主场'
-        - '青岛国信体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 青岛足球俱乐部
+      shortName: 青岛 FC
+      localName: 青岛足球俱乐部
+      city: 青岛，中国
+      founded: 2013
+      ground: 青岛国信体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/qingdaohainiufc'
   wikiURL: 'https://zh.wikipedia.org/wiki/青岛足球俱乐部'
 
@@ -460,27 +250,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '沧州雄狮足球俱乐部'
-      shortName:
-        - '简称'
-        - '沧州雄狮'
-      localName:
-        - '本地名称'
-        - '沧州雄狮足球俱乐部'
-      city:
-        - '城市'
-        - '沧州，中国'
-      founded:
-        - '成立'
-        - '2011'
-      ground:
-        - '主场'
-        - '沧州体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 沧州雄狮足球俱乐部
+      shortName: 沧州雄狮
+      localName: 沧州雄狮足球俱乐部
+      city: 沧州，中国
+      founded: 2011
+      ground: 沧州体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/3032079382'
   wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'
 
@@ -489,27 +265,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '河北足球俱乐部'
-      shortName:
-        - '简称'
-        - '河北 FC'
-      localName:
-        - '本地名称'
-        - '河北足球俱乐部'
-      city:
-        - '城市'
-        - '廊坊，中国'
-      founded:
-        - '成立'
-        - '2009'
-      ground:
-        - '主场'
-        - '廊坊体育场'
-      league:
-        - '联赛'
-        - '中超联赛'
+    - fullName: 河北足球俱乐部
+      shortName: 河北 FC
+      localName: 河北足球俱乐部
+      city: 廊坊，中国
+      founded: 2009
+      ground: 廊坊体育场
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/2131874461'
   websiteURL: 'http://www.hebeifootball.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'
@@ -520,27 +282,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '浙江职业足球俱乐部'
-      shortName:
-        - '简称'
-        - '浙江 FC'
-      localName:
-        - '本地名称'
-        - '浙江职业足球俱乐部'
-      city:
-        - '城市'
-        - '杭州，中国'
-      founded:
-        - '成立'
-        - '1998'
-      ground:
-        - '主场'
-        - '杭州黄龙体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 浙江职业足球俱乐部
+      shortName: 浙江 FC
+      localName: 浙江职业足球俱乐部
+      city: 杭州，中国
+      founded: 1998
+      ground: 杭州黄龙体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/1983327567'
   twitterURL: ''
   websiteURL: 'http://www.greentownfc.com'
@@ -552,27 +300,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '武汉三镇足球俱乐部'
-      shortName:
-        - '简称'
-        - '武汉三镇'
-      localName:
-        - '本地名称'
-        - '武汉三镇足球俱乐部'
-      city:
-        - '城市'
-        - '武汉，中国'
-      founded:
-        - '成立'
-        - '2013'
-      ground:
-        - '主场'
-        - '汉口文化体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 武汉三镇足球俱乐部
+      shortName: 武汉三镇
+      localName: 武汉三镇足球俱乐部
+      city: 武汉，中国
+      founded: 2013
+      ground: 汉口文化体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/6637434462'
   twitterURL: ''
   websiteURL: 'http://www.whszfc.com/'
@@ -584,27 +318,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '昆山足球俱乐部'
-      shortName:
-        - '简称'
-        - '昆山 FC'
-      localName:
-        - '本地名称'
-        - '昆山足球俱乐部'
-      city:
-        - '城市'
-        - '昆山，中国'
-      founded:
-        - '成立'
-        - '2014'
-      ground:
-        - '主场'
-        - '昆山体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 昆山足球俱乐部
+      shortName: 昆山 FC
+      localName: 昆山足球俱乐部
+      city: 昆山，中国
+      founded: 2014
+      ground: 昆山体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/6609527736'
   twitterURL: ''
   websiteURL: ''
@@ -616,27 +336,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '陕西长安竞技足球俱乐部'
-      shortName:
-        - '简称'
-        - '陕西长安竞技'
-      localName:
-        - '本地名称'
-        - '陕西长安竞技足球俱乐部'
-      city:
-        - '城市'
-        - '西安，中国'
-      founded:
-        - '成立'
-        - '2016'
-      ground:
-        - '主场'
-        - '陕西省体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 陕西长安竞技足球俱乐部
+      shortName: 陕西长安竞技
+      localName: 陕西长安竞技足球俱乐部
+      city: 西安，中国
+      founded: 2016
+      ground: 陕西省体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/5893966904'
   twitterURL: ''
   websiteURL: ''
@@ -648,27 +354,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '南通支云足球俱乐部'
-      shortName:
-        - '简称'
-        - '南通支云'
-      localName:
-        - '本地名称'
-        - '南通支云足球俱乐部'
-      city:
-        - '城市'
-        - '南通，中国'
-      founded:
-        - '成立'
-        - '2014'
-      ground:
-        - '主场'
-        - '如皋奥林匹克体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 南通支云足球俱乐部
+      shortName: 南通支云
+      localName: 南通支云足球俱乐部
+      city: 南通，中国
+      founded: 2014
+      ground: 如皋奥林匹克体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/5800740152'
   twitterURL: ''
   websiteURL: ''
@@ -680,27 +372,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '四川九牛足球俱乐部'
-      shortName:
-        - '简称'
-        - '四川九牛'
-      localName:
-        - '本地名称'
-        - '四川九牛足球俱乐部'
-      city:
-        - '城市'
-        - '成都，中国'
-      founded:
-        - '成立'
-        - '2017'
-      ground:
-        - '主场'
-        - '成都龙泉驿足球场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 四川九牛足球俱乐部
+      shortName: 四川九牛
+      localName: 四川九牛足球俱乐部
+      city: 成都，中国
+      founded: 2017
+      ground: 成都龙泉驿足球场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/2717233841'
   twitterURL: ''
   websiteURL: ''
@@ -712,27 +390,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '贵州足球俱乐部'
-      shortName:
-        - '简称'
-        - '贵州 FC'
-      localName:
-        - '本地名称'
-        - '贵州足球俱乐部'
-      city:
-        - '城市'
-        - '贵阳，中国'
-      founded:
-        - '成立'
-        - '2005'
-      ground:
-        - '主场'
-        - '贵阳市奥林匹克体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 贵州足球俱乐部
+      shortName: 贵州 FC
+      localName: 贵州足球俱乐部
+      city: 贵阳，中国
+      founded: 2005
+      ground: 贵阳市奥林匹克体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/2611553927'
   twitterURL: ''
   websiteURL: ''
@@ -744,27 +408,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '苏州东吴足球俱乐部'
-      shortName:
-        - '简称'
-        - '苏州东吴'
-      localName:
-        - '本地名称'
-        - '苏州东吴足球俱乐部'
-      city:
-        - '城市'
-        - '苏州，中国'
-      founded:
-        - '成立'
-        - '2008'
-      ground:
-        - '主场'
-        - '苏州体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 苏州东吴足球俱乐部
+      shortName: 苏州东吴
+      localName: 苏州东吴足球俱乐部
+      city: 苏州，中国
+      founded: 2008
+      ground: 苏州体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/5804172181'
   twitterURL: ''
   websiteURL: ''
@@ -776,27 +426,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '淄博蹴鞠足球俱乐部'
-      shortName:
-        - '简称'
-        - '淄博蹴鞠'
-      localName:
-        - '本地名称'
-        - '淄博蹴鞠足球俱乐部'
-      city:
-        - '城市'
-        - '淄博，中国'
-      founded:
-        - '成立'
-        - '1982'
-      ground:
-        - '主场'
-        - '淄博体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 淄博蹴鞠足球俱乐部
+      shortName: 淄博蹴鞠
+      localName: 淄博蹴鞠足球俱乐部
+      city: 淄博，中国
+      founded: 1982
+      ground: 淄博体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/6467934803'
   twitterURL: ''
   websiteURL: ''
@@ -808,27 +444,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '北京北体大足球俱乐部'
-      shortName:
-        - '简称'
-        - '北京北体大'
-      localName:
-        - '本地名称'
-        - '北京北体大足球俱乐部'
-      city:
-        - '城市'
-        - '北京，中国'
-      founded:
-        - '成立'
-        - '2004'
-      ground:
-        - '主场'
-        - '北京奥体中心体育场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 北京北体大足球俱乐部
+      shortName: 北京北体大
+      localName: 北京北体大足球俱乐部
+      city: 北京，中国
+      founded: 2004
+      ground: 北京奥体中心体育场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/2123392247'
   twitterURL: ''
   websiteURL: ''
@@ -840,27 +462,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '江西北大门足球俱乐部'
-      shortName:
-        - '简称'
-        - '江西北大门'
-      localName:
-        - '本地名称'
-        - '江西北大门足球俱乐部'
-      city:
-        - '城市'
-        - '瑞昌，中国'
-      founded:
-        - '成立'
-        - '2002'
-      ground:
-        - '主场'
-        - '瑞昌市体育公园'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 江西北大门足球俱乐部
+      shortName: 江西北大门
+      localName: 江西北大门足球俱乐部
+      city: 瑞昌，中国
+      founded: 2002
+      ground: 瑞昌市体育公园
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/3194836594'
   twitterURL: ''
   websiteURL: ''
@@ -872,27 +480,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '北京理工足球俱乐部'
-      shortName:
-        - '简称'
-        - '北京理工'
-      localName:
-        - '本地名称'
-        - '北京理工足球俱乐部'
-      city:
-        - '城市'
-        - '北京，中国'
-      founded:
-        - '成立'
-        - '2000'
-      ground:
-        - '主场'
-        - '北京理工大学中关村校区东体育场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 北京理工足球俱乐部
+      shortName: 北京理工
+      localName: 北京理工足球俱乐部
+      city: 北京，中国
+      founded: 2000
+      ground: 北京理工大学中关村校区东体育场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/2727173971'
   twitterURL: ''
   websiteURL: ''
@@ -904,27 +498,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '梅州客家足球俱乐部'
-      shortName:
-        - '简称'
-        - '梅州客家'
-      localName:
-        - '本地名称'
-        - '梅州客家足球俱乐部'
-      city:
-        - '城市'
-        - '梅州，中国'
-      founded:
-        - '成立'
-        - '2013'
-      ground:
-        - '主场'
-        - '五华惠堂体育场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 梅州客家足球俱乐部
+      shortName: 梅州客家
+      localName: 梅州客家足球俱乐部
+      city: 梅州，中国
+      founded: 2013
+      ground: 五华惠堂体育场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/3211113322'
   twitterURL: ''
   websiteURL: ''
@@ -936,27 +516,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '成都蓉城足球俱乐部'
-      shortName:
-        - '简称'
-        - '成都蓉城'
-      localName:
-        - '本地名称'
-        - '成都蓉城足球俱乐部'
-      city:
-        - '城市'
-        - '成都，中国'
-      founded:
-        - '成立'
-        - '2018'
-      ground:
-        - '主场'
-        - '成都龙泉驿足球场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 成都蓉城足球俱乐部
+      shortName: 成都蓉城
+      localName: 成都蓉城足球俱乐部
+      city: 成都，中国
+      founded: 2018
+      ground: 成都龙泉驿足球场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/6487273451'
   twitterURL: ''
   websiteURL: ''
@@ -968,27 +534,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '黑龙江冰城足球俱乐部'
-      shortName:
-        - '简称'
-        - '黑龙江冰城'
-      localName:
-        - '本地名称'
-        - '黑龙江冰城足球俱乐部'
-      city:
-        - '城市'
-        - '哈尔滨，中国'
-      founded:
-        - '成立'
-        - '2014'
-      ground:
-        - '主场'
-        - '哈尔滨国际会展中心体育场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 黑龙江冰城足球俱乐部
+      shortName: 黑龙江冰城
+      localName: 黑龙江冰城足球俱乐部
+      city: 哈尔滨，中国
+      founded: 2014
+      ground: 哈尔滨国际会展中心体育场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/2405478533'
   twitterURL: ''
   websiteURL: ''
@@ -1000,27 +552,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '南京城市足球俱乐部'
-      shortName:
-        - '简称'
-        - '南京城市'
-      localName:
-        - '本地名称'
-        - '南京城市足球俱乐部'
-      city:
-        - '城市'
-        - '南京，中国'
-      founded:
-        - '成立'
-        - '2014'
-      ground:
-        - '主场'
-        - '南京青奥体育公园'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 南京城市足球俱乐部
+      shortName: 南京城市
+      localName: 南京城市足球俱乐部
+      city: 南京，中国
+      founded: 2014
+      ground: 南京青奥体育公园
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/7266596722'
   twitterURL: ''
   websiteURL: ''
@@ -1032,27 +570,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '辽宁沈阳城市足球俱乐部'
-      shortName:
-        - '简称'
-        - '辽宁沈阳城市'
-      localName:
-        - '本地名称'
-        - '辽宁沈阳城市足球俱乐部'
-      city:
-        - '城市'
-        - '沈阳，中国'
-      founded:
-        - '成立'
-        - '2015'
-      ground:
-        - '主场'
-        - '沈阳城市建设学院体育场'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 辽宁沈阳城市足球俱乐部
+      shortName: 辽宁沈阳城市
+      localName: 辽宁沈阳城市足球俱乐部
+      city: 沈阳，中国
+      founded: 2015
+      ground: 沈阳城市建设学院体育场
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/3972643388'
   twitterURL: ''
   websiteURL: ''
@@ -1064,27 +588,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '新疆天山雪豹足球俱乐部'
-      shortName:
-        - '简称'
-        - '新疆天山雪豹'
-      localName:
-        - '本地名称'
-        - '新疆天山雪豹足球俱乐部'
-      city:
-        - '城市'
-        - '乌鲁木齐，中国'
-      founded:
-        - '成立'
-        - '2011'
-      ground:
-        - '主场'
-        - '新疆维吾尔自治区体育中心'
-      league:
-        - '联赛'
-        - '中甲联赛'
+    - fullName: 新疆天山雪豹足球俱乐部
+      shortName: 新疆天山雪豹
+      localName: 新疆天山雪豹足球俱乐部
+      city: 乌鲁木齐，中国
+      founded: 2011
+      ground: 新疆维吾尔自治区体育中心
+      league: 中甲联赛
   weiboURL: 'https://weibo.com/u/3501306747'
   twitterURL: ''
   websiteURL: ''
@@ -1096,27 +606,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '北京橙丰足球俱乐部'
-      shortName:
-        - '简称'
-        - '北京橙丰'
-      localName:
-        - '本地名称'
-        - '北京橙丰足球俱乐部'
-      city:
-        - '城市'
-        - '北京，中国'
-      founded:
-        - '成立'
-        - '1995'
-      duration:
-        - '生存期间'
-        - '1995 - 2021'
-      ground:
-        - '主场'
-        - '丰台体育中心体育场'
+    - fullName: 北京橙丰足球俱乐部
+      shortName: 北京橙丰
+      localName: 北京橙丰足球俱乐部
+      city: 北京，中国
+      founded: 1995
+      duration: 1995 - 2021
+      ground: 丰台体育中心体育场
   wikiURL: 'https://zh.wikipedia.org/wiki/北京橙丰足球俱乐部'
 
 - data: sourceInfo
@@ -1125,27 +621,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '广东华南虎足球俱乐部'
-      shortName:
-        - '简称'
-        - '广东华南虎'
-      localName:
-        - '本地名称'
-        - '广东华南虎足球俱乐部'
-      city:
-        - '城市'
-        - '梅州，中国'
-      founded:
-        - '成立'
-        - '2003'
-      duration:
-        - '生存期间'
-        - '2003 - 2020'
-      ground:
-        - '主场'
-        - '梅县区曾宪梓体育场'
+    - fullName: 广东华南虎足球俱乐部
+      shortName: 广东华南虎
+      localName: 广东华南虎足球俱乐部
+      city: 梅州，中国
+      founded: 2003
+      duration: 2003 - 2020
+      ground: 梅县区曾宪梓体育场
   wikiURL: 'https://zh.wikipedia.org/wiki/广东华南虎足球俱乐部'
 
 - data: sourceInfo
@@ -1154,27 +636,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '内蒙古中优足球俱乐部'
-      shortName:
-        - '简称'
-        - '内蒙古中优'
-      localName:
-        - '本地名称'
-        - '内蒙古中优足球俱乐部'
-      city:
-        - '城市'
-        - '呼和浩特，中国'
-      founded:
-        - '成立'
-        - '2011'
-      duration:
-        - '生存期间'
-        - '2011 - 2021'
-      ground:
-        - '主场'
-        - '呼和浩特体育场'
+    - fullName: 内蒙古中优足球俱乐部
+      shortName: 内蒙古中优
+      localName: 内蒙古中优足球俱乐部
+      city: 呼和浩特，中国
+      founded: 2011
+      duration: 2011 - 2021
+      ground: 呼和浩特体育场
   wikiURL: 'https://zh.wikipedia.org/wiki/内蒙古中优足球俱乐部'
 
 - data: sourceInfo
@@ -1183,27 +651,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '辽宁足球俱乐部'
-      shortName:
-        - '简称'
-        - '辽宁 FC'
-      localName:
-        - '本地名称'
-        - '辽宁足球俱乐部'
-      city:
-        - '城市'
-        - '沈阳，中国'
-      founded:
-        - '成立'
-        - '1995'
-      duration:
-        - '生存期间'
-        - '1995 - 2020'
-      ground:
-        - '主场'
-        - '沈阳铁西体育场'
+    - fullName: 辽宁足球俱乐部
+      shortName: 辽宁 FC
+      localName: 辽宁足球俱乐部
+      city: 沈阳，中国
+      founded: 1995
+      duration: 1995 - 2020
+      ground: 沈阳铁西体育场
   wikiURL: 'https://zh.wikipedia.org/wiki/辽宁宏运足球俱乐部'
 
 - data: sourceInfo
@@ -1212,27 +666,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '上海申鑫足球俱乐部'
-      shortName:
-        - '简称'
-        - '上海申鑫'
-      localName:
-        - '本地名称'
-        - '上海申鑫足球俱乐部'
-      city:
-        - '城市'
-        - '上海，中国'
-      founded:
-        - '成立'
-        - '2003'
-      duration:
-        - '生存期间'
-        - '2003 - 2020'
-      ground:
-        - '主场'
-        - '金山足球场'
+    - fullName: 上海申鑫足球俱乐部
+      shortName: 上海申鑫
+      localName: 上海申鑫足球俱乐部
+      city: 上海，中国
+      founded: 2003
+      duration: 2003 - 2020
+      ground: 上海金山足球场
   wikiURL: 'https://zh.wikipedia.org/wiki/上海申鑫足球俱乐部'
 
 - data: sourceInfo
@@ -1241,27 +681,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '四川隆发足球俱乐部'
-      shortName:
-        - '简称'
-        - '四川隆发'
-      localName:
-        - '本地名称'
-        - '四川隆发足球俱乐部'
-      city:
-        - '城市'
-        - '成都，中国'
-      founded:
-        - '成立'
-        - '2013'
-      duration:
-        - '生存期间'
-        - '2013 - 2020'
-      ground:
-        - '主场'
-        - '都江堰凤凰体育场'
+    - fullName: 四川隆发足球俱乐部
+      shortName: 四川隆发
+      localName: 四川隆发足球俱乐部
+      city: 成都，中国
+      founded: 2013
+      duration: 2013 - 2020
+      ground: 都江堰凤凰体育场
   wikiURL: 'https://baike.baidu.com/item/四川隆发足球俱乐部/'
 
 - data: sourceInfo
@@ -1270,27 +696,13 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '延边富德足球俱乐部'
-      shortName:
-        - '简称'
-        - '延边富德'
-      localName:
-        - '本地名称'
-        - '延边富德足球俱乐部'
-      city:
-        - '城市'
-        - '延边，中国'
-      founded:
-        - '成立'
-        - '1994'
-      duration:
-        - '生存期间'
-        - '1994 - 2019'
-      ground:
-        - '主场'
-        - '延吉市人民体育场'
+    - fullName: 延边富德足球俱乐部
+      shortName: 延边富德
+      localName: 延边富德足球俱乐部
+      city: 延边朝鲜族自治州，中国
+      founded: 1994
+      duration: 1994 - 2019
+      ground: 延吉市人民体育场
   wikiURL: 'https://zh.wikipedia.org/wiki/延边富德足球俱乐部'
 
 - data: sourceInfo
@@ -1299,25 +711,11 @@
   type: 俱乐部
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '天津天海足球俱乐部'
-      shortName:
-        - '简称'
-        - '天津天海'
-      localName:
-        - '本地名称'
-        - '天津天海足球俱乐部'
-      city:
-        - '城市'
-        - '天津，中国'
-      founded:
-        - '成立'
-        - '2006'
-      duration:
-        - '生存期间'
-        - '2006 - 2020'
-      ground:
-        - '主场'
-        - '天津奥体中心体育场'
+    - fullName: 天津天海足球俱乐部
+      shortName: 天津天海
+      localName: 天津天海足球俱乐部
+      city: 天津，中国
+      founded: 2006
+      duration: 2006 - 2020
+      ground: 天津奥体中心体育场
   wikiURL: 'https://zh.wikipedia.org/wiki/天津天海足球俱乐部'

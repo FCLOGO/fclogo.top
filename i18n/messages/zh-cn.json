@@ -110,5 +110,21 @@
   "assns": "协会",
   "comps": "赛事",
   "clubs": "俱乐部",
-  "logos": "徽标"
+  "logos": "徽标",
+
+  "fullName": "全称",
+  "shortName": "简称",
+  "localName": "本地名称",
+  "founded": "成立",
+  "headquarter": "总部",
+  "affiliations": "隶属于",
+  "confederation": "所属联盟",
+  "teams": "俱乐部数量",
+  "level": "联赛等级",
+  "promotion": "升级至",
+  "relegation": "降级至",
+  "ground": "主场",
+  "city": "城市",
+  "league": "联赛",
+  "duration": "生存期间"
 }

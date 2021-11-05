@@ -4,27 +4,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Shandong Taishan Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Shandong Taishan FC'
-      localName:
-        - 'Local Name'
-        - '山东泰山足球俱乐部'
-      city:
-        - 'City'
-        - 'Jinan, China'
-      founded:
-        - 'Founded'
-        - '1993'
-      ground:
-        - 'Ground'
-        - 'Jinan Olympic Sports Center Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Shandong Taishan Football Club
+      shortName: Shandong Taishan FC
+      localName: 山东泰山足球俱乐部
+      city: Jinan, China
+      founded: 1993
+      ground: Jinan Olympic Sports Center Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1911180293'
   twitterURL: ''
   websiteURL: 'http://www.lnts.com.cn'
@@ -35,27 +21,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Beijing Guoan Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Beijing Guoan FC'
-      localName:
-        - 'Local Name'
-        - '北京国安足球俱乐部'
-      city:
-        - 'City'
-        - 'Beijing, China'
-      founded:
-        - 'Founded'
-        - '1992'
-      ground:
-        - 'Ground'
-        - 'Beijing Fengtai Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Beijing Guoan Football Club
+      shortName: Beijing Guoan FC
+      localName: 北京国安足球俱乐部
+      city: Beijing, China
+      founded: 1992
+      ground: Beijing Fengtai Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1912052995'
   twitterURL: ''
   websiteURL: 'http://www.fcguoan.com'
@@ -66,27 +38,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Shanghai Shenhua Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Shanghai Shenhua FC'
-      localName:
-        - 'Local Name'
-        - '上海申花足球俱乐部'
-      city:
-        - 'City'
-        - 'Shanghai, China'
-      founded:
-        - 'Founded'
-        - '1993'
-      ground:
-        - 'Ground'
-        - 'Shanghai Hongkou Football Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Shanghai Shenhua Football Club
+      shortName: Shanghai Shenhua FC
+      localName: 上海申花足球俱乐部
+      city: Shanghai, China
+      founded: 1993
+      ground: Shanghai Hongkou Football Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1912052995'
   twitterURL: ''
   websiteURL: 'https://weibo.com/u/1650107735'
@@ -97,27 +55,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Guangzhou Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Guangzhou FC'
-      localName:
-        - 'Local Name'
-        - '广州足球俱乐部'
-      city:
-        - 'City'
-        - 'Guangzhou, China'
-      founded:
-        - 'Founded'
-        - '1993'
-      ground:
-        - 'Ground'
-        - 'Guangzhou Tianhe Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Guangzhou Football Club
+      shortName: Guangzhou FC
+      localName: 广州足球俱乐部
+      city: Guangzhou, China
+      founded: 1993
+      ground: Guangzhou Tianhe Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1894798092'
   twitterURL: ''
   websiteURL: 'https://gzfc.evergrande.com/'
@@ -128,27 +72,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Shenzhen Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Shenzhen FC'
-      localName:
-        - 'Local Name'
-        - '深圳市足球俱乐部'
-      city:
-        - 'City'
-        - 'Shenzhen, China'
-      founded:
-        - 'Founded'
-        - '1994'
-      ground:
-        - 'Ground'
-        - 'Shenzhen Universiade Sports Centre'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Shenzhen Football Club
+      shortName: Shenzhen FC
+      localName: 深圳市足球俱乐部
+      city: Shenzhen, China
+      founded: 1994
+      ground: Shenzhen Universiade Sports Centre
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1913624334'
   twitterURL: ''
   websiteURL: 'http://shenzhenfc.com.cn/'
@@ -159,27 +89,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Shanghai Port Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Shanghai Port FC'
-      localName:
-        - 'Local Name'
-        - '上海海港足球俱乐部'
-      city:
-        - 'City'
-        - 'Shanghai, China'
-      founded:
-        - 'Founded'
-        - '2005'
-      ground:
-        - 'Ground'
-        - 'Shanghai Pudong Football Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Shanghai Port Football Club
+      shortName: Shanghai Port FC
+      localName: 上海海港足球俱乐部
+      city: Shanghai, China
+      founded: 2005
+      ground: Shanghai Pudong Football Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/3593916900'
   twitterURL: ''
   websiteURL: 'http://www.sipg-fc.com/'
@@ -190,27 +106,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Dalian Professional Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Dalian Pro FC'
-      localName:
-        - 'Local Name'
-        - '大连人职业足球俱乐部'
-      city:
-        - 'City'
-        - 'Dalian, China'
-      founded:
-        - 'Founded'
-        - '2009'
-      ground:
-        - 'Ground'
-        - 'Dalian Sports Center Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Dalian Professional Football Club
+      shortName: Dalian Pro FC
+      localName: 大连人职业足球俱乐部
+      city: Dalian, China
+      founded: 2009
+      ground: Dalian Sports Center Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1601538693'
   twitterURL: ''
   websiteURL: 'http://www.dlpro.com.cn/'
@@ -221,27 +123,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Guangzhou City Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Guangzhou City FC'
-      localName:
-        - 'Local Name'
-        - '广州城足球俱乐部'
-      city:
-        - 'City'
-        - 'Guangzhou, China'
-      founded:
-        - 'Founded'
-        - '1987?'
-      ground:
-        - 'Ground'
-        - 'Guangzhou Yuexiushan Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Guangzhou City Football Club
+      shortName: Guangzhou City FC
+      localName: 广州城足球俱乐部
+      city: Guangzhou, China
+      founded: 1994
+      ground: Guangzhou Yuexiushan Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/2456231390'
   twitterURL: ''
   websiteURL: 'http://www.gzrffc.com.cn/'
@@ -252,27 +140,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Chongqing Liangjiang Athletic Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Chongqing Liangjiang Athletic FC'
-      localName:
-        - 'Local Name'
-        - '重庆两江竞技足球俱乐部'
-      city:
-        - 'City'
-        - 'Chongqing, China'
-      founded:
-        - 'Founded'
-        - '1995'
-      ground:
-        - 'Ground'
-        - 'Chongqing Olympic Sports Center'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Chongqing Liangjiang Athletic Football Club
+      shortName: Chongqing Liangjiang Athletic FC
+      localName: 重庆两江竞技足球俱乐部
+      city: Chongqing, China
+      founded: 1995
+      ground: Chongqing Olympic Sports Center
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/2059760773'
   twitterURL: ''
   websiteURL: 'http://www.dangdailifanfc.cn'
@@ -284,27 +158,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Jiangsu Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Jiangsu FC'
-      localName:
-        - 'Local Name'
-        - '江苏足球俱乐部'
-      city:
-        - 'City'
-        - 'Nanjing, China'
-      founded:
-        - 'Founded'
-        - '1994'
-      duration:
-        - 'Lifetime'
-        - '1994 - 2021'
-      ground:
-        - 'Ground'
-        - 'Nanjing Olympic Sports Centre'
+    - fullName: Jiangsu Football Club
+      shortName: Jiangsu FC
+      localName: 江苏足球俱乐部
+      city: Nanjing, China
+      founded: 1994
+      duration: 1994 - 2021
+      ground: Nanjing Olympic Sports Centre
   weiboURL: 'https://weibo.com/u/1915964974'
   wikiURL: 'https://en.wikipedia.org/wiki/Jiangsu_F.C.'
 
@@ -313,27 +173,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Changchun Yatai Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Changchun Yatai FC'
-      localName:
-        - 'Local Name'
-        - '长春亚泰俱乐部'
-      city:
-        - 'City'
-        - 'Changchun, China'
-      founded:
-        - 'Founded'
-        - '1996'
-      ground:
-        - 'Ground'
-        - 'Changchun Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Changchun Yatai Football Club
+      shortName: Changchun Yatai FC
+      localName: 长春亚泰俱乐部
+      city: Changchun, China
+      founded: 1996
+      ground: Changchun Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/yataifc'
   websiteURL: 'http://www.yataifc.cn/'
   wikiURL: 'https://en.wikipedia.org/wiki/Changchun_Yatai_F.C.'
@@ -343,27 +189,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Henan Songshan Longmen Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Henan Songshan Longmen FC'
-      localName:
-        - 'Local Name'
-        - '河南嵩山龙门足球俱乐部'
-      city:
-        - 'City'
-        - 'Zhengzhou, China'
-      founded:
-        - 'Founded'
-        - '1994'
-      ground:
-        - 'Ground'
-        - 'Zhengzhou Hanghai Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Henan Songshan Longmen Football Club
+      shortName: Henan Songshan Longmen FC
+      localName: 河南嵩山龙门足球俱乐部
+      city: Zhengzhou, China
+      founded: 1994
+      ground: Zhengzhou Hanghai Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/henanjianye1994'
   websiteURL: 'http://www.jianyefc.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Henan_Songshan_Longmen_F.C.'
@@ -373,27 +205,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Tianjin Jinmen Tiger Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Tianjin Jinmen Tiger FC'
-      localName:
-        - 'Local Name'
-        - '天津津门虎足球俱乐部'
-      city:
-        - 'City'
-        - 'Tianjin, China'
-      founded:
-        - 'Founded'
-        - '1998'
-      ground:
-        - 'Ground'
-        - 'Tianjin Olympic Center'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Tianjin Jinmen Tiger Football Club
+      shortName: Tianjin Jinmen Tiger FC
+      localName: 天津津门虎足球俱乐部
+      city: Tianjin, China
+      founded: 1998
+      ground: Tianjin Olympic Center
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/tedafc/'
   wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Jinmen_Tiger_F.C.'
 
@@ -402,27 +220,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Wuhan Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Wuhan FC'
-      localName:
-        - 'Local Name'
-        - '武汉足球俱乐部'
-      city:
-        - 'City'
-        - 'Wuhan, China'
-      founded:
-        - 'Founded'
-        - '2009'
-      ground:
-        - 'Ground'
-        - 'Wuhan Five Rings Sports Center'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Wuhan Football Club
+      shortName: Wuhan FC
+      localName: 武汉足球俱乐部
+      city: Wuhan, China
+      founded: 2009
+      ground: Wuhan Five Rings Sports Center
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://en.wikipedia.org/wiki/Wuhan_F.C./'
 
@@ -431,27 +235,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Qingdao Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Qingdao FC'
-      localName:
-        - 'Local Name'
-        - '青岛足球俱乐部'
-      city:
-        - 'City'
-        - 'Qingdao, China'
-      founded:
-        - 'Founded'
-        - '2013'
-      ground:
-        - 'Ground'
-        - 'Qingdao Conson Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Qingdao Football Club
+      shortName: Qingdao FC
+      localName: 青岛足球俱乐部
+      city: Qingdao, China
+      founded: 2013
+      ground: Qingdao Conson Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_F.C.'
 
@@ -460,27 +250,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Cangzhou Mighty Lions Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Cangzhou Mighty Lions'
-      localName:
-        - 'Local Name'
-        - '沧州雄狮足球俱乐部'
-      city:
-        - 'City'
-        - 'Cangzhou, China'
-      founded:
-        - 'Founded'
-        - '2011'
-      ground:
-        - 'Ground'
-        - 'Cangzhou Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Cangzhou Mighty Lions Football Club
+      shortName: Cangzhou Mighty Lions
+      localName: 沧州雄狮足球俱乐部
+      city: Cangzhou, China
+      founded: 2011
+      ground: Cangzhou Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/3032079382'
   wikiURL: 'https://en.wikipedia.org/wiki/Cangzhou_Mighty_Lions_F.C.'
 
@@ -489,27 +265,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Hebei Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Hebei FC'
-      localName:
-        - 'Local Name'
-        - '河北足球俱乐部'
-      city:
-        - 'City'
-        - 'Langfang, China'
-      founded:
-        - 'Founded'
-        - '2009'
-      ground:
-        - 'Ground'
-        - 'Langfang Stadium'
-      league:
-        - 'League'
-        - 'Chinese Super League'
+    - fullName: Hebei Football Club
+      shortName: Hebei FC
+      localName: 河北足球俱乐部
+      city: Langfang, China
+      founded: 2009
+      ground: Langfang Stadium
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/2131874461'
   websiteURL: 'http://www.hebeifootball.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Hebei_F.C.'
@@ -520,27 +282,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Zhejiang Professional Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Zhejiang FC'
-      localName:
-        - 'Local Name'
-        - '浙江职业足球俱乐部'
-      city:
-        - 'City'
-        - 'Hangzhou, China'
-      founded:
-        - 'Founded'
-        - '1998'
-      ground:
-        - 'Ground'
-        - 'Hangzhou Huanglong Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Zhejiang Professional Football Club
+      shortName: Zhejiang FC
+      localName: 浙江职业足球俱乐部
+      city: Hangzhou, China
+      founded: 1998
+      ground: Hangzhou Huanglong Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/1983327567'
   twitterURL: ''
   websiteURL: 'http://www.greentownfc.com'
@@ -552,27 +300,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Wuhan Three Towns Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Wuhan Three Towns'
-      localName:
-        - 'Local Name'
-        - '武汉三镇足球俱乐部'
-      city:
-        - 'City'
-        - 'Wuhan, China'
-      founded:
-        - 'Founded'
-        - '2013'
-      ground:
-        - 'Ground'
-        - 'Hankou Cultural Sports Centre'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Wuhan Three Towns Football Club
+      shortName: Wuhan Three Towns
+      localName: 武汉三镇足球俱乐部
+      city: Wuhan, China
+      founded: 2013
+      ground: Hankou Cultural Sports Centre
+      league: China League
   weiboURL: 'https://weibo.com/u/6637434462'
   twitterURL: ''
   websiteURL: 'http://www.whszfc.com/'
@@ -584,27 +318,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Kunshan Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Kunshan FC'
-      localName:
-        - 'Local Name'
-        - '昆山足球俱乐部'
-      city:
-        - 'City'
-        - 'Kunshan, China'
-      founded:
-        - 'Founded'
-        - '2014'
-      ground:
-        - 'Ground'
-        - 'Kunshan Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Kunshan Football Club
+      shortName: Kunshan FC
+      localName: 昆山足球俱乐部
+      city: Kunshan, China
+      founded: 2014
+      ground: Kunshan Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/6609527736'
   twitterURL: ''
   websiteURL: ''
@@ -616,27 +336,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - "Shaanxi Chang'an Athletic Football Club"
-      shortName:
-        - 'Short Name'
-        - "Shaanxi Chang'an Athletic"
-      localName:
-        - 'Local Name'
-        - '陕西长安竞技足球俱乐部'
-      city:
-        - 'City'
-        - "Xi'an, China"
-      founded:
-        - 'Founded'
-        - '2016'
-      ground:
-        - 'Ground'
-        - 'Shaanxi Province Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Shaanxi Chang'an Athletic Football Club
+      shortName: Shaanxi Chang'an Athletic
+      localName: 陕西长安竞技足球俱乐部
+      city: Xi'an, China
+      founded: 2016
+      ground: Shaanxi Province Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/5893966904'
   twitterURL: ''
   websiteURL: ''
@@ -648,27 +354,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Nantong Zhiyun Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Nantong Zhiyun'
-      localName:
-        - 'Local Name'
-        - '南通支云足球俱乐部'
-      city:
-        - 'City'
-        - 'Nantong, China'
-      founded:
-        - 'Founded'
-        - '2014'
-      ground:
-        - 'Ground'
-        - 'Rugao Olympic Sports Center'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Nantong Zhiyun Football Club
+      shortName: Nantong Zhiyun
+      localName: 南通支云足球俱乐部
+      city: Nantong, China
+      founded: 2014
+      ground: Rugao Olympic Sports Center
+      league: China League
   weiboURL: 'https://weibo.com/u/5800740152'
   twitterURL: ''
   websiteURL: ''
@@ -680,27 +372,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Sichuan Jiuniu Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Sichuan Jiuniu'
-      localName:
-        - 'Local Name'
-        - '四川九牛足球俱乐部'
-      city:
-        - 'City'
-        - 'Chengdu, China'
-      founded:
-        - 'Founded'
-        - '2017'
-      ground:
-        - 'Ground'
-        - 'Chengdu Longquanyi Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Sichuan Jiuniu Football Club
+      shortName: Sichuan Jiuniu
+      localName: 四川九牛足球俱乐部
+      city: Chengdu, China
+      founded: 2017
+      ground: Chengdu Longquanyi Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/2717233841'
   twitterURL: ''
   websiteURL: ''
@@ -712,27 +390,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Guizhou Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Guizhou FC'
-      localName:
-        - 'Local Name'
-        - 'Guizhou Football Club'
-      city:
-        - 'City'
-        - 'Guiyang, China'
-      founded:
-        - 'Founded'
-        - '2005'
-      ground:
-        - 'Ground'
-        - 'Guiyang Olympic Sports Center'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Guizhou Football Club
+      shortName: Guizhou FC
+      localName: Guizhou Football Club
+      city: Guiyang, China
+      founded: 2005
+      ground: Guiyang Olympic Sports Center
+      league: China League
   weiboURL: 'https://weibo.com/u/2611553927'
   twitterURL: ''
   websiteURL: ''
@@ -744,27 +408,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Suzhou Dongwu Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Suzhou Dongwu'
-      localName:
-        - 'Local Name'
-        - '苏州东吴足球俱乐部'
-      city:
-        - 'City'
-        - 'Suzhou, China'
-      founded:
-        - 'Founded'
-        - '2008'
-      ground:
-        - 'Ground'
-        - 'Suzhou Sports Center'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Suzhou Dongwu Football Club
+      shortName: Suzhou Dongwu
+      localName: 苏州东吴足球俱乐部
+      city: Suzhou, China
+      founded: 2008
+      ground: Suzhou Sports Center
+      league: China League
   weiboURL: 'https://weibo.com/u/5804172181'
   twitterURL: ''
   websiteURL: ''
@@ -776,27 +426,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Zibo Cuju Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Zibo Cuju'
-      localName:
-        - 'Local Name'
-        - '淄博蹴鞠足球俱乐部'
-      city:
-        - 'City'
-        - 'Zibo, China'
-      founded:
-        - 'Founded'
-        - '1982'
-      ground:
-        - 'Ground'
-        - 'Zibo Sports Center'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Zibo Cuju Football Club
+      shortName: Zibo Cuju
+      localName: 淄博蹴鞠足球俱乐部
+      city: Zibo, China
+      founded: 1982
+      ground: Zibo Sports Center
+      league: China League
   weiboURL: 'https://weibo.com/u/6467934803'
   twitterURL: ''
   websiteURL: ''
@@ -808,27 +444,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Beijing Sport University Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Beijing BSU'
-      localName:
-        - 'Local Name'
-        - '北京北体大足球俱乐部'
-      city:
-        - 'City'
-        - 'Beijing, China'
-      founded:
-        - 'Founded'
-        - '2004'
-      ground:
-        - 'Ground'
-        - 'Beijing Olympic Sports Centre'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Beijing Sport University Football Club
+      shortName: Beijing BSU
+      localName: 北京北体大足球俱乐部
+      city: Beijing, China
+      founded: 2004
+      ground: Beijing Olympic Sports Centre
+      league: China League
   weiboURL: 'https://weibo.com/u/2123392247'
   twitterURL: ''
   websiteURL: ''
@@ -840,27 +462,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Jiangxi Beidamen Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Jiangxi Beidamen'
-      localName:
-        - 'Local Name'
-        - '江西北大门足球俱乐部'
-      city:
-        - 'City'
-        - 'Ruichang, China'
-      founded:
-        - 'Founded'
-        - '2002'
-      ground:
-        - 'Ground'
-        - 'Ruichang Sports Park'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Jiangxi Beidamen Football Club
+      shortName: Jiangxi Beidamen
+      localName: 江西北大门足球俱乐部
+      city: Ruichang, China
+      founded: 2002
+      ground: Ruichang Sports Park
+      league: China League
   weiboURL: 'https://weibo.com/u/3194836594'
   twitterURL: ''
   websiteURL: ''
@@ -872,27 +480,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Beijing Institute of Technology Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Beijing Institute of Technology'
-      localName:
-        - 'Local Name'
-        - '北京理工足球俱乐部'
-      city:
-        - 'City'
-        - 'Beijing, China'
-      founded:
-        - 'Founded'
-        - '2000'
-      ground:
-        - 'Ground'
-        - 'BIT Eastern Athletic Field'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Beijing Institute of Technology Football Club
+      shortName: Beijing BIT
+      localName: 北京理工足球俱乐部
+      city: Beijing, China
+      founded: 2000
+      ground: BIT Eastern Athletic Field
+      league: China League
   weiboURL: 'https://weibo.com/u/2727173971'
   twitterURL: ''
   websiteURL: ''
@@ -904,27 +498,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Meizhou Hakka Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Meizhou Hakka'
-      localName:
-        - 'Local Name'
-        - '梅州客家足球俱乐部'
-      city:
-        - 'City'
-        - 'Meizhou, China'
-      founded:
-        - 'Founded'
-        - '2013'
-      ground:
-        - 'Ground'
-        - 'Wuhua Huitang Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Meizhou Hakka Football Club
+      shortName: Meizhou Hakka
+      localName: 梅州客家足球俱乐部
+      city: Meizhou, China
+      founded: 2013
+      ground: Wuhua Huitang Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/3211113322'
   twitterURL: ''
   websiteURL: ''
@@ -936,27 +516,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Chengdu Rongcheng Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Chengdu Rongcheng'
-      localName:
-        - 'Local Name'
-        - '成都蓉城足球俱乐部'
-      city:
-        - 'City'
-        - 'Chengdu, China'
-      founded:
-        - 'Founded'
-        - '2018'
-      ground:
-        - 'Ground'
-        - 'Chengdu Longquanyi Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Chengdu Rongcheng Football Club
+      shortName: Chengdu Rongcheng
+      localName: 成都蓉城足球俱乐部
+      city: Chengdu, China
+      founded: 2018
+      ground: Chengdu Longquanyi Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/6487273451'
   twitterURL: ''
   websiteURL: ''
@@ -968,27 +534,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Heilongjiang Ice City Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Heilongjiang Ice City'
-      localName:
-        - 'Local Name'
-        - '黑龙江冰城足球俱乐部'
-      city:
-        - 'City'
-        - 'Harbin, China'
-      founded:
-        - 'Founded'
-        - '2014'
-      ground:
-        - 'Ground'
-        - 'Harbin IEC Center Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Heilongjiang Ice City Football Club
+      shortName: Heilongjiang Ice City
+      localName: 黑龙江冰城足球俱乐部
+      city: Harbin, China
+      founded: 2014
+      ground: Harbin IEC Center Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/2405478533'
   twitterURL: ''
   websiteURL: ''
@@ -1000,27 +552,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Nanjing City Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Nanjing City'
-      localName:
-        - 'Local Name'
-        - '南京城市足球俱乐部'
-      city:
-        - 'City'
-        - 'Nanjing, China'
-      founded:
-        - 'Founded'
-        - '2014'
-      ground:
-        - 'Ground'
-        - 'Nanjing Youth Olympic Sports Park'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Nanjing City Football Club
+      shortName: Nanjing City
+      localName: 南京城市足球俱乐部
+      city: Nanjing, China
+      founded: 2014
+      ground: Nanjing Youth Olympic Sports Park
+      league: China League
   weiboURL: 'https://weibo.com/u/7266596722'
   twitterURL: ''
   websiteURL: ''
@@ -1032,27 +570,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Liaoning Shenyang Urban Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Liaoning Shenyang Urban'
-      localName:
-        - 'Local Name'
-        - '辽宁沈阳城市足球俱乐部'
-      city:
-        - 'City'
-        - 'Shenyang, China'
-      founded:
-        - 'Founded'
-        - '2015'
-      ground:
-        - 'Ground'
-        - 'Shenyang Urban Construction University Stadium'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Liaoning Shenyang Urban Football Club
+      shortName: Liaoning Shenyang Urban
+      localName: 辽宁沈阳城市足球俱乐部
+      city: Shenyang, China
+      founded: 2015
+      ground: Shenyang Urban Construction University Stadium
+      league: China League
   weiboURL: 'https://weibo.com/u/3972643388'
   twitterURL: ''
   websiteURL: ''
@@ -1064,27 +588,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Xinjiang Tianshan Leopard Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Xinjiang Tianshan Leopard'
-      localName:
-        - 'Local Name'
-        - '新疆天山雪豹足球俱乐部'
-      city:
-        - 'City'
-        - 'Urumqi, China'
-      founded:
-        - 'Founded'
-        - '2011'
-      ground:
-        - 'Ground'
-        - 'Xinjiang Sports Centre'
-      league:
-        - 'League'
-        - 'China League'
+    - fullName: Xinjiang Tianshan Leopard Football Club
+      shortName: Xinjiang Tianshan Leopard
+      localName: 新疆天山雪豹足球俱乐部
+      city: Urumqi, China
+      founded: 2011
+      ground: Xinjiang Sports Centre
+      league: China League
   weiboURL: 'https://weibo.com/u/3501306747/'
   twitterURL: ''
   websiteURL: ''
@@ -1096,27 +606,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Beijing Chengfeng Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Beijing Chengfeng'
-      localName:
-        - 'Local Name'
-        - '北京橙丰足球俱乐部'
-      city:
-        - 'City'
-        - 'Beijing, China'
-      founded:
-        - 'Founded'
-        - '1995'
-      duration:
-        - 'Duration'
-        - '1995 - 2021'
-      ground:
-        - 'Ground'
-        - 'Beijing Fengtai Stadium'
+    - fullName: Beijing Chengfeng Football Club
+      shortName: Beijing Chengfeng
+      localName: 北京橙丰足球俱乐部
+      city: Beijing, China
+      founded: 1995
+      duration: 1995 - 2021
+      ground: Beijing Fengtai Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Renhe_F.C.'
 
 - data: sourceInfo
@@ -1125,27 +621,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Guangdong South China Tiger Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Guangdong South China Tiger'
-      localName:
-        - 'Local Name'
-        - '广东华南虎足球俱乐部'
-      city:
-        - 'City'
-        - 'Meizhou, China'
-      founded:
-        - 'Founded'
-        - '2003'
-      duration:
-        - 'Duration'
-        - '2003 - 2020'
-      ground:
-        - 'Ground'
-        - 'Meixian Tsang Hin-chi Stadium'
+    - fullName: Guangdong South China Tiger Football Club
+      shortName: Guangdong South China Tiger
+      localName: 广东华南虎足球俱乐部
+      city: Meizhou, China
+      founded: 2003
+      duration: 2003 - 2020
+      ground: Meixian Tsang Hin-chi Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Guangdong_South_China_Tiger_F.C.'
 
 - data: sourceInfo
@@ -1154,27 +636,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Inner Mongolia Zhongyou Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Inner Mongolia Zhongyou'
-      localName:
-        - 'Local Name'
-        - '内蒙古中优足球俱乐部'
-      city:
-        - 'City'
-        - 'Hohhot, China'
-      founded:
-        - 'Founded'
-        - '2011'
-      duration:
-        - 'Duration'
-        - '2011 - 2021'
-      ground:
-        - 'Ground'
-        - 'Hohhot City Stadium'
+    - fullName: Inner Mongolia Zhongyou Football Club
+      shortName: Inner Mongolia Zhongyou
+      localName: 内蒙古中优足球俱乐部
+      city: Hohhot, China
+      founded: 2011
+      duration: 2011 - 2021
+      ground: Hohhot City Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Inner_Mongolia_Zhongyou_F.C.'
 
 - data: sourceInfo
@@ -1183,27 +651,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Liaoning Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Liaoning FC'
-      localName:
-        - 'Local Name'
-        - '辽宁足球俱乐部'
-      city:
-        - 'City'
-        - 'Shenyang, China'
-      founded:
-        - 'Founded'
-        - '1995'
-      duration:
-        - 'Duration'
-        - '1995 - 2020'
-      ground:
-        - 'Ground'
-        - 'Tiexi New District Sports Center'
+    - fullName: Liaoning Football Club
+      shortName: Liaoning FC
+      localName: 辽宁足球俱乐部
+      city: Shenyang, China
+      founded: 1995
+      duration: 1995 - 2020
+      ground: Tiexi New District Sports Center
   wikiURL: 'https://en.wikipedia.org/wiki/Liaoning_F.C.'
 
 - data: sourceInfo
@@ -1212,27 +666,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Shanghai Shenxin Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Shanghai Shenxin'
-      localName:
-        - 'Local Name'
-        - '上海申鑫足球俱乐部'
-      city:
-        - 'City'
-        - 'Shanghai, China'
-      founded:
-        - 'Founded'
-        - '2003'
-      duration:
-        - 'Duration'
-        - '2003 - 2020'
-      ground:
-        - 'Ground'
-        - 'Jinshan Football Stadium'
+    - fullName: Shanghai Shenxin Football Club
+      shortName: Shanghai Shenxin
+      localName: 上海申鑫足球俱乐部
+      city: Shanghai, China
+      founded: 2003
+      duration: 2003 - 2020
+      ground: Shanghai Jinshan Football Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Shenxin_F.C.'
 
 - data: sourceInfo
@@ -1241,27 +681,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Sichuan Longfor Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Sichuan Longfor'
-      localName:
-        - 'Local Name'
-        - '四川隆发足球俱乐部'
-      city:
-        - 'City'
-        - 'Chengdu, China'
-      founded:
-        - 'Founded'
-        - '2013'
-      duration:
-        - 'Duration'
-        - '2013 - 2020'
-      ground:
-        - 'Ground'
-        - 'Dujiangyan Phoenix Stadium'
+    - fullName: Sichuan Longfor Football Club
+      shortName: Sichuan Longfor
+      localName: 四川隆发足球俱乐部
+      city: Chengdu, China
+      founded: 2013
+      duration: 2013 - 2020
+      ground: Dujiangyan Phoenix Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Sichuan_Longfor_F.C.'
 
 - data: sourceInfo
@@ -1270,27 +696,13 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Yanbian Funde Football Club'
-      shortName:
-        - 'Short Name'
-        - 'Yanbian Funde'
-      localName:
-        - 'Local Name'
-        - '延边富德足球俱乐部'
-      city:
-        - 'City'
-        - 'Yanbian, China'
-      founded:
-        - 'Founded'
-        - '1994'
-      duration:
-        - 'Duration'
-        - '1994 - 2019'
-      ground:
-        - 'Ground'
-        - 'Yanji Nationwide Fitness Centre Stadium'
+    - fullName: Yanbian Funde Football Club
+      shortName: Yanbian Funde
+      localName: 延边富德足球俱乐部
+      city: Yanbian, China
+      founded: 1994
+      duration: 1994 - 2019
+      ground: Yanji Nationwide Fitness Centre Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Funde_F.C.'
 
 - data: sourceInfo
@@ -1299,25 +711,11 @@
   type: Club
   nation: China
   info:
-    - fullName:
-        - 'Full Name'
-        - 'Tianjin Tianhai Footbal Club'
-      shortName:
-        - 'Short Name'
-        - 'Tianjin Tianhai'
-      localName:
-        - 'Local Name'
-        - '天津天海足球俱乐部'
-      city:
-        - 'City'
-        - 'Tianjin, China'
-      founded:
-        - 'Founded'
-        - '2006'
-      duration:
-        - 'Duration'
-        - '2006 - 2020'
-      ground:
-        - 'Ground'
-        - 'Tianjin Olympic Center Stadium'
+    - fullName: Tianjin Tianhai Footbal Club
+      shortName: Tianjin Tianhai
+      localName: 天津天海足球俱乐部
+      city: Tianjin, China
+      founded: 2006
+      duration: 2006 - 2020
+      ground: Tianjin Olympic Center Stadium
   wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Tianhai_F.C.'

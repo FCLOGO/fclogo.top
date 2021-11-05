@@ -4,24 +4,12 @@
   type: 协会
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '中国足球协会'
-      shortName:
-        - '简称'
-        - '中国足协'
-      localName:
-        - '本地名称'
-        - '中国足球协会'
-      founded:
-        - '成立'
-        - '1955'
-      headquarter:
-        - '总部'
-        - '北京，中国'
-      affiliations:
-        - '隶属于'
-        - '东亚足联  ▸  亚足联  ▸  国际足联'
+    - fullName: 中国足球协会
+      shortName: 中国足协
+      localName: 中国足球协会
+      founded: 1955
+      headquarter: 北京，中国
+      affiliations: 东亚足联  ▸  亚足联  ▸  国际足联
   weiboURL: 'https://weibo.com/u/2428962854'
   twitterURL: 'https://twitter.com/CFA'
   websiteURL: 'http://www.thecfa.cn'
@@ -33,30 +21,14 @@
   type: 赛事
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '中国足球协会超级联赛'
-      shortName:
-        - '简称'
-        - '中超联赛'
-      localName:
-        - '本地名称'
-        - '中国足球协会超级联赛'
-      founded:
-        - '成立'
-        - '2004'
-      confederation:
-        - '所属联盟'
-        - 'AFC'
-      teams:
-        - '俱乐部数量'
-        - '16'
-      level:
-        - '联赛等级'
-        - '1'
-      relegation:
-        - '降级至'
-        - '中甲联赛'
+    - fullName: 中国足球协会超级联赛
+      shortName: 中超联赛
+      localName: 中国足球协会超级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 16
+      level: 第 1 级别
+      relegation: 中甲联赛
   weiboURL: 'https://weibo.com/u/1800991937'
   websiteURL: 'http://csl-china.com'
   wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会超级联赛'
@@ -66,33 +38,15 @@
   type: 赛事
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '中国足球协会甲级联赛'
-      shortName:
-        - '简称'
-        - '中甲联赛'
-      localName:
-        - '本地名称'
-        - '中国足球协会甲级联赛'
-      founded:
-        - '成立'
-        - '2004'
-      confederation:
-        - '所属联盟'
-        - 'AFC'
-      teams:
-        - '俱乐部数量'
-        - '18'
-      level:
-        - '联赛等级'
-        - '2'
-      promotion:
-        - '升级至'
-        - '中超联赛'
-      relegation:
-        - '降级至'
-        - '中乙联赛'
+    - fullName: 中国足球协会甲级联赛
+      shortName: 中甲联赛
+      localName: 中国足球协会甲级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 18
+      level: 第 2 级别
+      promotion: 中超联赛
+      relegation: 中乙联赛
   weiboURL: 'https://weibo.com/u/5643143867'
   twitterURL: ''
   websiteURL: ''
@@ -103,33 +57,15 @@
   type: 赛事
   nation: China
   info:
-    - fullName:
-        - '全称'
-        - '中国足球协会乙级联赛'
-      shortName:
-        - '简称'
-        - '中乙联赛'
-      localName:
-        - '本地名称'
-        - '中国足球协会乙级联赛'
-      founded:
-        - '成立'
-        - '2004'
-      confederation:
-        - '所属联盟'
-        - 'AFC'
-      teams:
-        - '俱乐部数量'
-        - '24'
-      level:
-        - '联赛等级'
-        - '3'
-      promotion:
-        - '升级至'
-        - '中甲联赛'
-      relegation:
-        - '降级至'
-        - '中冠联赛'
+    - fullName: 中国足球协会乙级联赛
+      shortName: 中乙联赛
+      localName: 中国足球协会乙级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 24
+      level: 第 3 级别
+      promotion: 中甲联赛
+      relegation: 中冠联赛
   weiboURL: 'https://weibo.com/u/6498429917'
   twitterURL: ''
   websiteURL: ''

@@ -40,7 +40,7 @@ const RandomLogo = ({ data }) => {
                 >
                   <GatsbyImage
                     image={getImage(node.pngPath)}
-                    alt={node.detailInfo[0].info[0].fullName[1]}
+                    alt={node.detailInfo[0].info[0].fullName}
                   />
                 </ModalLink>
               </div>
