@@ -41,7 +41,7 @@
   "about.cy": "国家 / 地区",
   "about.clubKey": "俱乐部",
   "about.compKey": "赛事",
-  "about.moreStatistics": "查看所有统计信息",
+  "about.moreStatistics": "查看完整统计信息",
   "about.contactTittle": "随时与我们联系",
   "about.contactButton": "聊一下吧",
   "about.contributorTitle": "贡献者",
@@ -106,10 +106,11 @@
   "footer.statement": "本站出现的徽标版权归其合法持有人所有，仅供个人使用，非商务用途。",
   "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved",
 
+  "continent": "大洲",
   "nation": "国家/地区",
-  "assns": "协会",
+  "association": "协会/联盟",
   "comps": "赛事",
-  "clubs": "俱乐部",
+  "clubs": "俱乐部/会员",
   "logos": "徽标",
 
   "fullName": "全称",

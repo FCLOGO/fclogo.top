@@ -54,8 +54,9 @@ export const query = graphql`
   query ($locale: String!) {
     allStatistics(filter: { fields: { locale: { eq: $locale } } }) {
       nodes {
+        continent
         nation
-        assns
+        association
         comps
         clubs
         logos

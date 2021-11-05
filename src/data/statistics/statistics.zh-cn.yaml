@@ -1,13 +1,15 @@
 - data: statistics
+  continent: 亚洲
+  nation: /
+  association: AFC
+  comps: 0
+  clubs: 1
+  logos: 3
+
+- data: statistics
+  continent: 亚洲
   nation: 中国
-  assns: CFA
+  association: CFA
   comps: 3
   clubs: 43
   logos: 146
-
-- data: statistics
-  nation: 中国香港
-  assns: AFC
-  comps: 36
-  clubs: 430
-  logos: 1406

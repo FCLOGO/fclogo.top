@@ -106,11 +106,12 @@
   "footer.statement": "The copyrights of logos appearing on this site belong to their legal holders and for personal use only, non-commercial use.",
   "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved",
 
-  "nation": "COUNTRIES/REGIONS",
-  "assns": "ASSOCIATIONS",
-  "comps": "COMPETITIONS",
-  "clubs": "CLUBS",
-  "logos": "LOGOS",
+  "continent": "Continent",
+  "nation": "Country / Region",
+  "association": "Association / Confederation",
+  "comps": "Competitions",
+  "clubs": "Clubs / Members",
+  "logos": "Logos",
 
   "fullName": "Full Name",
   "shortName": "Short Name",

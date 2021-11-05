@@ -19,7 +19,6 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .content-wrapper
   width 100%
-  max-width 1280px
   margin 0 auto
   padding 0 size-large
   display flex
@@ -29,3 +28,13 @@ mq-tablet = 'screen and (max-width: 992px)'
   td, th
     text-align center
     border-width 1px
+    border-color var(--border-color-secondary)
+  tbody tr
+    border-bottom 1px solid var(--border-color-primary)
+    &:hover
+      background-color rgba(0, 0, 0, 0.1)
+  tr:last-child
+    border-color var(--border-color-secondary)
+
+.content-wrapper thead th
+  text-transform uppercase
