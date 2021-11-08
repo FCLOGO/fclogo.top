@@ -381,3 +381,51 @@
   svgPath: 'clubs/svg/cfa-xinjiang-tianshan-leopard-v2012.svg'
   sourceID: cfa-club-035
   style: color
+
+- data: logo
+  uniqueID: 20211108-001
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['丹东瀚通']
+  slug: /cfa-dandong-tengyue-v2017-mono
+  pngPath: 'clubs/cfa-dandong-tengyue-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-dandong-tengyue-v2017-mono.svg'
+  sourceID: cfa-club-051
+  style: mono
+
+- data: logo
+  uniqueID: 20211108-002
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['丹东瀚通']
+  slug: /cfa-dandong-tengyue-v2017
+  pngPath: 'clubs/cfa-dandong-tengyue-v2017.png'
+  svgPath: 'clubs/svg/cfa-dandong-tengyue-v2017.svg'
+  sourceID: cfa-club-051
+  style: color
+
+- data: logo
+  uniqueID: 20211108-003
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['丹东腾跃']
+  slug: /cfa-dandong-tengyue-v2021-mono
+  pngPath: 'clubs/cfa-dandong-tengyue-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-dandong-tengyue-v2021-mono.svg'
+  sourceID: cfa-club-051
+  style: mono
+
+- data: logo
+  uniqueID: 20211108-004
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['丹东腾跃']
+  slug: /cfa-dandong-tengyue-v2021
+  pngPath: 'clubs/cfa-dandong-tengyue-v2021.png'
+  svgPath: 'clubs/svg/cfa-dandong-tengyue-v2021.svg'
+  sourceID: cfa-club-051
+  style: color
