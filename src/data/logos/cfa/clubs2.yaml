@@ -429,3 +429,75 @@
   svgPath: 'clubs/svg/cfa-dandong-tengyue-v2021.svg'
   sourceID: cfa-club-051
   style: color
+
+- data: logo
+  uniqueID: 20211108-005
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Qingdao Jonoon']
+  slug: /cfa-qingdao-hainiu-v2008-mono
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2008-mono.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2008-mono.svg'
+  sourceID: cfa-club-052
+  style: mono
+
+- data: logo
+  uniqueID: 20211108-006
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Qingdao Jonoon']
+  slug: /cfa-qingdao-hainiu-v2008
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2008.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2008.svg'
+  sourceID: cfa-club-052
+  style: color
+
+- data: logo
+  uniqueID: 20211108-007
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Qingdao Jonoon']
+  slug: /cfa-qingdao-hainiu-v2008-orange
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2008-orange.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2008-orange.svg'
+  sourceID: cfa-club-052
+  style: orange
+
+- data: logo
+  uniqueID: 20211108-008
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Qingdao Jonoon']
+  slug: /cfa-qingdao-hainiu-v2008-year
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2008-year.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2008-year.svg'
+  sourceID: cfa-club-052
+  style: year
+
+- data: logo
+  uniqueID: 20211108-009
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Qingdao Hainiu']
+  slug: /cfa-qingdao-hainiu-v2021-mono
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2021-mono.svg'
+  sourceID: cfa-club-052
+  style: mono
+
+- data: logo
+  uniqueID: 20211108-010
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Qingdao Hainiu']
+  slug: /cfa-qingdao-hainiu-v2021
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2021.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2021.svg'
+  sourceID: cfa-club-052
+  style: color

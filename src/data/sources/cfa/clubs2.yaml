@@ -133,3 +133,20 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-052
+  type: Club
+  nation: China
+  info:
+    - fullName: Qingdao Hainiu Football Club
+      shortName: Qingdao Hainiu
+      localName: 青岛海牛足球俱乐部
+      founded: 1993
+      city: Qingdao, China
+      ground: Qingdao Tiantai Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/1919205277'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Hainiu_F.C._(1990)'

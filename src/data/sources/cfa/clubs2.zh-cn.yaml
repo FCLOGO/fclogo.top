@@ -133,3 +133,20 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://baike.baidu.com/item/丹东腾跃足球俱乐部/56402635'
+
+- data: sourceInfo
+  sourceID: cfa-club-052
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 青岛海牛足球俱乐部
+      shortName: 青岛海牛
+      localName: 青岛海牛足球俱乐部
+      founded: 1993
+      city: 青岛，中国
+      ground: 青岛天泰足球场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/1919205277'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/青岛海牛足球俱乐部'
