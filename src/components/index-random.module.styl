@@ -44,13 +44,15 @@ mq-tablet = 'screen and (max-width: 992px)'
     flex-wrap wrap
 
 .logo-card
+  background-color var(--logo-card-bg)
   width 8vw
   height 8vw
   max-width 125px
   max-height 125px
-  border 1px solid var(--border-color-primary)
+  border 1px solid var(--logo-card-border)
   border-radius 5px
-  padding 1vw
+  &:hover
+    border-color var(--logo-card-border-hover)
   @media mq-tablet
     width 16vw
     height 16vw
@@ -60,6 +62,7 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .card-link
   display flex
+  padding 1vw
   flex-flow column wrap
   align-items center
   border none
