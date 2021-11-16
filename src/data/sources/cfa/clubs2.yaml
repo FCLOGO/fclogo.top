@@ -150,3 +150,54 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Hainiu_F.C._(1990)'
+
+- data: sourceInfo
+  sourceID: cfa-club-053
+  type: Club
+  nation: China
+  info:
+    - fullName: Kunming Zheng He Shipman Football Club
+      shortName: Kunming Zheng He Shipman
+      localName: 昆明郑和船工足球俱乐部
+      founded: 2017
+      city: Kunming, China
+      ground: Hongta Sports Center
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/6154234408'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Kunming_Zheng_He_Shipman_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-054
+  type: Club
+  nation: China
+  info:
+    - fullName: Shaanxi Warriors Beyond Football Club
+      shortName: Shaanxi Warriors Beyond
+      localName: 陕西俑士超越足球俱乐部
+      founded: 2013
+      city: Xi'an, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7574273749'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaanxi_Warriors_Beyond_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-055
+  type: Club
+  nation: China
+  info:
+    - fullName: Hebei Zhuoao Football Club
+      shortName: Hebei Zhuoao
+      localName: 河北卓奥足球俱乐部
+      founded: 2009
+      city: Qinhuangdao, China
+      ground: Qinhuangdao Olympic Sports Center Stadium
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hebei_Zhuoao_F.C.'

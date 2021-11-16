@@ -150,3 +150,54 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/青岛海牛足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-053
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 昆明郑和船工足球俱乐部
+      shortName: 昆明郑和船工
+      localName: 昆明郑和船工足球俱乐部
+      founded: 2017
+      city: 昆明，中国
+      ground: 红塔体育中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/6154234408'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/昆明郑和船工足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-054
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 陕西俑士超越足球俱乐部
+      shortName: 陕西俑士超越
+      localName: 陕西俑士超越足球俱乐部
+      founded: 2013
+      city: 西安，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7574273749'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/陕西俑士超越足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-055
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 河北卓奥足球俱乐部
+      shortName: 河北卓奥
+      localName: 河北卓奥足球俱乐部
+      founded: 2009
+      city: 秦皇岛，中国
+      ground: 秦皇岛奥林匹克体育中心
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/河北卓奥足球俱乐部'
