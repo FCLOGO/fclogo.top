@@ -25,13 +25,14 @@ import {
   nothingText
 } from './logos.module.styl'
 
-const DetailAdsense = () => {
+const PageAdsense = () => {
   return (
     <AdSense.Google
       client="ca-pub-9573165480183467"
-      slot="1849158398"
-      format="auto"
-      responsive="true"
+      slot="6472280758"
+      style={{ display: 'block' }}
+      format="fluid"
+      layoutKey="-e8+7m+2l-ev+hk"
     />
   )
 }
@@ -98,7 +99,7 @@ const AllLogo = ({ data, pageContext }) => {
       <div className={mainContent}>
         <section className={logosWrapper}>
           <div className={adsenseContainer}>
-            <DetailAdsense />
+            <PageAdsense />
           </div>
           {allLogos.length ? (
             <>
