@@ -8,7 +8,7 @@
 
 const React = require('react')
 
-const AdsenseComponents = [
+const HeadComponents = [
   <script
     async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
@@ -17,6 +17,6 @@ const AdsenseComponents = [
   />
 ]
 
-exports.onRenderBody = ({ setHtmlAttributes }, pluginOptions) => {
-  setHtmlAttributes(AdsenseComponents)
+exports.onRenderBody = ({ setHeadComponents }, pluginOptions) => {
+  setHeadComponents(HeadComponents)
 }
