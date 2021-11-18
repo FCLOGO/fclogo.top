@@ -201,3 +201,37 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/河北卓奥足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-056
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 东莞莞联足球俱乐部
+      shortName: 东莞莞联
+      localName: 东莞莞联足球俱乐部
+      founded: 2016
+      city: 东莞，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/东莞莞联足球俱乐部/55795321'
+
+- data: sourceInfo
+  sourceID: cfa-club-057
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 无锡吴钩足球俱乐部
+      shortName: 无锡吴钩
+      localName: 无锡吴钩足球俱乐部
+      founded: 2019
+      city: 无锡，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7009630709'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/无锡吴钩足球俱乐部/56013776'

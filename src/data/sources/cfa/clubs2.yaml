@@ -201,3 +201,37 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Hebei_Zhuoao_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-056
+  type: Club
+  nation: China
+  info:
+    - fullName: Dongguan Guanlian Football Club
+      shortName: Dongguan Guanlian
+      localName: 东莞莞联足球俱乐部
+      founded: 2016
+      city: Dongguan, China
+      ground:
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-057
+  type: Club
+  nation: China
+  info:
+    - fullName: Wuxi Wugou Football Club
+      shortName: Wuxi Wugou
+      localName: 无锡吴钩足球俱乐部
+      founded: 2019
+      city: Wuxi, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7009630709'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

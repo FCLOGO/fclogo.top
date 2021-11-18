@@ -573,3 +573,99 @@
   svgPath: 'clubs/svg/cfa-hebei-zhuoao-v2021.svg'
   sourceID: cfa-club-055
   style: color
+
+- data: logo
+  uniqueID: 20211117-001
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong RongYi']
+  slug: /cfa-dongguan-guanlian-v2016-mono
+  pngPath: 'clubs/cfa-dongguan-guanlian-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-dongguan-guanlian-v2016-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+
+- data: logo
+  uniqueID: 20211117-002
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong RongYi']
+  slug: /cfa-dongguan-guanlian-v2016
+  pngPath: 'clubs/cfa-dongguan-guanlian-v2016.png'
+  svgPath: 'clubs/svg/cfa-dongguan-guanlian-v2016.svg'
+  sourceID: cfa-club-056
+  style: color
+
+- data: logo
+  uniqueID: 20211117-003
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong LiangHeTang']
+  slug: /cfa-dongguan-guanlian-v2019-mono
+  pngPath: 'clubs/cfa-dongguan-guanlian-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-dongguan-guanlian-v2019-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+
+- data: logo
+  uniqueID: 20211117-004
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong LiangHeTang']
+  slug: /cfa-dongguan-guanlian-v2019
+  pngPath: 'clubs/cfa-dongguan-guanlian-v2019.png'
+  svgPath: 'clubs/svg/cfa-dongguan-guanlian-v2019.svg'
+  sourceID: cfa-club-056
+  style: color
+
+- data: logo
+  uniqueID: 20211117-005
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['DongGuan GuanLian']
+  slug: /cfa-dongguan-guanlian-v2021-mono
+  pngPath: 'clubs/cfa-dongguan-guanlian-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-dongguan-guanlian-v2021-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+
+- data: logo
+  uniqueID: 20211117-006
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['DongGuan GuanLian']
+  slug: /cfa-dongguan-guanlian-v2021
+  pngPath: 'clubs/cfa-dongguan-guanlian-v2021.png'
+  svgPath: 'clubs/svg/cfa-dongguan-guanlian-v2021.svg'
+  sourceID: cfa-club-056
+  style: color
+
+- data: logo
+  uniqueID: 20211117-007
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['WuXi WuGou']
+  slug: /cfa-wuxi-wugou-v2021-mono
+  pngPath: 'clubs/cfa-wuxi-wugou-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-wuxi-wugou-v2021-mono.svg'
+  sourceID: cfa-club-057
+  style: mono
+
+- data: logo
+  uniqueID: 20211117-008
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['WuXi WuGou']
+  slug: /cfa-wuxi-wugou-v2021
+  pngPath: 'clubs/cfa-wuxi-wugou-v2021.png'
+  svgPath: 'clubs/svg/cfa-wuxi-wugou-v2021.svg'
+  sourceID: cfa-club-057
+  style: color
