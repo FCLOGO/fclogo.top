@@ -30,9 +30,9 @@ const PageAdsense = () => {
     <AdSense.Google
       client="ca-pub-9573165480183467"
       slot="6472280758"
-      style={{ display: 'block' }}
+      style={{ display: 'flex', flexFlow: 'row wrap', justifyContent: 'center' }}
       format="fluid"
-      layoutKey="-e8+7m+2l-ev+hk"
+      layoutKey="-e9+5m+dl-gv-b2"
     />
   )
 }
