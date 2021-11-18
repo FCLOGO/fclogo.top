@@ -72,7 +72,9 @@ const DetailSidebar = props => {
   const pushCounter = () => IncrementDownloads(props.slug)
   return (
     <aside className={detailSidebar}>
-      <div className={googleAds}>{/* <DetailAdsense /> */}</div>
+      <div className={googleAds}>
+        <DetailAdsense />
+      </div>
       <header className={detailHeader}>
         <section className={logoBadges}>
           <span>
