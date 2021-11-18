@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
+import AdSense from 'react-adsense'
 import { LocalizedLink } from 'gatsby-plugin-usei18n'
 import { useIntl } from 'react-intl'
 
@@ -18,13 +19,22 @@ import {
   logoImage,
   cardFooter,
   logoName,
-  formatList,
-  formatItem,
   styleBadge,
   loadRefContainer,
   nothingContainer,
   nothingText
 } from './logos.module.styl'
+
+const DetailAdsense = () => {
+  return (
+    <AdSense.Google
+      client="ca-pub-9573165480183467"
+      slot="1849158398"
+      format="auto"
+      responsive="true"
+    />
+  )
+}
 
 const AllLogo = ({ data, pageContext }) => {
   const intl = useIntl()
@@ -88,7 +98,7 @@ const AllLogo = ({ data, pageContext }) => {
       <div className={mainContent}>
         <section className={logosWrapper}>
           <div className={adsenseContainer}>
-            <span>Google Adsense</span>
+            <DetailAdsense />
           </div>
           {allLogos.length ? (
             <>
@@ -110,13 +120,6 @@ const AllLogo = ({ data, pageContext }) => {
                       />
                       <footer className={cardFooter}>
                         <h3 className={logoName}>{logo.detailInfo[0].info[0].shortName}</h3>
-                        {/* <ul className={formatList}>
-                          {logo.fileFormat.map(item => (
-                            <li key={item} className={formatItem}>
-                              {item}
-                            </li>
-                          ))}
-                        </ul> */}
                         <span className={styleBadge}>{logo.style}</span>
                       </footer>
                     </ModalLink>
