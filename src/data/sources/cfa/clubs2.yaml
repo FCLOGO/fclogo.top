@@ -235,3 +235,71 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-058
+  type: Club
+  nation: China
+  info:
+    - fullName: Shanghai Jiading Huilong Football Club
+      shortName: Shanghai Jiading Huilong
+      localName: 上海嘉定汇龙足球俱乐部
+      founded: 2009
+      city: Shanghai, China
+      ground: Jiading City Sports Center
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Jiading_Huilong_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-059
+  type: Club
+  nation: China
+  info:
+    - fullName: Hunan Billows Football Club
+      shortName: Hunan Billows
+      localName: 湖南湘涛足球俱乐部
+      founded: 2006
+      city: Changsha, China
+      ground: Yiyang Olympic Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/1735537505'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hunan_Billows_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-060
+  type: Club
+  nation: China
+  info:
+    - fullName: Qingdao Red Lions Football Club
+      shortName: Qingdao Red Lions
+      localName: 青岛红狮足球俱乐部
+      founded: 2016
+      city: Qingdao, China
+      ground: Laixi Sports Centre Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/6016494731'
+  twitterURL: 'https://twitter.com/qingdaoredlions'
+  websiteURL: 'https://qingdaoredlions.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Red_Lions_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-061
+  type: Club
+  nation: China
+  info:
+    - fullName: Qingdao Qingchundao Football Club
+      shortName: Qingdao Qingchundao
+      localName: 青岛青春岛足球俱乐部
+      founded: 2007
+      city: Qingdao, China
+      ground:
+      league: Chinna League 2
+  weiboURL: 'https://weibo.com/u/6603410430'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Youth_Island_F.C.'

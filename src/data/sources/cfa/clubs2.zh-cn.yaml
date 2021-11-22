@@ -235,3 +235,71 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://baike.baidu.com/item/无锡吴钩足球俱乐部/56013776'
+
+- data: sourceInfo
+  sourceID: cfa-club-058
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 上海嘉定汇龙足球俱乐部
+      shortName: 上海嘉定汇龙
+      localName: 上海嘉定汇龙足球俱乐部
+      founded: 2009
+      city: 上海，中国
+      ground: 嘉定体育中心
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海嘉定汇龙足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-059
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 湖南湘涛足球俱乐部
+      shortName: 湖南湘涛
+      localName: 湖南湘涛足球俱乐部
+      founded: 2006
+      city: 长沙，中国
+      ground: 益阳奥林匹克体育中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/1735537505'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/湖南湘濤足球俱樂部'
+
+- data: sourceInfo
+  sourceID: cfa-club-060
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 青岛红狮足球俱乐部
+      shortName: 青岛红狮
+      localName: 青岛红狮足球俱乐部
+      founded: 2016
+      city: 青岛，中国
+      ground: 莱西体育中心体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/6016494731'
+  twitterURL: 'https://twitter.com/qingdaoredlions'
+  websiteURL: 'https://qingdaoredlions.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/青岛红狮足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-061
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 青岛青春岛足球俱乐部
+      shortName: 青岛青春岛
+      localName: 青岛青春岛足球俱乐部
+      founded: 2007
+      city: 青岛，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/6603410430'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/青岛青春岛足球俱乐部'
