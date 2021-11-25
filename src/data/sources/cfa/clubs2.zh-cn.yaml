@@ -303,3 +303,37 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/青岛青春岛足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-062
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 厦门鹭岛足球俱乐部
+      shortName: 厦门鹭岛
+      localName: 厦门鹭岛足球俱乐部
+      founded: 2019
+      city: 厦门，中国
+      ground: 厦门白鹭体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7431792554'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/廈門鷺島足球俱樂部'
+
+- data: sourceInfo
+  sourceID: cfa-club-063
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 四川民足足球俱乐部
+      shortName: 四川民足
+      localName: 四川民足足球俱乐部
+      founded: 2020
+      city: 成都，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7551645729'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/四川民足足球俱乐部/'

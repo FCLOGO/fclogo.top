@@ -303,3 +303,37 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Youth_Island_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-062
+  type: Club
+  nation: China
+  info:
+    - fullName: Xiamen Egret Island Football Club
+      shortName: Xiamen Egret Island
+      localName: 厦门鹭岛足球俱乐部
+      founded: 2019
+      city: Xiamen, China
+      ground: Xiamen Egret Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7431792554'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-063
+  type: Club
+  nation: China
+  info:
+    - fullName: Sichuan Minzu Football Club
+      shortName: Sichuan Minzu
+      localName: 四川民足足球俱乐部
+      founded: 2020
+      city: Chengdu, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7551645729'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
