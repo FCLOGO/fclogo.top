@@ -337,3 +337,20 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-064
+  type: Club
+  nation: China
+  info:
+    - fullName: Quanzhou Yassin Football CLub
+      shortName: Quanzhou Yassin
+      localName: 泉州亚新足球俱乐部
+      founded: 2019
+      city: Quanzhou, China
+      ground:
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
