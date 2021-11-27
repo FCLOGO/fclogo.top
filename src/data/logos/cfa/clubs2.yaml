@@ -981,3 +981,51 @@
   svgPath: 'clubs/svg/cfa-quanzhou-yassin-v2021.svg'
   sourceID: cfa-club-064
   style: color
+
+- data: logo
+  uniqueID: 20211127-003
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YanBian HaiLanJiang', 'YanBian LongDing']
+  slug: /cfa-yanbian-longding-v2019-mono
+  pngPath: 'clubs/cfa-yanbian-longding-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-yanbian-longding-v2019-mono.svg'
+  sourceID: cfa-club-065
+  style: mono
+
+- data: logo
+  uniqueID: 20211127-004
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YanBian HaiLanJiang', 'YanBian LongDing']
+  slug: /cfa-yanbian-longding-v2019
+  pngPath: 'clubs/cfa-yanbian-longding-v2019.png'
+  svgPath: 'clubs/svg/cfa-yanbian-longding-v2019.svg'
+  sourceID: cfa-club-065
+  style: color
+
+- data: logo
+  uniqueID: 20211127-005
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['ShangHai ShenHua']
+  slug: /cfa-shanghai-shenhua-v2022-mono
+  pngPath: 'clubs/cfa-shanghai-shenhua-v2022-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghai-shenhua-v2022-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211127-006
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['ShangHai ShenHua']
+  slug: /cfa-shanghai-shenhua-v2022
+  pngPath: 'clubs/cfa-shanghai-shenhua-v2022.png'
+  svgPath: 'clubs/svg/cfa-shanghai-shenhua-v2022.svg'
+  sourceID: cfa-club-003
+  style: color

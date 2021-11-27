@@ -36,7 +36,7 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 | CONTINENT | COUNTRY/REGION | ASSOCIATION/CONFEDERATION | COMPETITIONS | CLUBS/MEMBERS | LOGOS |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Asia | / | AFC | 0 | 1 | 3 |
-| Asia | China PR | CFA | 3 | 52 | 188 |
+| Asia | China PR | CFA | 3 | 65 | 230 |
 
 
 ## 📝 CONTRIBUTING

@@ -821,9 +821,9 @@
   isDoubtful: false
   isOutdated: false
   verName: ['陕西长安竞技']
-  slug: /cfa-shannxi-changan-athletic-v2016-mono
-  pngPath: 'clubs/cfa-shannxi-changan-athletic-v2016-mono.png'
-  svgPath: 'clubs/svg/cfa-shannxi-changan-athletic-v2016-mono.svg'
+  slug: /cfa-shaanxi-changan-athletic-v2016-mono
+  pngPath: 'clubs/cfa-shaanxi-changan-athletic-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-shaanxi-changan-athletic-v2016-mono.svg'
   sourceID: cfa-club-021
   style: mono
 
@@ -833,9 +833,9 @@
   isDoubtful: false
   isOutdated: false
   verName: ['陕西长安竞技']
-  slug: /cfa-shannxi-changan-athletic-v2016
-  pngPath: 'clubs/cfa-shannxi-changan-athletic-v2016.png'
-  svgPath: 'clubs/svg/cfa-shannxi-changan-athletic-v2016.svg'
+  slug: /cfa-shaanxi-changan-athletic-v2016
+  pngPath: 'clubs/cfa-shaanxi-changan-athletic-v2016.png'
+  svgPath: 'clubs/svg/cfa-shaanxi-changan-athletic-v2016.svg'
   sourceID: cfa-club-021
   style: color
 
