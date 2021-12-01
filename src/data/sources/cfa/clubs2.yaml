@@ -371,3 +371,20 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Longding_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-066
+  type: Club
+  nation: China
+  info:
+    - fullName: Yichun Weihu Football Club
+      shortName: Yichun Weihu
+      localName: 宜春威虎足球俱乐部
+      founded: 2018
+      city: Yichun, China
+      ground:
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

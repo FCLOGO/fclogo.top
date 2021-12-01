@@ -371,3 +371,20 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/延边龙鼎足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-066
+  type: 俱乐部
+  nation: China
+  info:
+    - fullName: 宜春威虎足球俱乐部
+      shortName: 宜春威虎
+      localName: 宜春威虎足球俱乐部
+      founded: 2018
+      city: 宜春，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/宜春威虎足球俱乐部/'
