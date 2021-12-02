@@ -1,7 +1,7 @@
 # Clubs
 - data: sourceInfo
   sourceID: cfa-club-001
-  type: 俱乐部
+  type: club
   isDisband: false
   nation: China
   info:
@@ -19,7 +19,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-002
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 北京国安足球俱乐部
@@ -36,7 +36,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-003
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 上海申花足球俱乐部
@@ -53,7 +53,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-004
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 广州足球俱乐部
@@ -70,7 +70,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-005
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 深圳市足球俱乐部
@@ -87,7 +87,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-006
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 上海海港足球俱乐部
@@ -104,7 +104,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-007
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 大连人职业足球俱乐部
@@ -121,7 +121,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-008
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 广州城足球俱乐部
@@ -138,7 +138,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-009
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 重庆两江竞技足球俱乐部
@@ -156,7 +156,7 @@
 - data: sourceInfo
   sourceID: cfa-club-010
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 江苏足球俱乐部
@@ -171,7 +171,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-011
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 长春亚泰俱乐部
@@ -187,7 +187,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-012
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 河南嵩山龙门足球俱乐部
@@ -203,7 +203,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-013
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 天津津门虎足球俱乐部
@@ -218,7 +218,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-014
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 武汉足球俱乐部
@@ -233,7 +233,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-015
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 青岛足球俱乐部
@@ -248,7 +248,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-016
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 沧州雄狮足球俱乐部
@@ -264,7 +264,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-017
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 河北足球俱乐部
@@ -281,7 +281,7 @@
 - data: sourceInfo
   sourceID: cfa-club-018
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 浙江职业足球俱乐部
@@ -299,7 +299,7 @@
 - data: sourceInfo
   sourceID: cfa-club-019
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 武汉三镇足球俱乐部
@@ -317,7 +317,7 @@
 - data: sourceInfo
   sourceID: cfa-club-020
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 昆山足球俱乐部
@@ -335,7 +335,7 @@
 - data: sourceInfo
   sourceID: cfa-club-021
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 陕西长安竞技足球俱乐部
@@ -353,7 +353,7 @@
 - data: sourceInfo
   sourceID: cfa-club-022
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 南通支云足球俱乐部
@@ -371,7 +371,7 @@
 - data: sourceInfo
   sourceID: cfa-club-023
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 四川九牛足球俱乐部
@@ -389,7 +389,7 @@
 - data: sourceInfo
   sourceID: cfa-club-024
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 贵州足球俱乐部
@@ -407,7 +407,7 @@
 - data: sourceInfo
   sourceID: cfa-club-025
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 苏州东吴足球俱乐部
@@ -425,7 +425,7 @@
 - data: sourceInfo
   sourceID: cfa-club-026
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 淄博蹴鞠足球俱乐部
@@ -443,7 +443,7 @@
 - data: sourceInfo
   sourceID: cfa-club-027
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 北京北体大足球俱乐部
@@ -461,7 +461,7 @@
 - data: sourceInfo
   sourceID: cfa-club-028
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 江西北大门足球俱乐部
@@ -479,7 +479,7 @@
 - data: sourceInfo
   sourceID: cfa-club-029
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 北京理工足球俱乐部
@@ -497,7 +497,7 @@
 - data: sourceInfo
   sourceID: cfa-club-030
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 梅州客家足球俱乐部
@@ -515,7 +515,7 @@
 - data: sourceInfo
   sourceID: cfa-club-031
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 成都蓉城足球俱乐部
@@ -533,7 +533,7 @@
 - data: sourceInfo
   sourceID: cfa-club-032
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 黑龙江冰城足球俱乐部
@@ -551,7 +551,7 @@
 - data: sourceInfo
   sourceID: cfa-club-033
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 南京城市足球俱乐部
@@ -569,7 +569,7 @@
 - data: sourceInfo
   sourceID: cfa-club-034
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 辽宁沈阳城市足球俱乐部
@@ -587,7 +587,7 @@
 - data: sourceInfo
   sourceID: cfa-club-035
   isDisband: false
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 新疆天山雪豹足球俱乐部
@@ -605,7 +605,7 @@
 - data: sourceInfo
   sourceID: cfa-club-036
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 北京橙丰足球俱乐部
@@ -620,7 +620,7 @@
 - data: sourceInfo
   sourceID: cfa-club-037
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 广东华南虎足球俱乐部
@@ -635,7 +635,7 @@
 - data: sourceInfo
   sourceID: cfa-club-038
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 内蒙古中优足球俱乐部
@@ -650,7 +650,7 @@
 - data: sourceInfo
   sourceID: cfa-club-039
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 辽宁足球俱乐部
@@ -665,7 +665,7 @@
 - data: sourceInfo
   sourceID: cfa-club-040
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 上海申鑫足球俱乐部
@@ -680,7 +680,7 @@
 - data: sourceInfo
   sourceID: cfa-club-041
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 四川隆发足球俱乐部
@@ -695,7 +695,7 @@
 - data: sourceInfo
   sourceID: cfa-club-042
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 延边富德足球俱乐部
@@ -710,7 +710,7 @@
 - data: sourceInfo
   sourceID: cfa-club-043
   isDisband: true
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 天津天海足球俱乐部

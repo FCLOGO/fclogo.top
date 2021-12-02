@@ -126,7 +126,7 @@ const DetailSidebar = props => {
       </div>
       <div className={detailInfo}>
         <h6 className={infoTitle}>
-          {props.type}
+          {intl.formatMessage({ id: props.type })}
           {intl.formatMessage({ id: 'sidebar.infoTitle' })}
         </h6>
         <InfoTable info={props.tableInfo} />

@@ -39,8 +39,6 @@
   "about.clubs": "俱乐部",
   "about.comps": "赛事",
   "about.cy": "国家 / 地区",
-  "about.clubKey": "俱乐部",
-  "about.compKey": "赛事",
   "about.moreStatistics": "查看完整统计信息",
   "about.contactTittle": "随时与我们联系",
   "about.contactButton": "聊一下吧",
@@ -127,5 +125,9 @@
   "ground": "主场",
   "city": "城市",
   "league": "联赛",
-  "duration": "生存期间"
+  "duration": "生存期间",
+  "club": "俱乐部",
+  "comp": "赛事",
+  "assn": "协会",
+  "conf": "联盟"
 }

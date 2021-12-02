@@ -68,20 +68,12 @@ const AboutPage = ({ data, pageContext }) => {
               </div>
               <div className={statistics}>
                 <ClubIcon />
-                <span className={number}>
-                  {countTypes[intl.formatMessage({ id: 'about.clubKey' })]
-                    ? countTypes[intl.formatMessage({ id: 'about.clubKey' })]
-                    : 0}
-                </span>
+                <span className={number}>{countTypes.club ? countTypes.club : 0}</span>
                 <span className={numTitle}>{intl.formatMessage({ id: 'about.clubs' })}</span>
               </div>
               <div className={statistics}>
                 <CompIcon />
-                <span className={number}>
-                  {countTypes[intl.formatMessage({ id: 'about.compKey' })]
-                    ? countTypes[intl.formatMessage({ id: 'about.compKey' })]
-                    : 0}
-                </span>
+                <span className={number}>{countTypes.comp ? countTypes.comp : 0}</span>
                 <span className={numTitle}>{intl.formatMessage({ id: 'about.comps' })}</span>
               </div>
               <div className={statistics}>

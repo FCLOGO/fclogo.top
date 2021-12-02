@@ -1,7 +1,7 @@
 # Clubs
 - data: sourceInfo
   sourceID: cfa-club-001
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Shandong Taishan Football Club
@@ -18,7 +18,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-002
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Beijing Guoan Football Club
@@ -35,7 +35,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-003
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Shanghai Shenhua Football Club
@@ -52,7 +52,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-004
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Guangzhou Football Club
@@ -69,7 +69,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-005
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Shenzhen Football Club
@@ -86,7 +86,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-006
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Shanghai Port Football Club
@@ -103,7 +103,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-007
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Dalian Professional Football Club
@@ -120,7 +120,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-008
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Guangzhou City Football Club
@@ -137,7 +137,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-009
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Chongqing Liangjiang Athletic Football Club
@@ -155,7 +155,7 @@
 - data: sourceInfo
   sourceID: cfa-club-010
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Jiangsu Football Club
@@ -170,7 +170,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-011
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Changchun Yatai Football Club
@@ -186,7 +186,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-012
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Henan Songshan Longmen Football Club
@@ -202,7 +202,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-013
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Tianjin Jinmen Tiger Football Club
@@ -217,7 +217,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-014
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Wuhan Football Club
@@ -232,7 +232,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-015
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Qingdao Football Club
@@ -247,7 +247,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-016
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Cangzhou Mighty Lions Football Club
@@ -263,7 +263,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-017
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Hebei Football Club
@@ -280,7 +280,7 @@
 - data: sourceInfo
   sourceID: cfa-club-018
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Zhejiang Professional Football Club
@@ -298,7 +298,7 @@
 - data: sourceInfo
   sourceID: cfa-club-019
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Wuhan Three Towns Football Club
@@ -316,7 +316,7 @@
 - data: sourceInfo
   sourceID: cfa-club-020
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Kunshan Football Club
@@ -334,7 +334,7 @@
 - data: sourceInfo
   sourceID: cfa-club-021
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Shaanxi Chang'an Athletic Football Club
@@ -352,7 +352,7 @@
 - data: sourceInfo
   sourceID: cfa-club-022
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Nantong Zhiyun Football Club
@@ -370,7 +370,7 @@
 - data: sourceInfo
   sourceID: cfa-club-023
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Sichuan Jiuniu Football Club
@@ -388,7 +388,7 @@
 - data: sourceInfo
   sourceID: cfa-club-024
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Guizhou Football Club
@@ -406,7 +406,7 @@
 - data: sourceInfo
   sourceID: cfa-club-025
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Suzhou Dongwu Football Club
@@ -424,7 +424,7 @@
 - data: sourceInfo
   sourceID: cfa-club-026
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Zibo Cuju Football Club
@@ -442,7 +442,7 @@
 - data: sourceInfo
   sourceID: cfa-club-027
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Beijing Sport University Football Club
@@ -460,7 +460,7 @@
 - data: sourceInfo
   sourceID: cfa-club-028
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Jiangxi Beidamen Football Club
@@ -478,7 +478,7 @@
 - data: sourceInfo
   sourceID: cfa-club-029
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Beijing Institute of Technology Football Club
@@ -496,7 +496,7 @@
 - data: sourceInfo
   sourceID: cfa-club-030
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Meizhou Hakka Football Club
@@ -514,7 +514,7 @@
 - data: sourceInfo
   sourceID: cfa-club-031
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Chengdu Rongcheng Football Club
@@ -532,7 +532,7 @@
 - data: sourceInfo
   sourceID: cfa-club-032
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Heilongjiang Ice City Football Club
@@ -550,7 +550,7 @@
 - data: sourceInfo
   sourceID: cfa-club-033
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Nanjing City Football Club
@@ -568,7 +568,7 @@
 - data: sourceInfo
   sourceID: cfa-club-034
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Liaoning Shenyang Urban Football Club
@@ -586,7 +586,7 @@
 - data: sourceInfo
   sourceID: cfa-club-035
   isDisband: false
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Xinjiang Tianshan Leopard Football Club
@@ -604,7 +604,7 @@
 - data: sourceInfo
   sourceID: cfa-club-036
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Beijing Chengfeng Football Club
@@ -619,7 +619,7 @@
 - data: sourceInfo
   sourceID: cfa-club-037
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Guangdong South China Tiger Football Club
@@ -634,7 +634,7 @@
 - data: sourceInfo
   sourceID: cfa-club-038
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Inner Mongolia Zhongyou Football Club
@@ -649,7 +649,7 @@
 - data: sourceInfo
   sourceID: cfa-club-039
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Liaoning Football Club
@@ -664,7 +664,7 @@
 - data: sourceInfo
   sourceID: cfa-club-040
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Shanghai Shenxin Football Club
@@ -679,7 +679,7 @@
 - data: sourceInfo
   sourceID: cfa-club-041
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Sichuan Longfor Football Club
@@ -694,7 +694,7 @@
 - data: sourceInfo
   sourceID: cfa-club-042
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Yanbian Funde Football Club
@@ -709,7 +709,7 @@
 - data: sourceInfo
   sourceID: cfa-club-043
   isDisband: true
-  type: Club
+  type: club
   nation: China
   info:
     - fullName: Tianjin Tianhai Footbal Club

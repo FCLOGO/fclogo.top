@@ -39,8 +39,6 @@
   "about.clubs": "Clubs",
   "about.comps": "Competitions",
   "about.cy": "Countries / Regions",
-  "about.clubKey": "Club",
-  "about.compKey": "Competition",
   "about.moreStatistics": "View Full Statistics",
   "about.contactTittle": "Feel free reaching out to us",
   "about.contactButton": "Let's Chat!",
@@ -127,5 +125,9 @@
   "ground": "Ground",
   "city": "City",
   "league": "League",
-  "duration": "Duration"
+  "duration": "Duration",
+  "club": "Club",
+  "comp": "Competition",
+  "assn": "Association",
+  "conf": "Confederation"
 }

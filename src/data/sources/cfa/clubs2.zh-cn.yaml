@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-044
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 湖北青年星足球俱乐部
@@ -17,7 +17,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-045
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 绍兴柯桥越甲足球俱乐部
@@ -34,7 +34,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-046
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 西安骏狼足球俱乐部
@@ -51,7 +51,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-047
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 广西平果哈嘹足球俱乐部
@@ -68,7 +68,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-048
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 内蒙古草上飞足球俱乐部
@@ -85,7 +85,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-049
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 山西龙晋足球俱乐部
@@ -102,7 +102,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-050
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 河北功夫足球俱乐部
@@ -119,7 +119,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-051
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 丹东腾跃足球俱乐部
@@ -136,7 +136,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-052
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 青岛海牛足球俱乐部
@@ -153,7 +153,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-053
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 昆明郑和船工足球俱乐部
@@ -170,7 +170,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-054
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 陕西俑士超越足球俱乐部
@@ -187,7 +187,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-055
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 河北卓奥足球俱乐部
@@ -204,7 +204,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-056
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 东莞莞联足球俱乐部
@@ -221,7 +221,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-057
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 无锡吴钩足球俱乐部
@@ -238,7 +238,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-058
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 上海嘉定汇龙足球俱乐部
@@ -255,7 +255,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-059
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 湖南湘涛足球俱乐部
@@ -272,7 +272,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-060
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 青岛红狮足球俱乐部
@@ -289,7 +289,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-061
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 青岛青春岛足球俱乐部
@@ -306,7 +306,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-062
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 厦门鹭岛足球俱乐部
@@ -323,7 +323,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-063
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 四川民足足球俱乐部
@@ -340,7 +340,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-064
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 泉州亚新足球俱乐部
@@ -357,7 +357,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-065
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 延边龙鼎足球俱乐部
@@ -374,7 +374,7 @@
 
 - data: sourceInfo
   sourceID: cfa-club-066
-  type: 俱乐部
+  type: club
   nation: China
   info:
     - fullName: 宜春威虎足球俱乐部

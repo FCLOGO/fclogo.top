@@ -1,7 +1,7 @@
 # Associations
 - data: sourceInfo
   sourceID: cfa-assn-001
-  type: Association
+  type: assn
   nation: China
   info:
     - fullName: Chinese Football Association
@@ -18,7 +18,7 @@
 # Competitions
 - data: sourceInfo
   sourceID: cfa-comp-001
-  type: Competition
+  type: comp
   nation: China
   info:
     - fullName: Chinese Football Association Super League
@@ -35,7 +35,7 @@
 
 - data: sourceInfo
   sourceID: cfa-comp-002
-  type: Competition
+  type: comp
   nation: China
   info:
     - fullName: Chinese Football Association China League
@@ -54,7 +54,7 @@
 
 - data: sourceInfo
   sourceID: cfa-comp-003
-  type: Competition
+  type: comp
   nation: China
   info:
     - fullName: Chinese Football Association Division Two League
