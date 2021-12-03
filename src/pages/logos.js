@@ -121,7 +121,7 @@ const AllLogo = ({ data, pageContext }) => {
                       />
                       <footer className={cardFooter}>
                         <h3 className={logoName}>{logo.detailInfo[0].info[0].shortName}</h3>
-                        <span className={styleBadge}>{logo.style}</span>
+                        <span className={styleBadge}>{intl.formatMessage({ id: logo.style })}</span>
                       </footer>
                     </ModalLink>
                   </article>

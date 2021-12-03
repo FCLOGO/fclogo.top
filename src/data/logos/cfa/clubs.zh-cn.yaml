@@ -1109,11 +1109,11 @@
   isDoubtful: false
   isOutdated: false
   verName: ['成都兴城', '成都蓉城']
-  slug: /cfa-chengdu-rongcheng-v2018-graphic-mono
-  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graphic-mono.png'
-  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graphic-mono.svg'
+  slug: /cfa-chengdu-rongcheng-v2018-graph-mono
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graph-mono.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graph-mono.svg'
   sourceID: cfa-club-031
-  style: graphic
+  style: graph
 
 - data: logo
   uniqueID: 20211101-006
@@ -1121,11 +1121,11 @@
   isDoubtful: false
   isOutdated: false
   verName: ['成都兴城', '成都蓉城']
-  slug: /cfa-chengdu-rongcheng-v2018-graphic
-  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graphic.png'
-  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graphic.svg'
+  slug: /cfa-chengdu-rongcheng-v2018-graph
+  pngPath: 'clubs/cfa-chengdu-rongcheng-v2018-graph.png'
+  svgPath: 'clubs/svg/cfa-chengdu-rongcheng-v2018-graph.svg'
   sourceID: cfa-club-031
-  style: graphic
+  style: graph
 
 - data: logo
   uniqueID: 20211101-007

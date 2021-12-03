@@ -129,5 +129,9 @@
   "club": "Club",
   "comp": "Competition",
   "assn": "Association",
-  "conf": "Confederation"
+  "conf": "Confederation",
+  "color": "COLOR",
+  "mono": "MONO",
+  "graph": "GRAPH",
+  "text": "TEXT"
 }
