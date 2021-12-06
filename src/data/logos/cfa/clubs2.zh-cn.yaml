@@ -1077,3 +1077,27 @@
   svgPath: 'clubs/svg/cfa-yichun-weihu-v2021.svg'
   sourceID: cfa-club-066
   style: color
+
+- data: logo
+  uniqueID: 20211206-001
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['重庆两江竞技']
+  slug: /cfa-chongqing-liangjiang-athletic-v2022-mono
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2022-mono.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2022-mono.svg'
+  sourceID: cfa-club-009
+  style: mono
+
+- data: logo
+  uniqueID: 20211206-002
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['重庆两江竞技']
+  slug: /cfa-chongqing-liangjiang-athletic-v2022
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2022.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2022.svg'
+  sourceID: cfa-club-009
+  style: color
