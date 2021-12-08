@@ -514,3 +514,92 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Beiguo_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-074
+  type: club
+  nation: China
+  info:
+    - fullName: Hangzhou Wuyue Qiantang Football Club
+      shortName: Hangzhou Wuyue Qiantang
+      localName: 杭州吴越钱唐足球俱乐部
+      founded: 2017
+      city: Hangzhou, China
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/3581025714'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hangzhou_Wuyue_Qiantang_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-075
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Fujian Ningde Funing Football Club
+      shortName: Fujian Ningde Funing
+      localName: 福建宁德福宁足球俱乐部
+      city: Ningde, China
+      founded: 2005
+      duration: 2005 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Fujian_Ningde_Funing_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-076
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Lhasa Urban Construction Investment Football Club
+      shortName: Lhasa UCI
+      localName: 拉萨城投足球俱乐部
+      city: Lhasa, China
+      founded: 2017
+      duration: 2017 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Lhasa_Urban_Construction_Investment_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-077
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Shenzhen Pengcheng Football Club
+      shortName: Shenzhen Pengcheng
+      localName: 深圳鹏城足球俱乐部
+      city: Shenzhen, China
+      founded: 2016
+      duration: 2016 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shenzhen_Pengcheng_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-078
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Nanjing Shaye Football Club
+      shortName: Nanjing Shaye
+      localName: 南京沙叶足球俱乐部
+      city: Nanjing, China
+      founded: 2014
+      duration: 2014 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Nanjing_Shaye_F.C.'

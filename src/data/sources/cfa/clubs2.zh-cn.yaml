@@ -514,3 +514,92 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://zh.wikipedia.org/wiki/延边北国足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-074
+  type: club
+  nation: China
+  info:
+    - fullName: 杭州吴越钱唐足球俱乐部
+      shortName: 杭州吴越钱唐
+      localName: 杭州吴越钱唐足球俱乐部
+      founded: 2017
+      city: 杭州，中国
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/3581025714'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/杭州吴越钱唐足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-075
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 福建宁德福宁足球俱乐部
+      shortName: 福建宁德福宁
+      localName: 福建宁德福宁足球俱乐部
+      city: 宁德，中国
+      founded: 2005
+      duration: 2005 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/福建天信足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-076
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 拉萨城投足球俱乐部
+      shortName: 拉萨城投
+      localName: 拉萨城投足球俱乐部
+      city: 拉萨，中国
+      founded: 2017
+      duration: 2017 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/拉萨城投足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-077
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 深圳鹏城足球俱乐部
+      shortName: 深圳鹏城
+      localName: 深圳鹏城足球俱乐部
+      city: 深圳，中国
+      founded: 2016
+      duration: 2016 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/深圳鹏城足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-078
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 南京沙叶足球俱乐部
+      shortName: 南京沙叶
+      localName: 南京沙叶足球俱乐部
+      city: 南京，中国
+      founded: 2014
+      duration: 2014 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/南京沙叶足球俱乐部'

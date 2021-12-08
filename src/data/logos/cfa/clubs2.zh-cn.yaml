@@ -1269,3 +1269,159 @@
   svgPath: 'clubs/svg/cfa-yanbian-beiguo-v2019.svg'
   sourceID: cfa-club-073
   style: color
+
+- data: logo
+  uniqueID: 20211208-150311
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['湖南湘涛']
+  slug: /cfa-hunan-billows-v2011-stereo
+  pngPath: 'clubs/cfa-hunan-billows-v2011-stereo.png'
+  svgPath: 'clubs/svg/cfa-hunan-billows-v2011-stereo.svg'
+  sourceID: cfa-club-059
+  style: stereo
+
+- data: logo
+  uniqueID: 20211208-154145
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['杭州吴越钱唐']
+  slug: /cfa-hangzhou-wuyue-qiantang-v2017-mono
+  pngPath: 'clubs/cfa-hangzhou-wuyue-qiantang-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-hangzhou-wuyue-qiantang-v2017-mono.svg'
+  sourceID: cfa-club-074
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-154244
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['杭州吴越钱唐']
+  slug: /cfa-hangzhou-wuyue-qiantang-v2017
+  pngPath: 'clubs/cfa-hangzhou-wuyue-qiantang-v2017.png'
+  svgPath: 'clubs/svg/cfa-hangzhou-wuyue-qiantang-v2017.svg'
+  sourceID: cfa-club-074
+  style: color
+
+- data: logo
+  uniqueID: 20211208-154604
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['福建天信', '福建宁德福宁']
+  slug: /cfa-fujian-ningde-funing-v2017-graph
+  pngPath: 'clubs/cfa-fujian-ningde-funing-v2017-graph.png'
+  svgPath: 'clubs/svg/cfa-fujian-ningde-funing-v2017-graph.svg'
+  sourceID: cfa-club-075
+  style: graph
+
+- data: logo
+  uniqueID: 20211208-155105
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['拉萨城投']
+  slug: /cfa-lhasa-uci-v2017-mono
+  pngPath: 'clubs/cfa-lhasa-uci-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-lhasa-uci-v2017-mono.svg'
+  sourceID: cfa-club-076
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-155134
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['拉萨城投']
+  slug: /cfa-lhasa-uci-v2017
+  pngPath: 'clubs/cfa-lhasa-uci-v2017.png'
+  svgPath: 'clubs/svg/cfa-lhasa-uci-v2017.svg'
+  sourceID: cfa-club-076
+  style: color
+
+- data: logo
+  uniqueID: 20211208-155545
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['深圳鹏程']
+  slug: /cfa-shenzhen-pengcheng-v2016-mono
+  pngPath: 'clubs/cfa-shenzhen-pengcheng-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-shenzhen-pengcheng-v2016-mono.svg'
+  sourceID: cfa-club-077
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-155617
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['深圳鹏程']
+  slug: /cfa-shenzhen-pengcheng-v2016
+  pngPath: 'clubs/cfa-shenzhen-pengcheng-v2016.png'
+  svgPath: 'clubs/svg/cfa-shenzhen-pengcheng-v2016.svg'
+  sourceID: cfa-club-077
+  style: color
+
+- data: logo
+  uniqueID: 20211208-155822
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['南京沙叶']
+  slug: /cfa-nanjing-shaye-v2017-mono-2
+  pngPath: 'clubs/cfa-nanjing-shaye-v2017-mono-2.png'
+  svgPath: 'clubs/svg/cfa-nanjing-shaye-v2017-mono-2.svg'
+  sourceID: cfa-club-078
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-160004
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['南京沙叶']
+  slug: /cfa-nanjing-shaye-v2017-mono
+  pngPath: 'clubs/cfa-nanjing-shaye-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-nanjing-shaye-v2017-mono.svg'
+  sourceID: cfa-club-078
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-160022
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['南京沙叶']
+  slug: /cfa-nanjing-shaye-v2017
+  pngPath: 'clubs/cfa-nanjing-shaye-v2017.png'
+  svgPath: 'clubs/svg/cfa-nanjing-shaye-v2017.svg'
+  sourceID: cfa-club-078
+  style: color
+
+- data: logo
+  uniqueID: 20211208-175524
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['福建天信', '福建宁德福宁']
+  slug: /cfa-fujian-ningde-funing-v2017-mono
+  pngPath: 'clubs/cfa-fujian-ningde-funing-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-fujian-ningde-funing-v2017-mono.svg'
+  sourceID: cfa-club-075
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-175557
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['福建天信', '福建宁德福宁']
+  slug: /cfa-fujian-ningde-funing-v2017
+  pngPath: 'clubs/cfa-fujian-ningde-funing-v2017.png'
+  svgPath: 'clubs/svg/cfa-fujian-ningde-funing-v2017.svg'
+  sourceID: cfa-club-075
+  style: color

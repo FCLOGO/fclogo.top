@@ -145,11 +145,11 @@
   isDoubtful: false
   isOutdated: false
   verName: ['中国足协杯']
-  slug: /cfa-cup-v2012
-  pngPath: 'comps/cfa-cup-v2012.png'
-  svgPath: 'comps/svg/cfa-cup-v2012.svg'
+  slug: /cfa-cup-v2012-stereo
+  pngPath: 'comps/cfa-cup-v2012-stereo.png'
+  svgPath: 'comps/svg/cfa-cup-v2012-stereo.svg'
   sourceID: cfa-comp-004
-  style: color
+  style: stereo
 
 - data: logo
   uniqueID: 20211207-007
@@ -157,11 +157,11 @@
   isDoubtful: false
   isOutdated: false
   verName: ['中国足协杯']
-  slug: /cfa-cup-v2012-3d
-  pngPath: 'comps/cfa-cup-v2012-3d.png'
-  svgPath: 'comps/svg/cfa-cup-v2012-3d.svg'
+  slug: /cfa-cup-v2012
+  pngPath: 'comps/cfa-cup-v2012.png'
+  svgPath: 'comps/svg/cfa-cup-v2012.svg'
   sourceID: cfa-comp-004
-  style: 3d
+  style: color
 
 - data: logo
   uniqueID: 20211207-008
