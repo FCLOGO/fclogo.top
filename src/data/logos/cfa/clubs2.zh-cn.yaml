@@ -1101,3 +1101,171 @@
   svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2022.svg'
   sourceID: cfa-club-009
   style: color
+
+- data: logo
+  uniqueID: 20211208-001
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['保定容大', '保定英利易通']
+  slug: /cfa-baoding-yingli-ets-v2017-mono
+  pngPath: 'clubs/cfa-baoding-yingli-ets-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-baoding-yingli-ets-v2017-mono.svg'
+  sourceID: cfa-club-067
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-002
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['保定容大', '保定英利易通']
+  slug: /cfa-baoding-yingli-ets-v2017
+  pngPath: 'clubs/cfa-baoding-yingli-ets-v2017.png'
+  svgPath: 'clubs/svg/cfa-baoding-yingli-ets-v2017.svg'
+  sourceID: cfa-club-067
+  style: color
+
+- data: logo
+  uniqueID: 20211208-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连千兆']
+  slug: /cfa-dalian-chanjoy-v2018-mono
+  pngPath: 'clubs/cfa-dalian-chanjoy-v2018-mono.png'
+  svgPath: 'clubs/svg/cfa-dalian-chanjoy-v2018-mono.svg'
+  sourceID: cfa-club-068
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连千兆']
+  slug: /cfa-dalian-chanjoy-v2018
+  pngPath: 'clubs/cfa-dalian-chanjoy-v2018.png'
+  svgPath: 'clubs/svg/cfa-dalian-chanjoy-v2018.svg'
+  sourceID: cfa-club-068
+  style: color
+
+- data: logo
+  uniqueID: 20211208-005
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连超越']
+  slug: /cfa-dalian-transcendence-v2015-mono
+  pngPath: 'clubs/cfa-dalian-transcendence-v2015-mono.png'
+  svgPath: 'clubs/svg/cfa-dalian-transcendence-v2015-mono.svg'
+  sourceID: cfa-club-069
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-006
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连超越']
+  slug: /cfa-dalian-transcendence-v2015
+  pngPath: 'clubs/cfa-dalian-transcendence-v2015.png'
+  svgPath: 'clubs/svg/cfa-dalian-transcendence-v2015.svg'
+  sourceID: cfa-club-069
+  style: color
+
+- data: logo
+  uniqueID: 20211208-007
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏盐城鼎立', '盐城鹿之瀛']
+  slug: /cfa-yancheng-luzhiying-v2016-mono
+  pngPath: 'clubs/cfa-yancheng-luzhiying-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-yancheng-luzhiying-v2016-mono.svg'
+  sourceID: cfa-club-070
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-008
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏盐城鼎立', '盐城鹿之瀛']
+  slug: /cfa-yancheng-luzhiying-v2016
+  pngPath: 'clubs/cfa-yancheng-luzhiying-v2016.png'
+  svgPath: 'clubs/svg/cfa-yancheng-luzhiying-v2016.svg'
+  sourceID: cfa-club-070
+  style: color
+
+- data: logo
+  uniqueID: 20211208-009
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['吉林百嘉']
+  slug: /cfa-jilin-baijia-v2015-mono
+  pngPath: 'clubs/cfa-jilin-baijia-v2015-mono.png'
+  svgPath: 'clubs/svg/cfa-jilin-baijia-v2015-mono.svg'
+  sourceID: cfa-club-071
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-010
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['吉林百嘉']
+  slug: /cfa-jilin-baijia-v2015
+  pngPath: 'clubs/cfa-jilin-baijia-v2015.png'
+  svgPath: 'clubs/svg/cfa-jilin-baijia-v2015.svg'
+  sourceID: cfa-club-071
+  style: color
+
+- data: logo
+  uniqueID: 20211208-011
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['泰州远大']
+  slug: /cfa-taizhou-yuanda-v2019-mono
+  pngPath: 'clubs/cfa-taizhou-yuanda-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-taizhou-yuanda-v2019-mono.svg'
+  sourceID: cfa-club-072
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-012
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['泰州远大']
+  slug: /cfa-taizhou-yuanda-v2019
+  pngPath: 'clubs/cfa-taizhou-yuanda-v2019.png'
+  svgPath: 'clubs/svg/cfa-taizhou-yuanda-v2019.svg'
+  sourceID: cfa-club-072
+  style: color
+
+- data: logo
+  uniqueID: 20211208-013
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['延边北国']
+  slug: /cfa-yanbian-beiguo-v2019-mono
+  pngPath: 'clubs/cfa-yanbian-beiguo-v2019-mono.png'
+  svgPath: 'clubs/svg/cfa-yanbian-beiguo-v2019-mono.svg'
+  sourceID: cfa-club-073
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-014
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['延边北国']
+  slug: /cfa-yanbian-beiguo-v2019
+  pngPath: 'clubs/cfa-yanbian-beiguo-v2019.png'
+  svgPath: 'clubs/svg/cfa-yanbian-beiguo-v2019.svg'
+  sourceID: cfa-club-073
+  style: color

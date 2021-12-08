@@ -216,12 +216,15 @@ export const query = graphql`
           ground
           league
           headquarter
+          assn
+          conf
           affiliations
           confederation
           teams
           level
           promotion
           relegation
+          code
         }
         websiteURL
         weiboURL

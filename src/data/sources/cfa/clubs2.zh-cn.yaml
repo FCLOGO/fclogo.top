@@ -388,3 +388,129 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://baike.baidu.com/item/宜春威虎足球俱乐部/'
+
+- data: sourceInfo
+  sourceID: cfa-club-067
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 保定英利易通足球俱乐部
+      shortName: 保定英利易通
+      localName: 保定英利易通足球俱乐部
+      city: 保定，中国
+      founded: 2015
+      duration: 2015 - 2020
+      ground: 河北大学体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/保定容大足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-068
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 大连千兆足球俱乐部
+      shortName: 大连千兆
+      localName: 大连千兆足球俱乐部
+      city: 大连，中国
+      founded: 2004
+      duration: 2004 - 2020
+      ground: 金州体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连千兆足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-069
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 大连超越足球俱乐部
+      shortName: 大连超越
+      localName: 大连超越足球俱乐部
+      city: 大连，中国
+      founded: 2013
+      duration: 2013 - 2019
+      ground: 金州体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连超越足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-070
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 盐城鹿之瀛足球俱乐部
+      shortName: 盐城鹿之瀛
+      localName: 盐城鹿之瀛足球俱乐部
+      city: 盐城，中国
+      founded: 2013
+      duration: 2013 - 2021
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/盐城鹿之瀛足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-071
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 吉林百嘉足球俱乐部
+      shortName: 吉林百嘉
+      localName: 吉林百嘉足球俱乐部
+      city: 长春，中国
+      founded: 2011
+      duration: 2011 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/吉林百嘉足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-072
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 泰州远大足球俱乐部
+      shortName: 泰州远大
+      localName: 泰州远大足球俱乐部
+      city: 泰州，中国
+      founded: 2017
+      duration: 2017 - 2021
+      ground: 泰州体育中心
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/泰州远大足球俱乐部'
+
+- data: sourceInfo
+  sourceID: cfa-club-073
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: 延边北国足球俱乐部
+      shortName: 延边北国
+      localName: 延边北国足球俱乐部
+      city: 珲春，中国
+      founded: 2016
+      duration: 2016 - 2020
+      ground: 珲春人民体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/延边北国足球俱乐部'

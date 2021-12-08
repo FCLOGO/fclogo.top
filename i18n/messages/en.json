@@ -133,5 +133,8 @@
   "color": "COLOR",
   "mono": "MONO",
   "graph": "GRAPH",
-  "text": "TEXT"
+  "text": "TEXT",
+  "team": "Team",
+  "code": "FIFA Code",
+  "flat": "FLAT"
 }

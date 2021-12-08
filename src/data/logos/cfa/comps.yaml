@@ -83,3 +83,118 @@
   svgPath: 'comps/svg/cfa-china-league-2-v2004.svg'
   sourceID: cfa-comp-003
   style: color
+
+- data: logo
+  uniqueID: 20211207-001
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  slug: /cfa-china-national-football-team-v2012-mono
+  pngPath: 'team/cfa-china-national-football-team-v2012-mono.png'
+  svgPath: 'team/svg/cfa-china-national-football-team-v2012-mono.svg'
+  sourceID: cfa-team-001
+  style: mono
+
+- data: logo
+  uniqueID: 20211207-002
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  slug: /cfa-china-national-football-team-v2012
+  pngPath: 'team/cfa-china-national-football-team-v2012.png'
+  svgPath: 'team/svg/cfa-china-national-football-team-v2012.svg'
+  sourceID: cfa-team-001
+  style: color
+
+- data: logo
+  uniqueID: 20211207-003
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  slug: /cfa-china-national-football-team-v2014-mono
+  pngPath: 'team/cfa-china-national-football-team-v2014-mono.png'
+  svgPath: 'team/svg/cfa-china-national-football-team-v2014-mono.svg'
+  sourceID: cfa-team-001
+  style: mono
+
+- data: logo
+  uniqueID: 20211207-004
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  slug: /cfa-china-national-football-team-v2014-flat
+  pngPath: 'team/cfa-china-national-football-team-v2014-flat.png'
+  svgPath: 'team/svg/cfa-china-national-football-team-v2014-flat.svg'
+  sourceID: cfa-team-001
+  style: flat
+
+- data: logo
+  uniqueID: 20211207-005
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  slug: /cfa-china-national-football-team-v2014
+  pngPath: 'team/cfa-china-national-football-team-v2014.png'
+  svgPath: 'team/svg/cfa-china-national-football-team-v2014.svg'
+  sourceID: cfa-team-001
+  style: color
+
+- data: logo
+  uniqueID: 20211207-006
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CFA CUP']
+  slug: /cfa-cup-v2012
+  pngPath: 'comps/cfa-cup-v2012.png'
+  svgPath: 'comps/svg/cfa-cup-v2012.svg'
+  sourceID: cfa-comp-004
+  style: color
+
+- data: logo
+  uniqueID: 20211207-007
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CFA CUP']
+  slug: /cfa-cup-v2012-3d
+  pngPath: 'comps/cfa-cup-v2012-3d.png'
+  svgPath: 'comps/svg/cfa-cup-v2012-3d.svg'
+  sourceID: cfa-comp-004
+  style: 3d
+
+- data: logo
+  uniqueID: 20211207-008
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CFA Super Cup']
+  slug: /cfa-super-cup-v2017
+  pngPath: 'comps/cfa-super-cup-v2017.png'
+  svgPath: 'comps/svg/cfa-super-cup-v2017.svg'
+  sourceID: cfa-comp-005
+  style: color
+
+- data: logo
+  uniqueID: 20211207-009
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CMCL']
+  slug: /cfa-member-association-champiaons-league-v2018-mono
+  pngPath: 'comps/cfa-member-association-champiaons-league-v2018-mono.png'
+  svgPath: 'comps/svg/cfa-member-association-champiaons-league-v2018-mono.svg'
+  sourceID: cfa-comp-006
+  style: mono
+
+- data: logo
+  uniqueID: 20211207-010
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CMCL']
+  slug: /cfa-member-association-champiaons-league-v2018
+  pngPath: 'comps/cfa-member-association-champiaons-league-v2018.png'
+  svgPath: 'comps/svg/cfa-member-association-champiaons-league-v2018.svg'
+  sourceID: cfa-comp-006
+  style: color

@@ -388,3 +388,129 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: ''
+
+- data: sourceInfo
+  sourceID: cfa-club-067
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Baoding Yingli ETS Football Club
+      shortName: Baoding Yingli ETS
+      localName: 保定英利易通足球俱乐部
+      city: Baoding, China
+      founded: 2015
+      duration: 2015 - 2020
+      ground: Hebei University Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Baoding_Yingli_ETS_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-068
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Dalian Chanjoy Football Club
+      shortName: Dalian Chanjoy
+      localName: 大连千兆足球俱乐部
+      city: Dalian, China
+      founded: 2004
+      duration: 2004 - 2020
+      ground: Jinzhou Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Dalian_Chanjoy_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-069
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Dalian Transcendence Football Club
+      shortName: Dalian Transcendence
+      localName: 大连超越足球俱乐部
+      city: Dalian, China
+      founded: 2013
+      duration: 2013 - 2019
+      ground: Jinzhou Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Dalian_Transcendence_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-070
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Yancheng Luzhiying Football Club
+      shortName: Yancheng Luzhiying
+      localName: 盐城鹿之瀛足球俱乐部
+      city: Yancheng, China
+      founded: 2013
+      duration: 2013 - 2021
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangsu_Yancheng_Dingli_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-071
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Jilin Baijia Football Club
+      shortName: Jilin Baijia
+      localName: 吉林百嘉足球俱乐部
+      city: Changchun, China
+      founded: 2011
+      duration: 2011 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Jilin_Baijia_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-072
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Taizhou Yuanda Football Club
+      shortName: Taizhou Yuanda
+      localName: 泰州远大足球俱乐部
+      city: Taizhou, China
+      founded: 2017
+      duration: 2017 - 2021
+      ground: Taixing Sports Center
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Taizhou_Yuanda_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-073
+  isDisband: true
+  type: club
+  nation: China
+  info:
+    - fullName: Yanbian Beiguo Football Club
+      shortName: Yanbian Beiguo
+      localName: 延边北国足球俱乐部
+      city: Huichun, China
+      founded: 2016
+      duration: 2016 - 2020
+      ground: Hunchun People's Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Beiguo_F.C.'

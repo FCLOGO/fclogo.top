@@ -133,5 +133,8 @@
   "color": "彩色",
   "mono": "单色",
   "graph": "图形",
-  "text": "字形"
+  "text": "字形",
+  "team": "队伍",
+  "code": "FIFA 代码",
+  "flat": "平面"
 }

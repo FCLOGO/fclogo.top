@@ -58,7 +58,7 @@
   nation: China
   info:
     - fullName: Chinese Football Association Division Two League
-      shortName: China League Two
+      shortName: China League 2
       localName: 中国足球协会乙级联赛
       founded: 2004
       confederation: AFC
@@ -70,3 +70,77 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/China_League_Two'
+
+- data: sourceInfo
+  sourceID: cfa-comp-004
+  type: comp
+  nation: China
+  info:
+    - fullName: China Football Association Cup
+      shortName: CFA CUP
+      localName: 中国足球协会杯
+      founded: 1956
+      confederation: AFC
+      teams: 64
+      level:
+      promotion:
+      relegation:
+  weiboURL: 'https://weibo.com/u/2111789007'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/zxb/index.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_FA_Cup'
+
+- data: sourceInfo
+  sourceID: cfa-comp-005
+  type: comp
+  nation: China
+  info:
+    - fullName: China Football Association Super Cup
+      shortName: CFA Super Cup
+      localName: 中国足球协会超级杯
+      founded: 1995
+      confederation:
+      teams: 2
+      level:
+      promotion:
+      relegation:
+  weiboURL: 'https://weibo.com/u/2631457885'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_FA_Super_Cup'
+
+- data: sourceInfo
+  sourceID: cfa-comp-006
+  type: comp
+  nation: China
+  info:
+    - fullName: Chinese Football Association Member Association Champions League
+      shortName: CMCL
+      localName: 中国足球协会会员协会冠军联赛
+      founded: 2002
+      confederation: AFC
+      teams: 56
+      level: Level 4
+      promotion: China League 2
+      relegation:
+  weiboURL: 'https://weibo.com/u/6415015229'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/yyls/index.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Football_Association_Member_Association_Champions_League'
+
+# National Team
+- data: sourceInfo
+  sourceID: cfa-team-001
+  type: team
+  nation: China
+  info:
+    - fullName: China National Football Team
+      shortName: China National Football Team
+      localName: 中国国家足球队
+      assn: CFA
+      conf: AFC
+      code: CHN
+  weiboURL: 'https://weibo.com/u/1892463935'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/nzgjd/index.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/China_national_football_team'
