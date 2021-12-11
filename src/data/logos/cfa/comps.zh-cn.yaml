@@ -198,3 +198,27 @@
   svgPath: 'comps/svg/cfa-member-association-champiaons-league-v2018.svg'
   sourceID: cfa-comp-006
   style: color
+
+- data: logo
+  uniqueID: 20211209-110355
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['中国足协']
+  slug: /chinese-football-association-v1984-mono
+  pngPath: 'assns/chinese-football-association-v1984-mono.png'
+  svgPath: 'assns/svg/chinese-football-association-v1984-mono.svg'
+  sourceID: cfa-assn-001
+  style: mono
+
+- data: logo
+  uniqueID: 20211209-110450
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['中国足协']
+  slug: /chinese-football-association-v1984
+  pngPath: 'assns/chinese-football-association-v1984.png'
+  svgPath: 'assns/svg/chinese-football-association-v1984.svg'
+  sourceID: cfa-assn-001
+  style: color
