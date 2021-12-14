@@ -1425,3 +1425,303 @@
   svgPath: 'clubs/svg/cfa-fujian-ningde-funing-v2017.svg'
   sourceID: cfa-club-075
   style: color
+
+- data: logo
+  uniqueID: 20211213-150347
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['HeBei China Fortune']
+  slug: /cfa-hebeifc-v2015-mono
+  pngPath: 'clubs/cfa-hebeifc-v2015-mono.png'
+  svgPath: 'clubs/svg/cfa-hebeifc-v2015-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-150436
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['HeBei China Fortune']
+  slug: /cfa-hebeifc-v2015
+  pngPath: 'clubs/cfa-hebeifc-v2015.png'
+  svgPath: 'clubs/svg/cfa-hebeifc-v2015.svg'
+  sourceID: cfa-club-017
+  style: color
+
+- data: logo
+  uniqueID: 20211213-160746
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu']
+  slug: /cfa-jiangsufc-v2021-mono
+  pngPath: 'clubs/cfa-jiangsufc-v2021-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2021-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-160834
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu']
+  slug: /cfa-jiangsufc-v2021
+  pngPath: 'clubs/cfa-jiangsufc-v2021.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2021.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-161759
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Suning']
+  slug: /cfa-jiangsufc-v2016-mono
+  pngPath: 'clubs/cfa-jiangsufc-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2016-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-161827
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Suning']
+  slug: /cfa-jiangsufc-v2016
+  pngPath: 'clubs/cfa-jiangsufc-v2016.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2016.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-161850
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Suning']
+  slug: /cfa-jiangsufc-v2016-acl
+  pngPath: 'clubs/cfa-jiangsufc-v2016-acl.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2016-acl.svg'
+  sourceID: cfa-club-010
+  style: acl
+
+- data: logo
+  uniqueID: 20211213-190654
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Sainty']
+  slug: /cfa-jiangsufc-v2000-mono
+  pngPath: 'clubs/cfa-jiangsufc-v2000-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2000-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-190744
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Sainty']
+  slug: /cfa-jiangsufc-v2000
+  pngPath: 'clubs/cfa-jiangsufc-v2000.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2000.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-190806
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Sainty', 'Jiangsu Guoxin-Sainty']
+  slug: /cfa-jiangsufc-v2001-mono
+  pngPath: 'clubs/cfa-jiangsufc-v2001-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2001-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-190821
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu Sainty', 'Jiangsu Guoxin-Sainty']
+  slug: /cfa-jiangsufc-v2001
+  pngPath: 'clubs/cfa-jiangsufc-v2001.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v2001.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-214241
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['ShangHai East Asia']
+  slug: /cfa-shanghai-port-v2006-mono
+  pngPath: 'clubs/cfa-shanghai-port-v2006-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghai-port-v2006-mono.svg'
+  sourceID: cfa-club-006
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-214309
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai East Asia']
+  slug: /cfa-shanghai-port-v2006
+  pngPath: 'clubs/cfa-shanghai-port-v2006.png'
+  svgPath: 'clubs/svg/cfa-shanghai-port-v2006.svg'
+  sourceID: cfa-club-006
+  style: color
+
+- data: logo
+  uniqueID: 20211214-150253
+  version: 1993
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua']
+  slug: /cfa-shanghaishenhua-v1993-mono
+  pngPath: 'clubs/cfa-shanghaishenhua-v1993-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v1993-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211214-150318
+  version: 1993
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua']
+  slug: /cfa-shanghaishenhua-v1993
+  pngPath: 'clubs/cfa-shanghaishenhua-v1993.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v1993.svg'
+  sourceID: cfa-club-003
+  style: color
+
+- data: logo
+  uniqueID: 20211214-150445
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua']
+  slug: /cfa-shanghaishenhua-v2001-mono
+  pngPath: 'clubs/cfa-shanghaishenhua-v2001-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2001-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211214-150504
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua']
+  slug: /cfa-shanghaishenhua-v2001
+  pngPath: 'clubs/cfa-shanghaishenhua-v2001.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2001.svg'
+  sourceID: cfa-club-003
+  style: color
+
+- data: logo
+  uniqueID: 20211214-150526
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua SVA SMEG']
+  slug: /cfa-shanghaishenhua-v2002-mono
+  pngPath: 'clubs/cfa-shanghaishenhua-v2002-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2002-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211214-150616
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua SVA SMEG']
+  slug: /cfa-shanghaishenhua-v2002
+  pngPath: 'clubs/cfa-shanghaishenhua-v2002.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2002.svg'
+  sourceID: cfa-club-003
+  style: color
+
+- data: logo
+  uniqueID: 20211214-150649
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua Liansheng']
+  slug: /cfa-shanghaishenhua-v2009-mono
+  pngPath: 'clubs/cfa-shanghaishenhua-v2009-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2009-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211214-150851
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua Liansheng']
+  slug: /cfa-shanghaishenhua-v2009
+  pngPath: 'clubs/cfa-shanghaishenhua-v2009.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2009.svg'
+  sourceID: cfa-club-003
+  style: color
+
+- data: logo
+  uniqueID: 20211214-150920
+  version: 2014.02
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Greenland Shenhua']
+  slug: /cfa-shanghaishenhua-v201402-mono
+  pngPath: 'clubs/cfa-shanghaishenhua-v201402-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v201402-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211214-151015
+  version: 2014.02
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Greenland Shenhua']
+  slug: /cfa-shanghaishenhua-v201402
+  pngPath: 'clubs/cfa-shanghaishenhua-v201402.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v201402.svg'
+  sourceID: cfa-club-003
+  style: color
+
+- data: logo
+  uniqueID: 20211214-152208
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua Liansheng']
+  slug: /cfa-shanghaishenhua-v2007-mono
+  pngPath: 'clubs/cfa-shanghaishenhua-v2007-mono.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2007-mono.svg'
+  sourceID: cfa-club-003
+  style: mono
+
+- data: logo
+  uniqueID: 20211214-152231
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenhua Liansheng']
+  slug: /cfa-shanghaishenhua-v2007
+  pngPath: 'clubs/cfa-shanghaishenhua-v2007.png'
+  svgPath: 'clubs/svg/cfa-shanghaishenhua-v2007.svg'
+  sourceID: cfa-club-003
+  style: color

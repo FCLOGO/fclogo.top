@@ -137,5 +137,6 @@
   "team": "Team",
   "code": "FIFA Code",
   "flat": "FLAT",
-  "stereo": "STEREO"
+  "stereo": "STEREO",
+  "acl": "ACL"
 }
