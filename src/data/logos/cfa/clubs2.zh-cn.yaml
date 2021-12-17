@@ -1725,3 +1725,51 @@
   svgPath: 'clubs/svg/cfa-shanghaishenhua-v2007.svg'
   sourceID: cfa-club-003
   style: color
+
+- data: logo
+  uniqueID: 20211215-182604
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北精英', '河北奥利精英']
+  slug: /cfa-hebei-zhuoao-v2012-mono
+  pngPath: 'clubs/cfa-hebei-zhuoao-v2012-mono.png'
+  svgPath: 'clubs/svg/cfa-hebei-zhuoao-v2012-mono.svg'
+  sourceID: cfa-club-055
+  style: mono
+
+- data: logo
+  uniqueID: 20211215-182625
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北精英', '河北奥利精英']
+  slug: /cfa-hebei-zhuoao-v2012
+  pngPath: 'clubs/cfa-hebei-zhuoao-v2012.png'
+  svgPath: 'clubs/svg/cfa-hebei-zhuoao-v2012.svg'
+  sourceID: cfa-club-055
+  style: color
+
+- data: logo
+  uniqueID: 20211215-233538
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连阿尔滨']
+  slug: /cfa-dalian-professional-v2009-mono
+  pngPath: 'clubs/cfa-dalian-professional-v2009-mono.png'
+  svgPath: 'clubs/svg/cfa-dalian-professional-v2009-mono.svg'
+  sourceID: cfa-club-007
+  style: mono
+
+- data: logo
+  uniqueID: 20211215-233701
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连阿尔滨']
+  slug: /cfa-dalian-professional-v2009
+  pngPath: 'clubs/cfa-dalian-professional-v2009.png'
+  svgPath: 'clubs/svg/cfa-dalian-professional-v2009.svg'
+  sourceID: cfa-club-007
+  style: color
