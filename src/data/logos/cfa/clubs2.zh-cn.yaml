@@ -1773,3 +1773,51 @@
   svgPath: 'clubs/svg/cfa-dalian-professional-v2009.svg'
   sourceID: cfa-club-007
   style: color
+
+- data: logo
+  uniqueID: 20211217-232344
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['青岛海牛', '青岛黄海']
+  slug: /cfa-qingdaofc-v2013-mono
+  pngPath: 'clubs/cfa-qingdaofc-v2013-mono.png'
+  svgPath: 'clubs/svg/cfa-qingdaofc-v2013-mono.svg'
+  sourceID: cfa-club-015
+  style: mono
+
+- data: logo
+  uniqueID: 20211217-232418
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['青岛海牛', '青岛黄海']
+  slug: /cfa-qingdaofc-v2013
+  pngPath: 'clubs/cfa-qingdaofc-v2013.png'
+  svgPath: 'clubs/svg/cfa-qingdaofc-v2013.svg'
+  sourceID: cfa-club-015
+  style: color
+
+- data: logo
+  uniqueID: 20211218-000728
+  version: 1982
+  isDoubtful: true
+  isOutdated: true
+  verName: ['淄博星期天']
+  slug: /cfa-zibo-cuju-v1982-mono
+  pngPath: 'clubs/cfa-zibo-cuju-v1982-mono.png'
+  svgPath: 'clubs/svg/cfa-zibo-cuju-v1982-mono.svg'
+  sourceID: cfa-club-026
+  style: mono
+
+- data: logo
+  uniqueID: 20211218-000820
+  version: 1982
+  isDoubtful: true
+  isOutdated: true
+  verName: ['淄博星期天']
+  slug: /cfa-zibo-cuju-v1982
+  pngPath: 'clubs/cfa-zibo-cuju-v1982.png'
+  svgPath: 'clubs/svg/cfa-zibo-cuju-v1982.svg'
+  sourceID: cfa-club-026
+  style: color
