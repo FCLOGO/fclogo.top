@@ -13,6 +13,7 @@
   "menu.news": "News",
   "menu.about": "关于我们",
   "menu.contact": "联系方式",
+  "menu.sources": "索引",
   "menu.terms": "使用条款",
   "menu.whatsnew": "What's new",
 
@@ -138,5 +139,13 @@
   "code": "FIFA 代码",
   "flat": "平面",
   "stereo": "立体",
-  "acl": "亚冠"
+  "acl": "亚冠",
+  "type": "类型",
+  "all": "全部",
+  "rowsPerPage": "每页行数",
+  "of": "共",
+  "filterPlaceholder": "输入名称检索",
+  "noData": "没有相关数据",
+
+  "China": "中国"
 }

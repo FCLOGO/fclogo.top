@@ -62,6 +62,7 @@ const Footer = () => {
           <ul className={menuList}>
             <ListLink to="/about">{intl.formatMessage({ id: `menu.about` })}</ListLink>
             <ListLink to="/contact">{intl.formatMessage({ id: `menu.contact` })}</ListLink>
+            <ListLink to="/sources">{intl.formatMessage({ id: `menu.sources` })}</ListLink>
             <ListLink to="/support/terms-of-use">
               {intl.formatMessage({ id: `menu.terms` })}
             </ListLink>

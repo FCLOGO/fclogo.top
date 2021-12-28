@@ -13,6 +13,7 @@
   "menu.news": "News",
   "menu.about": "About",
   "menu.contact": "Contact",
+  "menu.sources": "Source Index",
   "menu.terms": "Terms of Use",
   "menu.whatsnew": "What's new",
 
@@ -138,5 +139,13 @@
   "code": "FIFA Code",
   "flat": "FLAT",
   "stereo": "STEREO",
-  "acl": "ACL"
+  "acl": "ACL",
+  "type": "Type",
+  "all": "All",
+  "rowsPerPage": "Rows Per Page",
+  "of": "of",
+  "filterPlaceholder": "Search by name",
+  "noData": "There are no records to display",
+
+  "China": "China PR"
 }
