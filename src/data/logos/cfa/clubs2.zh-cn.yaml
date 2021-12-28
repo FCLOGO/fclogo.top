@@ -1821,3 +1821,231 @@
   svgPath: 'clubs/svg/cfa-zibo-cuju-v1982.svg'
   sourceID: cfa-club-026
   style: color
+
+- data: logo
+  uniqueID: 20211219-235031
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北绿茵']
+  slug: /cfa-wuhanfc-v2009-mono
+  pngPath: 'clubs/cfa-wuhanfc-v2009-mono.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2009-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+
+- data: logo
+  uniqueID: 20211219-235057
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北绿茵']
+  slug: /cfa-wuhanfc-v2009
+  pngPath: 'clubs/cfa-wuhanfc-v2009.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2009.svg'
+  sourceID: cfa-club-014
+  style: color
+
+- data: logo
+  uniqueID: 20211226-172147
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北武汉中博']
+  slug: /cfa-wuhanfc-v2011-mono
+  pngPath: 'clubs/cfa-wuhanfc-v2011-mono.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2011-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+
+- data: logo
+  uniqueID: 20211226-172227
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北武汉中博']
+  slug: /cfa-wuhanfc-v2011
+  pngPath: 'clubs/cfa-wuhanfc-v2011.png'
+  svgPath: 'clubs/svg/cfa-wuhanfc-v2011.svg'
+  sourceID: cfa-club-014
+  style: color
+
+- data: logo
+  uniqueID: 20211226-190151
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['梅州客家']
+  slug: /cfa-meizhou-hakka-v2013-mono
+  pngPath: 'clubs/cfa-meizhou-hakka-v2013-mono.png'
+  svgPath: 'clubs/svg/cfa-meizhou-hakka-v2013-mono.svg'
+  sourceID: cfa-club-030
+  style: mono
+
+- data: logo
+  uniqueID: 20211226-190240
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['梅州客家']
+  slug: /cfa-meizhou-hakka-v2013
+  pngPath: 'clubs/cfa-meizhou-hakka-v2013.png'
+  svgPath: 'clubs/svg/cfa-meizhou-hakka-v2013.svg'
+  sourceID: cfa-club-030
+  style: color
+
+- data: logo
+  uniqueID: 20211227-171734
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v1996-mono
+  pngPath: 'clubs/cfa-changchun-yatai-v1996-mono.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v1996-mono.svg'
+  sourceID: cfa-club-011
+  style: mono
+
+- data: logo
+  uniqueID: 20211227-171800
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v1996
+  pngPath: 'clubs/cfa-changchun-yatai-v1996.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v1996.svg'
+  sourceID: cfa-club-011
+  style: color
+
+- data: logo
+  uniqueID: 20211227-171831
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v1997-mono
+  pngPath: 'clubs/cfa-changchun-yatai-v1997-mono.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v1997-mono.svg'
+  sourceID: cfa-club-011
+  style: mono
+
+- data: logo
+  uniqueID: 20211227-171848
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v1997
+  pngPath: 'clubs/cfa-changchun-yatai-v1997.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v1997.svg'
+  sourceID: cfa-club-011
+  style: color
+
+- data: logo
+  uniqueID: 20211227-171914
+  version: 1999
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v1999-mono
+  pngPath: 'clubs/cfa-changchun-yatai-v1999-mono.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v1999-mono.svg'
+  sourceID: cfa-club-011
+  style: mono
+
+- data: logo
+  uniqueID: 20211227-171934
+  version: 1999
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v1999
+  pngPath: 'clubs/cfa-changchun-yatai-v1999.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v1999.svg'
+  sourceID: cfa-club-011
+  style: color
+
+- data: logo
+  uniqueID: 20211227-171948
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v2002-mono
+  pngPath: 'clubs/cfa-changchun-yatai-v2002-mono.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v2002-mono.svg'
+  sourceID: cfa-club-011
+  style: mono
+
+- data: logo
+  uniqueID: 20211227-172018
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长春亚泰']
+  slug: /cfa-changchun-yatai-v2002
+  pngPath: 'clubs/cfa-changchun-yatai-v2002.png'
+  svgPath: 'clubs/svg/cfa-changchun-yatai-v2002.svg'
+  sourceID: cfa-club-011
+  style: color
+
+- data: logo
+  uniqueID: 20211228-151822
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州智诚']
+  slug: /cfa-guizhoufc-v2011-mono
+  pngPath: 'clubs/cfa-guizhoufc-v2011-mono.png'
+  svgPath: 'clubs/svg/cfa-guizhoufc-v2011-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211228-151848
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州智诚']
+  slug: /cfa-guizhoufc-v2011
+  pngPath: 'clubs/cfa-guizhoufc-v2011.png'
+  svgPath: 'clubs/svg/cfa-guizhoufc-v2011.svg'
+  sourceID: cfa-club-024
+  style: color
+
+- data: logo
+  uniqueID: 20211228-151912
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州智诚']
+  slug: /cfa-guizhoufc-v2011-graph
+  pngPath: 'clubs/cfa-guizhoufc-v2011-graph.png'
+  svgPath: 'clubs/svg/cfa-guizhoufc-v2011-graph.svg'
+  sourceID: cfa-club-024
+  style: graph
+
+- data: logo
+  uniqueID: 20211228-151942
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州恒丰智诚']
+  slug: /cfa-guizhoufc-v2016-mono
+  pngPath: 'clubs/cfa-guizhoufc-v2016-mono.png'
+  svgPath: 'clubs/svg/cfa-guizhoufc-v2016-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211228-152012
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州恒丰智诚']
+  slug: /cfa-guizhoufc-v2016
+  pngPath: 'clubs/cfa-guizhoufc-v2016.png'
+  svgPath: 'clubs/svg/cfa-guizhoufc-v2016.svg'
+  sourceID: cfa-club-024
+  style: color
