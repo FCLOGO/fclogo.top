@@ -174,6 +174,25 @@ exports.createResolvers = ({ createResolvers }) => {
           return entries
         }
       }
+    },
+    sourceInfo: {
+      logoCount: {
+        type: `Int`,
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                sourceID: { eq: source.sourceID },
+                fields: {
+                  locale: { eq: source.fields.locale }
+                }
+              }
+            },
+            type: `logo`
+          })
+          return Array.from(entries).length
+        }
+      }
     }
   }
   createResolvers(resolvers)

@@ -9,7 +9,7 @@ import ResetIcon from '../../static/assets/icons/close.inline.svg'
 
 import { mainContent, contentWrapper, dataTable, filterWrapper } from './sources.module.styl'
 
-const paginationRowsPerPageOptions = [50, 100, 200, 500, 1000]
+const paginationRowsPerPageOptions = [50, 100, 200, 500]
 
 const FilterComponent = ({ onFilter, onClear, filterText }) => {
   const intl = useIntl()
@@ -56,6 +56,11 @@ const SourcesData = ({ data, pageContext }) => {
       sortable: true
     },
     {
+      name: intl.formatMessage({ id: 'source.logoCount' }),
+      selector: row => row.logoCount,
+      sortable: true
+    },
+    {
       name: intl.formatMessage({ id: 'timeline' }),
       selector: row => <span></span>,
       conditionalCellStyles: [
@@ -67,7 +72,8 @@ const SourcesData = ({ data, pageContext }) => {
           when: row => !row.timeline,
           classNames: ['not-complete']
         }
-      ]
+      ],
+      center: true
     }
   ]
 
@@ -148,6 +154,7 @@ export const query = graphql`
         sourceID
         type
         timeline
+        logoCount
       }
     }
   }
