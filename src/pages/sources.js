@@ -54,6 +54,20 @@ const SourcesData = ({ data, pageContext }) => {
       name: intl.formatMessage({ id: 'nation' }),
       selector: row => intl.formatMessage({ id: row.nation }),
       sortable: true
+    },
+    {
+      name: intl.formatMessage({ id: 'timeline' }),
+      selector: row => <span></span>,
+      conditionalCellStyles: [
+        {
+          when: row => row.timeline,
+          classNames: ['complete']
+        },
+        {
+          when: row => !row.timeline,
+          classNames: ['not-complete']
+        }
+      ]
     }
   ]
 
@@ -90,7 +104,7 @@ const SourcesData = ({ data, pageContext }) => {
   }, [filterText, resetPaginationToggle])
   return (
     <Layout pageContext={pageContext}>
-      <Seo title={intl.formatMessage({ id: 'statistics.title' })} />
+      <Seo title={intl.formatMessage({ id: 'sources.title' })} />
       <div className={mainContent}>
         <section className={contentWrapper}>
           <div className={dataTable}>
@@ -120,7 +134,10 @@ export default SourcesData
 
 export const query = graphql`
   query ($locale: String!) {
-    allSourceInfo(filter: { fields: { locale: { eq: $locale } } }) {
+    allSourceInfo(
+      sort: { fields: sourceID, order: ASC }
+      filter: { fields: { locale: { eq: $locale } } }
+    ) {
       nodes {
         id
         nation
@@ -130,6 +147,7 @@ export const query = graphql`
         }
         sourceID
         type
+        timeline
       }
     }
   }

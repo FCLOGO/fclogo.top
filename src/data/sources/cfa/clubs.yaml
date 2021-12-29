@@ -3,6 +3,8 @@
   sourceID: cfa-club-001
   type: club
   nation: China
+  isDisband: false
+  timeline: true
   info:
     - fullName: Shandong Taishan Football Club
       shortName: Shandong Taishan FC
@@ -20,6 +22,7 @@
   sourceID: cfa-club-002
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Beijing Guoan Football Club
       shortName: Beijing Guoan FC
@@ -37,6 +40,7 @@
   sourceID: cfa-club-003
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Shanghai Shenhua Football Club
       shortName: Shanghai Shenhua FC
@@ -88,6 +92,7 @@
   sourceID: cfa-club-006
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Shanghai Port Football Club
       shortName: Shanghai Port FC
@@ -105,6 +110,7 @@
   sourceID: cfa-club-007
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Dalian Professional Football Club
       shortName: Dalian Pro FC
@@ -172,6 +178,7 @@
   sourceID: cfa-club-011
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Changchun Yatai Football Club
       shortName: Changchun Yatai FC
@@ -219,6 +226,7 @@
   sourceID: cfa-club-014
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Wuhan Football Club
       shortName: Wuhan FC
@@ -234,6 +242,7 @@
   sourceID: cfa-club-015
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Qingdao Football Club
       shortName: Qingdao FC

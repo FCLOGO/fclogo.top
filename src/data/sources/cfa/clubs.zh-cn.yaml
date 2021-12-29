@@ -3,6 +3,7 @@
   sourceID: cfa-club-001
   type: club
   isDisband: false
+  timeline: true
   nation: China
   info:
     - fullName: 山东泰山足球俱乐部
@@ -21,6 +22,7 @@
   sourceID: cfa-club-002
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 北京国安足球俱乐部
       shortName: 北京国安
@@ -38,6 +40,7 @@
   sourceID: cfa-club-003
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 上海申花足球俱乐部
       shortName: 上海申花
@@ -89,6 +92,7 @@
   sourceID: cfa-club-006
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 上海海港足球俱乐部
       shortName: 上海海港
@@ -106,6 +110,7 @@
   sourceID: cfa-club-007
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 大连人职业足球俱乐部
       shortName: 大连人
@@ -173,6 +178,7 @@
   sourceID: cfa-club-011
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 长春亚泰俱乐部
       shortName: 长春亚泰
@@ -220,6 +226,7 @@
   sourceID: cfa-club-014
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 武汉足球俱乐部
       shortName: 武汉 FC
@@ -235,6 +242,7 @@
   sourceID: cfa-club-015
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 青岛足球俱乐部
       shortName: 青岛 FC

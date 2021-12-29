@@ -105,6 +105,8 @@
   "footer.statement": "The copyrights of logos appearing on this site belong to their legal holders and for personal use only, non-commercial use.",
   "footer.copyright": "COPYRIGHT © {1}, {2} All rights reserved",
 
+  "sources.title": "Source Index",
+
   "continent": "Continent",
   "nation": "Country / Region",
   "association": "Association / Confederation",
@@ -146,6 +148,7 @@
   "of": "of",
   "filterPlaceholder": "Search by name",
   "noData": "There are no records to display",
+  "timeline": "Timeline Status",
 
   "China": "China PR"
 }
