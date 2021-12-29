@@ -399,6 +399,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Guizhou Football Club
       shortName: Guizhou FC
@@ -435,6 +436,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Zibo Cuju Football Club
       shortName: Zibo Cuju
@@ -489,6 +491,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Beijing Institute of Technology Football Club
       shortName: Beijing BIT
@@ -507,6 +510,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Meizhou Hakka Football Club
       shortName: Meizhou Hakka
@@ -525,6 +529,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Chengdu Rongcheng Football Club
       shortName: Chengdu Rongcheng

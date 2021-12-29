@@ -399,6 +399,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 贵州足球俱乐部
       shortName: 贵州 FC
@@ -435,6 +436,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 淄博蹴鞠足球俱乐部
       shortName: 淄博蹴鞠
@@ -489,6 +491,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 北京理工足球俱乐部
       shortName: 北京理工
@@ -507,6 +510,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 梅州客家足球俱乐部
       shortName: 梅州客家
@@ -525,6 +529,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 成都蓉城足球俱乐部
       shortName: 成都蓉城
