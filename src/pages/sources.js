@@ -9,7 +9,7 @@ import ResetIcon from '../../static/assets/icons/close.inline.svg'
 
 import { mainContent, contentWrapper, dataTable, filterWrapper } from './sources.module.styl'
 
-const paginationRowsPerPageOptions = [50, 100, 200, 500]
+const paginationRowsPerPageOptions = [25, 50, 100, 200, 500]
 
 const FilterComponent = ({ onFilter, onClear, filterText }) => {
   const intl = useIntl()
@@ -44,11 +44,13 @@ const SourcesData = ({ data, pageContext }) => {
     },
     {
       name: intl.formatMessage({ id: 'fullName' }),
-      selector: row => row.info[0].fullName
+      selector: row => row.info[0].fullName,
+      sortable: true
     },
     {
       name: intl.formatMessage({ id: 'localName' }),
-      selector: row => row.info[0].localName
+      selector: row => row.info[0].localName,
+      sortable: true
     },
     {
       name: intl.formatMessage({ id: 'nation' }),
@@ -118,7 +120,7 @@ const SourcesData = ({ data, pageContext }) => {
               columns={columns}
               data={filteredItems}
               pagination
-              paginationPerPage={50}
+              paginationPerPage={25}
               paginationResetDefaultPage={resetPaginationToggle}
               paginationRowsPerPageOptions={paginationRowsPerPageOptions}
               paginationComponentOptions={paginationComponentOptions}
