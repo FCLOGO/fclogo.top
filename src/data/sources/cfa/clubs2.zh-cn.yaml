@@ -138,6 +138,7 @@
   sourceID: cfa-club-052
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 青岛海牛足球俱乐部
       shortName: 青岛海牛
