@@ -2373,3 +2373,27 @@
   svgPath: 'clubs/svg/cfa-guangzhoufc-v2011.svg'
   sourceID: cfa-club-004
   style: color
+
+- data: logo
+  uniqueID: 20220111-223328
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山东泰山']
+  slug: /cfa-shandong-taishan-v2022-mono
+  pngPath: 'clubs/cfa-shandong-taishan-v2022-mono.png'
+  svgPath: 'clubs/svg/cfa-shandong-taishan-v2022-mono.svg'
+  sourceID: cfa-club-001
+  style: mono
+
+- data: logo
+  uniqueID: 20220111-223400
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山东泰山']
+  slug: /cfa-shandong-taishan-v2022
+  pngPath: 'clubs/cfa-shandong-taishan-v2022.png'
+  svgPath: 'clubs/svg/cfa-shandong-taishan-v2022.svg'
+  sourceID: cfa-club-001
+  style: color

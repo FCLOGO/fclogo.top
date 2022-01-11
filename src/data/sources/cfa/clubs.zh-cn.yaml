@@ -58,6 +58,7 @@
   sourceID: cfa-club-004
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 广州足球俱乐部
       shortName: 广州 FC

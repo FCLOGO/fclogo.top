@@ -58,6 +58,7 @@
   sourceID: cfa-club-004
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Guangzhou Football Club
       shortName: Guangzhou FC

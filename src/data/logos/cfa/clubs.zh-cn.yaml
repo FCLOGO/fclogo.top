@@ -2,6 +2,7 @@
 - data: logo
   uniqueID: 20211007-006
   version: 1998
+  isOutdated: true
   verName: ['山东鲁能泰山', '山东泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1998.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1998.svg'
@@ -12,6 +13,7 @@
 - data: logo
   uniqueID: 20211007-007
   version: 1998
+  isOutdated: true
   verName: ['山东鲁能泰山', '山东泰山']
   pngPath: 'clubs/cfa-shandongtaishan-v1998-mono.png'
   svgPath: 'clubs/svg/cfa-shandongtaishan-v1998-mono.svg'
@@ -114,6 +116,7 @@
 - data: logo
   uniqueID: 20211012-001
   version: 2002
+  isOutdated: true
   verName: ['北京国安', '北京中赫国安']
   pngPath: 'clubs/cfa-beijingguoan-v2002.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v2002.svg'
@@ -124,6 +127,7 @@
 - data: logo
   uniqueID: 20211012-002
   version: 2002
+  isOutdated: true
   verName: ['北京国安', '北京中赫国安']
   pngPath: 'clubs/cfa-beijingguoan-v2002-mono.png'
   svgPath: 'clubs/svg/cfa-beijingguoan-v2002-mono.svg'
@@ -200,6 +204,7 @@
 - data: logo
   uniqueID: 20211013-001
   version: 2014.07
+  isOutdated: true
   verName: ['上海绿地', '上海绿地申花']
   pngPath: 'clubs/cfa-shanghaishenhua-v201407.png'
   svgPath: 'clubs/svg/cfa-shanghaishenhua-v201407.svg'
@@ -210,6 +215,7 @@
 - data: logo
   uniqueID: 20211013-002
   version: 2014.07
+  isOutdated: true
   verName: ['上海绿地', '上海绿地申花']
   pngPath: 'clubs/cfa-shanghaishenhua-v201407-mono.png'
   svgPath: 'clubs/svg/cfa-shanghaishenhua-v201407-mono.svg'
@@ -376,6 +382,7 @@
 - data: logo
   uniqueID: 20211016-009
   version: 2018
+  isOutdated: true
   verName: ['重庆当代力帆', '重庆两江竞技']
   pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2018-mono.svg'
@@ -386,6 +393,7 @@
 - data: logo
   uniqueID: 20211016-010
   version: 2018
+  isOutdated: true
   verName: ['重庆当代力帆', '重庆两江竞技']
   pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2018.png'
   svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2018.svg'
