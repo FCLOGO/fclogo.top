@@ -25,6 +25,7 @@ const MainMenu = ({ pageContext }) => {
     <div className={mainMenuWrapper}>
       <ul className={mainMenuList}>
         <ListLink to="/logos">{intl.formatMessage({ id: 'menu.logo' })}</ListLink>
+        <ListLink to="/packs">{intl.formatMessage({ id: 'menu.pack' })}</ListLink>
         <ListLink to="/news">{intl.formatMessage({ id: 'menu.news' })}</ListLink>
         <ListLink to="/about">{intl.formatMessage({ id: 'menu.about' })}</ListLink>
       </ul>

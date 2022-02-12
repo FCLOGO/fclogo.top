@@ -1,0 +1,114 @@
+// Size
+header-height = 60px
+size-normal = 20px
+size-large = 30px
+size-small = 10px
+size-mini = 6px
+// Media queries
+mq-tablet = 'screen and (max-width: 992px)'
+
+.main-content
+  width 100%
+  margin 0 auto
+  padding-top 110px
+  display block
+
+.content-inner
+  flex 1 auto
+  display flex
+  flex-flow column wrap
+  align-items flex-start
+
+.detail-wrapper
+  width 100%
+  flex 1 auto
+  display flex
+  flex-flow row nowrap
+  align-items flex-start
+  border-bottom 1px solid var(--border-color-primary)
+  @media mq-tablet
+    flex-wrap wrap
+
+.pack-holder
+  flex 1
+  width 100%
+  align-self stretch
+  display block
+  background-color var(--logo-holder-bg)
+
+.holder-inner
+  width 100%
+  flex-flow column wrap
+  justify-content center
+  display flex
+  align-items flex-start
+  padding size-large
+
+.image-holder
+  flex 1
+  display grid
+  width 100%
+  align-items center
+  justify-items center
+  grid-template-columns repeat(auto-fill, minmax(200px, 1fr))
+  gap size-normal
+
+.item-link
+  border none
+  &:hover
+    border none
+    transition transform 0.05s cubic-bezier(0.1, 0, 0.06, 1)
+    transform scale(1.02)
+
+.item-image
+  margin 10%
+
+.detail-nav
+  display flex
+  flex-flow row nowrap
+  align-items center
+  justify-content space-between
+  width 100%
+  padding size-large size-normal
+  border-top 1px solid var(--border-color-primary)
+
+.link-wrapper
+  flex 0 auto
+  width 50px
+  height 50px
+
+.previous-link, .next-link
+  height 50px
+  width 50px
+  line-height 50px
+  border none
+  padding 15px
+  color var(--text-color-primary)
+  display inline-flex
+  align-items center
+  justify-content center
+  border-radius 3px
+  &:hover
+    border none
+    color var(--text-color-primary)
+    background var(--btn-bg-hover)
+
+.arrow-icon
+  width size-normal
+  height size-normal
+  polyline, line
+    stroke var(--text-color-primary) !important
+
+.previous-link svg
+  transform rotate(180deg)
+
+.notrans-wrapper
+  width 100%
+  margin-top 100px
+  padding size-normal
+
+.notrans-text
+  text-align center
+  font-size 16px
+  font-weight 600
+  color var(--text-color-secondary)

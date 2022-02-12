@@ -10,6 +10,7 @@
   "header.sponsor": "Sponsor",
 
   "menu.logo": "Logos",
+  "menu.pack": "Packs",
   "menu.news": "News",
   "menu.about": "About",
   "menu.contact": "Contact",
@@ -26,6 +27,7 @@
   "search.noResults": "No results have been found for {s} 😶",
 
   "index.cardTitle": "Recently Updated",
+  "index.logoPacks": "Logo Packs",
   "index.randomTitle": "Rabdom Logos",
   "index.noLogo": "Working hard to update... Check back in a few days! 🤪",
   "index.viewMore": "View More",
@@ -94,6 +96,7 @@
   "sidebar.s": "s",
 
   "detail.titleVector": " Vector Logo",
+  "detail.titleVectorPack": " Vector Logo Pack",
   "detail.historyTitle": "Logo History",
   "detail.notransTitle": "This page hasn't been translated yet",
   "detail.notrans": "This page hasn't been translated yet",

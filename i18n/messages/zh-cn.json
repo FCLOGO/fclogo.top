@@ -10,6 +10,7 @@
   "header.sponsor": "支持我们",
 
   "menu.logo": "所有徽标",
+  "menu.pack": "徽标集",
   "menu.news": "News",
   "menu.about": "关于我们",
   "menu.contact": "联系方式",
@@ -26,6 +27,7 @@
   "search.noResults": "没有找到 {s} 的搜索结果 😶",
 
   "index.cardTitle": "最近更新",
+  "index.logoPacks": "徽标集合",
   "index.randomTitle": "随机徽标",
   "index.noLogo": "努力更新中...过几天再来看看吧！🤪",
   "index.viewMore": "发现更多",
@@ -94,6 +96,7 @@
   "sidebar.s": " ",
 
   "detail.titleVector": "矢量徽标",
+  "detail.titleVectorPack": "矢量徽标集",
   "detail.historyTitle": "徽标历史",
   "detail.notransTitle": "翻译尚未完成",
   "detail.notrans": "这个页面翻译尚未完成",

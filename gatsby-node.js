@@ -7,6 +7,7 @@ exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
   if (
     node.internal.type === 'logo' ||
     node.internal.type === 'sourceInfo' ||
+    node.internal.type === 'logoPack' ||
     node.internal.type === 'statistics'
   ) {
     const i18nNodes = getNodesByType(`SiteI18n`)
@@ -23,7 +24,7 @@ exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
 
   if (node.internal.type === 'Mdx') {
     const gitAuthorTime = execSync(
-      `git log -1 --pretty=format:%ad --date=format:'%Y-%m-%d @%H:%M:%S' ${node.fileAbsolutePath}`
+      `git log -1 --pretty=format:%ad --date=format:"%Y-%m-%d @%H:%M:%S" ${node.fileAbsolutePath}`
     ).toString()
 
     createNodeField({ node, name: `gitAuthorTime`, value: gitAuthorTime })
@@ -62,6 +63,23 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       }
     }
   `)
+  const packs = await graphql(`
+    query {
+      allLogoPack(sort: { fields: uniqueID }, filter: { fields: { locale: { eq: "en" } } }) {
+        edges {
+          node {
+            slug
+          }
+          next {
+            slug
+          }
+          previous {
+            slug
+          }
+        }
+      }
+    }
+  `)
 
   if (detail.errors) {
     reporter.panicOnBuild(detail.errors)
@@ -73,10 +91,27 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
+  if (packs.errors) {
+    reporter.panicOnBuild(support.errors)
+    return
+  }
+
   detail.data.allLogo.edges.forEach(({ node, next, previous }) => {
     createPage({
       path: node.slug,
       component: path.resolve(`./src/templates/logo-detail.js`),
+      context: {
+        slug: node.slug,
+        next,
+        previous
+      }
+    })
+  })
+
+  packs.data.allLogoPack.edges.forEach(({ node, next, previous }) => {
+    createPage({
+      path: node.slug,
+      component: path.resolve(`./src/templates/pack-detail.js`),
       context: {
         slug: node.slug,
         next,
@@ -105,20 +140,12 @@ exports.createResolvers = ({ createResolvers }) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
-                id: {
-                  ne: source.id
-                },
+                id: { ne: source.id },
                 fields: {
-                  locale: {
-                    eq: source.fields.locale
-                  }
+                  locale: { eq: source.fields.locale }
                 },
-                sourceID: {
-                  eq: source.sourceID
-                },
-                version: {
-                  eq: source.version
-                }
+                sourceID: { eq: source.sourceID },
+                version: { eq: source.version }
               }
             },
             type: 'logo'
@@ -136,16 +163,10 @@ exports.createResolvers = ({ createResolvers }) => {
                 //   ne: source.version
                 // },
                 fields: {
-                  locale: {
-                    eq: source.fields.locale
-                  }
+                  locale: { eq: source.fields.locale }
                 },
-                sourceID: {
-                  eq: source.sourceID
-                },
-                style: {
-                  eq: 'color'
-                }
+                sourceID: { eq: source.sourceID },
+                style: { eq: 'color' }
               }
             },
             type: 'logo'
@@ -159,13 +180,9 @@ exports.createResolvers = ({ createResolvers }) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
-                sourceID: {
-                  eq: source.sourceID
-                },
+                sourceID: { eq: source.sourceID },
                 fields: {
-                  locale: {
-                    eq: source.fields.locale
-                  }
+                  locale: { eq: source.fields.locale }
                 }
               }
             },
@@ -191,6 +208,43 @@ exports.createResolvers = ({ createResolvers }) => {
             type: `logo`
           })
           return Array.from(entries).length
+        }
+      }
+    },
+    logoPack: {
+      packInfo: {
+        type: ['logo'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                sourceID: { eq: source.packSource },
+                style: { eq: `color` }
+              }
+            },
+            type: `logo`
+          })
+          return entries
+        }
+      },
+      itemsInfo: {
+        type: ['logo'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                fields: {
+                  locale: { eq: source.fields.locale }
+                },
+                style: { eq: `color` }
+              }
+            },
+            type: `logo`
+          })
+          const items = entries.filter(item => {
+            return source.items.some(i => i.id === item.sourceID && i.version === item.version)
+          })
+          return items
         }
       }
     }
