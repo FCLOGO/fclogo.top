@@ -6,6 +6,7 @@ size-small = 10px
 size-mini = 6px
 // Media queries
 mq-tablet = 'screen and (max-width: 992px)'
+mq-medium = 'screen and (max-width: 1080px)'
 
 .main-content
   width 100%
@@ -52,6 +53,8 @@ mq-tablet = 'screen and (max-width: 992px)'
   justify-items center
   grid-template-columns repeat(auto-fill, minmax(200px, 1fr))
   gap size-normal
+  @media mq-medium
+    grid-template-columns repeat(auto-fill, minmax(150px, 1fr))
   @media mq-tablet
     grid-template-columns repeat(auto-fill, minmax(100px, 1fr))
     gap size-small
