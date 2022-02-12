@@ -82,7 +82,17 @@ const PackDetailSidebar = props => {
         <div className={useTerms}>
           <h6 className={termTitle}>{intl.formatMessage({ id: 'sidebar.termTitle' })}</h6>
           <p>
-            {intl.formatMessage({ id: 'sidebar.termText' }, { s: <b>{props.fullName}</b> })}{' '}
+            {intl.formatMessage(
+              { id: 'sidebar.termText' },
+              {
+                s: (
+                  <b>
+                    {props.name}
+                    {intl.formatMessage({ id: 'detail.titleVectorPack' })}
+                  </b>
+                )
+              }
+            )}{' '}
             <LocalizedLink to="/support/terms-of-use">
               <b>{intl.formatMessage({ id: 'sidebar.termMore' })}</b>
             </LocalizedLink>

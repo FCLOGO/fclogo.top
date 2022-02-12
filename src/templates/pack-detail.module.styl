@@ -52,6 +52,9 @@ mq-tablet = 'screen and (max-width: 992px)'
   justify-items center
   grid-template-columns repeat(auto-fill, minmax(200px, 1fr))
   gap size-normal
+  @media mq-tablet
+    grid-template-columns repeat(auto-fill, minmax(100px, 1fr))
+    gap size-small
 
 .item-link
   border none
@@ -62,6 +65,8 @@ mq-tablet = 'screen and (max-width: 992px)'
 
 .item-image
   margin 10%
+  @media mq-tablet
+    margin 5%
 
 .detail-nav
   display flex
