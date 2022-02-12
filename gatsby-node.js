@@ -218,6 +218,9 @@ exports.createResolvers = ({ createResolvers }) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
+                fields: {
+                  locale: { eq: source.fields.locale }
+                },
                 sourceID: { eq: source.packSource },
                 style: { eq: `color` }
               }
