@@ -83,7 +83,7 @@ const PackDetailSidebar = props => {
           <h6 className={termTitle}>{intl.formatMessage({ id: 'sidebar.termTitle' })}</h6>
           <p>
             {intl.formatMessage(
-              { id: 'sidebar.termText' },
+              { id: 'sidebar.termTextPack' },
               {
                 s: (
                   <b>

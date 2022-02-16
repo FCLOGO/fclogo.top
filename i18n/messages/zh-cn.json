@@ -27,7 +27,7 @@
   "search.noResults": "没有找到 {s} 的搜索结果 😶",
 
   "index.cardTitle": "最近更新",
-  "index.logoPacks": "徽标集合",
+  "index.logoPacks": "徽标集",
   "index.randomTitle": "随机徽标",
   "index.noLogo": "努力更新中...过几天再来看看吧！🤪",
   "index.viewMore": "发现更多",
@@ -84,6 +84,7 @@
   "sidebar.howToEdit": "如何编辑？",
   "sidebar.termTitle": "使用条款",
   "sidebar.termText": "下载 {s} 的徽标即表示您同意我们的使用条款。",
+  "sidebar.termTextPack": "下载 {s} 的徽标即表示您同意我们的使用条款。",
   "sidebar.termMore": "更多信息",
   "sidebar.infoTitle": "信息",
   "sidebar.website": "官方网站",
