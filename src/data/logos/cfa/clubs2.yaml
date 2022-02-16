@@ -482,7 +482,7 @@
   uniqueID: 20211108-009
   version: 2021
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Qingdao Hainiu']
   slug: /cfa-qingdao-hainiu-v2021-mono
   pngPath: 'clubs/cfa-qingdao-hainiu-v2021-mono.png'
@@ -494,7 +494,7 @@
   uniqueID: 20211108-010
   version: 2021
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Qingdao Hainiu']
   slug: /cfa-qingdao-hainiu-v2021
   pngPath: 'clubs/cfa-qingdao-hainiu-v2021.png'
@@ -2396,4 +2396,28 @@
   pngPath: 'clubs/cfa-shandong-taishan-v2022.png'
   svgPath: 'clubs/svg/cfa-shandong-taishan-v2022.svg'
   sourceID: cfa-club-001
+  style: color
+
+- data: logo
+  uniqueID: 20220216-160041
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Qingdao Hainiu']
+  slug: /cfa-qingdao-hainiu-v2022-mono
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2022-mono.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2022-mono.svg'
+  sourceID: cfa-club-052
+  style: mono
+
+- data: logo
+  uniqueID: 20220216-160108
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Qingdao Hainiu']
+  slug: /cfa-qingdao-hainiu-v2022
+  pngPath: 'clubs/cfa-qingdao-hainiu-v2022.png'
+  svgPath: 'clubs/svg/cfa-qingdao-hainiu-v2022.svg'
+  sourceID: cfa-club-052
   style: color
