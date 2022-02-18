@@ -292,6 +292,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Zhejiang Professional Football Club
       shortName: Zhejiang FC

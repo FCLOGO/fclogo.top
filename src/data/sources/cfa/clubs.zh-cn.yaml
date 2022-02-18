@@ -292,6 +292,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 浙江职业足球俱乐部
       shortName: 浙江 FC
