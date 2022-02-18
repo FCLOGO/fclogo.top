@@ -365,17 +365,18 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 南通支云足球俱乐部
       shortName: 南通支云
       localName: 南通支云足球俱乐部
       city: 南通，中国
-      founded: 2014
+      founded: 2016
       ground: 如皋奥林匹克体育中心
       league: 中甲联赛
   weiboURL: 'https://weibo.com/u/5800740152'
   twitterURL: ''
-  websiteURL: ''
+  websiteURL: 'http://www.nantongzhiyunfc.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/南通支云足球俱乐部'
 
 - data: sourceInfo
