@@ -96,19 +96,22 @@ mq-tablet = 'screen and (max-width: 992px)'
   &:first-child
     margin-right 5px
 
-.style-badge
+.version-badge, .style-badge
   flex 0 auto
   margin 0
   padding 0
   line-height size-normal
   text-transform uppercase
   font-size 12px
-  font-weight 700
   height size-normal
   padding 0 3px
   border-radius 3px
   background-color var(--btn-color-primary)
   color var(--header-text-color)
+
+.version-badge
+  margin-right size-mini
+  font-family JetBrainsMono, Menlo, Monaco, Consolas, monospace
 
 .load-ref-container
   padding-top header-height
