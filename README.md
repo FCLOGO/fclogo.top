@@ -26,18 +26,10 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 - [x] Logo History Timeline
 - [ ] Logo News
 - [ ] Site Feed
-- [ ] Logo Package
+- [x] Logo Package
 - [x] Number of Logo Downloads
 
 *For anything you may think necessary tell me by opening an issue or a PR : )!*
-
-## 🎰 LOGO STATISTICS
-
-| CONTINENT | COUNTRY/REGION | ASSOCIATION/CONFEDERATION | COMPETITIONS | CLUBS/MEMBERS | LOGOS |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| Asia | / | AFC | 0 | 1 | 3 |
-| Asia | China PR | CFA | 3 | 66 | 236 |
-
 
 ## 📝 CONTRIBUTING
 
