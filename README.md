@@ -4,7 +4,7 @@
 
 [FCLOGO](https://fclogo.top) is a collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.
 
-We started FCLOGO because we as football fans want everyone to know the culture and heritage of the Football Club. Our mission is to make all football club logos accessible to you.This is a huge challenge, and we are constantly improving our service to make that happen.We are not alone in this. We always like to receive your feedback and new ideas, and welcome to join us.
+We started FCLOGO because we as football fans want everyone to know the culture and heritage of the Football Club. Our mission is to make all football club logos accessible to you.This is a huge challenge, and we are constantly improving our service to make that happen. We are not alone in this. We always like to receive your feedback and new ideas, and welcome to join us.
 
 ## 🔗 SITE URL
 
