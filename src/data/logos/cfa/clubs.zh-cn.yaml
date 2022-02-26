@@ -4172,3 +4172,123 @@
   svgPath: 'clubs/svg/cfa-guangzhou-city-v201102.svg'
   sourceID: cfa-club-008
   style: color
+
+- data: logo
+  uniqueID: 20220226-150629
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏加佳']
+  slug: /cfa-jiangsufc-v1996-mono
+  pngPath: 'clubs/cfa-jiangsufc-v1996-mono.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v1996-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20220226-150731
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏加佳']
+  slug: /cfa-jiangsufc-v1996
+  pngPath: 'clubs/cfa-jiangsufc-v1996.png'
+  svgPath: 'clubs/svg/cfa-jiangsufc-v1996.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20220226-151141
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['沈阳海狮']
+  slug: /cfa-guangzhou-city-v1997-mono
+  pngPath: 'clubs/cfa-guangzhou-city-v1997-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v1997-mono.svg'
+  sourceID: cfa-club-008
+  style: mono
+
+- data: logo
+  uniqueID: 20220226-151234
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['沈阳海狮']
+  slug: /cfa-guangzhou-city-v1997
+  pngPath: 'clubs/cfa-guangzhou-city-v1997.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v1997.svg'
+  sourceID: cfa-club-008
+  style: color
+
+- data: logo
+  uniqueID: 20220226-151303
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['沈阳海狮']
+  slug: /cfa-guangzhou-city-v2000-mono
+  pngPath: 'clubs/cfa-guangzhou-city-v2000-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2000-mono.svg'
+  sourceID: cfa-club-008
+  style: mono
+
+- data: logo
+  uniqueID: 20220226-151341
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['沈阳海狮']
+  slug: /cfa-guangzhou-city-v2000
+  pngPath: 'clubs/cfa-guangzhou-city-v2000.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2000.svg'
+  sourceID: cfa-club-008
+  style: color
+
+- data: logo
+  uniqueID: 20220226-151408
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['沈阳金德']
+  slug: /cfa-guangzhou-city-v2002-mono
+  pngPath: 'clubs/cfa-guangzhou-city-v2002-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2002-mono.svg'
+  sourceID: cfa-club-008
+  style: mono
+
+- data: logo
+  uniqueID: 20220226-151447
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['沈阳金德']
+  slug: /cfa-guangzhou-city-v2002
+  pngPath: 'clubs/cfa-guangzhou-city-v2002.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2002.svg'
+  sourceID: cfa-club-008
+  style: color
+
+- data: logo
+  uniqueID: 20220226-151510
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长沙金德']
+  slug: /cfa-guangzhou-city-v2007-mono
+  pngPath: 'clubs/cfa-guangzhou-city-v2007-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2007-mono.svg'
+  sourceID: cfa-club-008
+  style: mono
+
+- data: logo
+  uniqueID: 20220226-151540
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['长沙金德']
+  slug: /cfa-guangzhou-city-v2007
+  pngPath: 'clubs/cfa-guangzhou-city-v2007.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2007.svg'
+  sourceID: cfa-club-008
+  style: color
