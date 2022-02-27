@@ -4292,3 +4292,63 @@
   svgPath: 'clubs/svg/cfa-guangzhou-city-v2007.svg'
   sourceID: cfa-club-008
   style: color
+
+- data: logo
+  uniqueID: 20220227-172659
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Chongqing Qianwei Huandao']
+  slug: /cfa-chongqing-liangjiang-athletic-v1997
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v1997.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v1997.svg'
+  sourceID: cfa-club-009
+  style: color
+
+- data: logo
+  uniqueID: 20220227-172753
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Chongqing Lifan']
+  slug: /cfa-chongqing-liangjiang-athletic-v2001-mono
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2001-mono.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2001-mono.svg'
+  sourceID: cfa-club-009
+  style: mono
+
+- data: logo
+  uniqueID: 20220227-172900
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Chongqing Lifan']
+  slug: /cfa-chongqing-liangjiang-athletic-v2001
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2001.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2001.svg'
+  sourceID: cfa-club-009
+  style: color
+
+- data: logo
+  uniqueID: 20220227-173101
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Chongqing Dangdai Lifan']
+  slug: /cfa-chongqing-liangjiang-athletic-v2017-mono
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2017-mono.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2017-mono.svg'
+  sourceID: cfa-club-009
+  style: mono
+
+- data: logo
+  uniqueID: 20220227-173141
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Chongqing Dangdai Lifan']
+  slug: /cfa-chongqing-liangjiang-athletic-v2017
+  pngPath: 'clubs/cfa-chongqing-liangjiang-athletic-v2017.png'
+  svgPath: 'clubs/svg/cfa-chongqing-liangjiang-athletic-v2017.svg'
+  sourceID: cfa-club-009
+  style: color
