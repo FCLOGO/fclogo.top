@@ -214,6 +214,7 @@
   sourceID: cfa-club-013
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 天津津门虎足球俱乐部
       shortName: 天津津门虎
