@@ -3743,26 +3743,26 @@
 
 - data: logo
   uniqueID: 20220106-201320
-  version: 1984
+  version: 1998
   isDoubtful: false
   isOutdated: true
   verName: ['Guangzhou Baiyunshan']
-  slug: /cfa-guangzhoufc-v1984-mono
-  pngPath: 'clubs/cfa-guangzhoufc-v1984-mono.png'
-  svgPath: 'clubs/svg/cfa-guangzhoufc-v1984-mono.svg'
-  sourceID: cfa-club-004
+  slug: /cfa-guangzhou-baiyunshan-v1998-mono
+  pngPath: 'clubs/cfa-guangzhou-baiyunshan-v1998-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-baiyunshan-v1998-mono.svg'
+  sourceID: cfa-club-079
   style: mono
 
 - data: logo
   uniqueID: 20220106-201429
-  version: 1984
+  version: 1998
   isDoubtful: false
   isOutdated: true
   verName: ['Guangzhou Baiyunshan']
-  slug: /cfa-guangzhoufc-v1984
-  pngPath: 'clubs/cfa-guangzhoufc-v1984.png'
-  svgPath: 'clubs/svg/cfa-guangzhoufc-v1984.svg'
-  sourceID: cfa-club-004
+  slug: /cfa-guangzhou-baiyunshan-v1998
+  pngPath: 'clubs/cfa-guangzhou-baiyunshan-v1998.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-baiyunshan-v1998.svg'
+  sourceID: cfa-club-079
   style: color
 
 - data: logo
