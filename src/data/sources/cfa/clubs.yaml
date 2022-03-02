@@ -1347,3 +1347,22 @@
   twitterURL: ''
   websiteURL: ''
   wikiURL: 'https://en.wikipedia.org/wiki/Nanjing_Shaye_F.C.'
+
+- data: sourceInfo
+  sourceID: cfa-club-079
+  isDisband: true
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Guangzhou Baiyunshan Football Club
+      shortName: Guangzhou Baiyunshan FC
+      localName: 广州白云山足球俱乐部
+      city: Guangzhou, China
+      founded: 1998
+      duration: 1998 - 2000
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Guangzhou_Baiyunshan_F.C.'
