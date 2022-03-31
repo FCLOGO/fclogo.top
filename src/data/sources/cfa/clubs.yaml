@@ -198,6 +198,7 @@
   sourceID: cfa-club-012
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Henan Songshan Longmen Football Club
       shortName: Henan Songshan Longmen FC

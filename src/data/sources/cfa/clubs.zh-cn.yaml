@@ -198,6 +198,7 @@
   sourceID: cfa-club-012
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 河南嵩山龙门足球俱乐部
       shortName: 河南嵩山龙门
