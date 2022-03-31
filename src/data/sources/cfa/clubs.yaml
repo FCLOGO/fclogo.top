@@ -304,7 +304,7 @@
       city: Hangzhou, China
       founded: 1998
       ground: Hangzhou Huanglong Stadium
-      league: China League
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/1983327567'
   twitterURL: ''
   websiteURL: 'http://www.greentownfc.com'
@@ -315,6 +315,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Wuhan Three Towns Football Club
       shortName: Wuhan Three Towns
@@ -322,7 +323,7 @@
       city: Wuhan, China
       founded: 2013
       ground: Hankou Cultural Sports Centre
-      league: China League
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/6637434462'
   twitterURL: ''
   websiteURL: 'http://www.whszfc.com/'
@@ -525,7 +526,7 @@
       city: Meizhou, China
       founded: 2013
       ground: Wuhua Huitang Stadium
-      league: China League
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/3211113322'
   twitterURL: ''
   websiteURL: ''
@@ -544,7 +545,7 @@
       city: Chengdu, China
       founded: 2018
       ground: Chengdu Longquanyi Stadium
-      league: China League
+      league: Chinese Super League
   weiboURL: 'https://weibo.com/u/6487273451'
   twitterURL: ''
   websiteURL: ''
@@ -848,6 +849,7 @@
   sourceID: cfa-club-050
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Hebei KungFu Football Club
       shortName: Hebei KungFu

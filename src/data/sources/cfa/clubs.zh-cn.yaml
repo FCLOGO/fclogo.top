@@ -304,7 +304,7 @@
       city: 杭州，中国
       founded: 1998
       ground: 杭州黄龙体育中心
-      league: 中甲联赛
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/1983327567'
   twitterURL: ''
   websiteURL: 'http://www.greentownfc.com'
@@ -315,6 +315,7 @@
   isDisband: false
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 武汉三镇足球俱乐部
       shortName: 武汉三镇
@@ -322,7 +323,7 @@
       city: 武汉，中国
       founded: 2013
       ground: 汉口文化体育中心
-      league: 中甲联赛
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/6637434462'
   twitterURL: ''
   websiteURL: 'http://www.whszfc.com/'
@@ -525,7 +526,7 @@
       city: 梅州，中国
       founded: 2013
       ground: 五华惠堂体育场
-      league: 中甲联赛
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/3211113322'
   twitterURL: ''
   websiteURL: ''
@@ -544,7 +545,7 @@
       city: 成都，中国
       founded: 2018
       ground: 成都龙泉驿足球场
-      league: 中甲联赛
+      league: 中超联赛
   weiboURL: 'https://weibo.com/u/6487273451'
   twitterURL: ''
   websiteURL: ''
@@ -848,6 +849,7 @@
   sourceID: cfa-club-050
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 河北功夫足球俱乐部
       shortName: 河北功夫
