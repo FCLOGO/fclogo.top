@@ -364,6 +364,7 @@
 - data: logo
   uniqueID: 20211016-007
   version: 2018
+  isOutdated: true
   verName: ['广州富力', '广州城']
   pngPath: 'clubs/cfa-guangzhou-city-v2018-mono.png'
   svgPath: 'clubs/svg/cfa-guangzhou-city-v2018-mono.svg'
@@ -374,6 +375,7 @@
 - data: logo
   uniqueID: 20211016-008
   version: 2018
+  isOutdated: true
   verName: ['广州富力', '广州城']
   pngPath: 'clubs/cfa-guangzhou-city-v2018.png'
   svgPath: 'clubs/svg/cfa-guangzhou-city-v2018.svg'
@@ -4567,4 +4569,28 @@
   pngPath: 'clubs/cfa-wuhan-three-towns-v2017.png'
   svgPath: 'clubs/svg/cfa-wuhan-three-towns-v2017.svg'
   sourceID: cfa-club-019
+  style: color
+
+- data: logo
+  uniqueID: 20220401-160532
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广州城']
+  slug: /cfa-guangzhou-city-v2022-mono
+  pngPath: 'clubs/cfa-guangzhou-city-v2022-mono.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2022-mono.svg'
+  sourceID: cfa-club-008
+  style: mono
+
+- data: logo
+  uniqueID: 20220401-160554
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广州城']
+  slug: /cfa-guangzhou-city-v2022
+  pngPath: 'clubs/cfa-guangzhou-city-v2022.png'
+  svgPath: 'clubs/svg/cfa-guangzhou-city-v2022.svg'
+  sourceID: cfa-club-008
   style: color
