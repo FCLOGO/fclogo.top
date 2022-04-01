@@ -18,6 +18,7 @@ import {
   googleAds,
   detailHeader,
   logoBadges,
+  versionNumber,
   detailTitle,
   detailDownload,
   pngButton,
@@ -78,11 +79,16 @@ const DetailSidebar = props => {
       </div>
       <header className={detailHeader}>
         <section className={logoBadges}>
-          <span>
-            {intl.formatMessage({ id: 'sidebar.logoVer' })}
-            {props.version}
-            {props.isDoubtful ? intl.formatMessage({ id: 'sidebar.doubtful' }) : ''}
-          </span>
+          {props.version === 0 ? (
+            ''
+          ) : (
+            <span>
+              {intl.formatMessage({ id: 'sidebar.logoVer' })}
+              <data className={versionNumber}>{props.version}</data>
+              {props.isDoubtful ? intl.formatMessage({ id: 'sidebar.doubtful' }) : ''}
+            </span>
+          )}
+
           {props.isOutdated ? <span>{intl.formatMessage({ id: 'sidebar.outdated' })}</span> : ''}
         </section>
         <div className={detailTitle}>

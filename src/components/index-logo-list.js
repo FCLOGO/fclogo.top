@@ -17,8 +17,6 @@ import {
   logoImage,
   cardFooter,
   logoName,
-  formatList,
-  formatItem,
   versionBadge,
   styleBadge,
   nothingContainer,
@@ -56,7 +54,7 @@ const LogoList = ({ data }) => {
                 />
                 <footer className={cardFooter}>
                   <h3 className={logoName}>{node.detailInfo[0].info[0].shortName}</h3>
-                  <span className={versionBadge}>{node.version}</span>
+                  {node.version === 0 ? '' : <span className={versionBadge}>{node.version}</span>}
                   <span className={styleBadge}>{intl.formatMessage({ id: node.style })}</span>
                 </footer>
               </ModalLink>
