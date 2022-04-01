@@ -1,0 +1,17 @@
+# Associations
+- data: sourceInfo
+  sourceID: hkfa-assn-001
+  type: assn
+  nation: China HK
+  timeline: false
+  info:
+    - fullName: 香港足球总会
+      shortName: 香港足总
+      localName: 香港足球總會
+      founded: 1914
+      headquarter: 九龙，香港
+      affiliations: 东亚足联  ▸  亚足联  ▸  国际足联
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.hkfa.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/香港足球總會'
