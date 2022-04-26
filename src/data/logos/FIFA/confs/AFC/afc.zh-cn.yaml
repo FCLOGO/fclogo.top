@@ -9,3 +9,27 @@
   svgPath: 'svg/asian-football-confederation-v2001.svg'
   sourceID: fifa-conf-001
   style: color
+
+- data: logo
+  uniqueID: 20220426-202703
+  version: 1954
+  isDoubtful: false
+  isOutdated: true
+  verName: ['AFC']
+  slug: /fifa/conf/asian-football-confederation-v1954-mono
+  pngPath: 'png/asian-football-confederation-v1954-mono.png'
+  svgPath: 'svg/asian-football-confederation-v1954-mono.svg'
+  sourceID: fifa-conf-001
+  style: mono
+
+- data: logo
+  uniqueID: 20220426-203011
+  version: 1954
+  isDoubtful: false
+  isOutdated: true
+  verName: ['AFC']
+  slug: /fifa/conf/asian-football-confederation-v1954
+  pngPath: 'png/asian-football-confederation-v1954.png'
+  svgPath: 'svg/asian-football-confederation-v1954.svg'
+  sourceID: fifa-conf-001
+  style: color
