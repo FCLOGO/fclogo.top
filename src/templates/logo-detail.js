@@ -225,6 +225,7 @@ export const query = graphql`
           promotion
           relegation
           code
+          membership
         }
         websiteURL
         weiboURL

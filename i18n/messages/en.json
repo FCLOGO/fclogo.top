@@ -138,6 +138,7 @@
   "comp": "Competition",
   "assn": "Association",
   "conf": "Confederation",
+  "membership": "Membership",
   "color": "COLOR",
   "mono": "MONO",
   "graph": "GRAPH",

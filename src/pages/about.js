@@ -34,7 +34,7 @@ const AboutPage = ({ data, pageContext }) => {
   const intl = useIntl()
   const nations = data.allSourceInfo.nodes.map(node => node.nation)
   const types = data.allSourceInfo.nodes.map(node => node.type)
-  const countNation = Array.from(new Set(nations)).length
+  const countNation = Array.from(new Set(nations.filter(e => e))).length
   const countTypes = types.reduce((allTypes, type) => {
     type in allTypes ? allTypes[type]++ : (allTypes[type] = 1)
     return allTypes

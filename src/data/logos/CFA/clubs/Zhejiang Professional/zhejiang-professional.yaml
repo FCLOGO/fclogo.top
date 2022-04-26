@@ -2,7 +2,7 @@
   uniqueID: 20211026-001
   version: 2019
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Zhejiang Greentown', 'Zhejiang Energy Greentown', 'Zhejiang Professional']
   slug: /cfa/club/zhejiang-professional-v2019-mono
   pngPath: 'png/zhejiang-professional-v2019-mono.png'
@@ -14,7 +14,7 @@
   uniqueID: 20211026-002
   version: 2019
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Zhejiang Greentown', 'Zhejiang Energy Greentown', 'Zhejiang Professional']
   slug: /cfa/club/zhejiang-professional-v2019
   pngPath: 'png/zhejiang-professional-v2019.png'
@@ -79,5 +79,29 @@
   slug: /cfa/club/zhejiang-professional-v2003
   pngPath: 'png/zhejiang-professional-v2003.png'
   svgPath: 'svg/zhejiang-professional-v2003.svg'
+  sourceID: cfa-club-018
+  style: color
+
+- data: logo
+  uniqueID: 20220427-002929
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Zhejiang Professional']
+  slug: /cfa/club/zhejiang-professional-v2022-mono
+  pngPath: 'png/zhejiang-professional-v2022-mono.png'
+  svgPath: 'svg/zhejiang-professional-v2022-mono.svg'
+  sourceID: cfa-club-018
+  style: mono
+
+- data: logo
+  uniqueID: 20220427-003022
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Zhejiang Professional']
+  slug: /cfa/club/zhejiang-professional-v2022
+  pngPath: 'png/zhejiang-professional-v2022.png'
+  svgPath: 'svg/zhejiang-professional-v2022.svg'
   sourceID: cfa-club-018
   style: color
