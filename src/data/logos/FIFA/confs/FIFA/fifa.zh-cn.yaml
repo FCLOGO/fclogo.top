@@ -1,0 +1,11 @@
+- data: logo
+  uniqueID: 20220426-225756
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FIFA']
+  slug: /fifa/conf/fifa-v2009
+  pngPath: 'png/fifa-v2009.png'
+  svgPath: 'svg/fifa-v2009.svg'
+  sourceID: fifa-conf-000
+  style: color

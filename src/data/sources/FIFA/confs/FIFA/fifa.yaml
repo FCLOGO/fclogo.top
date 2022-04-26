@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: fifa-conf-000
+  type: conf
+  timeline: false
+  info:
+    - fullName: International Federation of Association Football
+      shortName: FIFA
+      localName: Fédération Internationale de Football Association
+      founded: 1904
+      headquarter: Zürich, Switzerland
+      membership: 211
+  weiboURL: 'https://weibo.com/u/6436906775'
+  twitterURL: 'https://twitter.com/FIFAcom'
+  websiteURL: 'https://www.fifa.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/FIFA'

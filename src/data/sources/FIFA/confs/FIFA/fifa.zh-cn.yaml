@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: fifa-conf-000
+  type: conf
+  timeline: false
+  info:
+    - fullName: 国际足球联合会
+      shortName: 国际足联
+      localName: Fédération Internationale de Football Association
+      founded: 1904
+      headquarter: 苏黎世，瑞士
+      membership: 211
+  weiboURL: 'https://weibo.com/u/6436906775'
+  twitterURL: 'https://twitter.com/FIFAcom'
+  websiteURL: 'https://www.fifa.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/国际足球联合会'
