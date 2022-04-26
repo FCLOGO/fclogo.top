@@ -1,0 +1,35 @@
+- data: logo
+  uniqueID: 20211027-001
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kunshan FC']
+  slug: /cfa/club/kunshan-v2018-mono-2
+  pngPath: 'png/kunshan-v2018-mono-2.png'
+  svgPath: 'svg/kunshan-v2018-mono-2.svg'
+  sourceID: cfa-club-020
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-002
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kunshan FC']
+  slug: /cfa/club/kunshan-v2018-mono
+  pngPath: 'png/kunshan-v2018-mono.png'
+  svgPath: 'svg/kunshan-v2018-mono.svg'
+  sourceID: cfa-club-020
+  style: mono
+
+- data: logo
+  uniqueID: 20211027-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kunshan FC']
+  slug: /cfa/club/kunshan-v2018
+  pngPath: 'png/kunshan-v2018.png'
+  svgPath: 'svg/kunshan-v2018.svg'
+  sourceID: cfa-club-020
+  style: color

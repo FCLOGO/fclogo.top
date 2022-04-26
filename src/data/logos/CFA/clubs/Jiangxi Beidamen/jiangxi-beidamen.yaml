@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211028-011
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jiangxi Liansheng', 'Jiangxi Beidamen']
+  slug: /cfa/club/jiangxi-beidamen-v2012-mono
+  pngPath: 'png/jiangxi-beidamen-v2012-mono.png'
+  svgPath: 'svg/jiangxi-beidamen-v2012-mono.svg'
+  sourceID: cfa-club-028
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-012
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jiangxi Liansheng', 'Jiangxi Beidamen']
+  slug: /cfa/club/jiangxi-beidamen-v2012
+  pngPath: 'png/jiangxi-beidamen-v2012.png'
+  svgPath: 'svg/jiangxi-beidamen-v2012.svg'
+  sourceID: cfa-club-028
+  style: color

@@ -1,0 +1,153 @@
+- data: logo
+  uniqueID: 20211016-011
+  version: 2017
+  isOutdated: true
+  verName: ['江苏苏宁']
+  pngPath: 'png/jiangsufc-v2017-mono.png'
+  svgPath: 'svg/jiangsufc-v2017-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+  slug: /cfa/club/jiangsufc-v2017-mono
+
+- data: logo
+  uniqueID: 20211016-012
+  version: 2017
+  isOutdated: true
+  verName: ['江苏苏宁']
+  pngPath: 'png/jiangsufc-v2017.png'
+  svgPath: 'svg/jiangsufc-v2017.svg'
+  sourceID: cfa-club-010
+  style: color
+  slug: /cfa/club/jiangsufc-v2017
+
+- data: logo
+  uniqueID: 20211213-160746
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏 FC']
+  slug: /cfa/club/jiangsufc-v2021-mono
+  pngPath: 'png/jiangsufc-v2021-mono.png'
+  svgPath: 'svg/jiangsufc-v2021-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-160834
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏 FC']
+  slug: /cfa/club/jiangsufc-v2021
+  pngPath: 'png/jiangsufc-v2021.png'
+  svgPath: 'svg/jiangsufc-v2021.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-161759
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏苏宁']
+  slug: /cfa/club/jiangsufc-v2016-mono
+  pngPath: 'png/jiangsufc-v2016-mono.png'
+  svgPath: 'svg/jiangsufc-v2016-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-161827
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏苏宁']
+  slug: /cfa/club/jiangsufc-v2016
+  pngPath: 'png/jiangsufc-v2016.png'
+  svgPath: 'svg/jiangsufc-v2016.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-161850
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏苏宁']
+  slug: /cfa/club/jiangsufc-v2016-acl
+  pngPath: 'png/jiangsufc-v2016-acl.png'
+  svgPath: 'svg/jiangsufc-v2016-acl.svg'
+  sourceID: cfa-club-010
+  style: acl
+
+- data: logo
+  uniqueID: 20211213-190654
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏舜天']
+  slug: /cfa/club/jiangsufc-v2000-mono
+  pngPath: 'png/jiangsufc-v2000-mono.png'
+  svgPath: 'svg/jiangsufc-v2000-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-190744
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏舜天']
+  slug: /cfa/club/jiangsufc-v2000
+  pngPath: 'png/jiangsufc-v2000.png'
+  svgPath: 'svg/jiangsufc-v2000.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20211213-190806
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏舜天', '江苏国信舜天']
+  slug: /cfa/club/jiangsufc-v2001-mono
+  pngPath: 'png/jiangsufc-v2001-mono.png'
+  svgPath: 'svg/jiangsufc-v2001-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-190821
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏舜天', '江苏国信舜天']
+  slug: /cfa/club/jiangsufc-v2001
+  pngPath: 'png/jiangsufc-v2001.png'
+  svgPath: 'svg/jiangsufc-v2001.svg'
+  sourceID: cfa-club-010
+  style: color
+
+- data: logo
+  uniqueID: 20220226-150629
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏加佳']
+  slug: /cfa/club/jiangsufc-v1996-mono
+  pngPath: 'png/jiangsufc-v1996-mono.png'
+  svgPath: 'svg/jiangsufc-v1996-mono.svg'
+  sourceID: cfa-club-010
+  style: mono
+
+- data: logo
+  uniqueID: 20220226-150731
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江苏加佳']
+  slug: /cfa/club/jiangsufc-v1996
+  pngPath: 'png/jiangsufc-v1996.png'
+  svgPath: 'svg/jiangsufc-v1996.svg'
+  sourceID: cfa-club-010
+  style: color

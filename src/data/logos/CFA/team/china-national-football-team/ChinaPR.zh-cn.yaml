@@ -1,0 +1,54 @@
+- data: logo
+  uniqueID: 20211207-001
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  slug: /cfa/team/china-national-football-team-v2012-mono
+  pngPath: 'png/china-national-football-team-v2012-mono.png'
+  svgPath: 'svg/china-national-football-team-v2012-mono.svg'
+  sourceID: cfa-team-001
+  style: mono
+
+- data: logo
+  uniqueID: 20211207-002
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  slug: /cfa/team/china-national-football-team-v2012
+  pngPath: 'png/china-national-football-team-v2012.png'
+  svgPath: 'svg/china-national-football-team-v2012.svg'
+  sourceID: cfa-team-001
+  style: color
+
+- data: logo
+  uniqueID: 20211207-003
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  slug: /cfa/team/china-national-football-team-v2014-mono
+  pngPath: 'png/china-national-football-team-v2014-mono.png'
+  svgPath: 'svg/china-national-football-team-v2014-mono.svg'
+  sourceID: cfa-team-001
+  style: mono
+
+- data: logo
+  uniqueID: 20211207-004
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  slug: /cfa/team/china-national-football-team-v2014-flat
+  pngPath: 'png/china-national-football-team-v2014-flat.png'
+  svgPath: 'svg/china-national-football-team-v2014-flat.svg'
+  sourceID: cfa-team-001
+  style: flat
+
+- data: logo
+  uniqueID: 20211207-005
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  slug: /cfa/team/china-national-football-team-v2014
+  pngPath: 'png/china-national-football-team-v2014.png'
+  svgPath: 'svg/china-national-football-team-v2014.svg'
+  sourceID: cfa-team-001
+  style: color

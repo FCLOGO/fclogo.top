@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211207-006
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['中国足协杯']
+  slug: /cfa/comp/cfa-cup-v2012-stereo
+  pngPath: 'png/cfa-cup-v2012-stereo.png'
+  svgPath: 'svg/cfa-cup-v2012-stereo.svg'
+  sourceID: cfa-comp-004
+  style: stereo
+
+- data: logo
+  uniqueID: 20211207-007
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['中国足协杯']
+  slug: /cfa/comp/cfa-cup-v2012
+  pngPath: 'png/cfa-cup-v2012.png'
+  svgPath: 'svg/cfa-cup-v2012.svg'
+  sourceID: cfa-comp-004
+  style: color

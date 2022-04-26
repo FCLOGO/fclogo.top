@@ -1,0 +1,89 @@
+- data: logo
+  uniqueID: 20211017-007
+  version: 2012
+  isOutdated: true
+  verName: ['武汉卓尔']
+  pngPath: 'png/wuhanfc-v2012-mono.png'
+  svgPath: 'svg/wuhanfc-v2012-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+  slug: /cfa/club/wuhanfc-v2012-mono
+
+- data: logo
+  uniqueID: 20211017-008
+  version: 2012
+  isOutdated: true
+  verName: ['武汉卓尔']
+  pngPath: 'png/wuhanfc-v2012.png'
+  svgPath: 'svg/wuhanfc-v2012.svg'
+  sourceID: cfa-club-014
+  style: color
+  slug: /cfa/club/wuhanfc-v2012
+
+- data: logo
+  uniqueID: 20211019-001
+  version: 2021
+  verName: ['武汉 FC']
+  pngPath: 'png/wuhanfc-v2021-mono.png'
+  svgPath: 'svg/wuhanfc-v2021-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+  slug: /cfa/club/wuhanfc-v2021-mono
+
+- data: logo
+  uniqueID: 20211019-002
+  version: 2021
+  verName: ['武汉 FC']
+  pngPath: 'png/wuhanfc-v2021.png'
+  svgPath: 'svg/wuhanfc-v2021.svg'
+  sourceID: cfa-club-014
+  style: color
+  slug: /cfa/club/wuhanfc-v2021
+
+- data: logo
+  uniqueID: 20211219-235031
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北绿茵']
+  slug: /cfa/club/wuhanfc-v2009-mono
+  pngPath: 'png/wuhanfc-v2009-mono.png'
+  svgPath: 'svg/wuhanfc-v2009-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+
+- data: logo
+  uniqueID: 20211219-235057
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北绿茵']
+  slug: /cfa/club/wuhanfc-v2009
+  pngPath: 'png/wuhanfc-v2009.png'
+  svgPath: 'svg/wuhanfc-v2009.svg'
+  sourceID: cfa-club-014
+  style: color
+
+- data: logo
+  uniqueID: 20211226-172147
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北武汉中博']
+  slug: /cfa/club/wuhanfc-v2011-mono
+  pngPath: 'png/wuhanfc-v2011-mono.png'
+  svgPath: 'svg/wuhanfc-v2011-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+
+- data: logo
+  uniqueID: 20211226-172227
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['湖北武汉中博']
+  slug: /cfa/club/wuhanfc-v2011
+  pngPath: 'png/wuhanfc-v2011.png'
+  svgPath: 'svg/wuhanfc-v2011.svg'
+  sourceID: cfa-club-014
+  style: color

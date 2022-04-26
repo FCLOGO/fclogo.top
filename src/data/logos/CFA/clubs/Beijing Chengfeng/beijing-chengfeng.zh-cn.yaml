@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211103-005
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京人和', '北京橙丰']
+  slug: /cfa/club/beijing-chengfeng-v2016-mono
+  pngPath: 'png/beijing-chengfeng-v2016-mono.png'
+  svgPath: 'svg/beijing-chengfeng-v2016-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-006
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京人和', '北京橙丰']
+  slug: /cfa/club/beijing-chengfeng-v2016
+  pngPath: 'png/beijing-chengfeng-v2016.png'
+  svgPath: 'svg/beijing-chengfeng-v2016.svg'
+  sourceID: cfa-club-036
+  style: color

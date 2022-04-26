@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20211026-003
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['武汉三镇']
+  slug: /cfa/club/wuhan-three-towns-v2019-mono
+  pngPath: 'png/wuhan-three-towns-v2019-mono.png'
+  svgPath: 'svg/wuhan-three-towns-v2019-mono.svg'
+  sourceID: cfa-club-019
+  style: mono
+
+- data: logo
+  uniqueID: 20211026-004
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['武汉三镇']
+  slug: /cfa/club/wuhan-three-towns-v2019
+  pngPath: 'png/wuhan-three-towns-v2019.png'
+  svgPath: 'svg/wuhan-three-towns-v2019.svg'
+  sourceID: cfa-club-019
+  style: color
+
+- data: logo
+  uniqueID: 20220331-151331
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['武汉尚文']
+  slug: /cfa/club/wuhan-three-towns-v2017-mono
+  pngPath: 'png/wuhan-three-towns-v2017-mono.png'
+  svgPath: 'svg/wuhan-three-towns-v2017-mono.svg'
+  sourceID: cfa-club-019
+  style: mono
+
+- data: logo
+  uniqueID: 20220331-151404
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['武汉尚文']
+  slug: /cfa/club/wuhan-three-towns-v2017
+  pngPath: 'png/wuhan-three-towns-v2017.png'
+  svgPath: 'svg/wuhan-three-towns-v2017.svg'
+  sourceID: cfa-club-019
+  style: color

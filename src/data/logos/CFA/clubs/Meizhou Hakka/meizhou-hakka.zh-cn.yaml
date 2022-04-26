@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20211101-001
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['梅州客家']
+  slug: /cfa/club/meizhou-hakka-v2016-mono
+  pngPath: 'png/meizhou-hakka-v2016-mono.png'
+  svgPath: 'svg/meizhou-hakka-v2016-mono.svg'
+  sourceID: cfa-club-030
+  style: mono
+
+- data: logo
+  uniqueID: 20211101-002
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['梅州客家']
+  slug: /cfa/club/meizhou-hakka-v2016
+  pngPath: 'png/meizhou-hakka-v2016.png'
+  svgPath: 'svg/meizhou-hakka-v2016.svg'
+  sourceID: cfa-club-030
+  style: color
+
+- data: logo
+  uniqueID: 20211226-190151
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['梅州客家']
+  slug: /cfa/club/meizhou-hakka-v2013-mono
+  pngPath: 'png/meizhou-hakka-v2013-mono.png'
+  svgPath: 'svg/meizhou-hakka-v2013-mono.svg'
+  sourceID: cfa-club-030
+  style: mono
+
+- data: logo
+  uniqueID: 20211226-190240
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['梅州客家']
+  slug: /cfa/club/meizhou-hakka-v2013
+  pngPath: 'png/meizhou-hakka-v2013.png'
+  svgPath: 'svg/meizhou-hakka-v2013.svg'
+  sourceID: cfa-club-030
+  style: color

@@ -1,0 +1,111 @@
+- data: sourceInfo
+  sourceID: cfa-comp-001
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会超级联赛
+      shortName: 中超联赛
+      localName: 中国足球协会超级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 18
+      level: 第 1 级别
+      relegation: 中甲联赛
+  weiboURL: 'https://weibo.com/u/1800991937'
+  websiteURL: 'http://csl-china.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会超级联赛'
+
+- data: sourceInfo
+  sourceID: cfa-comp-002
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会甲级联赛
+      shortName: 中甲联赛
+      localName: 中国足球协会甲级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 18
+      level: 第 2 级别
+      promotion: 中超联赛
+      relegation: 中乙联赛
+  weiboURL: 'https://weibo.com/u/5643143867'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会甲级联赛'
+
+- data: sourceInfo
+  sourceID: cfa-comp-003
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会乙级联赛
+      shortName: 中乙联赛
+      localName: 中国足球协会乙级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 24
+      level: 第 3 级别
+      promotion: 中甲联赛
+      relegation: 中冠联赛
+  weiboURL: 'https://weibo.com/u/6498429917'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会乙级联赛'
+
+- data: sourceInfo
+  sourceID: cfa-comp-004
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会杯
+      shortName: 中国足协杯
+      localName: 中国足球协会杯
+      founded: 1956
+      confederation: AFC
+      teams: 64
+      level:
+      promotion:
+      relegation:
+  weiboURL: 'https://weibo.com/u/2111789007'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/zxb/index.html'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中國足協盃'
+
+- data: sourceInfo
+  sourceID: cfa-comp-005
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会超级杯
+      shortName: 中国足协超级杯
+      localName: 中国足球协会超级杯
+      founded: 1995
+      confederation:
+      teams: 2
+      level:
+      promotion:
+      relegation:
+  weiboURL: 'https://weibo.com/u/2631457885'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会超级杯'
+
+- data: sourceInfo
+  sourceID: cfa-comp-006
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会会员协会冠军联赛
+      shortName: 中冠联赛
+      localName: 中国足球协会会员协会冠军联赛
+      founded: 2002
+      confederation: AFC
+      teams: 56
+      level: 第 4 级别
+      promotion: 中乙联赛
+      relegation:
+  weiboURL: 'https://weibo.com/u/6415015229'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/yyls/index.html'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会会员协会冠军联赛'

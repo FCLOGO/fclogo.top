@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: fifa-conf-001
+  type: conf
+  continent: Asia
+  timeline: false
+  info:
+    - fullName: Asian Football Confederation
+      shortName: AFC
+      localName: Asian Football Confederation
+      founded: 1954
+      headquarter: Kuala Lumpur, Malaysia
+      affiliations: FIFA
+  weiboURL: 'https://weibo.com/afcasiancup/'
+  twitterURL: 'https://twitter.com/theafcdotcom/'
+  websiteURL: 'https://www.the-afc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Asian_Football_Confederation'

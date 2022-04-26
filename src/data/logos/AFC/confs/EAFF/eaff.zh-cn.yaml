@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20220402-164334
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['东亚足联']
+  slug: /afc/conf/east-asian-football-federation-v2002-mono
+  pngPath: 'png/east-asian-football-federation-v2002-mono.png'
+  svgPath: 'svg/east-asian-football-federation-v2002-mono.svg'
+  sourceID: afc-conf-001
+  style: mono
+
+- data: logo
+  uniqueID: 20220402-164518
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['东亚足联']
+  slug: /afc/conf/east-asian-football-federation-v2002
+  pngPath: 'png/east-asian-football-federation-v2002.png'
+  svgPath: 'svg/east-asian-football-federation-v2002.svg'
+  sourceID: afc-conf-001
+  style: color

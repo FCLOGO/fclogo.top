@@ -1,0 +1,11 @@
+- data: logo
+  uniqueID: 20211207-008
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['中国超级杯']
+  slug: /cfa/comp/cfa-super-cup-v2017
+  pngPath: 'png/cfa-super-cup-v2017.png'
+  svgPath: 'svg/cfa-super-cup-v2017.svg'
+  sourceID: cfa-comp-005
+  style: color

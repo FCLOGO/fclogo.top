@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211028-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Suzhou Dongwu']
+  slug: /cfa/club/suzhou-dongwu-v2018-mono
+  pngPath: 'png/suzhou-dongwu-v2018-mono.png'
+  svgPath: 'svg/suzhou-dongwu-v2018-mono.svg'
+  sourceID: cfa-club-025
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Suzhou Dongwu']
+  slug: /cfa/club/suzhou-dongwu-v2018
+  pngPath: 'png/suzhou-dongwu-v2018.png'
+  svgPath: 'svg/suzhou-dongwu-v2018.svg'
+  sourceID: cfa-club-025
+  style: color

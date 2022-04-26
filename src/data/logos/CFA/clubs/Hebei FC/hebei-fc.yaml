@@ -1,0 +1,65 @@
+- data: logo
+  uniqueID: 20211017-001
+  version: 2016
+  isOutdated: true
+  verName: ['Hebei China Fortune']
+  pngPath: 'png/hebeifc-v2016-mono.png'
+  svgPath: 'svg/hebeifc-v2016-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa/club/hebeifc-v2016-mono
+
+- data: logo
+  uniqueID: 20211017-002
+  version: 2016
+  isOutdated: true
+  verName: ['Hebei China Fortune']
+  pngPath: 'png/hebeifc-v2016.png'
+  svgPath: 'svg/hebeifc-v2016.svg'
+  sourceID: cfa-club-017
+  style: color
+  slug: /cfa/club/hebeifc-v2016
+
+- data: logo
+  uniqueID: 20211018-005
+  version: 2021
+  verName: ['Hebei FC']
+  pngPath: 'png/hebeifc-v2021-mono.png'
+  svgPath: 'svg/hebeifc-v2021-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa/club/hebeifc-v2021-mono
+
+- data: logo
+  uniqueID: 20211018-006
+  version: 2021
+  verName: ['Hebei FC']
+  pngPath: 'png/hebeifc-v2021.png'
+  svgPath: 'svg/cfa-hebeifc-v2021.svg'
+  sourceID: cfa-club-017
+  style: color
+  slug: /cfa/club/hebeifc-v2021
+
+- data: logo
+  uniqueID: 20211213-150347
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['HeBei China Fortune']
+  slug: /cfa/club/hebeifc-v2015-mono
+  pngPath: 'png/hebeifc-v2015-mono.png'
+  svgPath: 'svg/hebeifc-v2015-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+
+- data: logo
+  uniqueID: 20211213-150436
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['HeBei China Fortune']
+  slug: /cfa/club/hebeifc-v2015
+  pngPath: 'png/hebeifc-v2015.png'
+  svgPath: 'svg/hebeifc-v2015.svg'
+  sourceID: cfa-club-017
+  style: color

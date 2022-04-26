@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211121-007
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['QingDao Red Lions']
+  slug: /cfa/club/qingdao-red-lions-v2016-mono
+  pngPath: 'png/qingdao-red-lions-v2016-mono.png'
+  svgPath: 'svg/qingdao-red-lions-v2016-mono.svg'
+  sourceID: cfa-club-060
+  style: mono
+
+- data: logo
+  uniqueID: 20211121-008
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Qingdao Red Lions']
+  slug: /cfa/club/qingdao-red-lions-v2016
+  pngPath: 'png/qingdao-red-lions-v2016.png'
+  svgPath: 'svg/qingdao-red-lions-v2016.svg'
+  sourceID: cfa-club-060
+  style: color

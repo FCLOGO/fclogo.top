@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211103-015
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenxin']
+  slug: /cfa/club/shanghai-shenxin-v2017-mono
+  pngPath: 'png/shanghai-shenxin-v2017-mono.png'
+  svgPath: 'svg/shanghai-shenxin-v2017-mono.svg'
+  sourceID: cfa-club-040
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-016
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shanghai Shenxin']
+  slug: /cfa/club/shanghai-shenxin-v2017
+  pngPath: 'png/shanghai-shenxin-v2017.png'
+  svgPath: 'svg/shanghai-shenxin-v2017.svg'
+  sourceID: cfa-club-040
+  style: color

@@ -1,0 +1,35 @@
+- data: logo
+  uniqueID: 20211208-154604
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['福建天信', '福建宁德福宁']
+  slug: /cfa/club/fujian-ningde-funing-v2017-graph
+  pngPath: 'png/fujian-ningde-funing-v2017-graph.png'
+  svgPath: 'svg/fujian-ningde-funing-v2017-graph.svg'
+  sourceID: cfa-club-075
+  style: graph
+
+- data: logo
+  uniqueID: 20211208-175524
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['福建天信', '福建宁德福宁']
+  slug: /cfa/club/fujian-ningde-funing-v2017-mono
+  pngPath: 'png/fujian-ningde-funing-v2017-mono.png'
+  svgPath: 'svg/fujian-ningde-funing-v2017-mono.svg'
+  sourceID: cfa-club-075
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-175557
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['福建天信', '福建宁德福宁']
+  slug: /cfa/club/fujian-ningde-funing-v2017
+  pngPath: 'png/fujian-ningde-funing-v2017.png'
+  svgPath: 'svg/fujian-ningde-funing-v2017.svg'
+  sourceID: cfa-club-075
+  style: color

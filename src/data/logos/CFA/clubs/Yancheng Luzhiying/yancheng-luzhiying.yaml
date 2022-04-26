@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211208-007
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu YanCheng DingLi', 'YanCheng LuZhiYing']
+  slug: /cfa/club/yancheng-luzhiying-v2016-mono
+  pngPath: 'png/yancheng-luzhiying-v2016-mono.png'
+  svgPath: 'svg/yancheng-luzhiying-v2016-mono.svg'
+  sourceID: cfa-club-070
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-008
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['JiangSu YanCheng DingLi', 'YanCheng LuZhiYing']
+  slug: /cfa/club/yancheng-luzhiying-v2016
+  pngPath: 'png/yancheng-luzhiying-v2016.png'
+  svgPath: 'svg/yancheng-luzhiying-v2016.svg'
+  sourceID: cfa-club-070
+  style: color

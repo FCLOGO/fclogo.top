@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20211107-007
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['山西信都']
+  slug: /cfa/club/shanxi-longjin-v2018-mono
+  pngPath: 'png/shanxi-longjin-v2018-mono.png'
+  svgPath: 'svg/shanxi-longjin-v2018-mono.svg'
+  sourceID: cfa-club-049
+  style: mono
+
+- data: logo
+  uniqueID: 20211107-008
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['山西信都']
+  slug: /cfa/club/shanxi-longjin-v2018
+  pngPath: 'png/shanxi-longjin-v2018.png'
+  svgPath: 'svg/shanxi-longjin-v2018.svg'
+  sourceID: cfa-club-049
+  style: color
+
+- data: logo
+  uniqueID: 20211107-009
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山西龙晋']
+  slug: /cfa/club/shanxi-longjin-v2020-mono
+  pngPath: 'png/shanxi-longjin-v2020-mono.png'
+  svgPath: 'svg/shanxi-longjin-v2020-mono.svg'
+  sourceID: cfa-club-049
+  style: mono
+
+- data: logo
+  uniqueID: 20211107-010
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山西龙晋']
+  slug: /cfa/club/shanxi-longjin-v2020
+  pngPath: 'png/shanxi-longjin-v2020.png'
+  svgPath: 'svg/shanxi-longjin-v2020.svg'
+  sourceID: cfa-club-049
+  style: color

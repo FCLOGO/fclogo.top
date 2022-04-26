@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211113-003
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['陕西俑士超越']
+  slug: /cfa/club/shaanxi-warriors-beyond-v2021-mono
+  pngPath: 'png/shaanxi-warriors-beyond-v2021-mono.png'
+  svgPath: 'svg/shaanxi-warriors-beyond-v2021-mono.svg'
+  sourceID: cfa-club-054
+  style: mono
+
+- data: logo
+  uniqueID: 20211113-004
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['陕西俑士超越']
+  slug: /cfa/club/shaanxi-warriors-beyond-v2021
+  pngPath: 'png/shaanxi-warriors-beyond-v2021.png'
+  svgPath: 'svg/shaanxi-warriors-beyond-v2021.svg'
+  sourceID: cfa-club-054
+  style: color

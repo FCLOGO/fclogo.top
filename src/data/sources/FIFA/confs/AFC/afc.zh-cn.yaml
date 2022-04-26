@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: fifa-conf-001
+  type: conf
+  continent: Asia
+  timeline: false
+  info:
+    - fullName: 亚洲足球联合会
+      shortName: 亚足联
+      localName: Asian Football Confederation
+      founded: 1954
+      headquarter: 吉隆坡，马来西亚
+      affiliations: FIFA
+  weiboURL: 'https://weibo.com/afcasiancup/'
+  twitterURL: 'https://twitter.com/theafcdotcom/'
+  websiteURL: 'https://www.the-afc.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/亚洲足球联合会/'

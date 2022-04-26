@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: cfa-team-001
+  type: team
+  nation: China
+  info:
+    - fullName: 中国国家足球队
+      shortName: 中国国家足球队
+      localName: 中国国家足球队
+      assn: CFA
+      conf: AFC
+      code: CHN
+  weiboURL: 'https://weibo.com/u/1892463935'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/nzgjd/index.html'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国国家足球队'

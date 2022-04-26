@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: afc-conf-001
+  type: conf
+  continent: Asia
+  timeline: true
+  info:
+    - fullName: East Asian Football Federation
+      shortName: EAFF
+      localName: East Asian Football Federation
+      founded: 2002
+      headquarter: Tokyo, Japan
+      affiliations: AFC  ▸  FIFA
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/eaff_official'
+  websiteURL: 'https://eaff.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/East_Asian_Football_Federation'

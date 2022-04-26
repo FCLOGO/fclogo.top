@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211103-019
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['延边长白山', '延边富德']
+  slug: /cfa/club/yanbian-funde-v2014-mono
+  pngPath: 'png/yanbian-funde-v2014-mono.png'
+  svgPath: 'svg/yanbian-funde-v2014-mono.svg'
+  sourceID: cfa-club-042
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-020
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['延边长白山', '延边富德']
+  slug: /cfa/club/yanbian-funde-v2014
+  pngPath: 'png/yanbian-funde-v2014.png'
+  svgPath: 'svg/yanbian-funde-v2014.svg'
+  sourceID: cfa-club-042
+  style: color

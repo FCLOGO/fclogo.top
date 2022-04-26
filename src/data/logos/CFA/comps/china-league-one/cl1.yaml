@@ -1,0 +1,21 @@
+- data: logo
+  uniqueID: 20211023-001
+  version: 2004
+  isOutdated: false
+  verName: ['China League One']
+  slug: /cfa/comp/china-league-one-v2004
+  pngPath: 'png/china-league-one-v2004.png'
+  svgPath: 'svg/china-league-one-v2004.svg'
+  sourceID: cfa-comp-002
+  style: color
+
+- data: logo
+  uniqueID: 20211023-002
+  version: 2004
+  isOutdated: false
+  verName: ['China League One']
+  slug: /cfa/comp/china-league-one-v2004-mono
+  pngPath: 'png/china-league-one-v2004-mono.png'
+  svgPath: 'svg/china-league-one-v2004-mono.svg'
+  sourceID: cfa-comp-002
+  style: mono

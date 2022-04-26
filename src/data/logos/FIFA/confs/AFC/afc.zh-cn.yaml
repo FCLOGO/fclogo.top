@@ -1,0 +1,11 @@
+- data: logo
+  uniqueID: 20220402-234322
+  version: 2001
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AFC']
+  slug: /fifa/conf/asian-football-confederation-v2001
+  pngPath: 'png/asian-football-confederation-v2001.png'
+  svgPath: 'svg/asian-football-confederation-v2001.svg'
+  sourceID: fifa-conf-001
+  style: color

@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20220401-153903
+  version: 0000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['香港足球总会']
+  slug: /afc/assn/the-hong-kong-football-association-limited-mono
+  pngPath: 'png/the-hong-kong-football-association-limited-mono.png'
+  svgPath: 'svg/the-hong-kong-football-association-limited-mono.svg'
+  sourceID: afc-assn-002
+  style: mono
+
+- data: logo
+  uniqueID: 20220401-153903
+  version: 0000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['香港足球总会']
+  slug: /afc/assn/the-hong-kong-football-association-limited
+  pngPath: 'png/the-hong-kong-football-association-limited.png'
+  svgPath: 'svg/the-hong-kong-football-association-limited.svg'
+  sourceID: afc-assn-002
+  style: color

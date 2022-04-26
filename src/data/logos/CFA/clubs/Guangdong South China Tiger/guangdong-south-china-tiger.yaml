@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20211103-007
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Meixian Techand']
+  slug: /cfa/club/guangdong-south-china-tiger-v2017-mono
+  pngPath: 'png/guangdong-south-china-tiger-v2017-mono.png'
+  svgPath: 'svg/guangdong-south-china-tiger-v2017-mono.svg'
+  sourceID: cfa-club-037
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-008
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Meixian Techand']
+  slug: /cfa/club/guangdong-south-china-tiger-v2017
+  pngPath: 'png/guangdong-south-china-tiger-v2017.png'
+  svgPath: 'svg/guangdong-south-china-tiger-v2017.svg'
+  sourceID: cfa-club-037
+  style: color
+
+- data: logo
+  uniqueID: 20211103-009
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangdong South China Tiger']
+  slug: /cfa/club/guangdong-south-china-tiger-v2019-mono
+  pngPath: 'png/guangdong-south-china-tiger-v2019-mono.png'
+  svgPath: 'svg/guangdong-south-china-tiger-v2019-mono.svg'
+  sourceID: cfa-club-037
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-010
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangdong South China Tiger']
+  slug: /cfa/club/guangdong-south-china-tiger-v2019
+  pngPath: 'png/guangdong-south-china-tiger-v2019.png'
+  svgPath: 'svg/guangdong-south-china-tiger-v2019.svg'
+  sourceID: cfa-club-037
+  style: color

@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20211103-021
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['天津权健']
+  slug: /cfa/club/tianjin-tianhai-v2016-mono
+  pngPath: 'png/tianjin-tianhai-v2016-mono.png'
+  svgPath: 'svg/tianjin-tianhai-v2016-mono.svg'
+  sourceID: cfa-club-043
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-022
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['天津权健']
+  slug: /cfa/club/tianjin-tianhai-v2016
+  pngPath: 'png/tianjin-tianhai-v2016.png'
+  svgPath: 'svg/tianjin-tianhai-v2016.svg'
+  sourceID: cfa-club-043
+  style: color
+
+- data: logo
+  uniqueID: 20211103-023
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['天津天海']
+  slug: /cfa/club/tianjin-tianhai-v2019-mono
+  pngPath: 'png/tianjin-tianhai-v2019-mono.png'
+  svgPath: 'svg/tianjin-tianhai-v2019-mono.svg'
+  sourceID: cfa-club-043
+  style: mono
+
+- data: logo
+  uniqueID: 20211103-024
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['天津天海']
+  slug: /cfa/club/tianjin-tianhai-v2019
+  pngPath: 'png/tianjin-tianhai-v2019.png'
+  svgPath: 'svg/tianjin-tianhai-v2019.svg'
+  sourceID: cfa-club-043
+  style: color

@@ -1,0 +1,41 @@
+- data: logo
+  uniqueID: 20211017-009
+  version: 2015
+  isOutdated: true
+  verName: ['石家庄永昌']
+  pngPath: 'png/cangzhou-mighty-lions-v2015-mono.png'
+  svgPath: 'svg/cangzhou-mighty-lions-v2015-mono.svg'
+  sourceID: cfa-club-016
+  style: mono
+  slug: /cfa/club/cangzhou-mighty-lions-v2015-mono
+
+- data: logo
+  uniqueID: 20211017-010
+  version: 2015
+  isOutdated: true
+  verName: ['石家庄永昌']
+  pngPath: 'png/cangzhou-mighty-lions-v2015.png'
+  svgPath: 'svg/cangzhou-mighty-lions-v2015.svg'
+  sourceID: cfa-club-016
+  style: color
+  slug: /cfa/club/cangzhou-mighty-lions-v2015
+
+- data: logo
+  uniqueID: 20211020-001
+  version: 2021
+  verName: ['沧州雄狮']
+  pngPath: 'png/cangzhou-mighty-lions-v2021-mono.png'
+  svgPath: 'svg/cangzhou-mighty-lions-v2021-mono.svg'
+  sourceID: cfa-club-016
+  style: mono
+  slug: /cfa/club/cangzhou-mighty-lions-v2021-mono
+
+- data: logo
+  uniqueID: 20211020-002
+  version: 2021
+  verName: ['沧州雄狮']
+  pngPath: 'png/cangzhou-mighty-lions-v2021.png'
+  svgPath: 'svg/cangzhou-mighty-lions-v2021.svg'
+  sourceID: cfa-club-016
+  style: color
+  slug: /cfa/club/cangzhou-mighty-lions-v2021

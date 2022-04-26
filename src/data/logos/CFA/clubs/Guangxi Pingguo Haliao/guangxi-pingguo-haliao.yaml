@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211106-007
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangxi Baoyun', 'Guangxi Pingguo Haliao']
+  slug: /cfa/club/guangxi-pingguo-haliao-v2018-mono
+  pngPath: 'png/guangxi-pingguo-haliao-v2018-mono.png'
+  svgPath: 'svg/guangxi-pingguo-haliao-v2018-mono.svg'
+  sourceID: cfa-club-047
+  style: mono
+
+- data: logo
+  uniqueID: 20211106-008
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangxi Baoyun', 'Guangxi Pingguo Haliao']
+  slug: /cfa/club/guangxi-pingguo-haliao-v2018
+  pngPath: 'png/guangxi-pingguo-haliao-v2018.png'
+  svgPath: 'svg/guangxi-pingguo-haliao-v2018.svg'
+  sourceID: cfa-club-047
+  style: color

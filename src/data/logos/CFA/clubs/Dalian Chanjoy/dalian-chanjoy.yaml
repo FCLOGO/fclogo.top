@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211208-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Dalian Chanjoy']
+  slug: /cfa/club/dalian-chanjoy-v2018-mono
+  pngPath: 'png/dalian-chanjoy-v2018-mono.png'
+  svgPath: 'svg/dalian-chanjoy-v2018-mono.svg'
+  sourceID: cfa-club-068
+  style: mono
+
+- data: logo
+  uniqueID: 20211208-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Dalian Chanjoy']
+  slug: /cfa/club/dalian-chanjoy-v2018
+  pngPath: 'png/dalian-chanjoy-v2018.png'
+  svgPath: 'svg/dalian-chanjoy-v2018.svg'
+  sourceID: cfa-club-068
+  style: color

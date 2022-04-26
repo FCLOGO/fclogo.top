@@ -1,0 +1,107 @@
+- data: logo
+  uniqueID: 20211028-001
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guizhou Henngfeng', 'Guizhou']
+  slug: /cfa/club/guizhoufc-v2018-mono
+  pngPath: 'png/guizhoufc-v2018-mono.png'
+  svgPath: 'svg/guizhoufc-v2018-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-002
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guizhou Henngfeng', 'Guizhou']
+  slug: /cfa/club/guizhoufc-v2018
+  pngPath: 'png/guizhoufc-v2018.png'
+  svgPath: 'svg/guizhoufc-v2018.svg'
+  sourceID: cfa-club-024
+  style: color
+
+- data: logo
+  uniqueID: 20211228-151822
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Zhicheng']
+  slug: /cfa/club/guizhoufc-v2011-mono
+  pngPath: 'png/guizhoufc-v2011-mono.png'
+  svgPath: 'svg/guizhoufc-v2011-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211228-151848
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Zhicheng']
+  slug: /cfa/club/guizhoufc-v2011
+  pngPath: 'png/guizhoufc-v2011.png'
+  svgPath: 'svg/guizhoufc-v2011.svg'
+  sourceID: cfa-club-024
+  style: color
+
+- data: logo
+  uniqueID: 20211228-151912
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Zhicheng']
+  slug: /cfa/club/guizhoufc-v2011-graph
+  pngPath: 'png/guizhoufc-v2011-graph.png'
+  svgPath: 'svg/guizhoufc-v2011-graph.svg'
+  sourceID: cfa-club-024
+  style: graph
+
+- data: logo
+  uniqueID: 20211228-151942
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Hengfeng Zhicheng']
+  slug: /cfa/club/guizhoufc-v2016-mono
+  pngPath: 'png/guizhoufc-v2016-mono.png'
+  svgPath: 'svg/guizhoufc-v2016-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211228-152012
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Hengfeng Zhicheng']
+  slug: /cfa/club/guizhoufc-v2016
+  pngPath: 'png/guizhoufc-v2016.png'
+  svgPath: 'svg/guizhoufc-v2016.svg'
+  sourceID: cfa-club-024
+  style: color
+
+- data: logo
+  uniqueID: 20211229-221922
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Zhicheng']
+  slug: /cfa/club/guizhoufc-v2008-mono
+  pngPath: 'png/guizhoufc-v2008-mono.png'
+  svgPath: 'svg/guizhoufc-v2008-mono.svg'
+  sourceID: cfa-club-024
+  style: mono
+
+- data: logo
+  uniqueID: 20211229-221945
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guizhou Zhicheng']
+  slug: /cfa/club/guizhoufc-v2008
+  pngPath: 'png/guizhoufc-v2008.png'
+  svgPath: 'svg/guizhoufc-v2008.svg'
+  sourceID: cfa-club-024
+  style: color

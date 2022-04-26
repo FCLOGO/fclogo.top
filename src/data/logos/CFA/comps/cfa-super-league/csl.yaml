@@ -1,0 +1,19 @@
+- data: logo
+  uniqueID: 20211007-004
+  version: 2004
+  verName: ['Chinese Super League']
+  pngPath: 'png/cfa-super-league-v2004.png'
+  svgPath: 'svg/cfa-super-league-v2004.svg'
+  sourceID: cfa-comp-001
+  style: color
+  slug: /cfa/comp/cfa-super-league-v2004
+
+- data: logo
+  uniqueID: 20211007-005
+  version: 2004
+  verName: ['Chinese Super League']
+  pngPath: 'png/cfa-super-league-v2004-full.png'
+  svgPath: 'svg/cfa-super-league-v2004-full.svg'
+  sourceID: cfa-comp-001
+  style: mono
+  slug: /cfa/comp/cfa-super-league-v2004-full

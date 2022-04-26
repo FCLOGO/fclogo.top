@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: afc-assn-001
+  type: assn
+  nation: China
+  info:
+    - fullName: Chinese Football Association
+      shortName: CFA
+      localName: 中国足球协会
+      founded: 1955
+      headquarter: Beijing, China
+      affiliations: EAFF  ▸  AFC  ▸  FIFA
+  weiboURL: 'https://weibo.com/u/2428962854'
+  twitterURL: 'https://twitter.com/CFA'
+  websiteURL: 'http://www.thecfa.cn'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_Football_Association'

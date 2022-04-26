@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: cfa-team-001
+  type: team
+  nation: China
+  info:
+    - fullName: China National Football Team
+      shortName: China National Football Team
+      localName: 中国国家足球队
+      assn: CFA
+      conf: AFC
+      code: CHN
+  weiboURL: 'https://weibo.com/u/1892463935'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/nzgjd/index.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/China_national_football_team'

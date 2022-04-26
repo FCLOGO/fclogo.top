@@ -1,0 +1,53 @@
+- data: logo
+  uniqueID: 20211007-001
+  version: 2018
+  verName: ['CFA']
+  pngPath: 'png/chinese-football-association-v2018.png'
+  svgPath: 'svg/chinese-football-association-v2018.svg'
+  sourceID: afc-assn-001
+  style: color
+  slug: /afc/assn/chinese-football-association-v2018
+
+- data: logo
+  uniqueID: 20211007-002
+  version: 2018
+  verName: ['CFA']
+  pngPath: 'png/chinese-football-association-v2018-mono.png'
+  svgPath: 'svg/chinese-football-association-v2018-mono.svg'
+  sourceID: afc-assn-001
+  style: mono
+  slug: /afc/assn/chinese-football-association-v2018-mono
+
+- data: logo
+  uniqueID: 20211007-003
+  version: 2018
+  verName: ['CFA']
+  pngPath: 'png/chinese-football-association-v2018-text.png'
+  svgPath: 'svg/chinese-football-association-v2018-text.svg'
+  sourceID: afc-assn-001
+  style: text
+  slug: /afc/assn/chinese-football-association-v2018-text
+
+- data: logo
+  uniqueID: 20211209-110355
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CFA']
+  slug: /afc/assn/chinese-football-association-v1984-mono
+  pngPath: 'png/chinese-football-association-v1984-mono.png'
+  svgPath: 'svg/chinese-football-association-v1984-mono.svg'
+  sourceID: afc-assn-001
+  style: mono
+
+- data: logo
+  uniqueID: 20211209-110450
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CFA']
+  slug: /afc/assn/chinese-football-association-v1984
+  pngPath: 'png/chinese-football-association-v1984.png'
+  svgPath: 'svg/chinese-football-association-v1984.svg'
+  sourceID: afc-assn-001
+  style: color

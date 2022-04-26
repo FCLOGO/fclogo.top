@@ -1,0 +1,95 @@
+- data: logo
+  uniqueID: 20211122-001
+  version: 2016
+  isDoubtful: true
+  isOutdated: true
+  verName: ['QingDao KangTaiYuan']
+  slug: /cfa/club/qingdao-qingchundao-v2016-mono
+  pngPath: 'png/qingdao-qingchundao-v2016-mono.png'
+  svgPath: 'svg/qingdao-qingchundao-v2016-mono.svg'
+  sourceID: cfa-club-061
+  style: mono
+
+- data: logo
+  uniqueID: 20211122-002
+  version: 2016
+  isDoubtful: true
+  isOutdated: true
+  verName: ['QingDao KangTaiYuan']
+  slug: /cfa/club/qingdao-qingchundao-v2016
+  pngPath: 'png/qingdao-qingchundao-v2016.png'
+  svgPath: 'svg/qingdao-qingchundao-v2016.svg'
+  sourceID: cfa-club-061
+  style: color
+
+- data: logo
+  uniqueID: 20211122-003
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['QingDao ZhongChuang HengTai']
+  slug: /cfa/club/qingdao-qingchundao-v2018-mono
+  pngPath: 'png/qingdao-qingchundao-v2018-mono.png'
+  svgPath: 'svg/qingdao-qingchundao-v2018-mono.svg'
+  sourceID: cfa-club-061
+  style: mono
+
+- data: logo
+  uniqueID: 20211122-004
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['QingDao ZhongChuang HengTai']
+  slug: /cfa/club/qingdao-qingchundao-v2018
+  pngPath: 'png/qingdao-qingchundao-v2018.png'
+  svgPath: 'svg/qingdao-qingchundao-v2018.svg'
+  sourceID: cfa-club-061
+  style: color
+
+- data: logo
+  uniqueID: 20211122-005
+  version: 2020
+  isDoubtful: false
+  isOutdated: true
+  verName: ['QingDao ZhongChuang HengTai']
+  slug: /cfa/club/qingdao-qingchundao-v2020-mono
+  pngPath: 'png/qingdao-qingchundao-v2020-mono.png'
+  svgPath: 'svg/qingdao-qingchundao-v2020-mono.svg'
+  sourceID: cfa-club-061
+  style: mono
+
+- data: logo
+  uniqueID: 20211122-006
+  version: 2020
+  isDoubtful: false
+  isOutdated: true
+  verName: ['QingDao ZhongChuang HengTai']
+  slug: /cfa/club/qingdao-qingchundao-v2020
+  pngPath: 'png/qingdao-qingchundao-v2020.png'
+  svgPath: 'svg/qingdao-qingchundao-v2020.svg'
+  sourceID: cfa-club-061
+  style: color
+
+- data: logo
+  uniqueID: 20211122-007
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['QingDao QingChunDao']
+  slug: /cfa/club/qingdao-qingchundao-v2021-mono
+  pngPath: 'png/qingdao-qingchundao-v2021-mono.png'
+  svgPath: 'svg/qingdao-qingchundao-v2021-mono.svg'
+  sourceID: cfa-club-061
+  style: mono
+
+- data: logo
+  uniqueID: 20211122-008
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['QingDao QingChunDao']
+  slug: /cfa/club/qingdao-qingchundao-v2021
+  pngPath: 'png/qingdao-qingchundao-v2021.png'
+  svgPath: 'svg/qingdao-qingchundao-v2021.svg'
+  sourceID: cfa-club-061
+  style: color

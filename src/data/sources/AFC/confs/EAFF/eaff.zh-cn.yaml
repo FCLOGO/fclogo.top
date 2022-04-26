@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: afc-conf-001
+  type: conf
+  continent: Asia
+  timeline: true
+  info:
+    - fullName: 东亚足球联合会
+      shortName: 东亚足联
+      localName: East Asian Football Federation
+      founded: 2002
+      headquarter: 东京，日本
+      affiliations: AFC  ▸  FIFA
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/eaff_official'
+  websiteURL: 'https://eaff.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/東亞足球協會'

@@ -1,0 +1,23 @@
+- data: logo
+  uniqueID: 20211102-001
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nanjing City']
+  slug: /cfa/club/nanjing-city-v2021-mono
+  pngPath: 'png/nanjing-city-v2021-mono.png'
+  svgPath: 'svg/nanjing-city-v2021-mono.svg'
+  sourceID: cfa-club-033
+  style: mono
+
+- data: logo
+  uniqueID: 20211102-002
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nanjing City']
+  slug: /cfa/club/nanjing-city-v2021
+  pngPath: 'png/nanjing-city-v2021.png'
+  svgPath: 'svg/nanjing-city-v2021.svg'
+  sourceID: cfa-club-033
+  style: color

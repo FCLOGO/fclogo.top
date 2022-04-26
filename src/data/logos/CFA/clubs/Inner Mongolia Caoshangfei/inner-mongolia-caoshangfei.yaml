@@ -1,0 +1,71 @@
+- data: logo
+  uniqueID: 20211107-001
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Baotou Nanjiao']
+  slug: /cfa/club/inner-mongolia-caoshangfei-v2015-mono
+  pngPath: 'png/inner-mongolia-caoshangfei-v2015-mono.png'
+  svgPath: 'svg/inner-mongolia-caoshangfei-v2015-mono.svg'
+  sourceID: cfa-club-048
+  style: mono
+
+- data: logo
+  uniqueID: 20211107-002
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Baotou Nanjiao']
+  slug: /cfa/club/inner-mongolia-caoshangfei-v2015
+  pngPath: 'png/inner-mongolia-caoshangfei-v2015.png'
+  svgPath: 'svg/inner-mongolia-caoshangfei-v2015.svg'
+  sourceID: cfa-club-048
+  style: color
+
+- data: logo
+  uniqueID: 20211107-003
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Baotou Lucheng']
+  slug: /cfa/club/inner-mongolia-caoshangfei-v2016-mono
+  pngPath: 'png/inner-mongolia-caoshangfei-v2016-mono.png'
+  svgPath: 'svg/inner-mongolia-caoshangfei-v2016-mono.svg'
+  sourceID: cfa-club-048
+  style: mono
+
+- data: logo
+  uniqueID: 20211107-004
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Baotou Lucheng']
+  slug: /cfa/club/inner-mongolia-caoshangfei-v2016
+  pngPath: 'png/inner-mongolia-caoshangfei-v2016.png'
+  svgPath: 'svg/inner-mongolia-caoshangfei-v2016.svg'
+  sourceID: cfa-club-048
+  style: color
+
+- data: logo
+  uniqueID: 20211107-005
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Inner Mongolia Caoshangfei']
+  slug: /cfa/club/inner-mongolia-caoshangfei-v2019-mono
+  pngPath: 'png/inner-mongolia-caoshangfei-v2019-mono.png'
+  svgPath: 'svg/inner-mongolia-caoshangfei-v2019-mono.svg'
+  sourceID: cfa-club-048
+  style: mono
+
+- data: logo
+  uniqueID: 20211107-006
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Inner Mongolia Caoshangfei']
+  slug: /cfa/club/inner-mongolia-caoshangfei-v2019
+  pngPath: 'png/inner-mongolia-caoshangfei-v2019.png'
+  svgPath: 'svg/inner-mongolia-caoshangfei-v2019.svg'
+  sourceID: cfa-club-048
+  style: color

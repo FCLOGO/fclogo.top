@@ -1,0 +1,83 @@
+- data: logo
+  uniqueID: 20211026-001
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Zhejiang Greentown', 'Zhejiang Energy Greentown', 'Zhejiang Professional']
+  slug: /cfa/club/zhejiang-professional-v2019-mono
+  pngPath: 'png/zhejiang-professional-v2019-mono.png'
+  svgPath: 'svg/zhejiang-professional-v2019-mono.svg'
+  sourceID: cfa-club-018
+  style: mono
+
+- data: logo
+  uniqueID: 20211026-002
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Zhejiang Greentown', 'Zhejiang Energy Greentown', 'Zhejiang Professional']
+  slug: /cfa/club/zhejiang-professional-v2019
+  pngPath: 'png/zhejiang-professional-v2019.png'
+  svgPath: 'svg/zhejiang-professional-v2019.svg'
+  sourceID: cfa-club-018
+  style: color
+
+- data: logo
+  uniqueID: 20220218-135548
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhejiang GreenTown']
+  slug: /cfa/club/zhejiang-professional-v1998
+  pngPath: 'png/zhejiang-professional-v1998.png'
+  svgPath: 'svg/zhejiang-professional-v1998.svg'
+  sourceID: cfa-club-018
+  style: color
+
+- data: logo
+  uniqueID: 20220218-135638
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhejiang GreenTown']
+  slug: /cfa/club/zhejiang-professional-v2001
+  pngPath: 'png/zhejiang-professional-v2001.png'
+  svgPath: 'svg/zhejiang-professional-v2001.svg'
+  sourceID: cfa-club-018
+  style: color
+
+- data: logo
+  uniqueID: 20220218-135712
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhejiang GreenTown']
+  slug: /cfa/club/zhejiang-professional-v2001-mono
+  pngPath: 'png/zhejiang-professional-v2001-mono.png'
+  svgPath: 'svg/zhejiang-professional-v2001-mono.svg'
+  sourceID: cfa-club-018
+  style: mono
+
+- data: logo
+  uniqueID: 20220218-135743
+  version: 2003
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhejiang GreenTown', 'Hangzhou GreenTown']
+  slug: /cfa/club/zhejiang-professional-v2003-mono
+  pngPath: 'png/zhejiang-professional-v2003-mono.png'
+  svgPath: 'svg/zhejiang-professional-v2003-mono.svg'
+  sourceID: cfa-club-018
+  style: mono
+
+- data: logo
+  uniqueID: 20220218-135823
+  version: 2003
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhejiang GreenTown', 'Hangzhou GreenTown']
+  slug: /cfa/club/zhejiang-professional-v2003
+  pngPath: 'png/zhejiang-professional-v2003.png'
+  svgPath: 'svg/zhejiang-professional-v2003.svg'
+  sourceID: cfa-club-018
+  style: color

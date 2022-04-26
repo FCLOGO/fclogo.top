@@ -1,0 +1,113 @@
+- data: logo
+  uniqueID: 20220302-212821
+  version: 2011
+  isOutdated: true
+  verName: ['Tianjin Teda']
+  pngPath: 'png/tianjin-jinmen-tiger-v2011-mono.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v2011-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+  slug: /cfa/club/tianjin-jinmen-tiger-v2011-mono
+
+- data: logo
+  uniqueID: 20220302-212921
+  version: 2011
+  isOutdated: true
+  verName: ['Tianjin Teda']
+  pngPath: 'png/tianjin-jinmen-tiger-v2011.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v2011.svg'
+  sourceID: cfa-club-013
+  style: color
+  slug: /cfa/club/tianjin-jinmen-tiger-v2011
+
+- data: logo
+  uniqueID: 20211021-001
+  version: 2021
+  verName: ['Tianjin Jinmen Tiger']
+  pngPath: 'png/tianjin-jinmen-tiger-v2021-mono.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v2021-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+  slug: /cfa/club/tianjin-jinmen-tiger-v2021-mono
+
+- data: logo
+  uniqueID: 20211021-002
+  version: 2021
+  verName: ['Tianjin Jinmen Tiger']
+  pngPath: 'png/tianjin-jinmen-tiger-v2021.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v2021.svg'
+  sourceID: cfa-club-013
+  style: color
+  slug: /cfa/club/tianjin-jinmen-tiger-v2021
+
+- data: logo
+  uniqueID: 20220302-213130
+  version: 1995
+  isDoubtful: true
+  isOutdated: true
+  verName: ['Tianjin FC']
+  slug: /cfa/club/tianjin-jinmen-tiger-v1995-mono
+  pngPath: 'png/tianjin-jinmen-tiger-v1995-mono.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v1995-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+
+- data: logo
+  uniqueID: 20220302-213205
+  version: 1995
+  isDoubtful: true
+  isOutdated: true
+  verName: ['Tianjin FC']
+  slug: /cfa/club/tianjin-jinmen-tiger-v1995
+  pngPath: 'png/tianjin-jinmen-tiger-v1995.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v1995.svg'
+  sourceID: cfa-club-013
+  style: color
+
+- data: logo
+  uniqueID: 20220302-213234
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin TEDA']
+  slug: /cfa/club/tianjin-jinmen-tiger-v1998-mono
+  pngPath: 'png/tianjin-jinmen-tiger-v1998-mono.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v1998-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+
+- data: logo
+  uniqueID: 20220302-213306
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin TEDA']
+  slug: /cfa/club/tianjin-jinmen-tiger-v1998
+  pngPath: 'png/tianjin-jinmen-tiger-v1998.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v1998.svg'
+  sourceID: cfa-club-013
+  style: color
+
+- data: logo
+  uniqueID: 20220302-213329
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin TEDA']
+  slug: /cfa/club/tianjin-jinmen-tiger-v2010-mono
+  pngPath: 'png/tianjin-jinmen-tiger-v2010-mono.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v2010-mono.svg'
+  sourceID: cfa-club-013
+  style: mono
+
+- data: logo
+  uniqueID: 20220302-213436
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Tianjin TEDA']
+  slug: /cfa/club/tianjin-jinmen-tiger-v2010
+  pngPath: 'png/tianjin-jinmen-tiger-v2010.png'
+  svgPath: 'svg/tianjin-jinmen-tiger-v2010.svg'
+  sourceID: cfa-club-013
+  style: color
