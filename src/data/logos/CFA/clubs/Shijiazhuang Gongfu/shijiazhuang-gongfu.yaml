@@ -50,7 +50,7 @@
   uniqueID: 20220331-142705
   version: 2022.01
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Hebei Gongfu']
   slug: /cfa/club/hebei-gongfu-v202201-mono
   pngPath: 'png/hebei-gongfu-v202201-mono.png'
@@ -62,7 +62,7 @@
   uniqueID: 20220331-142730
   version: 2022.01
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Hebei Gongfu']
   slug: /cfa/club/hebei-gongfu-v202201
   pngPath: 'png/hebei-gongfu-v202201.png'
