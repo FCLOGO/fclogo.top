@@ -54,7 +54,7 @@ const SourcesData = ({ data, pageContext }) => {
     },
     {
       name: intl.formatMessage({ id: 'nation' }),
-      selector: row => intl.formatMessage({ id: row.nation }),
+      selector: row => (row.nation ? intl.formatMessage({ id: row.nation }) : ''),
       sortable: true
     },
     {

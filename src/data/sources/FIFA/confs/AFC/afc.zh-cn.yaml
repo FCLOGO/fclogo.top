@@ -2,7 +2,7 @@
   sourceID: fifa-conf-001
   type: conf
   continent: Asia
-  timeline: false
+  timeline: true
   info:
     - fullName: 亚洲足球联合会
       shortName: 亚足联
