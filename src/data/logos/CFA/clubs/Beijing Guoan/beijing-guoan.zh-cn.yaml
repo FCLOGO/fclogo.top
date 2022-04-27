@@ -109,3 +109,15 @@
   svgPath: 'svg/beijing-guoan-v2022-mono.svg'
   sourceID: cfa-club-002
   style: mono
+
+- data: logo
+  uniqueID: 20220427-131837
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京国安']
+  slug: /cfa/club/beijing-guoan-v2022-official-mono
+  pngPath: 'png/beijing-guoan-v2022-official-mono.png'
+  svgPath: 'svg/beijing-guoan-v2022-official-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
