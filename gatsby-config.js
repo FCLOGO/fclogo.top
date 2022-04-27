@@ -80,7 +80,8 @@ module.exports = {
       options: {
         defaults: {
           formats: [`auto`, `webp`, `avif`]
-        }
+        },
+        failOnError: false
       }
     },
     {
