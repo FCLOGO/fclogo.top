@@ -69,3 +69,27 @@
   svgPath: 'svg/hebei-gongfu-v202201.svg'
   sourceID: cfa-club-050
   style: color
+
+- data: logo
+  uniqueID: 20220427-104104
+  version: 2022.04
+  isDoubtful: false
+  isOutdated: false
+  verName: ['石家庄功夫']
+  slug: /cfa/club/shijiazhuang-gongfu-v202204-mono
+  pngPath: 'png/shijiazhuang-gongfu-v202204-mono.png'
+  svgPath: 'svg/shijiazhuang-gongfu-v202204-mono.svg'
+  sourceID: cfa-club-050
+  style: mono
+
+- data: logo
+  uniqueID: 20220427-104153
+  version: 2022.04
+  isDoubtful: false
+  isOutdated: false
+  verName: ['石家庄功夫']
+  slug: /cfa/club/shijiazhuang-gongfu-v202204
+  pngPath: 'png/shijiazhuang-gongfu-v202204.png'
+  svgPath: 'svg/shijiazhuang-gongfu-v202204.svg'
+  sourceID: cfa-club-050
+  style: color
