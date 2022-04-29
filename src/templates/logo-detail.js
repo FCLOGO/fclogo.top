@@ -112,6 +112,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                   weiboURL={data.logo.detailInfo[0].weiboURL}
                   twitterURL={data.logo.detailInfo[0].twitterURL}
                   wikiURL={data.logo.detailInfo[0].wikiURL}
+                  verName={data.logo.verName}
                 />
               </section>
               {data.logo.logoHistory.length > 1 ? (
@@ -180,6 +181,7 @@ export const query = graphql`
       version
       isDoubtful
       isOutdated
+      verName
       pngPath {
         publicURL
         childImageSharp {

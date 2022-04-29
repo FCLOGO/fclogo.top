@@ -32,6 +32,7 @@ import {
   infoTitle,
   infoTable,
   infoLinks,
+  logoTags,
   errNotes,
   bugIcon
 } from './detail-sidebar.module.styl'
@@ -181,6 +182,13 @@ const DetailSidebar = props => {
           ) : (
             ''
           )}
+        </div>
+        <div className={logoTags}>
+          <ul>
+            {props.verName.map(tag => (
+              <li key={tag}>{tag}</li>
+            ))}
+          </ul>
         </div>
       </div>
       <div className={errNotes}>
