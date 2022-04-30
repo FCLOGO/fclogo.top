@@ -102,7 +102,7 @@ const LogoDeatil = ({ data, pageContext }) => {
                   isOutdated={data.logo.isOutdated}
                   isDoubtful={data.logo.isDoubtful}
                   slug={data.logo.slug}
-                  status={data.logo.detailInfo[0].isDisband}
+                  status={data.logo.detailInfo[0].status}
                   fullName={data.logo.detailInfo[0].info[0].fullName}
                   pngURL={data.logo.pngPath.publicURL}
                   svgURL={data.logo.svgPath.publicURL}
@@ -207,7 +207,7 @@ export const query = graphql`
       }
       detailInfo {
         type
-        isDisband
+        status
         info {
           fullName
           shortName

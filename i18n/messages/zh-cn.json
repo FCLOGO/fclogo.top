@@ -79,7 +79,6 @@
   "sidebar.logoVer": "版本：",
   "sidebar.doubtful": "?",
   "sidebar.outdated": "历史徽标",
-  "sidebar.disband": "已解散",
   "sidebar.fileType": ".svg 矢量格式",
   "sidebar.howToEdit": "如何编辑？",
   "sidebar.termTitle": "使用条款",
@@ -95,6 +94,8 @@
   "sidebar.tellMe": "告诉我们",
   "sidebar.downloads": " 次下载",
   "sidebar.s": " ",
+  "disbanded": "已解散",
+  "out": "已退出",
 
   "detail.titleVector": "矢量徽标",
   "detail.titleVectorPack": "矢量徽标集",
