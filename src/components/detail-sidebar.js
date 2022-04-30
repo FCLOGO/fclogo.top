@@ -97,7 +97,11 @@ const DetailSidebar = props => {
             {props.fullName}
             {intl.formatMessage({ id: 'detail.titleVector' })}
           </h1>
-          {props.status !== 'alive' ? <span>{intl.formatMessage({ id: props.status })}</span> : ''}
+          {props.status !== 'alive' && props.status ? (
+            <span>{intl.formatMessage({ id: props.status })}</span>
+          ) : (
+            ''
+          )}
         </div>
       </header>
       <div className={detailDownload}>
