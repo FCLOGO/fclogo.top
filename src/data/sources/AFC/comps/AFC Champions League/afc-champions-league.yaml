@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: afc-comp-001
+  type: comp
+  continent: Asia
+  timeline: false
+  info:
+    - fullName: AFC Champions League
+      shortName: AFC Champions League
+      localName: AFC Champions League
+      founded: 2002
+      confederation: AFC
+      teams: 40
+  weiboURL: 'https://weibo.com/u/3390570594'
+  twitterURL: 'https://twitter.com/TheAFCCL'
+  websiteURL: 'https://www.the-afc.com/en/club/afc_champions_league.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/AFC_Champions_League'
