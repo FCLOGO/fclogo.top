@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-058
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Shanghai Jiading Huilong Football Club
+      shortName: Shanghai Jiading Huilong
+      localName: 上海嘉定汇龙足球俱乐部
+      founded: 2009
+      city: Shanghai, China
+      ground: Jiading City Sports Center
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Jiading_Huilong_F.C.'

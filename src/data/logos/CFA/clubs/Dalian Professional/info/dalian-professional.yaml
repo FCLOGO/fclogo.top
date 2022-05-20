@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-007
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Dalian Professional Football Club
+      shortName: Dalian Pro FC
+      localName: 大连人职业足球俱乐部
+      city: Dalian, China
+      founded: 2009
+      ground: Dalian Sports Center Stadium
+      league: China League 1
+  weiboURL: 'https://weibo.com/u/1601538693'
+  twitterURL: ''
+  websiteURL: 'http://www.dlpro.com.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Dalian_Professional_F.C.'

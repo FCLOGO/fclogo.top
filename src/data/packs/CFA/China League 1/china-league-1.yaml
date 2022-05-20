@@ -1,0 +1,9 @@
+- data: logoPack
+  uniqueID: 20220502-232345
+  name: China League 1
+  season: 2022's
+  packSource: cfa-comp-002
+  slug: /pack/cfa/china-league-1
+  items:
+    - id: cfa-club-007
+      version: 2020

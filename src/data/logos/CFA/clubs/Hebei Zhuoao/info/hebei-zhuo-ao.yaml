@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-055
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: Hebei Zhuoao Football Club
+      shortName: Hebei Zhuoao
+      localName: 河北卓奥足球俱乐部
+      founded: 2009
+      city: Qinhuangdao, China
+      ground: Qinhuangdao Olympic Sports Center Stadium
+      duration: 2009 - 2022
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hebei_Zhuoao_F.C.'

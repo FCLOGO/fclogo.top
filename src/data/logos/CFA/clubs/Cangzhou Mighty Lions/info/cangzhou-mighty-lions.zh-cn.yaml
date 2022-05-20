@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-016
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 沧州雄狮足球俱乐部
+      shortName: 沧州雄狮
+      localName: 沧州雄狮足球俱乐部
+      city: 沧州，中国
+      founded: 2011
+      ground: 沧州体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/3032079382'
+  twitterURL: 'https://twitter.com/SJZEBFC/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'

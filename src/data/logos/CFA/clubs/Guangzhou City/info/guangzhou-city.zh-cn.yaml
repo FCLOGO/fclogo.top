@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-008
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 广州城足球俱乐部
+      shortName: 广州城
+      localName: 广州城足球俱乐部
+      city: 广州，中国
+      founded: 1994
+      ground: 广州越秀山体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/2456231390'
+  twitterURL: 'https://twitter.com/GuangzhouRFFC'
+  websiteURL: 'http://www.gzrffc.com.cn/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/广州城足球俱乐部'

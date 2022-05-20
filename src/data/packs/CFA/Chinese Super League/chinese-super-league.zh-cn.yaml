@@ -1,9 +1,9 @@
 - data: logoPack
   uniqueID: 20220212-114234
   name: 中超联赛
-  season: 2022 赛季
+  season: 2022's
   packSource: cfa-comp-001
-  slug: /pack/chinese-super-league
+  slug: /pack/cfa/chinese-super-league
   items:
     - id: cfa-club-001
       version: 2022

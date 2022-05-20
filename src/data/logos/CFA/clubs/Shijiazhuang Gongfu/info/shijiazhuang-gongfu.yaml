@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-050
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Shijiazhuang GongFu Football Club
+      shortName: Shijiazhuang GongFu
+      localName: 石家庄功夫足球俱乐部
+      founded: 2020
+      city: Shijiazhuang, China
+      ground: Yutong International Sports Center
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/5075302049'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-comp-004
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会杯
+      shortName: 中国足协杯
+      localName: 中国足球协会杯
+      founded: 1956
+      confederation: AFC
+      teams: 64
+      level:
+      promotion:
+      relegation:
+  weiboURL: 'https://weibo.com/u/2111789007'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/zxb/index.html'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中國足協盃'

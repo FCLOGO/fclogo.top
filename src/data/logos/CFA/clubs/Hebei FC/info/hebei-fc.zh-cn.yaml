@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-017
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 河北足球俱乐部
+      shortName: 河北 FC
+      localName: 河北足球俱乐部
+      city: 廊坊，中国
+      founded: 2009
+      ground: 廊坊体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/2131874461'
+  websiteURL: 'http://www.hebeifootball.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'

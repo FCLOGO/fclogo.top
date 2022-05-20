@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-028
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Jiangxi Beidamen Football Club
+      shortName: Jiangxi Beidamen
+      localName: 江西北大门足球俱乐部
+      city: Ruichang, China
+      founded: 2002
+      ground: Ruichang Sports Park
+      league: China League
+  weiboURL: 'https://weibo.com/u/3194836594'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangxi_Beidamen_F.C.'

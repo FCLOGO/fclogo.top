@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-030
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Meizhou Hakka Football Club
+      shortName: Meizhou Hakka
+      localName: 梅州客家足球俱乐部
+      city: Meizhou, China
+      founded: 2013
+      ground: Wuhua Huitang Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/3211113322'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Meizhou_Hakka_F.C.'

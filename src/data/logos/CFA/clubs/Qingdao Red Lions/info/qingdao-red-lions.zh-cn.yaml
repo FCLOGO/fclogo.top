@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-060
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 青岛红狮足球俱乐部
+      shortName: 青岛红狮
+      localName: 青岛红狮足球俱乐部
+      founded: 2016
+      city: 青岛，中国
+      ground: 莱西体育中心体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/6016494731'
+  twitterURL: 'https://twitter.com/qingdaoredlions'
+  websiteURL: 'https://qingdaoredlions.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/青岛红狮足球俱乐部'

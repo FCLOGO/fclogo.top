@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-067
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: 保定英利易通足球俱乐部
+      shortName: 保定英利易通
+      localName: 保定英利易通足球俱乐部
+      city: 保定，中国
+      founded: 2015
+      duration: 2015 - 2020
+      ground: 河北大学体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/保定容大足球俱乐部'

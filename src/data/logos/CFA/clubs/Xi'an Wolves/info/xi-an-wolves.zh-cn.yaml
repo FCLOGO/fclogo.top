@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-046
+  status: disbanded
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 西安骏狼足球俱乐部
+      shortName: 西安骏狼
+      localName: 西安骏狼足球俱乐部
+      founded: 2018
+      city: 西安，中国
+      ground: 西北大学长安校区体育场
+      duration: 2018 - 2022
+  weiboURL: 'https://weibo.com/u/6714252256'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/西安骏狼足球俱乐部'

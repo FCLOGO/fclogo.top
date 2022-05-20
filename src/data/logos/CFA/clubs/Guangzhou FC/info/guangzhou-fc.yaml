@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-004
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Guangzhou Football Club
+      shortName: Guangzhou FC
+      localName: 广州足球俱乐部
+      city: Guangzhou, China
+      founded: 1993
+      ground: Guangzhou Tianhe Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/1894798092'
+  twitterURL: 'https://twitter.com/GZEvergrandeFC'
+  websiteURL: 'https://gzfc.evergrande.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Guangzhou_F.C.'

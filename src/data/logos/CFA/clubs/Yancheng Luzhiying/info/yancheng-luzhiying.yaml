@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-070
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: Yancheng Luzhiying Football Club
+      shortName: Yancheng Luzhiying
+      localName: 盐城鹿之瀛足球俱乐部
+      city: Yancheng, China
+      founded: 2013
+      duration: 2013 - 2021
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangsu_Yancheng_Dingli_F.C.'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-comp-005
+  type: comp
+  nation: China
+  info:
+    - fullName: China Football Association Super Cup
+      shortName: CFA Super Cup
+      localName: 中国足球协会超级杯
+      founded: 1995
+      confederation:
+      teams: 2
+      level:
+      promotion:
+      relegation:
+  weiboURL: 'https://weibo.com/u/2631457885'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Chinese_FA_Super_Cup'

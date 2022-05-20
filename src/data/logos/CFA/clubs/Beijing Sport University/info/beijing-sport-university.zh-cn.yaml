@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-027
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 北京北体大足球俱乐部
+      shortName: 北京北体大
+      localName: 北京北体大足球俱乐部
+      city: 北京，中国
+      founded: 2004
+      ground: 北京奥体中心体育场
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/2123392247'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京北体大足球俱乐部'

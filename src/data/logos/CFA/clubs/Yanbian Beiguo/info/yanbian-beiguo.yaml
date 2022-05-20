@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-073
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: Yanbian Beiguo Football Club
+      shortName: Yanbian Beiguo
+      localName: 延边北国足球俱乐部
+      city: Huichun, China
+      founded: 2016
+      duration: 2016 - 2020
+      ground: Hunchun People's Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Beiguo_F.C.'

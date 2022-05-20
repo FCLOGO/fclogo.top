@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-074
+  status: out
+  type: club
+  nation: China
+  info:
+    - fullName: Hangzhou Wuyue Qiantang Football Club
+      shortName: Hangzhou Wuyue Qiantang
+      localName: 杭州吴越钱唐足球俱乐部
+      founded: 2017
+      city: Hangzhou, China
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/3581025714'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hangzhou_Wuyue_Qiantang_F.C.'

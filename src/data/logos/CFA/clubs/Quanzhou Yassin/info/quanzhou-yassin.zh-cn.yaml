@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-064
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 泉州亚新足球俱乐部
+      shortName: 泉州亚新
+      localName: 泉州亚新足球俱乐部
+      founded: 2019
+      city: 泉州，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/泉州亚新足球俱乐部'

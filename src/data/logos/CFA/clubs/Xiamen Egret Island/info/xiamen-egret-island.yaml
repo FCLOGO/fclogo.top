@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-062
+  status: out
+  type: club
+  nation: China
+  info:
+    - fullName: Xiamen Egret Island Football Club
+      shortName: Xiamen Egret Island
+      localName: 厦门鹭岛足球俱乐部
+      founded: 2019
+      city: Xiamen, China
+      ground: Xiamen Egret Stadium
+      duration: 2019 - 2020
+  weiboURL: 'https://weibo.com/u/7431792554'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,14 @@
+- data: sourceInfo
+  sourceID: cfa-club-041
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: Sichuan Longfor Football Club
+      shortName: Sichuan Longfor
+      localName: 四川隆发足球俱乐部
+      city: Chengdu, China
+      founded: 2013
+      duration: 2013 - 2020
+      ground: Dujiangyan Phoenix Stadium
+  wikiURL: 'https://en.wikipedia.org/wiki/Sichuan_Longfor_F.C.'

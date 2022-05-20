@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-016
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Cangzhou Mighty Lions Football Club
+      shortName: Cangzhou Mighty Lions
+      localName: 沧州雄狮足球俱乐部
+      city: Cangzhou, China
+      founded: 2011
+      ground: Cangzhou Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/3032079382'
+  twitterURL: 'https://twitter.com/SJZEBFC/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Cangzhou_Mighty_Lions_F.C.'

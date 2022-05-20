@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-033
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Nanjing City Football Club
+      shortName: Nanjing City
+      localName: 南京城市足球俱乐部
+      city: Nanjing, China
+      founded: 2014
+      ground: Nanjing Youth Olympic Sports Park
+      league: China League
+  weiboURL: 'https://weibo.com/u/7266596722'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Nanjing_City_F.C.'

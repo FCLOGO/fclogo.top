@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-011
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 长春亚泰俱乐部
+      shortName: 长春亚泰
+      localName: 长春亚泰俱乐部
+      city: 长春，中国
+      founded: 1996
+      ground: 长春体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/yataifc'
+  websiteURL: 'http://www.yataifc.cn/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/长春亚泰足球俱乐部'

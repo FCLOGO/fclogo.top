@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-021
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Shaanxi Chang'an Athletic Football Club
+      shortName: Shaanxi Chang'an Athletic
+      localName: 陕西长安竞技足球俱乐部
+      city: Xi'an, China
+      founded: 2016
+      ground: Shaanxi Province Stadium
+      league: China League
+  weiboURL: 'https://weibo.com/u/5893966904'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaanxi_Chang%27an_Athletic_F.C.'

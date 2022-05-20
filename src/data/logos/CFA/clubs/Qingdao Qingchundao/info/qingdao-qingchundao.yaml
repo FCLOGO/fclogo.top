@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-061
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Qingdao Qingchundao Football Club
+      shortName: Qingdao Qingchundao
+      localName: 青岛青春岛足球俱乐部
+      founded: 2007
+      city: Qingdao, China
+      ground:
+      league: Chinna League
+  weiboURL: 'https://weibo.com/u/6603410430'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Youth_Island_F.C.'

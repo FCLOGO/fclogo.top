@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-comp-002
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会甲级联赛
+      shortName: 中甲联赛
+      localName: 中国足球协会甲级联赛
+      founded: 2004
+      confederation: AFC
+      teams: 18
+      level: 第 2 级别
+      promotion: 中超联赛
+      relegation: 中乙联赛
+  weiboURL: 'https://weibo.com/u/5643143867'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会甲级联赛'

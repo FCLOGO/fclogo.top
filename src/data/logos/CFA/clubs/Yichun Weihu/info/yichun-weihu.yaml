@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-066
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Yichun Weihu Football Club
+      shortName: Yichun Weihu
+      localName: 宜春威虎足球俱乐部
+      founded: 2018
+      city: Yichun, China
+      ground:
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

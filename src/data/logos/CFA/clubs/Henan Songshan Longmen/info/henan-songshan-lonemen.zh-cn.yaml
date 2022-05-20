@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-012
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 河南嵩山龙门足球俱乐部
+      shortName: 河南嵩山龙门
+      localName: 河南嵩山龙门足球俱乐部
+      city: 郑州，中国
+      founded: 1994
+      ground: 航海体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/henanjianye1994'
+  websiteURL: 'http://www.jianyefc.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/河南嵩山龙门足球俱乐部'

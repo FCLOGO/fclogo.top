@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-017
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Hebei Football Club
+      shortName: Hebei FC
+      localName: 河北足球俱乐部
+      city: Langfang, China
+      founded: 2009
+      ground: Langfang Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/2131874461'
+  websiteURL: 'http://www.hebeifootball.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Hebei_F.C.'

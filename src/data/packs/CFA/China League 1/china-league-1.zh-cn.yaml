@@ -1,0 +1,11 @@
+- data: logoPack
+  uniqueID: 20220502-232345
+  name: 中甲联赛
+  season: 2022's
+  packSource: cfa-comp-002
+  slug: /pack/cfa/china-league-1
+  items:
+    - id: cfa-club-007
+      version: 2020
+    - id: cfa-club-022
+      version: 2018

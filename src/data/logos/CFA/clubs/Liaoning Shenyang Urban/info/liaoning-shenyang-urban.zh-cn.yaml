@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-034
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 辽宁沈阳城市足球俱乐部
+      shortName: 辽宁沈阳城市
+      localName: 辽宁沈阳城市足球俱乐部
+      city: 沈阳，中国
+      founded: 2015
+      ground: 沈阳城市建设学院体育场
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/3972643388'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/辽宁沈阳城市足球俱乐部'

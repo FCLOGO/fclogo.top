@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-013
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Tianjin Jinmen Tiger Football Club
+      shortName: Tianjin Jinmen Tiger FC
+      localName: 天津津门虎足球俱乐部
+      city: Tianjin, China
+      founded: 1998
+      ground: Tianjin Olympic Center
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/tedafc/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Jinmen_Tiger_F.C.'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-018
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 浙江职业足球俱乐部
+      shortName: 浙江 FC
+      localName: 浙江职业足球俱乐部
+      city: 杭州，中国
+      founded: 1998
+      ground: 杭州黄龙体育中心
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/1983327567'
+  twitterURL: ''
+  websiteURL: 'http://www.greentownfc.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/浙江职业足球俱乐部'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-050
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 石家庄功夫足球俱乐部
+      shortName: 石家庄功夫
+      localName: 石家庄功夫足球俱乐部
+      founded: 2020
+      city: 石家庄，中国
+      ground: 裕彤国际体育中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/5075302049'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

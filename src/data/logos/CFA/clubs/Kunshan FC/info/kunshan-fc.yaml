@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-020
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Kunshan Football Club
+      shortName: Kunshan FC
+      localName: 昆山足球俱乐部
+      city: Kunshan, China
+      founded: 2014
+      ground: Kunshan Stadium
+      league: China League
+  weiboURL: 'https://weibo.com/u/6609527736'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Kunshan_F.C.'

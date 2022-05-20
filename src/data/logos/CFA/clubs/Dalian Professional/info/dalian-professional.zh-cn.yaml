@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-007
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 大连人职业足球俱乐部
+      shortName: 大连人
+      localName: 大连人职业足球俱乐部
+      city: 大连，中国
+      founded: 2009
+      ground: 大连体育中心体育场
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/1601538693'
+  twitterURL: ''
+  websiteURL: 'http://www.dlpro.com.cn/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连人职业足球俱乐部'

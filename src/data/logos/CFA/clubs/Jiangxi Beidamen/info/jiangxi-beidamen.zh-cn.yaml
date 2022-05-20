@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-028
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 江西北大门足球俱乐部
+      shortName: 江西北大门
+      localName: 江西北大门足球俱乐部
+      city: 瑞昌，中国
+      founded: 2002
+      ground: 瑞昌市体育公园
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/3194836594'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/江西北大门足球俱乐部'

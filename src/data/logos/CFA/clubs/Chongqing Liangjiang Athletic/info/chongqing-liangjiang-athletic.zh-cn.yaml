@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-009
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 重庆两江竞技足球俱乐部
+      shortName: 重庆两江竞技
+      localName: 重庆两江竞技足球俱乐部
+      city: 重庆，中国
+      founded: 1995
+      ground: 重庆奥林匹克体育中心
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/2059760773'
+  twitterURL: ''
+  websiteURL: 'http://www.dangdailifanfc.cn'
+  wikiURL: 'https://zh.wikipedia.org/wiki/重庆两江竞技足球俱乐部'

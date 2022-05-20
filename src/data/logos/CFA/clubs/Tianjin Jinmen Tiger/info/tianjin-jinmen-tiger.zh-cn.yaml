@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-013
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 天津津门虎足球俱乐部
+      shortName: 天津津门虎
+      localName: 天津津门虎足球俱乐部
+      city: 天津，中国
+      founded: 1998
+      ground: 天津奥林匹克体育中心体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/tedafc'
+  wikiURL: 'https://zh.wikipedia.org/wiki/天津津门虎足球俱乐部'

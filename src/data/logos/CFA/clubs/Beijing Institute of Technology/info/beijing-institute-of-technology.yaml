@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-029
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Beijing Institute of Technology Football Club
+      shortName: Beijing BIT
+      localName: 北京理工足球俱乐部
+      city: Beijing, China
+      founded: 2000
+      ground: BIT Eastern Athletic Field
+      league: China League
+  weiboURL: 'https://weibo.com/u/2727173971'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology_F.C.'

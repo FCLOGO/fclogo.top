@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-069
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: 大连超越足球俱乐部
+      shortName: 大连超越
+      localName: 大连超越足球俱乐部
+      city: 大连，中国
+      founded: 2013
+      duration: 2013 - 2019
+      ground: 金州体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连超越足球俱乐部'

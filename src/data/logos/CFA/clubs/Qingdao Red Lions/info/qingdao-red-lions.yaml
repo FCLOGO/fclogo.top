@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-060
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Qingdao Red Lions Football Club
+      shortName: Qingdao Red Lions
+      localName: 青岛红狮足球俱乐部
+      founded: 2016
+      city: Qingdao, China
+      ground: Laixi Sports Centre Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/6016494731'
+  twitterURL: 'https://twitter.com/qingdaoredlions'
+  websiteURL: 'https://qingdaoredlions.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Red_Lions_F.C.'

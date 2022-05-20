@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-071
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: 吉林百嘉足球俱乐部
+      shortName: 吉林百嘉
+      localName: 吉林百嘉足球俱乐部
+      city: 长春，中国
+      founded: 2011
+      duration: 2011 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/吉林百嘉足球俱乐部'

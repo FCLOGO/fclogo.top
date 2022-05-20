@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-comp-006
+  type: comp
+  nation: China
+  info:
+    - fullName: 中国足球协会会员协会冠军联赛
+      shortName: 中冠联赛
+      localName: 中国足球协会会员协会冠军联赛
+      founded: 2002
+      confederation: AFC
+      teams: 56
+      level: 第 4 级别
+      promotion: 中乙联赛
+      relegation:
+  weiboURL: 'https://weibo.com/u/6415015229'
+  twitterURL: ''
+  websiteURL: 'http://www.thecfa.cn/yyls/index.html'
+  wikiURL: 'https://zh.wikipedia.org/wiki/中国足球协会会员协会冠军联赛'

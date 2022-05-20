@@ -1,0 +1,14 @@
+- data: sourceInfo
+  sourceID: cfa-club-038
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: Inner Mongolia Zhongyou Football Club
+      shortName: Inner Mongolia Zhongyou
+      localName: 内蒙古中优足球俱乐部
+      city: Hohhot, China
+      founded: 2011
+      duration: 2011 - 2021
+      ground: Hohhot City Stadium
+  wikiURL: 'https://en.wikipedia.org/wiki/Inner_Mongolia_Zhongyou_F.C.'

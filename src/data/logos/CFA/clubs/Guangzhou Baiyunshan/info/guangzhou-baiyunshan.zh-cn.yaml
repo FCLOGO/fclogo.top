@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-079
+  status: disbanded
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 广州白云山足球俱乐部
+      shortName: 广州白云山
+      localName: 广州白云山足球俱乐部
+      city: 广州，中国
+      founded: 1998
+      duration: 1998 - 2000
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/广州白云山足球俱乐部'

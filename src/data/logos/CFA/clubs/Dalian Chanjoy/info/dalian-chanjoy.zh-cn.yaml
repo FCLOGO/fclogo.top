@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-068
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: 大连千兆足球俱乐部
+      shortName: 大连千兆
+      localName: 大连千兆足球俱乐部
+      city: 大连，中国
+      founded: 2004
+      duration: 2004 - 2020
+      ground: 金州体育场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连千兆足球俱乐部'

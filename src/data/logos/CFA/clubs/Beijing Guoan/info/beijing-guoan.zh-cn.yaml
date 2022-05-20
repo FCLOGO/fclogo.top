@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-002
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 北京国安足球俱乐部
+      shortName: 北京国安
+      localName: 北京国安足球俱乐部
+      city: 北京，中国
+      founded: 1992
+      ground: 北京工人体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/1912052995'
+  twitterURL: 'https://twitter.com/FCBeijingGuoan'
+  websiteURL: 'http://www.fcguoan.com'
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京国安足球俱乐部'

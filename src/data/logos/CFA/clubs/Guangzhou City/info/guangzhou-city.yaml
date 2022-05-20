@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-008
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Guangzhou City Football Club
+      shortName: Guangzhou City FC
+      localName: 广州城足球俱乐部
+      city: Guangzhou, China
+      founded: 1994
+      ground: Guangzhou Yuexiushan Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/2456231390'
+  twitterURL: 'https://twitter.com/GuangzhouRFFC'
+  websiteURL: 'http://www.gzrffc.com.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Guangzhou_City_F.C.'

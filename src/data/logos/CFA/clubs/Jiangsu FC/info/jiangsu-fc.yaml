@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-010
+  status: disbanded
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Jiangsu Football Club
+      shortName: Jiangsu FC
+      localName: 江苏足球俱乐部
+      city: Nanjing, China
+      founded: 1994
+      duration: 1994 - 2021
+      ground: Nanjing Olympic Sports Centre
+  weiboURL: 'https://weibo.com/u/1915964974'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangsu_F.C.'

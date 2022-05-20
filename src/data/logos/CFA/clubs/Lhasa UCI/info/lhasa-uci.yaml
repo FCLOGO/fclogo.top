@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-076
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: Lhasa Urban Construction Investment Football Club
+      shortName: Lhasa UCI
+      localName: 拉萨城投足球俱乐部
+      city: Lhasa, China
+      founded: 2017
+      duration: 2017 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Lhasa_Urban_Construction_Investment_F.C.'

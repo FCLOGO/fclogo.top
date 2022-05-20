@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-047
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: 广西平果哈嘹足球俱乐部
+      shortName: 广西平果哈嘹
+      localName: 广西平果哈嘹足球俱乐部
+      founded: 2018
+      city: 平果，中国
+      ground: 广西体育中心
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/7588479512'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

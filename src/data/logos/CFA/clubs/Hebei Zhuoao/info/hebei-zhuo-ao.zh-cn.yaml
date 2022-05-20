@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-055
+  status: disbanded
+  type: club
+  nation: China
+  info:
+    - fullName: 河北卓奥足球俱乐部
+      shortName: 河北卓奥
+      localName: 河北卓奥足球俱乐部
+      founded: 2009
+      city: 秦皇岛，中国
+      ground: 秦皇岛奥林匹克体育中心
+      duration: 2009 - 2022
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/河北卓奥足球俱乐部'

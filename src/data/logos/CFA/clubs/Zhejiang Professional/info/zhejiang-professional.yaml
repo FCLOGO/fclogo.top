@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-018
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Zhejiang Professional Football Club
+      shortName: Zhejiang FC
+      localName: 浙江职业足球俱乐部
+      city: Hangzhou, China
+      founded: 1998
+      ground: Hangzhou Huanglong Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/1983327567'
+  twitterURL: ''
+  websiteURL: 'http://www.greentownfc.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/Zhejiang_Professional_F.C.'
