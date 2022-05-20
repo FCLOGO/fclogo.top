@@ -209,6 +209,24 @@ exports.createResolvers = ({ createResolvers }) => {
           })
           return Array.from(entries).length
         }
+      },
+      latestVersion: {
+        type: `Float`,
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                sourceID: { eq: source.sourceID },
+                fields: {
+                  locale: { eq: source.fields.locale }
+                }
+              }
+            },
+            type: `logo`
+          })
+          const versions = Array.from(entries).map(({ version }) => version)
+          return Math.max(...versions)
+        }
       }
     },
     logoPack: {

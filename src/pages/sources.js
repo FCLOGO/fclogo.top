@@ -63,6 +63,10 @@ const SourcesData = ({ data, pageContext }) => {
       sortable: true
     },
     {
+      name: intl.formatMessage({ id: 'source.version' }),
+      selector: row => row.latestVersion
+    },
+    {
       name: intl.formatMessage({ id: 'timeline' }),
       selector: row => <span></span>,
       conditionalCellStyles: [
@@ -157,6 +161,7 @@ export const query = graphql`
         type
         timeline
         logoCount
+        latestVersion
       }
     }
   }
