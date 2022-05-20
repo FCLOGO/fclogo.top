@@ -23,6 +23,8 @@
 - data: logo
   uniqueID: 20211019-001
   version: 2021
+  isDoubtful: false
+  isOutdated: true
   verName: ['Wuhan FC']
   pngPath: 'png/wuhanfc-v2021-mono.png'
   svgPath: 'svg/wuhanfc-v2021-mono.svg'
@@ -33,6 +35,8 @@
 - data: logo
   uniqueID: 20211019-002
   version: 2021
+  isDoubtful: false
+  isOutdated: true
   verName: ['Wuhan FC']
   pngPath: 'png/wuhanfc-v2021.png'
   svgPath: 'svg/wuhanfc-v2021.svg'
@@ -85,5 +89,29 @@
   slug: /cfa/club/wuhanfc-v2011
   pngPath: 'png/wuhanfc-v2011.png'
   svgPath: 'svg/wuhanfc-v2011.svg'
+  sourceID: cfa-club-014
+  style: color
+
+- data: logo
+  uniqueID: 20220520-180704
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wuhan Yangtze']
+  slug: /cfa/club/wuhan-yangtze-v2022-mono
+  pngPath: 'png/wuhan-yangtze-v2022-mono.png'
+  svgPath: 'svg/wuhan-yangtze-v2022-mono.svg'
+  sourceID: cfa-club-014
+  style: mono
+
+- data: logo
+  uniqueID: 20220520-180745
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wuhan Yangtze']
+  slug: /cfa/club/wuhan-yangtze-v2022
+  pngPath: 'png/wuhan-yangtze-v2022.png'
+  svgPath: 'svg/wuhan-yangtze-v2022.svg'
   sourceID: cfa-club-014
   style: color
