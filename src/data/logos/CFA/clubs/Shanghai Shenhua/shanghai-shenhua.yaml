@@ -1,6 +1,6 @@
 - data: logo
   uniqueID: 20211013-001
-  version: 201407
+  version: 2014.07
   isOutdated: true
   verName: ['Shanghai Grenland', 'Shanghai Greenland Shenhua']
   pngPath: 'png/shanghai-shenhua-v201407.png'
@@ -11,7 +11,7 @@
 
 - data: logo
   uniqueID: 20211013-002
-  version: 201407
+  version: 2014.07
   isOutdated: true
   verName: ['Shanghai Grenland', 'Shanghai Greenland Shenhua']
   pngPath: 'png/shanghai-shenhua-v201407-mono.png'
