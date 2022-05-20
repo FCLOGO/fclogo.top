@@ -63,7 +63,7 @@ const SourcesData = ({ data, pageContext }) => {
       sortable: true
     },
     {
-      name: intl.formatMessage({ id: 'source.version' }),
+      name: intl.formatMessage({ id: 'source.latestVersion' }),
       selector: row => row.latestVersion
     },
     {
