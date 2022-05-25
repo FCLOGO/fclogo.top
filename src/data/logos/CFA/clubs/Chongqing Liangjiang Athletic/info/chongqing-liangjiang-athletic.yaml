@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-009
-  status: alive
+  status: disbanded
   type: club
   nation: China
   info:
@@ -10,7 +10,7 @@
       city: Chongqing, China
       founded: 1995
       ground: Chongqing Olympic Sports Center
-      league: Chinese Super League
+      duration: 1995 - 2022
   weiboURL: 'https://weibo.com/u/2059760773'
   twitterURL: ''
   websiteURL: 'http://www.dangdailifanfc.cn'
