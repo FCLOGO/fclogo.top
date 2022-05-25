@@ -2,7 +2,7 @@
   uniqueID: 20211102-001
   version: 2021
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Nanjing City']
   slug: /cfa/club/nanjing-city-v2021-mono
   pngPath: 'png/nanjing-city-v2021-mono.png'
@@ -14,7 +14,7 @@
   uniqueID: 20211102-002
   version: 2021
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Nanjing City']
   slug: /cfa/club/nanjing-city-v2021
   pngPath: 'png/nanjing-city-v2021.png'
