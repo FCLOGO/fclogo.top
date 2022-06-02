@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-080
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 济南兴洲足球俱乐部
+      shortName: 济南兴洲
+      localName: 济南兴洲足球俱乐部
+      founded: 2013
+      city: 济南，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/3859445471'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/济南兴洲足球俱乐部'

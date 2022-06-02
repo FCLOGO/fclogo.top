@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-080
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Jinan Xingzhou Football Club
+      shortName: Jinan Xingzhou
+      localName: 济南兴洲足球俱乐部
+      founded: 2013
+      city: Jinan, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/3859445471'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/济南兴洲足球俱乐部'
