@@ -3,7 +3,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: true
-  verName: ['YiChun JiangWu WeiHu']
+  verName: ['宜春江钨威虎']
   slug: /cfa/club/yichun-weihu-v2018-mono
   pngPath: 'png/yichun-weihu-v2018-mono.png'
   svgPath: 'svg/yichun-weihu-v2018-mono.svg'
@@ -15,7 +15,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: true
-  verName: ['YiChun JiangWu WeiHu']
+  verName: ['宜春江钨威虎']
   slug: /cfa/club/yichun-weihu-v2018
   pngPath: 'png/yichun-weihu-v2018.png'
   svgPath: 'svg/yichun-weihu-v2018.svg'
@@ -26,8 +26,8 @@
   uniqueID: 20211201-003
   version: 2021
   isDoubtful: false
-  isOutdated: false
-  verName: ['YiChun WeiHu']
+  isOutdated: true
+  verName: ['宜春威虎']
   slug: /cfa/club/yichun-weihu-v2021-mono
   pngPath: 'png/yichun-weihu-v2021-mono.png'
   svgPath: 'svg/yichun-weihu-v2021-mono.svg'
@@ -38,10 +38,34 @@
   uniqueID: 20211201-004
   version: 2021
   isDoubtful: false
-  isOutdated: false
-  verName: ['YiChun WeiHu']
+  isOutdated: true
+  verName: ['宜春威虎']
   slug: /cfa/club/yichun-weihu-v2021
   pngPath: 'png/yichun-weihu-v2021.png'
   svgPath: 'svg/yichun-weihu-v2021.svg'
+  sourceID: cfa-club-066
+  style: color
+
+- data: logo
+  uniqueID: 20220530-165714
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['江西黑马青年']
+  slug: /cfa/club/jiangxi-dark-horse-junior-v2022-mono
+  pngPath: 'png/jiangxi-dark-horse-junior-v2022-mono.png'
+  svgPath: 'svg/jiangxi-dark-horse-junior-v2022-mono.svg'
+  sourceID: cfa-club-066
+  style: mono
+
+- data: logo
+  uniqueID: 20220530-165810
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['江西黑马青年']
+  slug: /cfa/club/jiangxi-dark-horse-junior-v2022
+  pngPath: 'png/jiangxi-dark-horse-junior-v2022.png'
+  svgPath: 'svg/jiangxi-dark-horse-junior-v2022.svg'
   sourceID: cfa-club-066
   style: color
