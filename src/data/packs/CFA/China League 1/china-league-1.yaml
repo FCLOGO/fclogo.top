@@ -5,8 +5,6 @@
   packSource: cfa-comp-002
   slug: /pack/cfa/china-league-1
   items:
-    - id: cfa-club-007
-      version: 2020
     - id: cfa-club-022
       version: 2018
     - id: cfa-club-021
@@ -41,3 +39,5 @@
       version: 2000
     - id: cfa-club-035
       version: 2020
+    - id: cfa-club-058
+      version: 2021
