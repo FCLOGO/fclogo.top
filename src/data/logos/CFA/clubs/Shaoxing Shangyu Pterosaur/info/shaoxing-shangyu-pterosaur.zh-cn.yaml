@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-086
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 绍兴上虞翼龙足球俱乐部
+      shortName: 绍兴上虞翼龙
+      localName: 绍兴上虞翼龙足球俱乐部
+      founded: 2017
+      city: 绍兴，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

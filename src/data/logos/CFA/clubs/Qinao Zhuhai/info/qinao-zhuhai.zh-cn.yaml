@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-087
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 琴澳（珠海）足球俱乐部
+      shortName: 琴澳 FC
+      localName: 琴澳（珠海）足球俱乐部
+      founded: 2021
+      city: 珠海，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

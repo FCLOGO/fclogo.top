@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-084
+  status: alive
+  type: club
+  nation: China
+  timeline: false
+  info:
+    - fullName: Wuhan Jiangcheng Football Club
+      shortName: Wuhan Jiangcheng
+      localName: 武汉江城足球俱乐部
+      founded: 2000
+      city: Wuhan, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/3334028152'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

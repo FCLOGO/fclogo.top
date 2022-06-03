@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-087
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Qin'ao (zhuhai) Football Club
+      shortName: Qin'ao FC
+      localName: 琴澳（珠海）足球俱乐部
+      founded: 2021
+      city: Zhuhai, China
+      ground:
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

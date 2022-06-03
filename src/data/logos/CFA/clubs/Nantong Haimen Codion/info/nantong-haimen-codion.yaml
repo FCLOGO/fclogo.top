@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-082
+  status: alive
+  type: club
+  nation: China
+  timeline: false
+  info:
+    - fullName: Nantong Haimen Codion Football Club
+      shortName: Nantong Haimen Codion
+      localName: 南通海门珂缔缘足球俱乐部
+      founded: 2017
+      city: Nantong, China
+      ground:
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/3433611244'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
