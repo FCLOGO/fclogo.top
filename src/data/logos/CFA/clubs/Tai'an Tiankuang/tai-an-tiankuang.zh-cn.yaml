@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20220603-151124
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['泰安华伟']
+  slug: /cfa/club/taian-huawei-v2021-mono
+  pngPath: 'png/taian-huawei-v2021-mono.png'
+  svgPath: 'svg/taian-huawei-v2021-mono.svg'
+  sourceID: cfa-club-081
+  style: mono
+
+- data: logo
+  uniqueID: 20220603-151220
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['泰安华伟']
+  slug: /cfa/club/taian-huawei-v2021
+  pngPath: 'png/taian-huawei-v2021.png'
+  svgPath: 'svg/taian-huawei-v2021.svg'
+  sourceID: cfa-club-081
+  style: color
+
+- data: logo
+  uniqueID: 20220603-151253
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['泰安天贶']
+  slug: /cfa/club/taian-tiankuang-v2022-mono
+  pngPath: 'png/taian-tiankuang-v2022-mono.png'
+  svgPath: 'svg/taian-tiankuang-v2022-mono.svg'
+  sourceID: cfa-club-081
+  style: mono
+
+- data: logo
+  uniqueID: 20220603-151330
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['泰安天贶']
+  slug: /cfa/club/taian-tiankuang-v2022
+  pngPath: 'png/taian-tiankuang-v2022.png'
+  svgPath: 'svg/taian-tiankuang-v2022.svg'
+  sourceID: cfa-club-081
+  style: color
