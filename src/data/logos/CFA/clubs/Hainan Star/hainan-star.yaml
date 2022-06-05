@@ -1,0 +1,47 @@
+- data: logo
+  uniqueID: 20220605-202138
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Lingshui Dingli Jingcheng']
+  slug: /cfa/club/lingshui-dingli-jingcheng-v2019-mono
+  pngPath: 'png/lingshui-dingli-jingcheng-v2019-mono.png'
+  svgPath: 'svg/lingshui-dingli-jingcheng-v2019-mono.svg'
+  sourceID: cfa-club-083
+  style: mono
+
+- data: logo
+  uniqueID: 20220605-202232
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Lingshui Dingli Jingcheng']
+  slug: /cfa/club/lingshui-dingli-jingcheng-v2019
+  pngPath: 'png/lingshui-dingli-jingcheng-v2019.png'
+  svgPath: 'svg/lingshui-dingli-jingcheng-v2019.svg'
+  sourceID: cfa-club-083
+  style: color
+
+- data: logo
+  uniqueID: 20220605-202316
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hainan Star']
+  slug: /cfa/club/hainan-star-v2022-mono
+  pngPath: 'png/hainan-star-v2022-mono.png'
+  svgPath: 'svg/hainan-star-v2022-mono.svg'
+  sourceID: cfa-club-083
+  style: mono
+
+- data: logo
+  uniqueID: 20220605-202338
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hainan Star']
+  slug: /cfa/club/hainan-star-v2022
+  pngPath: 'png/hainan-star-v2022.png'
+  svgPath: 'svg/hainan-star-v2022.svg'
+  sourceID: cfa-club-083
+  style: color
