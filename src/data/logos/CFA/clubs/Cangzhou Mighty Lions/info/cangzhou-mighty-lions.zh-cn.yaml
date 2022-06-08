@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 沧州雄狮足球俱乐部
       shortName: 沧州雄狮
