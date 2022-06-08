@@ -3,6 +3,7 @@
   status: out
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 昆明郑和船工足球俱乐部
       shortName: 昆明郑和船工
