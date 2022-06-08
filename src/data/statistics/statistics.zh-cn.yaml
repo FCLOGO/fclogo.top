@@ -2,14 +2,22 @@
   continent: 亚洲
   nation: /
   association: AFC
-  comps: 0
-  clubs: 1
-  logos: 396
+  comps: 1
+  clubs: 2
+  logos: 475
 
 - data: statistics
   continent: 亚洲
   nation: 中国
   association: CFA
   comps: 6
-  clubs: 78
-  logos: 396
+  clubs: 87
+  logos: 461
+
+- data: statistics
+  continent: 亚洲
+  nation: 中国香港
+  association: HKFA
+  comps: 0
+  clubs: 0
+  logos: 2
