@@ -53,6 +53,11 @@ const SourcesData = ({ data, pageContext }) => {
       sortable: true
     },
     {
+      name: intl.formatMessage({ id: 'founded' }),
+      selector: row => row.info[0].founded,
+      sortable: true
+    },
+    {
       name: intl.formatMessage({ id: 'nation' }),
       selector: row => (row.nation ? intl.formatMessage({ id: row.nation }) : ''),
       sortable: true
@@ -156,6 +161,7 @@ export const query = graphql`
         info {
           fullName
           localName
+          founded
         }
         sourceID
         type
