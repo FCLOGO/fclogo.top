@@ -33,3 +33,51 @@
   svgPath: 'svg/kunshan-v2018.svg'
   sourceID: cfa-club-020
   style: color
+
+- data: logo
+  uniqueID: 20220615-232309
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhenjiang Huasa']
+  slug: /cfa/club/zhenjiang-huasa-v2014-mono
+  pngPath: 'png/zhenjiang-huasa-v2014-mono.png'
+  svgPath: 'svg/zhenjiang-huasa-v2014-mono.svg'
+  sourceID: cfa-club-020
+  style: mono
+
+- data: logo
+  uniqueID: 20220615-232338
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhenjiang Huasa']
+  slug: /cfa/club/zhenjiang-huasa-v2014
+  pngPath: 'png/zhenjiang-huasa-v2014.png'
+  svgPath: 'svg/zhenjiang-huasa-v2014.svg'
+  sourceID: cfa-club-020
+  style: color
+
+- data: logo
+  uniqueID: 20220615-232358
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhenjiang Huasa']
+  slug: /cfa/club/zhenjiang-huasa-v2016-mono
+  pngPath: 'png/zhenjiang-huasa-v2016-mono.png'
+  svgPath: 'svg/zhenjiang-huasa-v2016-mono.svg'
+  sourceID: cfa-club-020
+  style: mono
+
+- data: logo
+  uniqueID: 20220615-232427
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Zhenjiang Huasa']
+  slug: /cfa/club/zhenjiang-huasa-v2016
+  pngPath: 'png/zhenjiang-huasa-v2016.png'
+  svgPath: 'svg/zhenjiang-huasa-v2016.svg'
+  sourceID: cfa-club-020
+  style: color

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 昆山足球俱乐部
       shortName: 昆山 FC
