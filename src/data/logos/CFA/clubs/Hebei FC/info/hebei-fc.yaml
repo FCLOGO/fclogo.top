@@ -3,12 +3,13 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Hebei Football Club
       shortName: Hebei FC
       localName: 河北足球俱乐部
       city: Langfang, China
-      founded: 2009
+      founded: 2010
       ground: Langfang Stadium
       league: Chinese Super League
   weiboURL: 'https://weibo.com/u/2131874461'
