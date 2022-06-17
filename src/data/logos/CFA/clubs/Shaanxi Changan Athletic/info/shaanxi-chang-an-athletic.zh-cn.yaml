@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 陕西长安竞技足球俱乐部
       shortName: 陕西长安竞技
