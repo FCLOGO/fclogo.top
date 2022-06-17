@@ -21,3 +21,75 @@
   svgPath: 'svg/suzhou-dongwu-v2018.svg'
   sourceID: cfa-club-025
   style: color
+
+- data: logo
+  uniqueID: 20220617-143315
+  version: 2008
+  isDoubtful: true
+  isOutdated: true
+  verName: ['苏州锦富']
+  slug: /cfa/club/suzhou-jinfu-v2008-mono
+  pngPath: 'png/suzhou-jinfu-v2008-mono.png'
+  svgPath: 'svg/suzhou-jinfu-v2008-mono.svg'
+  sourceID: cfa-club-025
+  style: mono
+
+- data: logo
+  uniqueID: 20220617-143356
+  version: 2008
+  isDoubtful: true
+  isOutdated: true
+  verName: ['苏州锦富']
+  slug: /cfa/club/suzhou-jinfu-v2008
+  pngPath: 'png/suzhou-jinfu-v2008.png'
+  svgPath: 'svg/suzhou-jinfu-v2008.svg'
+  sourceID: cfa-club-025
+  style: color
+
+- data: logo
+  uniqueID: 20220617-143418
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['苏州东吴']
+  slug: /cfa/club/suzhou-dongwu-v2015-mono
+  pngPath: 'png/suzhou-dongwu-v2015-mono.png'
+  svgPath: 'svg/suzhou-dongwu-v2015-mono.svg'
+  sourceID: cfa-club-025
+  style: mono
+
+- data: logo
+  uniqueID: 20220617-143443
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['苏州东吴']
+  slug: /cfa/club/suzhou-dongwu-v2015
+  pngPath: 'png/suzhou-dongwu-v2015.png'
+  svgPath: 'svg/suzhou-dongwu-v2015.svg'
+  sourceID: cfa-club-025
+  style: color
+
+- data: logo
+  uniqueID: 20220617-143510
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['苏州东吴']
+  slug: /cfa/club/suzhou-dongwu-v2016-mono
+  pngPath: 'png/suzhou-dongwu-v2016-mono.png'
+  svgPath: 'svg/suzhou-dongwu-v2016-mono.svg'
+  sourceID: cfa-club-025
+  style: mono
+
+- data: logo
+  uniqueID: 20220617-143533
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['苏州东吴']
+  slug: /cfa/club/suzhou-dongwu-v2016
+  pngPath: 'png/suzhou-dongwu-v2016.png'
+  svgPath: 'svg/suzhou-dongwu-v2016.svg'
+  sourceID: cfa-club-025
+  style: color
