@@ -3,6 +3,7 @@
   status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 天津天海足球俱乐部
       shortName: 天津天海
