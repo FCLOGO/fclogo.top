@@ -5,13 +5,13 @@
   nation: China
   timeline: true
   info:
-    - fullName: 琴澳（珠海）足球俱乐部
-      shortName: 琴澳 FC
-      localName: 琴澳（珠海）足球俱乐部
+    - fullName: Zhuhai Qin'ao Football Club
+      shortName: Zhuhai Qin'ao FC
+      localName: 珠海琴澳足球俱乐部
       founded: 2021
-      city: 珠海，中国
+      city: Zhuhai, China
       ground:
-      league: 中乙联赛
+      league: China League 2
   weiboURL: ''
   twitterURL: ''
   websiteURL: ''

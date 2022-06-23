@@ -3,6 +3,7 @@
   status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Tianjin Tianhai Footbal Club
       shortName: Tianjin Tianhai
