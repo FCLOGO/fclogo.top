@@ -3,6 +3,7 @@
   status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Beijing Chengfeng Football Club
       shortName: Beijing Chengfeng

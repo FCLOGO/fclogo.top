@@ -21,3 +21,147 @@
   svgPath: 'svg/beijing-chengfeng-v2016.svg'
   sourceID: cfa-club-036
   style: color
+
+- data: logo
+  uniqueID: 20220714-234146
+  version: 1999
+  isDoubtful: true
+  isOutdated: true
+  verName: ['上海浦东']
+  slug: /cfa/club/shanghai-pudong-v1999-mono
+  pngPath: 'png/shanghai-pudong-v1999-mono.png'
+  svgPath: 'svg/shanghai-pudong-v1999-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20220714-234250
+  version: 1999
+  isDoubtful: true
+  isOutdated: true
+  verName: ['上海浦东']
+  slug: /cfa/club/shanghai-pudong-v1999
+  pngPath: 'png/shanghai-pudong-v1999.png'
+  svgPath: 'svg/shanghai-pudong-v1999.svg'
+  sourceID: cfa-club-036
+  style: color
+
+- data: logo
+  uniqueID: 20220714-234319
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['上海中远汇丽', '上海中远三林']
+  slug: /cfa/club/shanghai-cosco-v2001-mono
+  pngPath: 'png/shanghai-cosco-v2001-mono.png'
+  svgPath: 'svg/shanghai-cosco-v2001-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20220714-234422
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['上海中远汇丽', '上海中远三林']
+  slug: /cfa/club/shanghai-cosco-v2001
+  pngPath: 'png/shanghai-cosco-v2001.png'
+  svgPath: 'svg/shanghai-cosco-v2001.svg'
+  sourceID: cfa-club-036
+  style: color
+
+- data: logo
+  uniqueID: 20220714-234456
+  version: 2005
+  isDoubtful: false
+  isOutdated: true
+  verName: ['上海永大']
+  slug: /cfa/club/shanghai-yungtay-v2005-mono
+  pngPath: 'png/shanghai-yungtay-v2005-mono.png'
+  svgPath: 'svg/shanghai-yungtay-v2005-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20220714-234532
+  version: 2005
+  isDoubtful: false
+  isOutdated: true
+  verName: ['上海永大']
+  slug: /cfa/club/shanghai-yungtay-v2005
+  pngPath: 'png/shanghai-yungtay-v2005.png'
+  svgPath: 'svg/shanghai-yungtay-v2005.svg'
+  sourceID: cfa-club-036
+  style: color
+
+- data: logo
+  uniqueID: 20220714-234616
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['陕西宝荣浐灞']
+  slug: /cfa/club/shaanxi-baorong-chanba-v2007-mono
+  pngPath: 'png/shaanxi-baorong-chanba-v2007-mono.png'
+  svgPath: 'svg/shaanxi-baorong-chanba-v2007-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20220714-234642
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['陕西宝荣浐灞']
+  slug: /cfa/club/shaanxi-baorong-chanba-v2007
+  pngPath: 'png/shaanxi-baorong-chanba-v2007.png'
+  svgPath: 'svg/shaanxi-baorong-chanba-v2007.svg'
+  sourceID: cfa-club-036
+  style: color
+
+- data: logo
+  uniqueID: 20220714-234705
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['陕西宝荣浐灞']
+  slug: /cfa/club/shaanxi-baorong-chanba-v2010-mono
+  pngPath: 'png/shaanxi-baorong-chanba-v2010-mono.png'
+  svgPath: 'svg/shaanxi-baorong-chanba-v2010-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20220714-234725
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['陕西宝荣浐灞']
+  slug: /cfa/club/shaanxi-baorong-chanba-v2010
+  pngPath: 'png/shaanxi-baorong-chanba-v2010.png'
+  svgPath: 'svg/shaanxi-baorong-chanba-v2010.svg'
+  sourceID: cfa-club-036
+  style: color
+
+- data: logo
+  uniqueID: 20220714-234748
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州人和']
+  slug: /cfa/club/guizhou-renhe-v2012-mono
+  pngPath: 'png/guizhou-renhe-v2012-mono.png'
+  svgPath: 'svg/guizhou-renhe-v2012-mono.svg'
+  sourceID: cfa-club-036
+  style: mono
+
+- data: logo
+  uniqueID: 20220714-234812
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['贵州人和']
+  slug: /cfa/club/guizhou-renhe-v2012
+  pngPath: 'png/guizhou-renhe-v2012.png'
+  svgPath: 'svg/guizhou-renhe-v2012.svg'
+  sourceID: cfa-club-036
+  style: color
