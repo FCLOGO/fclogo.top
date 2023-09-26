@@ -1,187 +1,162 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { LocalizedLink } from 'gatsby-plugin-usei18n'
-import { useIntl } from 'react-intl'
+import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
-// import Layout from '../components/layout'
-import ConditionalLayout from '../components/conditional-layout'
-import ModalLink from '../components/modal-link'
+import Layout from '../components/layout'
 import Seo from '../components/seo'
-// import Search from '../components/single-search'
-import DetailSidebar from '../components/detail-sidebar'
+import Search from '../components/_algolia'
+import Sidebar from '../components/detail-sidebar'
+import LogoTimeline from '../components/logo-timeline'
 
-import {
-  mainContent,
-  contentInner,
-  detailWrapper,
-  logoHolder,
-  holderInner,
-  imageHolder,
-  logoImage,
-  logoStyles,
-  styleList,
-  styleItem,
-  current,
-  styleImage,
-  styleLink,
-  detailNav,
-  linkWrapper,
-  previousLink,
-  nextLink,
-  arrowIcon,
-  notransWrapper,
-  notransText
-} from './logo-detail.module.styl'
-
-import HistoryTimline from '../components/history-timeline'
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 
-const LogoDeatil = ({ data, pageContext }) => {
-  const intl = useIntl()
+const LogoDetail = ({ data, pageContext }) => {
+  const { t } = useTranslation()
   const { next, previous } = pageContext
   return (
-    <ConditionalLayout pageContext={pageContext}>
-      {/* <Search locale={pageContext.locale} /> */}
-      {data.logo ? (
-        <>
-          <Seo
-            title={`${data.logo.detailInfo[0].info[0].fullName}${intl.formatMessage({
-              id: 'detail.titleVector'
-            })}`}
-          />
-          <div className={mainContent}>
-            <div className={contentInner}>
-              <section className={detailWrapper}>
-                <section className={logoHolder}>
-                  <div className={holderInner}>
-                    <div className={imageHolder}>
-                      <GatsbyImage
-                        image={getImage(data.logo.pngPath)}
-                        alt={data.logo.detailInfo[0].info[0].fullName}
-                        className={logoImage}
-                      />
-                    </div>
-                    {data.logo.styleMode.length > 0 ? (
-                      <div className={logoStyles}>
-                        <ul className={styleList}>
-                          <li className={`${styleItem} ${current}`}>
+    <Layout pageContext={pageContext}>
+      <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
+        <Search locale={pageContext.language} />
+      </div>
+      <div className="w-full m-[0_auto] flex-grow flex flex-col items-start">
+        {data.logo ? (
+          <>
+            <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap border-b border-b-gray-1">
+              <section className="w-full pt-[160px] flex-grow flex flex-col bg-white">
+                <div className="w-full flex-grow flex items-center justify-center">
+                  <GatsbyImage
+                    image={getImage(data.logo.pngPath)}
+                    alt={data.logo.detailInfo[0].info[0].fullName}
+                  />
+                </div>
+                {data.logo.otherStyle.length > 0 ? (
+                  <div className="w-full h-[80px] my-3xl">
+                    <ul className="flex flex-row items-start justify-center">
+                      <li className="w-[80px] h-[80px] mr-md rounded border border-gray-2 cursor-pointer border-b-2 border-b-green bg-dark-gray bg-opacity-5">
+                        <GatsbyImage
+                          image={getImage(data.logo.pngPath)}
+                          alt={data.logo.detailInfo[0].info[0].fullName}
+                          className="h-[48px_!important] w-[48px_!important] m-lg"
+                        />
+                      </li>
+                      {data.logo.otherStyle.map(item => (
+                        <li
+                          key={item.id}
+                          className="w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero hover:bg-dark-gray hover:bg-opacity-5"
+                        >
+                          <Link to={item.slug} className="w-full h-full inline-block">
                             <GatsbyImage
-                              image={getImage(data.logo.pngPath)}
-                              alt={data.logo.detailInfo[0].info[0].fullName}
-                              className={styleImage}
+                              image={getImage(item.pngPath)}
+                              alt={item.detailInfo[0].info[0].fullName}
+                              className="h-[48px_!important] w-[48px_!important] m-lg"
                             />
-                          </li>
-                          {data.logo.styleMode.map(item => (
-                            <li key={item.id} className={styleItem}>
-                              <ModalLink
-                                className={styleLink}
-                                to={item.slug}
-                                state={{
-                                  modal: true,
-                                  noScroll: true
-                                }}
-                              >
-                                <GatsbyImage
-                                  image={getImage(item.pngPath)}
-                                  alt={item.detailInfo[0].info[0].fullName}
-                                  className={styleImage}
-                                />
-                              </ModalLink>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    ) : (
-                      ''
-                    )}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
                   </div>
-                </section>
-                <DetailSidebar
-                  version={data.logo.version}
-                  isOutdated={data.logo.isOutdated}
-                  isDoubtful={data.logo.isDoubtful}
-                  slug={data.logo.slug}
-                  status={data.logo.detailInfo[0].status}
-                  fullName={data.logo.detailInfo[0].info[0].fullName}
-                  pngURL={data.logo.pngPath.publicURL}
-                  svgURL={data.logo.svgPath.publicURL}
-                  type={data.logo.detailInfo[0].type}
-                  tableInfo={data.logo.detailInfo[0].info[0]}
-                  websiteURL={data.logo.detailInfo[0].websiteURL}
-                  weiboURL={data.logo.detailInfo[0].weiboURL}
-                  twitterURL={data.logo.detailInfo[0].twitterURL}
-                  wikiURL={data.logo.detailInfo[0].wikiURL}
-                  verName={data.logo.verName}
-                />
+                ) : (
+                  ''
+                )}
               </section>
-              {data.logo.logoHistory.length > 1 ? (
-                <HistoryTimline logos={data.logo.logoHistory} />
-              ) : (
-                ''
-              )}
-              <section className={detailNav}>
-                <div className={linkWrapper}>
-                  {previous ? (
-                    <ModalLink
-                      className={previousLink}
-                      to={previous.slug}
-                      state={{
-                        modal: true,
-                        noScroll: true
-                      }}
-                    >
-                      <ArrowIcon className={arrowIcon} />
-                    </ModalLink>
-                  ) : (
-                    ''
-                  )}
-                </div>
-                <div className={linkWrapper}>
-                  {next ? (
-                    <ModalLink
-                      className={nextLink}
-                      to={next.slug}
-                      state={{
-                        modal: true,
-                        noScroll: true
-                      }}
-                    >
-                      <ArrowIcon className={arrowIcon} />
-                    </ModalLink>
-                  ) : (
-                    ''
-                  )}
-                </div>
-              </section>
+              <Sidebar
+                version={data.logo.version}
+                isOutdated={data.logo.isOutdated}
+                isDoubtful={data.logo.isDoubtful}
+                fullName={data.logo.detailInfo[0].info[0].fullName}
+                slug={data.logo.slug}
+                status={data.logo.detailInfo[0].status}
+                pngURL={data.logo.pngPath.publicURL}
+                svgURL={data.logo.svgPath.publicURL}
+                type={data.logo.detailInfo[0].type}
+                tableInfo={data.logo.detailInfo[0].info[0]}
+                websiteURL={data.logo.detailInfo[0].websiteURL}
+                weiboURL={data.logo.detailInfo[0].weiboURL}
+                twitterURL={data.logo.detailInfo[0].twitterURL}
+                wikiURL={data.logo.detailInfo[0].wikiURL}
+                verName={data.logo.verName}
+              />
             </div>
-          </div>
-        </>
-      ) : (
-        <>
-          <Seo title={intl.formatMessage({ id: 'detail.notransTitle' })} />
-          <div className={mainContent}>
-            <section className={notransWrapper}>
-              <p className={notransText}>{intl.formatMessage({ id: 'detail.notrans' })}</p>
-            </section>
-          </div>
-        </>
-      )}
-    </ConditionalLayout>
+            {data.logo.logoTimeline.length > 1 ? (
+              <LogoTimeline logos={data.logo.logoTimeline} />
+            ) : (
+              ''
+            )}
+            <nav className="w-full flex flex-row items-center justify-between px-xl py-3xl">
+              <div className="w-[50px] h-[50px] rounded">
+                {previous ? (
+                  <Link
+                    to={previous.slug}
+                    className="w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
+                  >
+                    <ArrowIcon className="w-xl h-xl stroke-dark-gray rotate-180" />
+                  </Link>
+                ) : (
+                  ''
+                )}
+              </div>
+              <div className="w-[50px] h-[50px] rounded">
+                {next ? (
+                  <Link
+                    to={next.slug}
+                    className="w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
+                  >
+                    <ArrowIcon className="w-xl h-xl stroke-dark-gray" />
+                  </Link>
+                ) : (
+                  ''
+                )}
+              </div>
+            </nav>
+          </>
+        ) : (
+          <section className="w-full p-xl text-center pt-[160px] mt-[100px]">
+            <p className="font-semibold text-light-gray">{t('detail.notrans')}</p>
+          </section>
+        )}
+      </div>
+    </Layout>
   )
 }
 
-export default LogoDeatil
+export default LogoDetail
+
+export const Head = ({ data }) => {
+  const locales = data.locales.edges[0].node.data
+  let obj = undefined
+  if (locales) {
+    obj = JSON.parse(locales)
+  }
+  return (
+    <>
+      {data.logo ? (
+        <Seo title={`${data.logo.detailInfo[0].info[0].fullName}${obj?.detailTitleVector}`} />
+      ) : (
+        <Seo title={obj?.detailNotransTitle} />
+      )}
+    </>
+  )
+}
 
 export const query = graphql`
-  query ($locale: String!, $slug: String!) {
-    logo(fields: { locale: { eq: $locale } }, slug: { eq: $slug }) {
+  query ($language: String!, $slug: String!) {
+    locales: allLocale(filter: { language: { eq: $language } }) {
+      edges {
+        node {
+          ns
+          data
+          language
+        }
+      }
+    }
+    logo(fields: { locale: { eq: $language } }, slug: { eq: $slug }) {
       id
       slug
       version
+      verName
       isDoubtful
       isOutdated
-      verName
       pngPath {
         publicURL
         childImageSharp {
@@ -190,20 +165,6 @@ export const query = graphql`
       }
       svgPath {
         publicURL
-      }
-      styleMode {
-        id
-        slug
-        pngPath {
-          childImageSharp {
-            gatsbyImageData(placeholder: BLURRED, width: 50, layout: FIXED, formats: WEBP)
-          }
-        }
-        detailInfo {
-          info {
-            fullName
-          }
-        }
       }
       detailInfo {
         type
@@ -234,11 +195,25 @@ export const query = graphql`
         twitterURL
         wikiURL
       }
-      logoHistory {
+      otherStyle {
         id
+        slug
+        detailInfo {
+          info {
+            fullName
+          }
+        }
+        pngPath {
+          childImageSharp {
+            gatsbyImageData(placeholder: BLURRED, width: 50, layout: FIXED, formats: WEBP)
+          }
+        }
+      }
+      logoTimeline {
+        id
+        slug
         version
         isDoubtful
-        slug
         pngPath {
           childImageSharp {
             gatsbyImageData(placeholder: BLURRED, width: 100, layout: FIXED, formats: WEBP)

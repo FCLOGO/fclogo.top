@@ -1,6 +1,5 @@
 import React from 'react'
-import { useIntl } from 'react-intl'
-import { LocalizedLink } from 'gatsby-plugin-usei18n'
+import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
 import IncrementDownloads from '../lib/increment-downloads'
 import DownloadCounter from '../components/download-counter'
@@ -13,30 +12,7 @@ import TwitterIcon from '../../static/assets/icons/twitter.inline.svg'
 import WikiIcon from '../../static/assets/icons/wiki.inline.svg'
 import BugIcon from '../../static/assets/icons/bug.inline.svg'
 
-import {
-  detailSidebar,
-  googleAds,
-  detailHeader,
-  logoBadges,
-  versionNumber,
-  detailTitle,
-  detailDownload,
-  pngButton,
-  svgButton,
-  detailLicense,
-  fileType,
-  useTerms,
-  termTitle,
-  vectorIcon,
-  detailInfo,
-  infoTitle,
-  infoTable,
-  infoLinks,
-  logoTags,
-  errNotes,
-  bugIcon
-} from './detail-sidebar.module.styl'
-
+// Google Adsense
 const DetailAdsense = () => {
   return (
     <AdSense.Google
@@ -50,18 +26,18 @@ const DetailAdsense = () => {
 }
 
 const InfoTable = ({ info }) => {
-  const intl = useIntl()
+  const { t } = useTranslation()
   const newInfo = {}
   Object.entries(info)
     .filter(([, value]) => value !== null)
     .forEach(([key, value]) => (newInfo[key] = value))
   const keys = Object.keys(newInfo)
   return (
-    <table className={infoTable}>
+    <table className="mb-md leading-normal info-table">
       <tbody>
         {keys.map((key, index) => (
           <tr key={index}>
-            <th>{intl.formatMessage({ id: key })}</th>
+            <th>{t(key)}</th>
             <td>{newInfo[key]}</td>
           </tr>
         ))}
@@ -71,137 +47,152 @@ const InfoTable = ({ info }) => {
 }
 
 const DetailSidebar = props => {
-  const intl = useIntl()
+  const { t } = useTranslation()
+  const fullName = props.fullName
   const pushCounter = () => IncrementDownloads(props.slug)
   return (
-    <aside className={detailSidebar}>
-      <div className={googleAds}>
+    <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
+      <div className="p-xl w-aside border-b border-b-gray-1 tablet:hidden">
         <DetailAdsense />
       </div>
-      <header className={detailHeader}>
-        <section className={logoBadges}>
+      <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
+        <section className="flex flex-row justify-start items-center">
           {props.version === 0 ? (
             ''
           ) : (
-            <span>
-              {intl.formatMessage({ id: 'sidebar.logoVer' })}
-              <data className={versionNumber}>{props.version}</data>
-              {props.isDoubtful ? intl.formatMessage({ id: 'sidebar.doubtful' }) : ''}
+            <span className="text-xs font-semibold bg-green rounded-sm text-gray px-xs py-mini mr-xs">
+              {t('sidebar.logoVer')}
+              <data className="font-mono">{props.version}</data>
+              {props.isDoubtful ? t('sidebar.doubtful') : ''}
             </span>
           )}
-
-          {props.isOutdated ? <span>{intl.formatMessage({ id: 'sidebar.outdated' })}</span> : ''}
+          {props.isOutdated ? (
+            <span className="text-xs font-semibold bg-green rounded-sm text-gray px-xs py-mini">
+              {t('sidebar.outdated')}
+            </span>
+          ) : (
+            ''
+          )}
         </section>
-        <div className={detailTitle}>
-          <h1>
+        <div className="w-full flex flex-row items-center justify-between mt-md">
+          <h1 className="text-base capitalize flex-auto font-semibold">
             {props.fullName}
-            {intl.formatMessage({ id: 'detail.titleVector' })}
+            {t('detailTitleVector')}
           </h1>
           {props.status !== 'alive' && props.status ? (
-            <span>{intl.formatMessage({ id: props.status })}</span>
+            <span className="flex-none text-xs uppercase font-semibold bg-light-gray rounded-sm text-gray px-xs py-mini ml-xs">
+              {t(props.status)}
+            </span>
           ) : (
             ''
           )}
         </div>
       </header>
-      <div className={detailDownload}>
-        <a href={props.pngURL} download className={pngButton} onClick={pushCounter}>
-          <span>PNG</span>
-          <DownloadIcon />
+      <div className="w-aside px-xl mb-md flex flex-row items-center justify-between tablet:justify-start">
+        <a
+          href={props.pngURL}
+          download
+          onClick={pushCounter}
+          className="bg-green text-white rounded-md cursor-pointer text-base uppercase font-semibold w-[200px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green"
+        >
+          <span className="flex-auto text-center">PNG</span>
+          <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
-        <a href={props.svgURL} download className={svgButton} onClick={pushCounter}>
-          <span>SVG</span>
-          <DownloadIcon />
+        <a
+          href={props.svgURL}
+          download
+          onClick={pushCounter}
+          className="bg-green text-white rounded-md cursor-pointer text-base uppercase font-semibold w-[200px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green tablet:ml-xl"
+        >
+          <span className="flex-auto text-center">SVG</span>
+          <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
       </div>
-      <div className={detailLicense}>
-        <div className={fileType}>
-          <h6>
-            <VectorIcon className={vectorIcon} />
-            {intl.formatMessage({ id: 'sidebar.fileType' })}
-            <LocalizedLink to="/support/how-to-edit-vector-file">
-              {intl.formatMessage({ id: 'sidebar.howToEdit' })}
-            </LocalizedLink>
+      <div className="w-aside px-xl py-md flex flex-col">
+        <div className="block">
+          <h6 className="flex flex-row items-center text-xs font-semibold">
+            <VectorIcon className="w-xl h-xl mr-xs" />
+            {t('sidebar.fileType')}
+            <Link to="/support/how-to-edit-vector-file" className="ml-sm text-link hover:text-blue">
+              {t('sidebar.howToEdit')}
+            </Link>
           </h6>
         </div>
-        <div className={useTerms}>
-          <h6 className={termTitle}>{intl.formatMessage({ id: 'sidebar.termTitle' })}</h6>
-          <p>
-            {intl.formatMessage({ id: 'sidebar.termText' }, { s: <b>{props.fullName}</b> })}{' '}
-            <LocalizedLink to="/support/terms-of-use">
-              <b>{intl.formatMessage({ id: 'sidebar.termMore' })}</b>
-            </LocalizedLink>
+        <div className="block my-md">
+          <h6 className="font-semibold my-md">{t('sidebar.termTitle')}</h6>
+          <p className="text-xs">
+            <Trans i18nKey="sidebar.termText">
+              By downloading <b>{{ fullName }}</b> logo you agree with our terms of use.
+            </Trans>
+            <Link to="/support/terms-of-use" className="text-link ml-sm hover:text-blue">
+              <b>{t('sidebar.termMore')}</b>
+            </Link>
           </p>
         </div>
         <DownloadCounter logoId={props.slug} />
       </div>
-      <div className={detailInfo}>
-        <h6 className={infoTitle}>
-          {intl.formatMessage({ id: props.type })}
-          {intl.formatMessage({ id: 'sidebar.infoTitle' })}
+      <div className="w-aside px-xl py-md border-t border-t-gray-1">
+        <h6 className="font-semibold my-md">
+          {t(props.type)}
+          {t('sidebar.infoTitle')}
         </h6>
         <InfoTable info={props.tableInfo} />
-        <div className={infoLinks}>
+        <div className="flex flex-row items-center sidebar-socail">
           {props.websiteURL ? (
-            <a
-              href={props.websiteURL}
-              target="_blank"
-              title={intl.formatMessage({ id: 'sidebar.website' })}
-            >
+            <a href={props.websiteURL} target="_blank" title={t('sidebar.website')}>
               <WebsiteIcon />
             </a>
           ) : (
             ''
           )}
           {props.weiboURL ? (
-            <a
-              href={props.weiboURL}
-              target="_blank"
-              title={intl.formatMessage({ id: 'sidebar.weibo' })}
-            >
+            <a href={props.weiboURL} target="_blank" title={t('sidebar.weibo')}>
               <WeiboIcon />
             </a>
           ) : (
             ''
           )}
           {props.twitterURL ? (
-            <a
-              href={props.twitterURL}
-              target="_blank"
-              title={intl.formatMessage({ id: 'sidebar.twitter' })}
-            >
+            <a href={props.twitterURL} target="_blank" title={t('sidebar.twitter')}>
               <TwitterIcon />
             </a>
           ) : (
             ''
           )}
           {props.wikiURL ? (
-            <a
-              href={props.wikiURL}
-              target="_blank"
-              title={intl.formatMessage({ id: 'sidebar.wiki' })}
-            >
+            <a href={props.wikiURL} target="_blank" title={t('sidebar.wiki')}>
               <WikiIcon />
             </a>
           ) : (
             ''
           )}
         </div>
-        <div className={logoTags}>
-          <ul>
-            {props.verName.map(tag => (
-              <li key={tag}>{tag}</li>
-            ))}
-          </ul>
-        </div>
+        {props.verName ? (
+          <div className="border-t border-t-gray-1 mb-md mt-2xl pt-2xl">
+            <ul className="flex flex-row items-center text-xs text-light-gray">
+              {props.verName.map(tag => (
+                <li key={tag} className="border border-gray-1 rounded p-xs mr-xs last:mr-zero">
+                  {tag}
+                </li>
+              ))}
+            </ul>
+          </div>
+        ) : (
+          ''
+        )}
       </div>
-      <div className={errNotes}>
-        <h6>
-          <BugIcon className={bugIcon} />
-          {intl.formatMessage({ id: 'sidebar.foundErr' })}
-          <LocalizedLink to="/contact">
-            {intl.formatMessage({ id: 'sidebar.tellMe' })}
-          </LocalizedLink>
+      <div className="w-aside px-xl py-3xl border-t border-t-gray-1">
+        <h6 className="flex flex-row items-center text-xs font-semibold">
+          <BugIcon className="w-xl h-xl mr-xs" />
+          {t('sidebar.foundErr')}
+          <a
+            href="https://github.com/FCLOGO/fclogo.top/discussions"
+            rel="noopener noreferrer"
+            target="_blank"
+            className="text-link ml-sm hover:text-blue"
+          >
+            {t('sidebar.tellMe')}
+          </a>
         </h6>
       </div>
     </aside>

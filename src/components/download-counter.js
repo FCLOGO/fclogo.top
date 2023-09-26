@@ -1,13 +1,12 @@
 import React, { useEffect, useState } from 'react'
-import { useIntl } from 'react-intl'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
 import app from 'gatsby-plugin-firebase-v9.0'
 import { getDatabase, ref, onValue } from 'firebase/database'
 
 import CloudIcon from '../../static/assets/icons/cloud.inline.svg'
-import { counterContainer } from './download-counter.module.styl'
 
 const DownloadCounter = ({ logoId }) => {
-  const intl = useIntl()
+  const { t } = useTranslation()
   const [downloadCount, setDownloadCount] = useState('')
   useEffect(() => {
     const db = getDatabase(app)
@@ -18,11 +17,15 @@ const DownloadCounter = ({ logoId }) => {
     })
   }, [logoId])
   return (
-    <div className={counterContainer}>
-      <CloudIcon />
-      {downloadCount ? <data>{downloadCount}</data> : <data>0</data>}
-      {intl.formatMessage({ id: 'sidebar.downloads' })}
-      {downloadCount > 1 ? intl.formatMessage({ id: 'sidebar.s' }) : ``}
+    <div className="flex flex-row my-md text-xs font-semibold">
+      <CloudIcon className="w-xl h-xl mr-xs" />
+      {downloadCount ? (
+        <data className="font-mono mr-xs">{downloadCount}</data>
+      ) : (
+        <data className="font-mono mr-xs">0</data>
+      )}
+      {t('sidebar.downloads')}
+      {downloadCount > 1 ? t('sidebar.s') : ``}
     </div>
   )
 }

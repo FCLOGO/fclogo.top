@@ -1,25 +1,20 @@
-import React from 'react'
+import * as React from 'react'
 import { graphql } from 'gatsby'
-import { useIntl } from 'react-intl'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
 import Hero from '../components/index-hero'
 import LogoList from '../components/index-logo-list'
+import LogoPack from '../components/index-pack'
 import RandomList from '../components/index-random'
-import LogoPacks from '../components/index-packs'
-
-import { mainContent } from './index.module.styl'
 
 const IndexPage = ({ data, pageContext }) => {
-  const intl = useIntl()
   return (
-    <Layout pageContext={pageContext}>
-      <Seo title={intl.formatMessage({ id: 'home.title' })} />
-      <Hero totalCount={data.allLogo.totalCount} locale={pageContext.locale} />
-      <div className={mainContent}>
+    <Layout>
+      <Hero totalCount={data.allLogo.totalCount} locale={pageContext.language} />
+      <div className="w-full mx-auto mt-xl mb-[100px] px-[40px] max-w-[1400px] flex-auto flex flex-col flex-nowrap">
         <LogoList data={data} />
-        <LogoPacks data={data} />
+        {data.allLogoPack.nodes.length ? <LogoPack data={data} /> : ''}
         {data.allLogo.nodes.length > 50 ? <RandomList data={data} /> : ''}
       </div>
     </Layout>
@@ -28,14 +23,30 @@ const IndexPage = ({ data, pageContext }) => {
 
 export default IndexPage
 
+export const Head = ({ data }) => {
+  const locales = data.locales.edges[0].node.data
+  let obj = undefined
+  if (locales) {
+    obj = JSON.parse(locales)
+  }
+  return <Seo title={obj?.hometitle} />
+}
+
 export const query = graphql`
-  query ($locale: String!) {
-    allLogo(
-      sort: { order: DESC, fields: uniqueID }
-      filter: { fields: { locale: { eq: $locale } } }
-    ) {
+  query ($language: String!) {
+    locales: allLocale(filter: { language: { eq: $language } }) {
+      edges {
+        node {
+          ns
+          data
+          language
+        }
+      }
+    }
+    allLogo(sort: { uniqueID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
       nodes {
         id
+        slug
         style
         version
         pngPath {
@@ -43,7 +54,6 @@ export const query = graphql`
             gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
           }
         }
-        slug
         detailInfo {
           info {
             fullName
@@ -54,9 +64,9 @@ export const query = graphql`
       totalCount
     }
     allLogoPack(
-      sort: { order: DESC, fields: uniqueID }
+      sort: { uniqueID: DESC }
       limit: 12
-      filter: { fields: { locale: { eq: $locale } } }
+      filter: { fields: { locale: { eq: $language } } }
     ) {
       nodes {
         id
@@ -75,6 +85,11 @@ export const query = graphql`
           pngPath {
             childImageSharp {
               gatsbyImageData(width: 200, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+            }
+          }
+          detailInfo {
+            info {
+              fullName
             }
           }
         }

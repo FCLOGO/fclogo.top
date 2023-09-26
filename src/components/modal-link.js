@@ -1,15 +1,15 @@
 import React from 'react'
-import { LocalizedLink } from 'gatsby-plugin-usei18n'
+import { Link } from 'gatsby-plugin-react-i18next'
 import { useMediaQuery } from 'react-responsive'
 
 const ModalLink = ({ state, children, ...rest }) => {
   const isDesktop = useMediaQuery({ minWidth: 992 })
   return isDesktop ? (
-    <LocalizedLink state={state} {...rest}>
+    <Link state={state} {...rest}>
       {children}
-    </LocalizedLink>
+    </Link>
   ) : (
-    <LocalizedLink {...rest}>{children}</LocalizedLink>
+    <Link {...rest}>{children}</Link>
   )
 }
 

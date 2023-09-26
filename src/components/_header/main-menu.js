@@ -1,35 +1,29 @@
 import React from 'react'
-import { useIntl } from 'react-intl'
-import { LocalizedLink } from 'gatsby-plugin-usei18n'
+import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
-import HeaderToggle from './header-toggle'
+import LanguageSwitcher from '../_header/language-switcher'
 
-import {
-  mainMenuWrapper,
-  mainMenuList,
-  mainMenuListItem,
-  mainMenuLink
-} from './main-menu.module.styl'
-
-const ListLink = props => (
-  <li className={mainMenuListItem}>
-    <LocalizedLink className={mainMenuLink} to={props.to}>
+const MenuLink = props => (
+  <li className="tablet:w-full">
+    <Link
+      to={props.to}
+      className="relative uppercase inline-block ml-lg text-gray hover:text-white font-medium tracking-widest tablet:w-full tablet:h-[48px] tablet:leading-[48px] tablet:text-dark-gray tablet:hover:text-dark-gray"
+    >
       {props.children}
-    </LocalizedLink>
+    </Link>
   </li>
 )
 
-const MainMenu = ({ pageContext }) => {
-  const intl = useIntl()
+const MainMenu = () => {
+  const { t } = useTranslation()
   return (
-    <div className={mainMenuWrapper}>
-      <ul className={mainMenuList}>
-        <ListLink to="/logos">{intl.formatMessage({ id: 'menu.logo' })}</ListLink>
-        <ListLink to="/packs">{intl.formatMessage({ id: 'menu.pack' })}</ListLink>
-        {/* <ListLink to="/news">{intl.formatMessage({ id: 'menu.news' })}</ListLink> */}
-        <ListLink to="/about">{intl.formatMessage({ id: 'menu.about' })}</ListLink>
+    <div className="overflow-visible flex flex-row flex-nowrap justify-between h-header flex-auto tablet:flex-col tablet:overflow-x-hidden tablet:overflow-y-auto tablet:h-full tablet:justify-start">
+      <ul className="flex felx-auto flex-row flex-nowrap items-center tablet:flex-col tablet:px-xxl tablet:mb-xxl">
+        <MenuLink to="/logos">{t('menu.logo')}</MenuLink>
+        <MenuLink to="/packs">{t('menu.pack')}</MenuLink>
+        <MenuLink to="/about">{t('menu.about')}</MenuLink>
       </ul>
-      <HeaderToggle pageContext={pageContext} />
+      <LanguageSwitcher />
     </div>
   )
 }

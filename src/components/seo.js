@@ -1,36 +1,35 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
-import { useStaticQuery, graphql } from 'gatsby'
+import { useSiteMetadata } from '../hooks/use-site-metadata'
 
-const Seo = ({ description, title, children }) => {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            author
-          }
-        }
-      }
-    `
-  )
+const Seo = ({ description, title, pathname, children }) => {
+  const {
+    title: defaultTitle,
+    description: defaultDescription,
+    siteUrl,
+    author
+  } = useSiteMetadata()
 
-  const metaDescription = description || site.siteMetadata.description
+  const seo = {
+    title: title || defaultTitle,
+    description: description || defaultDescription,
+    url: `${siteUrl}${pathname || ``}`,
+    author
+  }
 
   return (
-    <Helmet title={title} titleTemplate={`%s - ${site.siteMetadata.title}`}>
-      <meta name="description" content={metaDescription} />
-      <meta name="og:title" content={title} />
-      <meta name="og:description" content={metaDescription} />
+    <>
+      <title>{`${seo.title} - ${defaultTitle}`}</title>
+      <meta name="description" content={seo.description} />
+      <meta name="og:title" content={seo.title} />
+      <meta name="og:description" content={seo.description} />
       <meta name="og:type" content="website" />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:creator" content={site.siteMetadata.author} />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={metaDescription} />
+      <meta name="twitter:creator" content={seo.author} />
+      <meta name="twitter:title" content={seo.title} />
+      <meta name="twitter:url" content={seo.url} />
+      <meta name="twitter:description" content={seo.description} />
       {children}
-    </Helmet>
+    </>
   )
 }
 

@@ -1,34 +1,23 @@
 import React from 'react'
-import { useIntl } from 'react-intl'
+import { Trans, useTranslation } from 'gatsby-plugin-react-i18next'
 
 import AlgoliaSearch from './_algolia'
 
-import {
-  heroWrapper,
-  heroContent,
-  heroTitle,
-  heroSubtitle,
-  logoNum,
-  algWrapper,
-  showResult,
-  searchTips
-} from './index-hero.module.styl'
-
 const IndexHero = ({ totalCount, locale }) => {
-  const intl = useIntl()
+  const { t } = useTranslation()
   return (
-    <div className={heroWrapper}>
-      <div className={heroContent}>
-        <h1 className={heroTitle}>
-          {intl.formatMessage(
-            { id: `hero.title` },
-            { s: <span className={logoNum}>{totalCount}</span> }
-          )}
+    <div className="text-center bg-blue text-gray w-full">
+      <div className="max-w-5xl mx-auto my-0 px-[100px] pt-[120px] pb-[80px] tablet:pb-[40px] tablet:px-[40px]">
+        <h1 className="text-3xl capitalize tablet:text-2xl font-medium">
+          <Trans i18nKey="hero.title">
+            Access<span className="desktop:text-6xl desktop:font-thin">{{ totalCount }}</span>
+            VectorLogos
+          </Trans>
         </h1>
-        <p className={heroSubtitle}>{intl.formatMessage({ id: `hero.subtitle` })}</p>
-        <section className={algWrapper}>
-          <AlgoliaSearch showClass={showResult} locale={locale} />
-          <p className={searchTips}>{intl.formatMessage({ id: `search.tips` })}</p>
+        <p className="desktop:text-base my-md">{t(`hero.subtitle`)}</p>
+        <section className="flex-auto relative z-20">
+          <AlgoliaSearch locale={locale} />
+          <p className="my-md tablet:text-xs">{t(`search.tips`)}</p>
         </section>
       </div>
     </div>
