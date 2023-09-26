@@ -11,7 +11,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     node.internal.type === 'logo' ||
     node.internal.type === 'sourceInfo' ||
     node.internal.type === 'logoPack' ||
-    node.internal.type === 'statistics' ||
     node.internal.type === 'MarkdownRemark'
   ) {
     // 通过父节点获取文件名

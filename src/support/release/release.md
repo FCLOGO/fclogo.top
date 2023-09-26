@@ -11,7 +11,7 @@ type: release
 - Switch hosting server to [Netlify](https://www.netlify.com/) 
 - Rewrite styles using [Tailwind CSS](https://tailwindcss.com/) 
 - Use [gtasby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next) for internationalization
-- Delete contact and sponsor page
+- Delete contact, statistics, sponsor page
 - Remove contributor list from about page
 - Rewrite styles of some components
 

@@ -72,15 +72,6 @@ const About = ({ data }) => {
                 <span className="uppercase font-semibold text-light-gray">{t('about.cy')}</span>
               </div>
             </div>
-            <span className="uppercase font-semibold">
-              <Link
-                to="/statistics"
-                className="flex-initial inline-flex items-center rounded py-xs px-sm text-green hover:bg-light-green hover:bg-opacity-25"
-              >
-                {t('about.moreStatistics')}
-                <ArrowIcon className="w-xl h-xl stroke-green ml-xs" />
-              </Link>
-            </span>
           </div>
         </section>
       </div>

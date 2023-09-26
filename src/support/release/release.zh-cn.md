@@ -11,7 +11,7 @@ type: 发布
 - 托管服务器改用 [Netlify](https://www.netlify.com/) 
 - 使用 [Tailwind CSS](https://tailwindcss.com/) 重写样式
 - 改用 [gtasby-plugin-react-i18next](https://github.com/microapps/gatsby-plugin-react-i18next) 国际化插件
-- 删除联系方式与捐赠页面
+- 删除联系方式、捐赠及徽标统计页面
 - 移除关于页面贡献者名单
 - 重写了部分组件样式
 
