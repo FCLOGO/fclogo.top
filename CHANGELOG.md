@@ -4,8 +4,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [2.0.0](https://github.com/FCLOGO/fclogo.top/compare/v1.2.2...v2.0.0) (2023-09-26)
 
-## [2.0.0](https://github.com/FCLOGO/fclogo.top/releases/tag/v2.0.0) (2023-09-26)
-
+## [1.2.0](https://github.com/FCLOGO/fclogo.top/compare/v1.1.0...v1.2.0) (2022-02-18)
 
 ### Features
 
