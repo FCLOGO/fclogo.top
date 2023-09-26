@@ -25,6 +25,7 @@ const DetailAdsense = () => {
   )
 }
 
+// 主体信息表格
 const InfoTable = ({ info }) => {
   const { t } = useTranslation()
   const newInfo = {}

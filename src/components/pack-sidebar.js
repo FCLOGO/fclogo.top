@@ -1,8 +1,8 @@
 import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
+import AdSense from 'react-adsense'
 
-import DownloadIcon from '../../static/assets/icons/download.inline.svg'
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
@@ -10,6 +10,20 @@ import TwitterIcon from '../../static/assets/icons/twitter.inline.svg'
 import WikiIcon from '../../static/assets/icons/wiki.inline.svg'
 import BugIcon from '../../static/assets/icons/bug.inline.svg'
 
+// Google Adsense
+const DetailAdsense = () => {
+  return (
+    <AdSense.Google
+      client="ca-pub-9573165480183467"
+      slot="1355874422"
+      style={{ display: 'block' }}
+      format="auto"
+      responsive="true"
+    />
+  )
+}
+
+// 主体信息表格
 const InfoTable = ({ info }) => {
   const { t } = useTranslation()
   const newInfo = {}
@@ -36,6 +50,9 @@ const PackSidebar = props => {
   const name = props.name
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
+      <div className="p-xl w-aside border-b border-b-gray-1 tablet:hidden">
+        <DetailAdsense />
+      </div>
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
         <GatsbyImage image={getImage(props.pngPath)} alt={props.name} />
         <span className="font-mono text-xs uppercase p-mini rounded-sm bg-green text-white mb-md mt-xl w-auto">
