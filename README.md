@@ -1,6 +1,7 @@
 # FCLOGO
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2196b53-0fdf-4771-bc60-9577debe2e97/deploy-status)](https://app.netlify.com/sites/upbeat-bhaskara-908269/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f12224e-7952-4a68-9855-13f409bf7def/deploy-status)](https://app.netlify.com/sites/glistening-pixie-5836cd/deploys)
+
 
 [FCLOGO](https://fclogo.top) is a collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.
 
