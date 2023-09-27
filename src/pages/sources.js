@@ -74,6 +74,10 @@ const SourcesData = ({ data, pageContext }) => {
       selector: row => row.latestVersion
     },
     {
+      name: t('source.status'),
+      selector: row => (row.status ? t(row.status) : '')
+    },
+    {
       name: t('timeline'),
       selector: row => <span className="block w-md h-md rounded-[50%]"></span>,
       conditionalCellStyles: [
@@ -184,6 +188,7 @@ export const query = graphql`
         timeline
         logoCount
         latestVersion
+        status
       }
     }
   }

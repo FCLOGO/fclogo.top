@@ -98,8 +98,9 @@
   "sidebar.tellMe": "告诉我们",
   "sidebar.downloads": " 次下载",
   "sidebar.s": " ",
-  "disbanded": "已解散",
-  "out": "已退出",
+  "disbanded": "解散",
+  "out": "退出",
+  "alive": "存续",
 
   "detailTitleVector": "矢量徽标",
   "detailTitleVectorPack": "矢量徽标集",
@@ -117,6 +118,7 @@
   "sourcestitle": "索引",
   "source.logoCount": "徽标数量",
   "source.latestVersion": "最新版本",
+  "source.status": "状态",
 
   "continent": "大洲",
   "nation": "国家/地区",
