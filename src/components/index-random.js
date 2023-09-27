@@ -10,7 +10,7 @@ const RandomLogo = ({ data }) => {
       <div className="h-header flex flex-row flex-nowrap items-center justify-between w-full font-semibold uppercase leading-none">
         <h2 className="flex-auto">{t(`index.randomTitle`)}</h2>
       </div>
-      <div className="w-full overflow-hidden flex flex-row flex-nowrap justify-between tablet:flex-wrap">
+      <div className="w-full overflow-hidden grid justify-between gap-xl grid-cols-[repeat(auto-fill,_minmax(110px,_1fr))]">
         {newLogos
           .sort(() => {
             return Math.random() - 0.5
@@ -19,7 +19,7 @@ const RandomLogo = ({ data }) => {
           .map(node => (
             <article
               key={node.id}
-              className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card w-[8vw] h-[8vw] max-w-[120px] max-h-[120px] tablet:w-[16vw] tablet:h-[16vw] tablet:max-w-[175px] tablet:max-h-[175px] tablet:mb-xl"
+              className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
             >
               <div>
                 <Link to={node.slug} className="flex p-[1vw] flex-col flex-wrap items-center">

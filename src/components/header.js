@@ -10,7 +10,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 w-full z-[99] bg-blue h-header px-lg border-b border-b-[rgba(255,255,255,0.1)] tablet:p-zero flex flex-row flex-nowrap justify-start items-center">
       <h1 className="flex-initial h-header p-zero tablet:mx-auto">
         <Link to="/" className="inline-block">
-          <LogoIcon className="h-header py-md fill-gray hover:fill-white" />
+          <LogoIcon className="h-header py-md tablet:mr-[30px] fill-gray hover:fill-white" />
         </Link>
       </h1>
       <MainNav />

@@ -2,6 +2,7 @@ import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
+import { useMediaQuery } from 'react-responsive'
 
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
@@ -47,12 +48,17 @@ const InfoTable = ({ info }) => {
 
 const PackSidebar = props => {
   const { t } = useTranslation()
+  const isDesktop = useMediaQuery({ minWidth: 992 })
   const name = props.name
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
-      <div className="p-xl w-aside border-b border-b-gray-1 tablet:hidden">
-        <DetailAdsense />
-      </div>
+      {isDesktop ? (
+        <div className="p-xl w-aside border-b border-b-gray-1">
+          <DetailAdsense />
+        </div>
+      ) : (
+        ''
+      )}
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
         <GatsbyImage image={getImage(props.pngPath)} alt={props.name} />
         <span className="font-mono text-xs uppercase p-mini rounded-sm bg-green text-white mb-md mt-xl w-auto">

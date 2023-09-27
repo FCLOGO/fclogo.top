@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
+import { useMediaQuery } from 'react-responsive'
 import IncrementDownloads from '../lib/increment-downloads'
 import DownloadCounter from '../components/download-counter'
 
@@ -49,13 +50,18 @@ const InfoTable = ({ info }) => {
 
 const DetailSidebar = props => {
   const { t } = useTranslation()
+  const isDesktop = useMediaQuery({ minWidth: 992 })
   const fullName = props.fullName
   const pushCounter = () => IncrementDownloads(props.slug)
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
-      <div className="p-xl w-aside border-b border-b-gray-1 tablet:hidden">
-        <DetailAdsense />
-      </div>
+      {isDesktop ? (
+        <div className="p-xl w-aside border-b border-b-gray-1">
+          <DetailAdsense />
+        </div>
+      ) : (
+        ''
+      )}
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
         <section className="flex flex-row justify-start items-center">
           {props.version === 0 ? (
