@@ -75,7 +75,8 @@ const SourcesData = ({ data, pageContext }) => {
     },
     {
       name: t('source.status'),
-      selector: row => (row.status ? t(row.status) : '')
+      selector: row => (row.status ? t(row.status) : ''),
+      sortable: true
     },
     {
       name: t('timeline'),
