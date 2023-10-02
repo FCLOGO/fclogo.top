@@ -1,0 +1,71 @@
+- data: logo
+  uniqueID: 20211028-011
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江西联盛', '江西北大门']
+  slug: /cfa/club/jiangxi-beidamen-v2012-mono
+  pngPath: 'png/jiangxi-beidamen-v2012-mono.png'
+  svgPath: 'svg/jiangxi-beidamen-v2012-mono.svg'
+  sourceID: cfa-club-028
+  style: mono
+
+- data: logo
+  uniqueID: 20211028-012
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江西联盛', '江西北大门']
+  slug: /cfa/club/jiangxi-beidamen-v2012
+  pngPath: 'png/jiangxi-beidamen-v2012.png'
+  svgPath: 'svg/jiangxi-beidamen-v2012.svg'
+  sourceID: cfa-club-028
+  style: color
+
+- data: logo
+  uniqueID: 20220525-203328
+  version: 2022
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江西北大门']
+  slug: /cfa/club/jiangxi-beidamen-v2022-mono
+  pngPath: 'png/jiangxi-beidamen-v2022-mono.png'
+  svgPath: 'svg/jiangxi-beidamen-v2022-mono.svg'
+  sourceID: cfa-club-028
+  style: mono
+
+- data: logo
+  uniqueID: 20220525-203400
+  version: 2022
+  isDoubtful: false
+  isOutdated: true
+  verName: ['江西北大门']
+  slug: /cfa/club/jiangxi-beidamen-v2022
+  pngPath: 'png/jiangxi-beidamen-v2022.png'
+  svgPath: 'svg/jiangxi-beidamen-v2022.svg'
+  sourceID: cfa-club-028
+  style: color
+
+- data: logo
+  uniqueID: 20231002-215030
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['江西庐山']
+  slug: /cfa/club/jiangxi-lushan-v2023-mono
+  pngPath: 'png/jiangxi-lushan-v2023-mono.png'
+  svgPath: 'svg/jiangxi-lushan-v2023-mono.svg'
+  sourceID: cfa-club-028
+  style: mono
+
+- data: logo
+  uniqueID: 20231002-215103
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['江西庐山']
+  slug: /cfa/club/jiangxi-lushan-v2023
+  pngPath: 'png/jiangxi-lushan-v2023.png'
+  svgPath: 'svg/jiangxi-lushan-v2023.svg'
+  sourceID: cfa-club-028
+  style: color

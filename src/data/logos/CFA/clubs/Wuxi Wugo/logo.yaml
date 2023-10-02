@@ -1,0 +1,71 @@
+- data: logo
+  uniqueID: 20211117-007
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['WuXi WuGo']
+  slug: /cfa/club/wuxi-wugou-v2021-mono
+  pngPath: 'png/wuxi-wugou-v2021-mono.png'
+  svgPath: 'svg/wuxi-wugou-v2021-mono.svg'
+  sourceID: cfa-club-057
+  style: mono
+
+- data: logo
+  uniqueID: 20211117-008
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['WuXi WuGo']
+  slug: /cfa/club/wuxi-wugou-v2021
+  pngPath: 'png/wuxi-wugou-v2021.png'
+  svgPath: 'svg/wuxi-wugou-v2021.svg'
+  sourceID: cfa-club-057
+  style: color
+
+- data: logo
+  uniqueID: 20231002-214442
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['WuXi WuGo']
+  slug: /cfa/club/wuxi-wugo-v2023-mono-2
+  pngPath: 'png/wuxi-wugo-v2023-mono-2.png'
+  svgPath: 'svg/wuxi-wugo-v2023-mono-2.svg'
+  sourceID: cfa-club-057
+  style: mono
+
+- data: logo
+  uniqueID: 20231002-214618
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['WuXi WuGo']
+  slug: /cfa/club/wuxi-wugo-v2023-chn
+  pngPath: 'png/wuxi-wugo-v2023-chn.png'
+  svgPath: 'svg/wuxi-wugo-v2023-chn.svg'
+  sourceID: cfa-club-057
+  style: chn
+
+- data: logo
+  uniqueID: 20231002-214654
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['WuXi WuGo']
+  slug: /cfa/club/wuxi-wugo-v2023-mono
+  pngPath: 'png/wuxi-wugo-v2023-mono.png'
+  svgPath: 'svg/wuxi-wugo-v2023-mono.svg'
+  sourceID: cfa-club-057
+  style: mono
+
+- data: logo
+  uniqueID: 20231002-214732
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['WuXi WuGo']
+  slug: /cfa/club/wuxi-wugo-v2023
+  pngPath: 'png/wuxi-wugo-v2023.png'
+  svgPath: 'svg/wuxi-wugo-v2023.svg'
+  sourceID: cfa-club-057
+  style: color

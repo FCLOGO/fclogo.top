@@ -23,6 +23,7 @@
 - data: logo
   uniqueID: 20211020-003
   version: 2021
+  isOutdated: true
   verName: ['河南嵩山龙门']
   pngPath: 'png/henan-songshan-longmen-v2021-mono.png'
   svgPath: 'svg/henan-songshan-longmen-v2021-mono.svg'
@@ -33,6 +34,7 @@
 - data: logo
   uniqueID: 20211020-004
   version: 2021
+  isOutdated: true
   verName: ['河南嵩山龙门']
   pngPath: 'png/henan-songshan-longmen-v2021.png'
   svgPath: 'svg/henan-songshan-longmen-v2021.svg'
@@ -133,5 +135,29 @@
   slug: /cfa/club/henan-songshan-longmen-v2011
   pngPath: 'png/henan-songshan-longmen-v2011.png'
   svgPath: 'svg/henan-songshan-longmen-v2011.svg'
+  sourceID: cfa-club-012
+  style: color
+
+- data: logo
+  uniqueID: 20230928-210102
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['河南 FC']
+  slug: /cfa/club/henan-fc-v2023-mono
+  pngPath: 'png/henan-fc-v2023-mono.png'
+  svgPath: 'svg/henan-fc-v2023-mono.svg'
+  sourceID: cfa-club-012
+  style: mono
+
+- data: logo
+  uniqueID: 20230928-210205
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['河南 FC']
+  slug: /cfa/club/henan-fc-v2023
+  pngPath: 'png/henan-fc-v2023.png'
+  svgPath: 'svg/henan-fc-v2023.svg'
   sourceID: cfa-club-012
   style: color

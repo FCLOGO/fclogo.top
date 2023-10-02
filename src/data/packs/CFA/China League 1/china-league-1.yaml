@@ -3,7 +3,7 @@
   name: China League 1
   season: 2022's
   packSource: cfa-comp-002
-  slug: /pack/cfa/china-league-1
+  slug: /pack/cfa/2022s-china-league-1
   items:
     - id: cfa-club-022
       version: 2018
@@ -41,3 +41,43 @@
       version: 2020
     - id: cfa-club-058
       version: 2021
+
+- data: logoPack
+  uniqueID: 20230928-211848
+  name: China League 1
+  season: 2023's
+  packSource: cfa-comp-002
+  slug: /pack/2023s-china-league-1
+  items:
+    - id: cfa-club-004
+      version: 2015
+    - id: cfa-club-050
+      version: 2022.04
+    - id: cfa-club-025
+      version: 2018
+    - id: cfa-club-023
+      version: 2017
+    - id: cfa-club-033
+      version: 2022
+    - id: cfa-club-032
+      version: 2021
+    - id: cfa-club-047
+      version: 2018
+    - id: cfa-club-034
+      version: 2020
+    - id: cfa-club-058
+      version: 2021
+    - id: cfa-club-080
+      version: 2022
+    - id: cfa-club-051
+      version: 2021
+    - id: cfa-club-065
+      version: 2019
+    - id: cfa-club-056
+      version: 2021
+    - id: cfa-club-057
+      version: 2023
+    - id: cfa-club-061
+      version: 2023
+    - id: cfa-club-028
+      version: 2023

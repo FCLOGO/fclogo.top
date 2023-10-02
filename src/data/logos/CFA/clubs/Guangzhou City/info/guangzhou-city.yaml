@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-008
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -11,7 +11,7 @@
       city: Guangzhou, China
       founded: 1994
       ground: Guangzhou Yuexiushan Stadium
-      league: Chinese Super League
+      duration: 1994 - 2023
   weiboURL: 'https://weibo.com/u/2456231390'
   twitterURL: 'https://twitter.com/GuangzhouRFFC'
   websiteURL: 'http://www.gzrffc.com.cn/'

@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-017
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -11,7 +11,7 @@
       city: Langfang, China
       founded: 2010
       ground: Langfang Stadium
-      league: Chinese Super League
+      duration: 2010 - 2023
   weiboURL: 'https://weibo.com/u/2131874461'
   websiteURL: 'http://www.hebeifootball.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Hebei_F.C.'
