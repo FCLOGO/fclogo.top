@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
-import { useMediaQuery } from 'react-responsive'
 import IncrementDownloads from '../lib/increment-downloads'
 import DownloadCounter from '../components/download-counter'
 
@@ -17,11 +16,11 @@ import BugIcon from '../../static/assets/icons/bug.inline.svg'
 const DetailAdsense = () => {
   return (
     <AdSense.Google
-      client="ca-pub-9573165480183467"
-      slot="1355874422"
       style={{ display: 'block' }}
-      format="auto"
-      responsive="true"
+      format="fluid"
+      layoutKey="-dr+75+a-9h+ks"
+      client="ca-pub-9573165480183467"
+      slot="5850965230"
     />
   )
 }
@@ -50,18 +49,10 @@ const InfoTable = ({ info }) => {
 
 const DetailSidebar = props => {
   const { t } = useTranslation()
-  const isDesktop = useMediaQuery({ minWidth: 992 })
   const fullName = props.fullName
   const pushCounter = () => IncrementDownloads(props.slug)
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
-      {isDesktop ? (
-        <div className="p-xl w-aside border-b border-b-gray-1">
-          <DetailAdsense />
-        </div>
-      ) : (
-        ''
-      )}
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
         <section className="flex flex-row justify-start items-center">
           {props.version === 0 ? (
@@ -137,6 +128,9 @@ const DetailSidebar = props => {
           </p>
         </div>
         <DownloadCounter logoId={props.slug} />
+      </div>
+      <div className="p-xl w-aside border-t border-t-gray-1">
+        <DetailAdsense />
       </div>
       <div className="w-aside px-xl py-md border-t border-t-gray-1">
         <h6 className="font-semibold my-md">

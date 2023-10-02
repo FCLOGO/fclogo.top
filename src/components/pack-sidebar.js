@@ -2,7 +2,6 @@ import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
-import { useMediaQuery } from 'react-responsive'
 
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
@@ -15,11 +14,11 @@ import BugIcon from '../../static/assets/icons/bug.inline.svg'
 const DetailAdsense = () => {
   return (
     <AdSense.Google
-      client="ca-pub-9573165480183467"
-      slot="1355874422"
       style={{ display: 'block' }}
-      format="auto"
-      responsive="true"
+      format="fluid"
+      layoutKey="-dr+75+a-9h+ks"
+      client="ca-pub-9573165480183467"
+      slot="5850965230"
     />
   )
 }
@@ -48,17 +47,9 @@ const InfoTable = ({ info }) => {
 
 const PackSidebar = props => {
   const { t } = useTranslation()
-  const isDesktop = useMediaQuery({ minWidth: 992 })
   const name = props.name
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
-      {isDesktop ? (
-        <div className="p-xl w-aside border-b border-b-gray-1">
-          <DetailAdsense />
-        </div>
-      ) : (
-        ''
-      )}
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
         <GatsbyImage image={getImage(props.pngPath)} alt={props.name} />
         <span className="font-mono text-xs uppercase p-mini rounded-sm bg-green text-white mb-md mt-xl w-auto">
@@ -90,6 +81,9 @@ const PackSidebar = props => {
             </Link>
           </h6>
         </div>
+      </div>
+      <div className="p-xl w-aside border-t border-t-gray-1">
+        <DetailAdsense />
       </div>
       <div className="w-aside px-xl py-md border-t border-t-gray-1">
         <h6 className="font-semibold my-md">
