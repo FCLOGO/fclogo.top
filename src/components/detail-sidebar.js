@@ -18,7 +18,7 @@ const DetailAdsense = () => {
     <AdSense.Google
       style={{ display: 'block' }}
       format="fluid"
-      layoutKey="-dr+75+a-9h+ks"
+      layoutKey="-e0+7z-36-93+si"
       client="ca-pub-9573165480183467"
       slot="5850965230"
     />
@@ -53,7 +53,7 @@ const DetailSidebar = props => {
   const pushCounter = () => IncrementDownloads(props.slug)
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
-      <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
+      <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
         <section className="flex flex-row justify-start items-center">
           {props.version === 0 ? (
             ''
@@ -86,7 +86,7 @@ const DetailSidebar = props => {
           )}
         </div>
       </header>
-      <div className="w-aside px-xl mb-md flex flex-row items-center justify-between tablet:justify-start">
+      <div className="w-aside px-xl mb-md flex flex-row items-center justify-between tablet:justify-start tablet:w-full">
         <a
           href={props.pngURL}
           download
@@ -106,7 +106,7 @@ const DetailSidebar = props => {
           <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
       </div>
-      <div className="w-aside px-xl py-md flex flex-col">
+      <div className="w-aside px-xl py-md flex flex-col tablet:w-full">
         <div className="block">
           <h6 className="flex flex-row items-center text-xs font-semibold">
             <VectorIcon className="w-xl h-xl mr-xs" />
@@ -129,10 +129,10 @@ const DetailSidebar = props => {
         </div>
         <DownloadCounter logoId={props.slug} />
       </div>
-      <div className="p-xl w-aside border-t border-t-gray-1">
+      <div className="p-xl w-aside border-t border-t-gray-1 tablet:w-full">
         <DetailAdsense />
       </div>
-      <div className="w-aside px-xl py-md border-t border-t-gray-1">
+      <div className="w-aside px-xl py-md border-t border-t-gray-1 tablet:w-full">
         <h6 className="font-semibold my-md">
           {t(props.type)}
           {t('sidebar.infoTitle')}
@@ -182,7 +182,7 @@ const DetailSidebar = props => {
           ''
         )}
       </div>
-      <div className="w-aside px-xl py-3xl border-t border-t-gray-1">
+      <div className="w-aside px-xl py-3xl border-t border-t-gray-1 tablet:w-full">
         <h6 className="flex flex-row items-center text-xs font-semibold">
           <BugIcon className="w-xl h-xl mr-xs" />
           {t('sidebar.foundErr')}

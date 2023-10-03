@@ -2,7 +2,6 @@ import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
-
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
@@ -16,7 +15,7 @@ const DetailAdsense = () => {
     <AdSense.Google
       style={{ display: 'block' }}
       format="fluid"
-      layoutKey="-dr+75+a-9h+ks"
+      layoutKey="-e0+7z-36-93+si"
       client="ca-pub-9573165480183467"
       slot="5850965230"
     />
@@ -50,7 +49,7 @@ const PackSidebar = props => {
   const name = props.name
   return (
     <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
-      <header className="w-aside p-xl flex flex-col items-start justify-center content-start">
+      <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
         <GatsbyImage image={getImage(props.pngPath)} alt={props.name} />
         <span className="font-mono text-xs uppercase p-mini rounded-sm bg-green text-white mb-md mt-xl w-auto">
           {props.season}
@@ -60,7 +59,7 @@ const PackSidebar = props => {
           {t('detailTitleVectorPack')}
         </h1>
       </header>
-      <div className="w-aside px-xl py-md flex flex-col border-t border-t-gray-1">
+      <div className="w-aside px-xl py-md flex flex-col border-t border-t-gray-1 tablet:w-full">
         <div className="block mb-md">
           <h6 className="font-semibold my-md">{t('sidebar.termTitle')}</h6>
           <p className="text-xs">
@@ -82,10 +81,10 @@ const PackSidebar = props => {
           </h6>
         </div>
       </div>
-      <div className="p-xl w-aside border-t border-t-gray-1">
+      <div className="p-xl w-aside border-t border-t-gray-1 tablet:w-full">
         <DetailAdsense />
       </div>
-      <div className="w-aside px-xl py-md border-t border-t-gray-1">
+      <div className="w-aside px-xl py-md border-t border-t-gray-1 tablet:w-full">
         <h6 className="font-semibold my-md">
           {t(props.type)}
           {t('sidebar.infoTitle')}
@@ -122,7 +121,7 @@ const PackSidebar = props => {
           )}
         </div>
       </div>
-      <div className="w-aside px-xl py-3xl border-t border-t-gray-1">
+      <div className="w-aside px-xl py-3xl border-t border-t-gray-1 tablet:w-full">
         <h6 className="flex flex-row items-center text-xs font-semibold">
           <BugIcon className="w-xl h-xl mr-xs" />
           {t('sidebar.foundErr')}
