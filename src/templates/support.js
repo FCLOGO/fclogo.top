@@ -54,7 +54,7 @@ const SupportTemplate = ({ data, pageContext }) => {
     return data.sort((a, b) => sortByObject[a[sortField]] - sortByObject[b[sortField]])
   }
   return (
-    <Layout pageContext={pageContext}>
+    <Layout>
       <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
         <Search locale={pageContext.language} />
       </div>

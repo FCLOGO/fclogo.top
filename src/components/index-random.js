@@ -2,6 +2,8 @@ import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
+import ModalLink from '../helpers/modal-link'
+
 const RandomLogo = ({ data }) => {
   const { t } = useTranslation()
   const newLogos = Array.from(data.allLogo.nodes)
@@ -22,12 +24,19 @@ const RandomLogo = ({ data }) => {
               className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
             >
               <div>
-                <Link to={node.slug} className="flex p-[1vw] flex-col flex-wrap items-center">
+                <ModalLink
+                  to={node.slug}
+                  state={{
+                    modal: true,
+                    noScroll: true
+                  }}
+                  className="flex p-[1vw] flex-col flex-wrap items-center"
+                >
                   <GatsbyImage
                     image={getImage(node.pngPath)}
                     alt={node.detailInfo[0].info[0].fullName}
                   />
-                </Link>
+                </ModalLink>
               </div>
             </article>
           ))}

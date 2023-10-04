@@ -169,3 +169,71 @@
   text-transform: uppercase;
 } 
 
+/* Modal Routing Styles */
+.ReactModal__Body--open {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.modal_overlay {
+  position: fixed;
+  z-index: 100;
+  inset: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(14, 42, 71, 0.8);
+}
+
+.modal_content {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.modal_content .main-content {
+  padding: 30px 120px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.modal_content .detail-wrapper {
+  background: #F6F8FA;
+  border-radius: 10px 10px 0 0;
+}
+
+.modal_content .detail-wrapper>section {
+  border-radius: 10px 0 0 0;
+}
+
+.modal_content .detail-wrapper > section, .modal_content .detail-wrapper > aside {
+  padding-top: 30px;
+}
+
+.modal_content .timeline-wrapper {
+  background: #F6F8FA;
+  border-radius: 0 0 10px 10px;
+}
+
+.modal_content .detail-nav {
+  border: none;
+  position: fixed;
+  z-index: 1;
+  top: 45%;
+  left: 0;
+  padding: 0 40px;
+}
+
+.modal_content .detail-nav svg {
+  stroke: #F6F8FA;
+}
+
+.modal_content .nav-link {
+  border-radius: 50%;
+}

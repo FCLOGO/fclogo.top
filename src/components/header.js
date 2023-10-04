@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import MainNav from './_header/main-nav'
 import LogoIcon from '../../static/assets/icons/fclogo.inline.svg'
-import DonateIcon from '../../static/assets/icons/heart.inline.svg'
+// import DonateIcon from '../../static/assets/icons/heart.inline.svg'
 
 const Header = () => {
   return (

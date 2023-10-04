@@ -53,6 +53,18 @@ module.exports = {
       __key: 'pages'
     },
     {
+      resolve: `gatsby-plugin-modal-routing-v5.0`,
+      options: {
+        appElement: '#___gatsby',
+        modalProps: {
+          portalClassName: 'modal_portal',
+          overlayClassName: 'modal_overlay',
+          className: 'modal_content',
+          shouldCloseOnOverlayClick: false
+        }
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/locales`,

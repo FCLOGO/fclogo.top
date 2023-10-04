@@ -2,6 +2,8 @@ import React from 'react'
 import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
+import ModalLink from '../helpers/modal-link'
+
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 
 const IndexPack = ({ data }) => {
@@ -24,7 +26,14 @@ const IndexPack = ({ data }) => {
             key={node.id}
             className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
           >
-            <Link to={node.slug} className="relative overflow-hidden flex flex-col text-dark-gray">
+            <ModalLink
+              to={node.slug}
+              state={{
+                modal: true,
+                noScroll: true
+              }}
+              className="relative overflow-hidden flex flex-col text-dark-gray"
+            >
               <div className="w-full p-xl grid justify-between grid-cols-[repeat(3,_minmax(86px,_1fr))] grid-rows-[repeat(3,_minmax(86px,_1fr))]">
                 {node.itemsInfo.slice(0, 9).map(info => (
                   <GatsbyImage
@@ -50,7 +59,7 @@ const IndexPack = ({ data }) => {
                   alt={node.name}
                 />
               </footer>
-            </Link>
+            </ModalLink>
           </article>
         ))}
       </div>

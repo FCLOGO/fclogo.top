@@ -2,6 +2,8 @@ import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
+import ModalLink from '../helpers/modal-link'
+
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 
 const LogoList = ({ data }) => {
@@ -26,9 +28,13 @@ const LogoList = ({ data }) => {
               key={node.id}
               className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
             >
-              <Link
+              <ModalLink
                 to={node.slug}
                 className="relative overflow-hidden flex flex-col text-dark-gray"
+                state={{
+                  modal: true,
+                  noScroll: true
+                }}
               >
                 <GatsbyImage
                   image={getImage(node.pngPath)}
@@ -50,7 +56,7 @@ const LogoList = ({ data }) => {
                     {t(node.style)}
                   </span>
                 </footer>
-              </Link>
+              </ModalLink>
             </article>
           ))}
         </div>

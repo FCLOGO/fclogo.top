@@ -3,9 +3,9 @@ import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
-import Layout from '../components/layout'
+import ConditionalLayout from '../components/conditional-layout'
+import ModalLink from '../helpers/modal-link'
 import Seo from '../components/seo'
-import Search from '../components/_algolia'
 import Sidebar from '../components/detail-sidebar'
 import LogoTimeline from '../components/logo-timeline'
 
@@ -15,14 +15,14 @@ const LogoDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
   const { next, previous } = pageContext
   return (
-    <Layout pageContext={pageContext}>
-      <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
+    <ConditionalLayout pageContext={pageContext}>
+      {/* <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
         <Search locale={pageContext.language} />
-      </div>
-      <div className="w-full m-[0_auto] flex-grow flex flex-col items-start">
+      </div> */}
+      <div className="w-full m-[0_auto] flex-grow flex flex-col items-start main-content">
         {data.logo ? (
           <>
-            <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap border-b border-b-gray-1">
+            <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap border-b border-b-gray-1 detail-wrapper">
               <section className="w-full pt-[160px] flex-grow flex flex-col bg-white">
                 <div className="w-full flex-grow flex items-center justify-center">
                   <GatsbyImage
@@ -45,13 +45,20 @@ const LogoDetail = ({ data, pageContext }) => {
                           key={item.id}
                           className="w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero hover:bg-dark-gray hover:bg-opacity-5"
                         >
-                          <Link to={item.slug} className="w-full h-full inline-block">
+                          <ModalLink
+                            to={item.slug}
+                            className="w-full h-full inline-block"
+                            state={{
+                              modal: true,
+                              noScroll: true
+                            }}
+                          >
                             <GatsbyImage
                               image={getImage(item.pngPath)}
                               alt={item.detailInfo[0].info[0].fullName}
                               className="h-[48px_!important] w-[48px_!important] m-lg"
                             />
-                          </Link>
+                          </ModalLink>
                         </li>
                       ))}
                     </ul>
@@ -83,27 +90,35 @@ const LogoDetail = ({ data, pageContext }) => {
             ) : (
               ''
             )}
-            <nav className="w-full flex flex-row items-center justify-between px-xl py-3xl">
+            <nav className="w-full flex flex-row items-center justify-between px-xl py-3xl detail-nav">
               <div className="w-[50px] h-[50px] rounded">
                 {previous ? (
-                  <Link
+                  <ModalLink
                     to={previous.slug}
-                    className="w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
+                    state={{
+                      modal: true,
+                      noScroll: true
+                    }}
+                    className="nav-link w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
                   >
                     <ArrowIcon className="w-xl h-xl stroke-dark-gray rotate-180" />
-                  </Link>
+                  </ModalLink>
                 ) : (
                   ''
                 )}
               </div>
               <div className="w-[50px] h-[50px] rounded">
                 {next ? (
-                  <Link
+                  <ModalLink
                     to={next.slug}
-                    className="w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
+                    state={{
+                      modal: true,
+                      noScroll: true
+                    }}
+                    className="nav-link  w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
                   >
                     <ArrowIcon className="w-xl h-xl stroke-dark-gray" />
-                  </Link>
+                  </ModalLink>
                 ) : (
                   ''
                 )}
@@ -116,7 +131,7 @@ const LogoDetail = ({ data, pageContext }) => {
           </section>
         )}
       </div>
-    </Layout>
+    </ConditionalLayout>
   )
 }
 

@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react'
-import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
+
+import ModalLink from '../helpers/modal-link'
 
 const ItemList = ({ allItems }) => {
   const { t } = useTranslation()
@@ -60,8 +61,12 @@ const ItemList = ({ allItems }) => {
                   className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
                 >
                   {item.internal.type === `logo` && (
-                    <Link
+                    <ModalLink
                       to={item.slug}
+                      state={{
+                        modal: true,
+                        noScroll: true
+                      }}
                       className="relative overflow-hidden flex flex-col text-dark-gray"
                     >
                       <GatsbyImage
@@ -84,11 +89,15 @@ const ItemList = ({ allItems }) => {
                           {t(item.style)}
                         </span>
                       </footer>
-                    </Link>
+                    </ModalLink>
                   )}
                   {item.internal.type === `logoPack` && (
-                    <Link
+                    <ModalLink
                       to={item.slug}
+                      state={{
+                        modal: true,
+                        noScroll: true
+                      }}
                       className="relative overflow-hidden flex flex-col text-dark-gray"
                     >
                       <div className="w-full min-h-[260px] overflow-hidden p-md grid justify-between grid-cols-[repeat(3,_minmax(70px,_1fr))] grid-rows-[repeat(3,_minmax(70px,_1fr))]">
@@ -116,7 +125,7 @@ const ItemList = ({ allItems }) => {
                           alt={item.name}
                         />
                       </footer>
-                    </Link>
+                    </ModalLink>
                   )}
                 </article>
               ))}
