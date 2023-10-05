@@ -1,7 +1,9 @@
 import React from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { Link, Trans, useTranslation } from 'gatsby-plugin-react-i18next'
+import { Trans, useTranslation } from 'gatsby-plugin-react-i18next'
 import { useInstantSearch, Highlight, Snippet, InfiniteHits } from 'react-instantsearch'
+
+import ModalLink from '../../helpers/modal-link'
 
 import ArrowIcon from '../../../static/assets/icons/arrowForward.inline.svg'
 
@@ -41,8 +43,12 @@ const SearchResult = () => {
   }
 
   const Hit = ({ hit }) => (
-    <Link
+    <ModalLink
       to={hit.slug}
+      state={{
+        modal: true,
+        noScroll: true
+      }}
       className="w-full h-header flex flex-row flex-nowrap justify-between items-center bg-gray p-md mb-md rounded-md group hover:bg-green hover:text-white"
     >
       <GatsbyImage
@@ -72,7 +78,7 @@ const SearchResult = () => {
         />
       </div>
       <ArrowIcon className="w-lg h-lg stroke-dark-gray group-hover:stroke-white" />
-    </Link>
+    </ModalLink>
   )
 
   return (
