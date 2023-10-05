@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
 
 import ConditionalLayout from '../components/conditional-layout'
 import ModalLink from '../helpers/modal-link'
@@ -15,9 +15,9 @@ const PackDetail = ({ data, pageContext }) => {
   const { next, previous } = pageContext
   return (
     <ConditionalLayout pageContext={pageContext}>
-      <div className="w-full m-[0_auto] flex-grow flex flex-col items-start main-content">
+      <div className="w-full m-[0_auto] flex-grow main-content block">
         {data.logoPack ? (
-          <>
+          <div className="content-inner flex flex-col items-start">
             <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap border-b border-b-gray-1 detail-wrapper">
               <section className="w-full pt-[160px] flex-grow flex flex-col bg-white">
                 <div className="w-full p-xl flex-grow grid items-center justify-items-center gap-xl grid-cols-[repeat(auto-fill,_minmax(200px,_1fr))] tablet:grid-cols-[repeat(auto-fill,_minmax(150px,_1fr))]">
@@ -86,7 +86,7 @@ const PackDetail = ({ data, pageContext }) => {
                 )}
               </div>
             </nav>
-          </>
+          </div>
         ) : (
           <section className="w-full p-xl text-center pt-[160px] mt-[100px]">
             <p className="font-semibold text-light-gray">{t('detail.notrans')}</p>

@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
 
 import ConditionalLayout from '../components/conditional-layout'
 import ModalLink from '../helpers/modal-link'
@@ -19,11 +19,11 @@ const LogoDetail = ({ data, pageContext }) => {
       {/* <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
         <Search locale={pageContext.language} />
       </div> */}
-      <div className="w-full m-[0_auto] flex-grow flex flex-col items-start main-content">
+      <div className="w-full m-[0_auto] flex-grow main-content block">
         {data.logo ? (
-          <>
-            <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap border-b border-b-gray-1 detail-wrapper">
-              <section className="w-full pt-[160px] flex-grow flex flex-col bg-white">
+          <div className="content-inner flex flex-col items-start">
+            <div className="w-full flex-grow flex flex-row flex-nowrap border-b border-b-gray-1 tablet:flex-wrap detail-wrapper overflow-hidden">
+              <section className="w-full pt-[160px] flex-grow flex flex-col bg-white overflow-hidden">
                 <div className="w-full flex-grow flex items-center justify-center">
                   <GatsbyImage
                     image={getImage(data.logo.pngPath)}
@@ -124,7 +124,7 @@ const LogoDetail = ({ data, pageContext }) => {
                 )}
               </div>
             </nav>
-          </>
+          </div>
         ) : (
           <section className="w-full p-xl text-center pt-[160px] mt-[100px]">
             <p className="font-semibold text-light-gray">{t('detail.notrans')}</p>

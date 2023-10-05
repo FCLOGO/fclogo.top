@@ -198,27 +198,21 @@
 }
 
 .modal_content .main-content {
-  padding: 30px 120px;
+  padding: 0 120px;
   margin: 0 auto;
   overflow: auto;
 }
 
-.modal_content .detail-wrapper {
+.modal_content .content-inner {
   background: #F6F8FA;
-  border-radius: 10px 10px 0 0;
-}
-
-.modal_content .detail-wrapper>section {
-  border-radius: 10px 0 0 0;
+  border-radius: 10px;
+  margin: 30px auto;
+  overflow: hidden;
+  min-height: calc(100vh - 60px);
 }
 
 .modal_content .detail-wrapper > section, .modal_content .detail-wrapper > aside {
   padding-top: 30px;
-}
-
-.modal_content .timeline-wrapper {
-  background: #F6F8FA;
-  border-radius: 0 0 10px 10px;
 }
 
 .modal_content .detail-nav {
