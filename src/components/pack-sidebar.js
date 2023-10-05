@@ -48,7 +48,7 @@ const PackSidebar = props => {
   const { t } = useTranslation()
   const name = props.name
   return (
-    <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
+    <aside className="bg-white pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
         <GatsbyImage image={getImage(props.pngPath)} alt={props.name} />
         <span className="font-mono text-xs uppercase p-mini rounded-sm bg-green text-white mb-md mt-xl w-auto">

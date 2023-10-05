@@ -23,7 +23,7 @@ const LogoDetail = ({ data, pageContext }) => {
         {data.logo ? (
           <div className="content-inner flex flex-col items-start">
             <div className="w-full flex-grow flex flex-row flex-nowrap border-b border-b-gray-1 tablet:flex-wrap detail-wrapper overflow-hidden">
-              <section className="w-full pt-[160px] flex-grow flex flex-col bg-white overflow-hidden">
+              <section className="w-full pt-[160px] flex-grow flex flex-col overflow-hidden">
                 <div className="w-full flex-grow flex items-center justify-center">
                   <GatsbyImage
                     image={getImage(data.logo.pngPath)}

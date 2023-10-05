@@ -52,7 +52,7 @@ const DetailSidebar = props => {
   const fullName = props.fullName
   const pushCounter = () => IncrementDownloads(props.slug)
   return (
-    <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1">
+    <aside className="pt-[160px] w-aside tablet:w-full flex flex-col border-l border-l-gray-1 bg-white">
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
         <section className="flex flex-row justify-start items-center">
           {props.version === 0 ? (

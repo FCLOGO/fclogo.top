@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { useTranslation } from 'gatsby-plugin-react-i18next'
+import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
 import ModalLink from '../helpers/modal-link'
 
@@ -92,12 +92,8 @@ const ItemList = ({ allItems }) => {
                     </ModalLink>
                   )}
                   {item.internal.type === `logoPack` && (
-                    <ModalLink
+                    <Link
                       to={item.slug}
-                      state={{
-                        modal: true,
-                        noScroll: true
-                      }}
                       className="relative overflow-hidden flex flex-col text-dark-gray"
                     >
                       <div className="w-full min-h-[260px] overflow-hidden p-md grid justify-between grid-cols-[repeat(3,_minmax(70px,_1fr))] grid-rows-[repeat(3,_minmax(70px,_1fr))]">
@@ -125,7 +121,7 @@ const ItemList = ({ allItems }) => {
                           alt={item.name}
                         />
                       </footer>
-                    </ModalLink>
+                    </Link>
                   )}
                 </article>
               ))}
