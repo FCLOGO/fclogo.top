@@ -38,8 +38,8 @@ const IndexPack = ({ data }) => {
                 ))}
               </div>
               <footer className="w-full h-[80px] flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
-                <div className="flex flex-col justify-center content-start items-start">
-                  <span className="font-mono uppercase text-xs p-xs leading-3 rounded-[3px] bg-green text-white flex-initial">
+                <div className="flex flex-row justify-center content-start items-center">
+                  <span className="font-mono uppercase text-xs p-xs mr-xs leading-3 rounded-[3px] bg-green text-white flex-initial">
                     {node.season}
                   </span>
                   <h3 className="mt-xs font-medium whitespace-nowrap overflow-hidden text-ellipsis">
