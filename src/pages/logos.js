@@ -39,7 +39,7 @@ export const query = graphql`
         }
       }
     }
-    allLogo(sort: { uniqueID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
+    allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
       nodes {
         id
         slug

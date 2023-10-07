@@ -43,7 +43,7 @@ export const query = graphql`
         }
       }
     }
-    allLogo(sort: { uniqueID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
+    allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
       nodes {
         id
         slug
@@ -64,7 +64,7 @@ export const query = graphql`
       totalCount
     }
     allLogoPack(
-      sort: { uniqueID: DESC }
+      sort: { packID: DESC }
       limit: 12
       filter: { fields: { locale: { eq: $language } } }
     ) {

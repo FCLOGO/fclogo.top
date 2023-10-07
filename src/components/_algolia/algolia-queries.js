@@ -5,7 +5,9 @@ const indexName = process.env.GATSBY_ALGOLIA_INDEX_NAME
 const pageQuery = `{
   logos:allLogo {
     nodes {
-      id
+      fields {
+        uniqueID
+      }
       slug
       verName
       fields {
@@ -28,11 +30,11 @@ const pageQuery = `{
   }
 }`
 
-function pageToAlgoliaRecord({ id, slug, fields, verName, detailInfo, league, pngPath, ...rest }) {
+function pageToAlgoliaRecord({ slug, fields, verName, detailInfo, league, pngPath, ...rest }) {
   detailInfo[0].info[0].league ? (league = detailInfo[0].info[0].league) : ''
   verName ? verName : ''
   return {
-    objectID: id,
+    objectID: fields.uniqueID,
     slug,
     locale: fields.locale,
     verName,

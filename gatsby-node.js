@@ -25,6 +25,17 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     // 创建节点字段并设置'locale'字段值
     createNodeField({ node, name: `locale`, value: lang })
     createNodeField({ node, name: `isDefault`, value: isDefault })
+
+    // 为 logo 添加 `logoID` 字段
+    if (node.internal.type === 'logo') {
+      // 获取 `logoID`
+      const logoID = node.logoID
+      // 创建唯一ID字段
+      const uniqueID = `${lang}-${logoID}`
+
+      // 创建节点字段并设置'uniqueID'字段值
+      createNodeField({ node, name: `uniqueID`, value: uniqueID })
+    }
   }
 }
 
@@ -189,7 +200,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // 创建 LOGO 详情页
   const logoDetail = await graphql(`
     query {
-      allLogo(filter: { fields: { locale: { eq: "en" } } }, sort: { uniqueID: ASC }) {
+      allLogo(filter: { fields: { locale: { eq: "en" } } }, sort: { logoID: ASC }) {
         edges {
           node {
             slug
@@ -208,7 +219,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // 创建 LOGO PACKS 页面
   const logoPacks = await graphql(`
     query {
-      allLogoPack(sort: { uniqueID: ASC }, filter: { fields: { locale: { eq: "en" } } }) {
+      allLogoPack(sort: { packID: ASC }, filter: { fields: { locale: { eq: "en" } } }) {
         edges {
           node {
             slug
