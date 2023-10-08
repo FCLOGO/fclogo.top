@@ -64,7 +64,7 @@ const ItemList = ({ allItems }) => {
   }, [list]) //eslint-disable-line
   return (
     <div className="w-full m-[0_auto] flex-grow pt-[160px] flex flex-row flex-wrap items-start">
-      <div className="p-xl w-full border-b border-b-gray-1">
+      <div className="p-xl w-full border-b border-b-gray-1 text-center">
         <DetailAdsense />
       </div>
       <section className="w-full px-xl flex flex-col flex-nowrap mx-auto mb-[100px]">
