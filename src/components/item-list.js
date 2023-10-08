@@ -1,8 +1,21 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
-
+import AdSense from 'react-adsense'
 import ModalLink from '../helpers/modal-link'
+
+// Google Adsense
+const DetailAdsense = () => {
+  return (
+    <AdSense.Google
+      style={{ display: 'block' }}
+      format="auto"
+      responsive="true"
+      client="ca-pub-9573165480183467"
+      slot="1229678468"
+    />
+  )
+}
 
 const ItemList = ({ allItems }) => {
   const { t } = useTranslation()
@@ -50,7 +63,10 @@ const ItemList = ({ allItems }) => {
     setHasMore(isMore)
   }, [list]) //eslint-disable-line
   return (
-    <div className="w-full m-[0_auto] flex-grow pt-[160px] flex flex-row items-start">
+    <div className="w-full m-[0_auto] flex-grow pt-[160px] flex flex-row flex-wrap items-start">
+      <div className="p-xl w-full border-b border-b-gray-1">
+        <DetailAdsense />
+      </div>
       <section className="w-full px-xl flex flex-col flex-nowrap mx-auto mb-[100px]">
         {allItems.length ? (
           <>
