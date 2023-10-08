@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/FCLOGO/fclogo.top/compare/v2.0.0...v2.1.0) (2023-10-08)
+
+
+### Features
+
+* :white_check_mark: add modal routing ([65fe06f](https://github.com/FCLOGO/fclogo.top/commit/65fe06f41a98af9360ec47ac50455cd5fde0dcde))
+* :white_check_mark: add modal routing ([dc5fa43](https://github.com/FCLOGO/fclogo.top/commit/dc5fa43ff45a4b2d18ed9027978a3645eff85952))
+
+
+### Bug Fixes
+
+* :bug: 添加 Ads ([fb034d2](https://github.com/FCLOGO/fclogo.top/commit/fb034d22576b2e2b069d7ec9bded9af4c183ab97))
+* :bug: 修正链接错误 ([e7c50d7](https://github.com/FCLOGO/fclogo.top/commit/e7c50d7187fbe106117a8e73161822fc6038f305))
+* :bug: fix bugs ([826bd91](https://github.com/FCLOGO/fclogo.top/commit/826bd9188cbe6b15fd5f435bf4d95837cbfe5d76))
+* :bug: fix bugs ([60080c1](https://github.com/FCLOGO/fclogo.top/commit/60080c1c26f8db0932c4e92d997e21721dfd2bea))
+* :bug: fix bugs ([2fb453b](https://github.com/FCLOGO/fclogo.top/commit/2fb453b853220940adc07437d0abad18987fb3cc))
+
 ## [2.0.0](https://github.com/FCLOGO/fclogo.top/compare/v1.2.2...v2.0.0) (2023-09-26)
 
 ## [1.2.0](https://github.com/FCLOGO/fclogo.top/compare/v1.1.0...v1.2.0) (2022-02-18)
