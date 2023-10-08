@@ -94,7 +94,7 @@ const SupportTemplate = ({ data, pageContext }) => {
                       dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
                       className="flex-auto mr-3xl prose support-content"
                     />
-                    <div className="flex-none w-[240px] sticky ml-3xl top-[200px] h-zero overflow-visible uppercase">
+                    <div className="flex-none w-[240px] sticky ml-3xl top-[200px] h-zero overflow-visible uppercase tablet:hidden">
                       {data.markdownRemark.tableOfContents ? (
                         <>
                           <h3 className="text-xs font-semibold tracking-widest h-3xl inline-flex items-center">
