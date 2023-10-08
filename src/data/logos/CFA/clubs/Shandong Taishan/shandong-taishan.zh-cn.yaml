@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211007-006
+  logoID: 20211007-006
   version: 1998
   isOutdated: true
   verName: ['山东鲁能泰山', '山东泰山']
@@ -10,7 +10,7 @@
   slug: /cfa/club/shandong-taishan-v1998
 
 - data: logo
-  uniqueID: 20211007-007
+  logoID: 20211007-007
   version: 1998
   isOutdated: true
   verName: ['山东鲁能泰山', '山东泰山']
@@ -21,7 +21,7 @@
   slug: /cfa/club/shandong-taishan-v1998-mono
 
 - data: logo
-  uniqueID: 20211008-001
+  logoID: 20211008-001
   version: 1993
   isDoubtful: true
   isOutdated: true
@@ -33,7 +33,7 @@
   slug: /cfa/club/shandong-taishan-v1993
 
 - data: logo
-  uniqueID: 20211008-002
+  logoID: 20211008-002
   version: 1993
   isDoubtful: true
   isOutdated: true
@@ -45,7 +45,7 @@
   slug: /cfa/club/shandong-taishan-v1993-mono
 
 - data: logo
-  uniqueID: 20211008-003
+  logoID: 20211008-003
   version: 1995
   isDoubtful: true
   isOutdated: true
@@ -57,7 +57,7 @@
   slug: /cfa/club/shandong-taishan-v1995
 
 - data: logo
-  uniqueID: 20211008-004
+  logoID: 20211008-004
   version: 1995
   isDoubtful: true
   isOutdated: true
@@ -69,7 +69,7 @@
   slug: /cfa/club/shandong-taishan-v1995-mono
 
 - data: logo
-  uniqueID: 20211008-005
+  logoID: 20211008-005
   version: 1996
   isOutdated: true
   verName: ['济南泰山将军']
@@ -80,7 +80,7 @@
   slug: /cfa/club/shandong-taishan-v1996
 
 - data: logo
-  uniqueID: 20211008-006
+  logoID: 20211008-006
   version: 1996
   isOutdated: true
   verName: ['济南泰山将军']
@@ -91,7 +91,7 @@
   slug: /cfa/club/shandong-taishan-v1996-mono
 
 - data: logo
-  uniqueID: 20220215-204417
+  logoID: 20220215-204417
   version: 1997
   isDoubtful: false
   isOutdated: true
@@ -103,7 +103,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220215-204505
+  logoID: 20220215-204505
   version: 1997
   isDoubtful: false
   isOutdated: true
@@ -115,7 +115,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220111-223328
+  logoID: 20220111-223328
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -127,7 +127,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220111-223400
+  logoID: 20220111-223400
   version: 2022
   isDoubtful: false
   isOutdated: false

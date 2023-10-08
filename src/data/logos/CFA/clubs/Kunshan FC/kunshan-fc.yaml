@@ -1,8 +1,8 @@
 - data: logo
-  uniqueID: 20211027-001
+  logoID: 20211027-001
   version: 2018
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Kunshan FC']
   slug: /cfa/club/kunshan-v2018-mono-2
   pngPath: 'png/kunshan-v2018-mono-2.png'
@@ -11,10 +11,10 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211027-002
+  logoID: 20211027-002
   version: 2018
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Kunshan FC']
   slug: /cfa/club/kunshan-v2018-mono
   pngPath: 'png/kunshan-v2018-mono.png'
@@ -23,10 +23,10 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211027-003
+  logoID: 20211027-003
   version: 2018
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Kunshan FC']
   slug: /cfa/club/kunshan-v2018
   pngPath: 'png/kunshan-v2018.png'
@@ -35,7 +35,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220615-232309
+  logoID: 20220615-232309
   version: 2014
   isDoubtful: false
   isOutdated: true
@@ -47,7 +47,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220615-232338
+  logoID: 20220615-232338
   version: 2014
   isDoubtful: false
   isOutdated: true
@@ -59,7 +59,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220615-232358
+  logoID: 20220615-232358
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -71,7 +71,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220615-232427
+  logoID: 20220615-232427
   version: 2016
   isDoubtful: false
   isOutdated: true

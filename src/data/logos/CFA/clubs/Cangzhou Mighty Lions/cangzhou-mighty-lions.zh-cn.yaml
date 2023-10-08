@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211017-009
+  logoID: 20211017-009
   version: 2015
   isOutdated: true
   verName: ['石家庄永昌']
@@ -10,7 +10,7 @@
   slug: /cfa/club/cangzhou-mighty-lions-v2015-mono
 
 - data: logo
-  uniqueID: 20211017-010
+  logoID: 20211017-010
   version: 2015
   isOutdated: true
   verName: ['石家庄永昌']
@@ -21,7 +21,7 @@
   slug: /cfa/club/cangzhou-mighty-lions-v2015
 
 - data: logo
-  uniqueID: 20211020-001
+  logoID: 20211020-001
   version: 2021
   verName: ['沧州雄狮']
   pngPath: 'png/cangzhou-mighty-lions-v2021-mono.png'
@@ -31,7 +31,7 @@
   slug: /cfa/club/cangzhou-mighty-lions-v2021-mono
 
 - data: logo
-  uniqueID: 20211020-002
+  logoID: 20211020-002
   version: 2021
   verName: ['沧州雄狮']
   pngPath: 'png/cangzhou-mighty-lions-v2021.png'
@@ -41,7 +41,7 @@
   slug: /cfa/club/cangzhou-mighty-lions-v2021
 
 - data: logo
-  uniqueID: 20220608-203048
+  logoID: 20220608-203048
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -53,7 +53,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220608-203136
+  logoID: 20220608-203136
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -65,7 +65,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220608-203207
+  logoID: 20220608-203207
   version: 2013
   isDoubtful: false
   isOutdated: true
@@ -77,7 +77,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220608-203244
+  logoID: 20220608-203244
   version: 2013
   isDoubtful: false
   isOutdated: true
@@ -89,7 +89,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220608-203305
+  logoID: 20220608-203305
   version: 2014
   isDoubtful: false
   isOutdated: true
@@ -101,7 +101,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220608-203331
+  logoID: 20220608-203331
   version: 2014
   isDoubtful: false
   isOutdated: true

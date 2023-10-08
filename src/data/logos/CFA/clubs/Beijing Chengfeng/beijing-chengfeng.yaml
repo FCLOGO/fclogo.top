@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211103-005
+  logoID: 20211103-005
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211103-006
+  logoID: 20211103-006
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -23,7 +23,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220714-234146
+  logoID: 20220714-234146
   version: 1999
   isDoubtful: true
   isOutdated: true
@@ -35,7 +35,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220714-234250
+  logoID: 20220714-234250
   version: 1999
   isDoubtful: true
   isOutdated: true
@@ -47,7 +47,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220714-234319
+  logoID: 20220714-234319
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -59,7 +59,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220714-234422
+  logoID: 20220714-234422
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -71,7 +71,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220714-234456
+  logoID: 20220714-234456
   version: 2005
   isDoubtful: false
   isOutdated: true
@@ -83,7 +83,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220714-234532
+  logoID: 20220714-234532
   version: 2005
   isDoubtful: false
   isOutdated: true
@@ -95,7 +95,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220714-234616
+  logoID: 20220714-234616
   version: 2007
   isDoubtful: false
   isOutdated: true
@@ -107,7 +107,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220714-234642
+  logoID: 20220714-234642
   version: 2007
   isDoubtful: false
   isOutdated: true
@@ -119,7 +119,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220714-234705
+  logoID: 20220714-234705
   version: 2010
   isDoubtful: false
   isOutdated: true
@@ -131,7 +131,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220714-234725
+  logoID: 20220714-234725
   version: 2010
   isDoubtful: false
   isOutdated: true
@@ -143,7 +143,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220714-234748
+  logoID: 20220714-234748
   version: 2012
   isDoubtful: false
   isOutdated: true
@@ -155,7 +155,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220714-234812
+  logoID: 20220714-234812
   version: 2012
   isDoubtful: false
   isOutdated: true

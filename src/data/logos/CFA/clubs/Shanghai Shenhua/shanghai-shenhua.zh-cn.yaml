@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211013-001
+  logoID: 20211013-001
   version: 2014.07
   isOutdated: true
   verName: ['上海绿地', '上海绿地申花']
@@ -10,7 +10,7 @@
   slug: /cfa/club/shanghai-shenhua-v201407
 
 - data: logo
-  uniqueID: 20211013-002
+  logoID: 20211013-002
   version: 2014.07
   isOutdated: true
   verName: ['上海绿地', '上海绿地申花']
@@ -21,7 +21,7 @@
   slug: /cfa/club/shanghai-shenhua-v201407-mono
 
 - data: logo
-  uniqueID: 20211127-005
+  logoID: 20211127-005
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -33,7 +33,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211127-006
+  logoID: 20211127-006
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -45,7 +45,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211214-150253
+  logoID: 20211214-150253
   version: 1993
   isDoubtful: false
   isOutdated: true
@@ -57,7 +57,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211214-150318
+  logoID: 20211214-150318
   version: 1993
   isDoubtful: false
   isOutdated: true
@@ -69,7 +69,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211214-150445
+  logoID: 20211214-150445
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -81,7 +81,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211214-150504
+  logoID: 20211214-150504
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -93,7 +93,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211214-150526
+  logoID: 20211214-150526
   version: 2002
   isDoubtful: false
   isOutdated: true
@@ -105,7 +105,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211214-150616
+  logoID: 20211214-150616
   version: 2002
   isDoubtful: false
   isOutdated: true
@@ -117,7 +117,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211214-150649
+  logoID: 20211214-150649
   version: 2009
   isDoubtful: false
   isOutdated: true
@@ -129,7 +129,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211214-150851
+  logoID: 20211214-150851
   version: 2009
   isDoubtful: false
   isOutdated: true
@@ -141,7 +141,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211214-150920
+  logoID: 20211214-150920
   version: 2014.02
   isDoubtful: false
   isOutdated: true
@@ -153,7 +153,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211214-151015
+  logoID: 20211214-151015
   version: 2014.02
   isDoubtful: false
   isOutdated: true
@@ -165,7 +165,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211214-152208
+  logoID: 20211214-152208
   version: 2007
   isDoubtful: false
   isOutdated: true
@@ -177,7 +177,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211214-152231
+  logoID: 20211214-152231
   version: 2007
   isDoubtful: false
   isOutdated: true

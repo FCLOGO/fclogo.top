@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-014
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,7 +10,6 @@
       localName: 武汉长江足球俱乐部
       city: 武汉，中国
       founded: 2009
-      ground: 五环体育中心
-      league: 中超联赛
+      duration: 2009 - 2023
   weiboURL: 'https://weibo.com/whzallfc'
   wikiURL: 'https://zh.wikipedia.org/wiki/武汉长江足球俱乐部'

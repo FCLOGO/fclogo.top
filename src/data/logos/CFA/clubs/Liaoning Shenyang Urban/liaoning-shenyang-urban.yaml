@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211102-003
+  logoID: 20211102-003
   version: 2019
   isDoubtful: false
   isOutdated: true
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211102-004
+  logoID: 20211102-004
   version: 2019
   isDoubtful: false
   isOutdated: true
@@ -23,7 +23,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211102-005
+  logoID: 20211102-005
   version: 2020
   isDoubtful: false
   isOutdated: false
@@ -35,7 +35,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211102-006
+  logoID: 20211102-006
   version: 2020
   isDoubtful: false
   isOutdated: false

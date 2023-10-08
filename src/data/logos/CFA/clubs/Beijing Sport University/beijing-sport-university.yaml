@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211028-007
+  logoID: 20211028-007
   version: 2015
   isDoubtful: false
   isOutdated: true
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211028-008
+  logoID: 20211028-008
   version: 2015
   isDoubtful: false
   isOutdated: true
@@ -23,10 +23,10 @@
   style: color
 
 - data: logo
-  uniqueID: 20211028-009
+  logoID: 20211028-009
   version: 2019
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Beijing Sport University']
   slug: /cfa/club/beijing-sport-university-v2019-mono
   pngPath: 'png/beijing-sport-university-v2019-mono.png'
@@ -35,10 +35,10 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211028-010
+  logoID: 20211028-010
   version: 2019
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Beijing Sport University']
   slug: /cfa/club/beijing-sport-university-v2019
   pngPath: 'png/beijing-sport-university-v2019.png'

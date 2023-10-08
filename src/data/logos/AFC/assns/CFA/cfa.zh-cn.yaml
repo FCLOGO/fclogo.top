@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211007-001
+  logoID: 20211007-001
   version: 2018
   verName: ['CFA']
   pngPath: 'png/chinese-football-association-v2018.png'
@@ -9,7 +9,7 @@
   slug: /afc/assn/chinese-football-association-v2018
 
 - data: logo
-  uniqueID: 20211007-002
+  logoID: 20211007-002
   version: 2018
   verName: ['CFA']
   pngPath: 'png/chinese-football-association-v2018-mono.png'
@@ -19,7 +19,7 @@
   slug: /afc/assn/chinese-football-association-v2018-mono
 
 - data: logo
-  uniqueID: 20211007-003
+  logoID: 20211007-003
   version: 2018
   verName: ['CFA']
   pngPath: 'png/chinese-football-association-v2018-text.png'
@@ -29,7 +29,7 @@
   slug: /afc/assn/chinese-football-association-v2018-text
 
 - data: logo
-  uniqueID: 20211209-110355
+  logoID: 20211209-110355
   version: 1984
   isDoubtful: false
   isOutdated: true
@@ -41,7 +41,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211209-110450
+  logoID: 20211209-110450
   version: 1984
   isDoubtful: false
   isOutdated: true

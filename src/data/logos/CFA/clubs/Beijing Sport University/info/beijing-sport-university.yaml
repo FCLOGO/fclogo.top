@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-027
-  status: alive
+  status: disbanded
   type: club
   nation: China
   info:
@@ -9,8 +9,7 @@
       localName: 北京北体大足球俱乐部
       city: Beijing, China
       founded: 2004
-      ground: Beijing Olympic Sports Centre
-      league: China League
+      duration: 2004 - 2023
   weiboURL: 'https://weibo.com/u/2123392247'
   twitterURL: ''
   websiteURL: ''

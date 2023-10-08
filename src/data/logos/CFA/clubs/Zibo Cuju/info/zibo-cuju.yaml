@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-026
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 淄博蹴鞠足球俱乐部
       city: Zibo, China
       founded: 1982
-      ground: Zibo Sports Center
-      league: China League
+      duration: 1982 - 2023
   weiboURL: 'https://weibo.com/u/6467934803'
   twitterURL: ''
   websiteURL: ''

@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211017-001
+  logoID: 20211017-001
   version: 2016
   isOutdated: true
   verName: ['Hebei China Fortune']
@@ -10,7 +10,7 @@
   slug: /cfa/club/hebeifc-v2016-mono
 
 - data: logo
-  uniqueID: 20211017-002
+  logoID: 20211017-002
   version: 2016
   isOutdated: true
   verName: ['Hebei China Fortune']
@@ -21,7 +21,7 @@
   slug: /cfa/club/hebeifc-v2016
 
 - data: logo
-  uniqueID: 20211018-005
+  logoID: 20211018-005
   version: 2021
   verName: ['Hebei FC']
   pngPath: 'png/hebeifc-v2021-mono.png'
@@ -31,7 +31,7 @@
   slug: /cfa/club/hebeifc-v2021-mono
 
 - data: logo
-  uniqueID: 20211018-006
+  logoID: 20211018-006
   version: 2021
   verName: ['Hebei FC']
   pngPath: 'png/hebeifc-v2021.png'
@@ -41,7 +41,7 @@
   slug: /cfa/club/hebeifc-v2021
 
 - data: logo
-  uniqueID: 20211213-150347
+  logoID: 20211213-150347
   version: 2015
   isDoubtful: false
   isOutdated: true
@@ -53,7 +53,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211213-150436
+  logoID: 20211213-150436
   version: 2015
   isDoubtful: false
   isOutdated: true
@@ -65,7 +65,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220615-230702
+  logoID: 20220615-230702
   version: 2010
   isDoubtful: false
   isOutdated: true
@@ -77,7 +77,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220615-230800
+  logoID: 20220615-230800
   version: 2010
   isDoubtful: false
   isOutdated: true
@@ -89,7 +89,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220615-230830
+  logoID: 20220615-230830
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -101,7 +101,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220615-230910
+  logoID: 20220615-230910
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -113,7 +113,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220615-230937
+  logoID: 20220615-230937
   version: 2013
   isDoubtful: false
   isOutdated: true
@@ -125,7 +125,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220615-231000
+  logoID: 20220615-231000
   version: 2013
   isDoubtful: false
   isOutdated: true

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-089
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Chongqing Tonglianglong Football club
+      shortName: Chongqing Tonglianglong
+      localName: 重庆铜梁龙足球俱乐部
+      founded: 2021
+      city: Chongqing, China
+      ground: Chongqing Tonglianglong Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/1833967471'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/重庆铜梁龙足球俱乐部/61302944'

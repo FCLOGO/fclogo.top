@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-020
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 昆山足球俱乐部
       city: 昆山，中国
       founded: 2014
-      ground: 昆山体育中心
-      league: 中甲联赛
+      duration: 2014 - 2023
   weiboURL: 'https://weibo.com/u/6609527736'
   twitterURL: ''
   websiteURL: ''

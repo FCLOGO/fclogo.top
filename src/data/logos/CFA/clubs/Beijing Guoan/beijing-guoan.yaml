@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211012-001
+  logoID: 20211012-001
   version: 2002
   isOutdated: true
   verName: ['Beijing Guoan FC', 'Beijing Sinobo Guoan FC']
@@ -10,7 +10,7 @@
   slug: /cfa/club/beijing-guoan-v2002
 
 - data: logo
-  uniqueID: 20211012-002
+  logoID: 20211012-002
   version: 2002
   isOutdated: true
   verName: ['Beijing Guoan FC', 'Beijing Sinobo Guoan FC']
@@ -21,7 +21,7 @@
   slug: /cfa/club/beijing-guoan-v2002-mono
 
 - data: logo
-  uniqueID: 20211012-003
+  logoID: 20211012-003
   version: 1992
   isOutdated: true
   verName: ['Beijing Guoan FC']
@@ -32,7 +32,7 @@
   slug: /cfa/club/beijing-guoan-v1992
 
 - data: logo
-  uniqueID: 20211012-004
+  logoID: 20211012-004
   version: 1992
   isOutdated: true
   verName: ['Beijing Guoan FC']
@@ -43,7 +43,7 @@
   slug: /cfa/club/beijing-guoan-v1992-mono
 
 - data: logo
-  uniqueID: 20211012-005
+  logoID: 20211012-005
   version: 1995
   isOutdated: true
   verName: ['Beijing Guoan FC']
@@ -54,7 +54,7 @@
   slug: /cfa/club/beijing-guoan-v1995
 
 - data: logo
-  uniqueID: 20211012-006
+  logoID: 20211012-006
   version: 1995
   isOutdated: true
   verName: ['Beijing Guoan FC']
@@ -65,7 +65,7 @@
   slug: /cfa/club/beijing-guoan-v1995-mono
 
 - data: logo
-  uniqueID: 20211012-007
+  logoID: 20211012-007
   version: 1996
   isOutdated: true
   verName: ['Beijing Guoan FC']
@@ -76,7 +76,7 @@
   slug: /cfa/club/beijing-guoan-v1996
 
 - data: logo
-  uniqueID: 20211012-008
+  logoID: 20211012-008
   version: 1996
   isOutdated: true
   verName: ['Beijing Guoan FC']
@@ -87,7 +87,7 @@
   slug: /cfa/club/beijing-guoan-v1996-mono
 
 - data: logo
-  uniqueID: 20211024-001
+  logoID: 20211024-001
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -99,7 +99,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211024-002
+  logoID: 20211024-002
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -111,7 +111,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220427-131837
+  logoID: 20220427-131837
   version: 2022
   isDoubtful: false
   isOutdated: false

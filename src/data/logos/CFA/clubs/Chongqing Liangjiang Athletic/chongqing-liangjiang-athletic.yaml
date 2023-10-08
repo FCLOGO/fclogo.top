@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211016-009
+  logoID: 20211016-009
   version: 2018
   isOutdated: true
   verName: ['Chongqiong Dangdai Lifan', 'Chongqing Liangjiang Athletic']
@@ -10,7 +10,7 @@
   slug: /cfa/club/chongqing-liangjiang-athletic-v2018-mono
 
 - data: logo
-  uniqueID: 20211016-010
+  logoID: 20211016-010
   version: 2018
   isOutdated: true
   verName: ['Chongqiong Dangdai Lifan', 'Chongqing Liangjiang Athletic']
@@ -21,7 +21,7 @@
   slug: /cfa/club/chongqing-liangjiang-athletic-v2018
 
 - data: logo
-  uniqueID: 20211206-001
+  logoID: 20211206-001
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -33,7 +33,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211206-002
+  logoID: 20211206-002
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -45,7 +45,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220227-172659
+  logoID: 20220227-172659
   version: 1997
   isDoubtful: false
   isOutdated: true
@@ -57,7 +57,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220227-172753
+  logoID: 20220227-172753
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -69,7 +69,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220227-172900
+  logoID: 20220227-172900
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -81,7 +81,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220227-173101
+  logoID: 20220227-173101
   version: 2017
   isDoubtful: false
   isOutdated: true
@@ -93,7 +93,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220227-173141
+  logoID: 20220227-173141
   version: 2017
   isDoubtful: false
   isOutdated: true

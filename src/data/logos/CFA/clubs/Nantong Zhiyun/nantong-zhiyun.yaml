@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211027-006
+  logoID: 20211027-006
   version: 2018
   isDoubtful: false
   isOutdated: false
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211027-007
+  logoID: 20211027-007
   version: 2018
   isDoubtful: false
   isOutdated: false
@@ -23,7 +23,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220218-164106
+  logoID: 20220218-164106
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -35,7 +35,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220218-164136
+  logoID: 20220218-164136
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -47,7 +47,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220218-164204
+  logoID: 20220218-164204
   version: 2017
   isDoubtful: false
   isOutdated: true
@@ -59,7 +59,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220218-164229
+  logoID: 20220218-164229
   version: 2017
   isDoubtful: false
   isOutdated: true

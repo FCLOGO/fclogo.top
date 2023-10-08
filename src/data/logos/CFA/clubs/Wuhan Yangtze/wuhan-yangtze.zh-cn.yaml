@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211017-007
+  logoID: 20211017-007
   version: 2012
   isOutdated: true
   verName: ['武汉卓尔']
@@ -10,7 +10,7 @@
   slug: /cfa/club/wuhanfc-v2012-mono
 
 - data: logo
-  uniqueID: 20211017-008
+  logoID: 20211017-008
   version: 2012
   isOutdated: true
   verName: ['武汉卓尔']
@@ -21,7 +21,7 @@
   slug: /cfa/club/wuhanfc-v2012
 
 - data: logo
-  uniqueID: 20211019-001
+  logoID: 20211019-001
   version: 2021
   isDoubtful: false
   isOutdated: true
@@ -33,7 +33,7 @@
   slug: /cfa/club/wuhanfc-v2021-mono
 
 - data: logo
-  uniqueID: 20211019-002
+  logoID: 20211019-002
   version: 2021
   isDoubtful: false
   isOutdated: true
@@ -45,7 +45,7 @@
   slug: /cfa/club/wuhanfc-v2021
 
 - data: logo
-  uniqueID: 20211219-235031
+  logoID: 20211219-235031
   version: 2009
   isDoubtful: false
   isOutdated: true
@@ -57,7 +57,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211219-235057
+  logoID: 20211219-235057
   version: 2009
   isDoubtful: false
   isOutdated: true
@@ -69,7 +69,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211226-172147
+  logoID: 20211226-172147
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -81,7 +81,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211226-172227
+  logoID: 20211226-172227
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -93,10 +93,10 @@
   style: color
 
 - data: logo
-  uniqueID: 20220520-180704
+  logoID: 20220520-180704
   version: 2022
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['武汉长江']
   slug: /cfa/club/wuhan-yangtze-v2022-mono
   pngPath: 'png/wuhan-yangtze-v2022-mono.png'
@@ -105,10 +105,10 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220520-180745
+  logoID: 20220520-180745
   version: 2022
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['武汉长江']
   slug: /cfa/club/wuhan-yangtze-v2022
   pngPath: 'png/wuhan-yangtze-v2022.png'

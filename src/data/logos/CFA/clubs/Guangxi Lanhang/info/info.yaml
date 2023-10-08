@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-091
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Guangxi Lanhang Football club
+      shortName: Guangxi Lanhang
+      localName: 广西蓝航足球俱乐部
+      founded: 2020
+      city: Laibin, China
+      ground: Liuzhou Sports Centre Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7576238743'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/广西蓝航足球俱乐部/56998261'

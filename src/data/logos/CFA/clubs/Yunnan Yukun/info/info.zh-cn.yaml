@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-088
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 云南玉昆足球俱乐部
+      shortName: 云南玉昆
+      localName: 云南玉昆足球俱乐部
+      founded: 2021
+      city: 玉溪，中国
+      ground: 玉溪高原体育运动中心体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7765448322'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

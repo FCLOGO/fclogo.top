@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211016-007
+  logoID: 20211016-007
   version: 2018
   isOutdated: true
   verName: ['Guzngzhou R&F', 'Guangzhou City']
@@ -10,7 +10,7 @@
   slug: /cfa/club/guangzhou-city-v2018-mono
 
 - data: logo
-  uniqueID: 20211016-008
+  logoID: 20211016-008
   version: 2018
   isOutdated: true
   verName: ['Guzngzhou R&F', 'Guangzhou City']
@@ -21,7 +21,7 @@
   slug: /cfa/club/guangzhou-city-v2018
 
 - data: logo
-  uniqueID: 20220219-112239
+  logoID: 20220219-112239
   version: 2012
   isDoubtful: false
   isOutdated: true
@@ -33,7 +33,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220219-112342
+  logoID: 20220219-112342
   version: 2012
   isDoubtful: false
   isOutdated: true
@@ -45,7 +45,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220219-112405
+  logoID: 20220219-112405
   version: 2011.06
   isDoubtful: false
   isOutdated: true
@@ -57,7 +57,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220219-112508
+  logoID: 20220219-112508
   version: 2011.06
   isDoubtful: false
   isOutdated: true
@@ -69,7 +69,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220219-112527
+  logoID: 20220219-112527
   version: 2011.02
   isDoubtful: false
   isOutdated: true
@@ -81,7 +81,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220219-112609
+  logoID: 20220219-112609
   version: 2011.02
   isDoubtful: false
   isOutdated: true
@@ -93,7 +93,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220226-151141
+  logoID: 20220226-151141
   version: 1997
   isDoubtful: false
   isOutdated: true
@@ -105,7 +105,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220226-151234
+  logoID: 20220226-151234
   version: 1997
   isDoubtful: false
   isOutdated: true
@@ -117,7 +117,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220226-151303
+  logoID: 20220226-151303
   version: 2000
   isDoubtful: false
   isOutdated: true
@@ -129,7 +129,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220226-151341
+  logoID: 20220226-151341
   version: 2000
   isDoubtful: false
   isOutdated: true
@@ -141,7 +141,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220226-151408
+  logoID: 20220226-151408
   version: 2002
   isDoubtful: false
   isOutdated: true
@@ -153,7 +153,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220226-151447
+  logoID: 20220226-151447
   version: 2002
   isDoubtful: false
   isOutdated: true
@@ -165,7 +165,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220226-151510
+  logoID: 20220226-151510
   version: 2007
   isDoubtful: false
   isOutdated: true
@@ -177,7 +177,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220226-151540
+  logoID: 20220226-151540
   version: 2007
   isDoubtful: false
   isOutdated: true
@@ -189,7 +189,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220401-160532
+  logoID: 20220401-160532
   version: 2022
   isDoubtful: false
   isOutdated: false
@@ -201,7 +201,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220401-160554
+  logoID: 20220401-160554
   version: 2022
   isDoubtful: false
   isOutdated: false

@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211207-006
+  logoID: 20211207-006
   version: 2012
   isDoubtful: false
   isOutdated: false
@@ -11,7 +11,7 @@
   style: stereo
 
 - data: logo
-  uniqueID: 20211207-007
+  logoID: 20211207-007
   version: 2012
   isDoubtful: false
   isOutdated: false

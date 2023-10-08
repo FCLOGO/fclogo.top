@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211208-011
+  logoID: 20211208-011
   version: 2019
   isDoubtful: false
   isOutdated: true
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211208-012
+  logoID: 20211208-012
   version: 2019
   isDoubtful: false
   isOutdated: true

@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211016-011
+  logoID: 20211016-011
   version: 2017
   isOutdated: true
   verName: ['江苏苏宁']
@@ -10,7 +10,7 @@
   slug: /cfa/club/jiangsufc-v2017-mono
 
 - data: logo
-  uniqueID: 20211016-012
+  logoID: 20211016-012
   version: 2017
   isOutdated: true
   verName: ['江苏苏宁']
@@ -21,7 +21,7 @@
   slug: /cfa/club/jiangsufc-v2017
 
 - data: logo
-  uniqueID: 20211213-160746
+  logoID: 20211213-160746
   version: 2021
   isDoubtful: false
   isOutdated: true
@@ -33,7 +33,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211213-160834
+  logoID: 20211213-160834
   version: 2021
   isDoubtful: false
   isOutdated: true
@@ -45,7 +45,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211213-161759
+  logoID: 20211213-161759
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -57,7 +57,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211213-161827
+  logoID: 20211213-161827
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -69,7 +69,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211213-161850
+  logoID: 20211213-161850
   version: 2016
   isDoubtful: false
   isOutdated: true
@@ -81,7 +81,7 @@
   style: acl
 
 - data: logo
-  uniqueID: 20211213-190654
+  logoID: 20211213-190654
   version: 2000
   isDoubtful: false
   isOutdated: true
@@ -93,7 +93,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211213-190744
+  logoID: 20211213-190744
   version: 2000
   isDoubtful: false
   isOutdated: true
@@ -105,7 +105,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211213-190806
+  logoID: 20211213-190806
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -117,7 +117,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211213-190821
+  logoID: 20211213-190821
   version: 2001
   isDoubtful: false
   isOutdated: true
@@ -129,7 +129,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220226-150629
+  logoID: 20220226-150629
   version: 1996
   isDoubtful: false
   isOutdated: true
@@ -141,7 +141,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220226-150731
+  logoID: 20220226-150731
   version: 1996
   isDoubtful: false
   isOutdated: true

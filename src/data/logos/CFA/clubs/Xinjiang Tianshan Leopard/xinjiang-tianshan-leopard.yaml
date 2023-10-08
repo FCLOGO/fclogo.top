@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211103-001
+  logoID: 20211103-001
   version: 2014
   isDoubtful: false
   isOutdated: true
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211103-002
+  logoID: 20211103-002
   version: 2014
   isDoubtful: false
   isOutdated: true
@@ -23,10 +23,10 @@
   style: color
 
 - data: logo
-  uniqueID: 20211103-003
+  logoID: 20211103-003
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Xinjiang Tianshan Leopard']
   slug: /cfa/club/xinjiang-tianshan-leopard-v2020-mono
   pngPath: 'png/xinjiang-tianshan-leopard-v2020-mono.png'
@@ -35,10 +35,10 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211103-004
+  logoID: 20211103-004
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Xinjiang Tianshan Leopard']
   slug: /cfa/club/xinjiang-tianshan-leopard-v2020
   pngPath: 'png/xinjiang-tianshan-leopard-v2020.png'
@@ -47,7 +47,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211107-015
+  logoID: 20211107-015
   version: 2012
   isDoubtful: false
   isOutdated: true
@@ -59,7 +59,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211107-016
+  logoID: 20211107-016
   version: 2012
   isDoubtful: false
   isOutdated: true

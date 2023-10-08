@@ -1,9 +1,9 @@
 - data: logoPack
-  uniqueID: 20220605-210106
+  packID: 20220605-210106
   name: 中乙联赛
-  season: 2022's
+  season: '2022'
   packSource: cfa-comp-003
-  slug: /pack/cfa/china-league-2
+  slug: /pack/cfa/2022-china-league-2
   items:
     - id: cfa-club-056
       version: 2021
@@ -41,3 +41,43 @@
       version: 2017
     - id: cfa-club-087
       version: 2021
+
+- data: logoPack
+  packID: 20231004-233947
+  name: 中乙联赛
+  season: '2023'
+  packSource: cfa-comp-003
+  slug: /pack/cfa/2023-china-league-2
+  items:
+    - id: cfa-club-029
+      version: 2000
+    - id: cfa-club-081
+      version: 2022
+    - id: cfa-club-086
+      version: 2017
+    - id: cfa-club-060
+      version: 2023
+    - id: cfa-club-044
+      version: 2021
+    - id: cfa-club-082
+      version: 2022
+    - id: cfa-club-083
+      version: 2022
+    - id: cfa-club-066
+      version: 2022
+    - id: cfa-club-084
+      version: 2022
+    - id: cfa-club-064
+      version: 2021
+    - id: cfa-club-085
+      version: 2021
+    - id: cfa-club-059
+      version: 2011
+    - id: cfa-club-088
+      version: 2023
+    - id: cfa-club-089
+      version: 2023
+    - id: cfa-club-090
+      version: 2023
+    - id: cfa-club-091
+      version: 2020

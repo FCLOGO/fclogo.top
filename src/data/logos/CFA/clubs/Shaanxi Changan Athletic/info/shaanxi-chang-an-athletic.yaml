@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-021
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 陕西长安竞技足球俱乐部
       city: Xi'an, China
       founded: 2016
-      ground: Shaanxi Province Stadium
-      league: China League
+      duration: 2016 - 2023
   weiboURL: 'https://weibo.com/u/5893966904'
   twitterURL: ''
   websiteURL: ''

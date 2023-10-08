@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211014-003
+  logoID: 20211014-003
   version: 2017
   verName: ['Shenzhen FC']
   pngPath: 'png/shenzhenfc-v2017.png'
@@ -9,7 +9,7 @@
   slug: /cfa/club/shenzhenfc-v2017
 
 - data: logo
-  uniqueID: 20211014-004
+  logoID: 20211014-004
   version: 2017
   verName: ['Shenzhen FC']
   pngPath: 'png/shenzhenfc-v2017-mono.png'
@@ -19,7 +19,7 @@
   slug: /cfa/club/shenzhenfc-v2017-mono
 
 - data: logo
-  uniqueID: 20211014-005
+  logoID: 20211014-005
   version: 2017
   verName: ['Shenzhen FC']
   pngPath: 'png/shenzhenfc-v2017-mono-2.png'
@@ -29,7 +29,7 @@
   slug: /cfa/club/shenzhenfc-v2017-mono-2
 
 - data: logo
-  uniqueID: 20211016-001
+  logoID: 20211016-001
   version: 2015
   isOutdated: true
   verName: ['Shenzhen FC']
@@ -40,7 +40,7 @@
   slug: /cfa/club/shenzhenfc-v2015
 
 - data: logo
-  uniqueID: 20211016-002
+  logoID: 20211016-002
   version: 2016
   isOutdated: true
   verName: ['Shenzhen FC']

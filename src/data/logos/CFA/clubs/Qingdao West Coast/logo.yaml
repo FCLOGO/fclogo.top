@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211122-001
+  logoID: 20211122-001
   version: 2016
   isDoubtful: true
   isOutdated: true
@@ -11,7 +11,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211122-002
+  logoID: 20211122-002
   version: 2016
   isDoubtful: true
   isOutdated: true
@@ -23,7 +23,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211122-003
+  logoID: 20211122-003
   version: 2018
   isDoubtful: false
   isOutdated: true
@@ -35,7 +35,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211122-004
+  logoID: 20211122-004
   version: 2018
   isDoubtful: false
   isOutdated: true
@@ -47,7 +47,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211122-005
+  logoID: 20211122-005
   version: 2020
   isDoubtful: false
   isOutdated: true
@@ -59,7 +59,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211122-006
+  logoID: 20211122-006
   version: 2020
   isDoubtful: false
   isOutdated: true
@@ -71,7 +71,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211122-007
+  logoID: 20211122-007
   version: 2021
   isDoubtful: false
   isOutdated: true
@@ -83,7 +83,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20211122-008
+  logoID: 20211122-008
   version: 2021
   isDoubtful: false
   isOutdated: true
@@ -95,7 +95,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20231002-215252
+  logoID: 20231002-215252
   version: 2023
   isDoubtful: false
   isOutdated: false
@@ -107,7 +107,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20231002-215335
+  logoID: 20231002-215335
   version: 2023
   isDoubtful: false
   isOutdated: false

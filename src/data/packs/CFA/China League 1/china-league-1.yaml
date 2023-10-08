@@ -1,9 +1,9 @@
 - data: logoPack
-  uniqueID: 20220502-232345
+  packID: 20220502-232345
   name: China League 1
-  season: 2022's
+  season: '2022'
   packSource: cfa-comp-002
-  slug: /pack/cfa/2022s-china-league-1
+  slug: /pack/cfa/2022-china-league-1
   items:
     - id: cfa-club-022
       version: 2018
@@ -43,11 +43,11 @@
       version: 2021
 
 - data: logoPack
-  uniqueID: 20230928-211848
+  packID: 20230928-211848
   name: China League 1
-  season: 2023's
+  season: '2023'
   packSource: cfa-comp-002
-  slug: /pack/2023s-china-league-1
+  slug: /pack/2023-china-league-1
   items:
     - id: cfa-club-004
       version: 2015

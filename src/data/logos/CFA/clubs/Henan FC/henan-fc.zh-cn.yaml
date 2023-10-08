@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211017-003
+  logoID: 20211017-003
   version: 2016
   isOutdated: true
   verName: ['河南建业']
@@ -10,7 +10,7 @@
   slug: /cfa/club/henan-songshan-longmen-v2016-mono
 
 - data: logo
-  uniqueID: 20211017-004
+  logoID: 20211017-004
   version: 2016
   isOutdated: true
   verName: ['河南建业']
@@ -21,7 +21,7 @@
   slug: /cfa/club/henan-songshan-longmen-v2016
 
 - data: logo
-  uniqueID: 20211020-003
+  logoID: 20211020-003
   version: 2021
   isOutdated: true
   verName: ['河南嵩山龙门']
@@ -32,7 +32,7 @@
   slug: /cfa/club/henan-songshan-longmen-v2021-mono
 
 - data: logo
-  uniqueID: 20211020-004
+  logoID: 20211020-004
   version: 2021
   isOutdated: true
   verName: ['河南嵩山龙门']
@@ -43,7 +43,7 @@
   slug: /cfa/club/henan-songshan-longmen-v2021
 
 - data: logo
-  uniqueID: 20220331-102809
+  logoID: 20220331-102809
   version: 1995
   isDoubtful: false
   isOutdated: true
@@ -55,7 +55,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220331-102910
+  logoID: 20220331-102910
   version: 1995
   isDoubtful: false
   isOutdated: true
@@ -67,7 +67,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220331-102942
+  logoID: 20220331-102942
   version: 1996
   isDoubtful: false
   isOutdated: true
@@ -79,7 +79,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220331-102958
+  logoID: 20220331-102958
   version: 1996
   isDoubtful: false
   isOutdated: true
@@ -91,7 +91,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220331-103015
+  logoID: 20220331-103015
   version: 2004
   isDoubtful: false
   isOutdated: true
@@ -103,7 +103,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220331-103030
+  logoID: 20220331-103030
   version: 2004
   isDoubtful: false
   isOutdated: true
@@ -115,7 +115,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220331-103053
+  logoID: 20220331-103053
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -127,7 +127,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220331-103109
+  logoID: 20220331-103109
   version: 2011
   isDoubtful: false
   isOutdated: true
@@ -139,7 +139,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20230928-210102
+  logoID: 20230928-210102
   version: 2023
   isDoubtful: false
   isOutdated: false
@@ -151,7 +151,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20230928-210205
+  logoID: 20230928-210205
   version: 2023
   isDoubtful: false
   isOutdated: false

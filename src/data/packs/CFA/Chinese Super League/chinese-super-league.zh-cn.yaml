@@ -1,9 +1,9 @@
 - data: logoPack
-  uniqueID: 20220212-114234
+  packID: 20220212-114234
   name: 中超联赛
-  season: 2022's
+  season: '2022'
   packSource: cfa-comp-001
-  slug: /pack/cfa/2022s-chinese-super-league
+  slug: /pack/cfa/2022-chinese-super-league
   items:
     - id: cfa-club-001
       version: 2022
@@ -43,11 +43,11 @@
       version: 2020
 
 - data: logoPack
-  uniqueID: 20230926-203220
+  packID: 20230926-203220
   name: 中超联赛
-  season: 2023's
+  season: '2023'
   packSource: cfa-comp-001
-  slug: /pack/cfa/2023s-chinese-super-league
+  slug: /pack/cfa/2023-chinese-super-league
   items:
     - id: cfa-club-001
       version: 2022

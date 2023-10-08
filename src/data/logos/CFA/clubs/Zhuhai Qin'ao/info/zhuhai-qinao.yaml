@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-087
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 珠海琴澳足球俱乐部
       founded: 2021
       city: Zhuhai, China
-      ground:
-      league: China League 2
+      duration: 2021 - 2023
   weiboURL: ''
   twitterURL: ''
   websiteURL: ''
