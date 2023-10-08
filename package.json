@@ -55,6 +55,6 @@
     "serve": "gatsby build && gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags origin main"
   }
 }
