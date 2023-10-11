@@ -33,7 +33,7 @@ const LogoTimeline = props => {
                 className="my-lg mx-auto"
               />
               <span className="w-full h-[40px] font-mono border-t border-dashed border-t-gray-1 inline-flex justify-center items-center">
-                {logo.version}
+                {logo.version === 0 ? '????' : logo.version}
                 {logo.isDoubtful ? t('sidebar.doubtful') : ''}
               </span>
             </ModalLink>
