@@ -45,7 +45,3 @@ For help, submit a bug, or any other conversation that would benefit from being 
 For casual chit-chat:
 
 [Join the Discord Server](https://discord.gg/gVcbysaEWD)
-
-## ☕️ BUY ME A COFFEE
-
-[Buy Me a Coffee](https://fclogo.top/sponsor)
