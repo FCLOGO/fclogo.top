@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: hkfa-team-001
+  type: team
+  nation: China HK
+  timeline: true
+  info:
+    - fullName: Hong Kong Football Representative Team
+      shortName: HK Football Representative Team
+      localName: 香港足球代表隊
+      assn: CFA
+      conf: AFC
+      code: HKG
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.hkfa.com/hkrt/men-senior'
+  wikiURL: 'https://zh.wikipedia.org/zh-hk/香港足球代表隊'

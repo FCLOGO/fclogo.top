@@ -2,7 +2,7 @@
   logoID: 20220401-153903
   version: 0000
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['香港足球总会']
   slug: /afc/assn/the-hong-kong-football-association-limited-mono
   pngPath: 'png/the-hong-kong-football-association-limited-mono.png'
@@ -14,10 +14,34 @@
   logoID: 20220401-153926
   version: 0000
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['香港足球总会']
   slug: /afc/assn/the-hong-kong-football-association-limited
   pngPath: 'png/the-hong-kong-football-association-limited.png'
   svgPath: 'svg/the-hong-kong-football-association-limited.svg'
+  sourceID: afc-assn-002
+  style: color
+
+- data: logo
+  logoID: 20231010-094350
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['中国香港足球总会']
+  slug: /afc/assn/the-football-association-of-hong-kong-china-v2023-mono
+  pngPath: 'png/the-football-association-of-hong-kong-china-v2023-mono.png'
+  svgPath: 'svg/the-football-association-of-hong-kong-china-v2023-mono.svg'
+  sourceID: afc-assn-002
+  style: mono
+
+- data: logo
+  logoID: 20231010-094506
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['中国香港足球总会']
+  slug: /afc/assn/the-football-association-of-hong-kong-china-v2023
+  pngPath: 'png/the-football-association-of-hong-kong-china-v2023.png'
+  svgPath: 'svg/the-football-association-of-hong-kong-china-v2023.svg'
   sourceID: afc-assn-002
   style: color

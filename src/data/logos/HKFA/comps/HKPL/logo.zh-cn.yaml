@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20231012-152122
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['港超联赛']
+  slug: /hkfa/comp/hong-kong-premier-league-v2014-graph
+  pngPath: 'png/hong-kong-premier-league-v2014-graph.png'
+  svgPath: 'svg/hong-kong-premier-league-v2014-graph.svg'
+  sourceID: hkfa-comp-001
+  style: graph
+
+- data: logo
+  logoID: 20231012-152207
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['港超联赛']
+  slug: /hkfa/comp/hong-kong-premier-league-v2014
+  pngPath: 'png/hong-kong-premier-league-v2014.png'
+  svgPath: 'svg/hong-kong-premier-league-v2014.svg'
+  sourceID: hkfa-comp-001
+  style: color

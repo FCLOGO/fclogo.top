@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-comp-001
+  type: comp
+  nation: China HK
+  timeline: true
+  info:
+    - fullName: 香港超级联赛
+      shortName: 港超联赛
+      localName: 香港超級聯賽
+      founded: 2014
+      confederation: AFC
+      teams: 11
+      level: 第 1 级别
+      promotion:
+      relegation: 港甲联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.hkfa.com/hkpl'
+  wikiURL: 'https://zh.wikipedia.org/wiki/香港超級聯賽'
