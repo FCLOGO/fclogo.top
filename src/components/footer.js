@@ -5,6 +5,7 @@ import LogoIcon from '../../static/assets/icons/fclogo.inline.svg'
 import GithubIcon from '../../static/assets/icons/github.inline.svg'
 import XIcon from '../../static/assets/icons/x.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
+import InsIcon from '../../static/assets/icons/instagram.inline.svg'
 import DiscordIcon from '../../static/assets/icons/discord.inline.svg'
 
 const SocialMedia = [
@@ -22,6 +23,11 @@ const SocialMedia = [
     title: 'Weibo',
     link: 'https://weibo.com/7578670869',
     icon: <WeiboIcon className="h-2xl w-2xl" />
+  },
+  {
+    title: 'Instagram',
+    link: 'https://www.instagram.com/fclogo_top/',
+    icon: <InsIcon className="h-2xl w-2xl" />
   },
   {
     title: 'Discord',
