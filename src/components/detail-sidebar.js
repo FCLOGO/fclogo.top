@@ -8,7 +8,7 @@ import DownloadIcon from '../../static/assets/icons/download.inline.svg'
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
 import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
-import TwitterIcon from '../../static/assets/icons/twitter.inline.svg'
+import XIcon from '../../static/assets/icons/x.inline.svg'
 import WikiIcon from '../../static/assets/icons/wiki.inline.svg'
 import BugIcon from '../../static/assets/icons/bug.inline.svg'
 
@@ -155,7 +155,7 @@ const DetailSidebar = props => {
           )}
           {props.twitterURL ? (
             <a href={props.twitterURL} target="_blank" title={t('sidebar.twitter')}>
-              <TwitterIcon />
+              <XIcon />
             </a>
           ) : (
             ''
