@@ -11,7 +11,11 @@ import RandomList from '../components/index-random'
 const IndexPage = ({ data, pageContext }) => {
   return (
     <Layout>
-      <Hero totalCount={data.allLogo.totalCount} locale={pageContext.language} />
+      <Hero
+        totalCount={data.allLogo.totalCount}
+        locale={pageContext.language}
+        allLogo={data.allLogo.nodes}
+      />
       <div className="w-full mx-auto mt-xl mb-[100px] px-[40px] max-w-[1400px] flex-auto flex flex-col flex-nowrap">
         <LogoList data={data} />
         {data.allLogoPack.nodes.length ? <LogoPack data={data} /> : ''}
@@ -46,6 +50,8 @@ export const query = graphql`
     allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
       nodes {
         id
+        logoID
+        sourceID
         slug
         style
         version
@@ -58,6 +64,7 @@ export const query = graphql`
           info {
             fullName
             shortName
+            localName
           }
         }
       }

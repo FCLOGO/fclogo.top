@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import AdSense from 'react-adsense'
-import IncrementDownloads from '../lib/increment-downloads'
+import UpdateDownloads from '../lib/update-downloads'
 import DownloadCounter from '../components/download-counter'
 
 import DownloadIcon from '../../static/assets/icons/download.inline.svg'
@@ -50,7 +50,7 @@ const InfoTable = ({ info }) => {
 const DetailSidebar = props => {
   const { t } = useTranslation()
   const fullName = props.fullName
-  const pushCounter = () => IncrementDownloads(props.slug)
+  const pushCounter = () => UpdateDownloads(props.sourceID, props.logoID)
   return (
     <aside className="pt-[160px] tablet:pt-xl w-aside tablet:w-full flex flex-col border-l border-l-gray-1 bg-white">
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
@@ -127,7 +127,7 @@ const DetailSidebar = props => {
             </Link>
           </p>
         </div>
-        <DownloadCounter logoId={props.slug} />
+        <DownloadCounter sourceID={props.sourceID} logoID={props.logoID} />
       </div>
       <div className="p-xl w-aside border-t border-t-gray-1 tablet:w-full">
         <DetailAdsense />

@@ -10,6 +10,8 @@ const pageQuery = `{
       }
       slug
       verName
+      version
+      style
       fields {
         locale
       }
@@ -30,14 +32,26 @@ const pageQuery = `{
   }
 }`
 
-function pageToAlgoliaRecord({ slug, fields, verName, detailInfo, league, pngPath, ...rest }) {
+function pageToAlgoliaRecord({
+  slug,
+  fields,
+  version,
+  verName,
+  style,
+  detailInfo,
+  league,
+  pngPath,
+  ...rest
+}) {
   detailInfo[0].info[0].league ? (league = detailInfo[0].info[0].league) : ''
   verName ? verName : ''
   return {
     objectID: fields.uniqueID,
     slug,
     locale: fields.locale,
+    version,
     verName,
+    style,
     fullName: detailInfo[0].info[0].fullName,
     localName: detailInfo[0].info[0].localName,
     shortName: detailInfo[0].info[0].shortName,

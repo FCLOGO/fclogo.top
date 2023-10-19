@@ -4,6 +4,7 @@ import { Trans, useTranslation } from 'gatsby-plugin-react-i18next'
 import { useInstantSearch, Highlight, Snippet, InfiniteHits } from 'react-instantsearch'
 
 import ModalLink from '../../helpers/modal-link'
+import TopDownloads from './top-downloads'
 
 import ArrowIcon from '../../../static/assets/icons/arrowForward.inline.svg'
 
@@ -11,18 +12,14 @@ import { createInfiniteHitsSessionStorageCache } from 'instantsearch.js/es/lib/i
 
 const sessionStorageCache = createInfiniteHitsSessionStorageCache()
 
-const SearchResult = () => {
+const SearchResult = ({ allLogo }) => {
   const { t } = useTranslation()
 
   const CustomStats = ({ children }) => {
     const { results, indexUiState } = useInstantSearch()
     const { query, nbHits } = results
     if (!indexUiState.query) {
-      return (
-        <div>
-          <p className="text-light-gray">{t('search.tryTips')}</p>
-        </div>
-      )
+      return <TopDownloads allLogo={allLogo} />
     }
     return results && results.nbHits !== 0 ? (
       <div>
@@ -76,6 +73,14 @@ const SearchResult = () => {
             highlighted: 'font-bold group-hover:text-white border-b-2'
           }}
         />
+      </div>
+      <div className="mx-md flex justify-between items-center content-center">
+        <span className="font-mono mr-sm uppercase text-xs leading-3 px-sm py-xs rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
+          {hit.version}
+        </span>
+        <span className="uppercase text-xs px-sm py-xs leading-3 rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
+          {t(hit.style)}
+        </span>
       </div>
       <ArrowIcon className="w-lg h-lg stroke-dark-gray group-hover:stroke-white" />
     </ModalLink>

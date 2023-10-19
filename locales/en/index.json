@@ -27,6 +27,7 @@
   "search.tips": "Support localized name: Liverpool, 山东泰山, サンフレッチェ広島",
   "search.loadMore": "Load More...",
   "search.tryTips": "Enter a club name to try it out 👆",
+  "search.topDownloads": "Top Downloads",
   "search.results": "<0>{{ nbHits }}</0> results found for the query <2>{{ query }}</2> 👇",
   "search.noResults": "No results have been found for <1>{{query}}</1> 😶",
 

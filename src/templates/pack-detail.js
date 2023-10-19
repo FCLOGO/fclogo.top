@@ -14,7 +14,7 @@ const PackDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
   const { next, previous } = pageContext
   return (
-    <ConditionalLayout pageContext={pageContext}>
+    <ConditionalLayout pageContext={pageContext} allLogo={data.allLogo.nodes}>
       <div className="w-full m-[0_auto] flex-grow main-content block">
         {data.logoPack ? (
           <div className="content-inner flex flex-col items-start">
@@ -173,6 +173,27 @@ export const query = graphql`
         pngPath {
           childImageSharp {
             gatsbyImageData(width: 200, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+          }
+        }
+      }
+    }
+    allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
+      nodes {
+        id
+        logoID
+        sourceID
+        slug
+        version
+        style
+        pngPath {
+          childImageSharp {
+            gatsbyImageData(width: 300, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+          }
+        }
+        detailInfo {
+          info {
+            fullName
+            localName
           }
         }
       }

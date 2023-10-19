@@ -10,7 +10,7 @@ const Packs = ({ data, pageContext }) => {
   return (
     <Layout>
       <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
-        <Search locale={pageContext.language} />
+        <Search locale={pageContext.language} allLogo={data.allLogo.nodes} />
       </div>
       <ItemList allItems={data.allLogoPack.nodes} />
     </Layout>
@@ -67,6 +67,27 @@ export const query = graphql`
         }
         internal {
           type
+        }
+      }
+    }
+    allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
+      nodes {
+        id
+        logoID
+        sourceID
+        slug
+        version
+        style
+        pngPath {
+          childImageSharp {
+            gatsbyImageData(width: 300, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+          }
+        }
+        detailInfo {
+          info {
+            fullName
+            localName
+          }
         }
       }
     }

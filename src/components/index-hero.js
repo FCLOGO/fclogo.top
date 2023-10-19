@@ -3,7 +3,7 @@ import { Trans, useTranslation } from 'gatsby-plugin-react-i18next'
 
 import AlgoliaSearch from './_algolia'
 
-const IndexHero = ({ totalCount, locale }) => {
+const IndexHero = ({ totalCount, locale, allLogo }) => {
   const { t } = useTranslation()
   return (
     <div className="text-center bg-blue text-gray w-full">
@@ -16,7 +16,7 @@ const IndexHero = ({ totalCount, locale }) => {
         </h1>
         <p className="desktop:text-base my-md">{t(`hero.subtitle`)}</p>
         <section className="flex-auto relative z-20">
-          <AlgoliaSearch locale={locale} />
+          <AlgoliaSearch locale={locale} allLogo={allLogo} />
           <p className="my-md tablet:text-xs">{t(`search.tips`)}</p>
         </section>
       </div>

@@ -15,7 +15,7 @@ const LogoDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
   const { next, previous } = pageContext
   return (
-    <ConditionalLayout pageContext={pageContext}>
+    <ConditionalLayout pageContext={pageContext} allLogo={data.allLogo.nodes}>
       {/* <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
         <Search locale={pageContext.language} />
       </div> */}
@@ -73,6 +73,8 @@ const LogoDetail = ({ data, pageContext }) => {
                 isDoubtful={data.logo.isDoubtful}
                 fullName={data.logo.detailInfo[0].info[0].fullName}
                 slug={data.logo.slug}
+                logoID={data.logo.logoID}
+                sourceID={data.logo.sourceID}
                 status={data.logo.detailInfo[0].status}
                 pngURL={data.logo.pngPath.publicURL}
                 svgURL={data.logo.svgPath.publicURL}
@@ -167,6 +169,8 @@ export const query = graphql`
     }
     logo(fields: { locale: { eq: $language } }, slug: { eq: $slug }) {
       id
+      logoID
+      sourceID
       slug
       version
       verName
@@ -232,6 +236,27 @@ export const query = graphql`
         pngPath {
           childImageSharp {
             gatsbyImageData(placeholder: BLURRED, width: 100, layout: FIXED, formats: WEBP)
+          }
+        }
+      }
+    }
+    allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
+      nodes {
+        id
+        logoID
+        sourceID
+        slug
+        version
+        style
+        pngPath {
+          childImageSharp {
+            gatsbyImageData(width: 300, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+          }
+        }
+        detailInfo {
+          info {
+            fullName
+            localName
           }
         }
       }
