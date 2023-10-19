@@ -63,9 +63,11 @@ const TopDownloads = ({ allLogo }) => {
                 <span className="text-xs">{item.localName}</span>
               </div>
               <div className="mx-md flex justify-between items-center content-center">
-                <span className="font-mono mr-sm uppercase text-xs leading-3 px-sm py-xs rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
-                  {item.version}
-                </span>
+                {item.version !== 0 && (
+                  <span className="font-mono mr-sm uppercase text-xs leading-3 px-sm py-xs rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
+                    {item.version}
+                  </span>
+                )}
                 <span className="uppercase text-xs px-sm py-xs leading-3 rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
                   {t(item.style)}
                 </span>
