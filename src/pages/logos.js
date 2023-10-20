@@ -10,7 +10,7 @@ const AllLogo = ({ data, pageContext }) => {
   return (
     <Layout>
       <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
-        <Search locale={pageContext.language} allLogo={data.allLogo.nodes} />
+        <Search locale={pageContext.language} />
       </div>
       <ItemList allItems={data.allLogo.nodes} />
     </Layout>
@@ -42,8 +42,6 @@ export const query = graphql`
     allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
       nodes {
         id
-        logoID
-        sourceID
         slug
         version
         style
@@ -56,7 +54,6 @@ export const query = graphql`
           info {
             fullName
             shortName
-            localName
           }
         }
         internal {

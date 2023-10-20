@@ -7,7 +7,7 @@ import Search from './_algolia'
 
 import CloseIcon from '../../static/assets/icons/close.inline.svg'
 
-const ConditionalLayout = ({ pageContext, allLogo, children, ...rest }) => {
+const ConditionalLayout = ({ pageContext, children, ...rest }) => {
   return (
     <ModalRoutingContext.Consumer>
       {({ modal, closeTo }) =>
@@ -24,7 +24,7 @@ const ConditionalLayout = ({ pageContext, allLogo, children, ...rest }) => {
         ) : (
           <Layout {...rest}>
             <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
-              <Search locale={pageContext.language} allLogo={allLogo} />
+              <Search locale={pageContext.language} />
             </div>
             {children}
           </Layout>

@@ -12,14 +12,14 @@ import { createInfiniteHitsSessionStorageCache } from 'instantsearch.js/es/lib/i
 
 const sessionStorageCache = createInfiniteHitsSessionStorageCache()
 
-const SearchResult = ({ allLogo }) => {
+const SearchResult = ({ locale }) => {
   const { t } = useTranslation()
 
   const CustomStats = ({ children }) => {
     const { results, indexUiState } = useInstantSearch()
     const { query, nbHits } = results
     if (!indexUiState.query) {
-      return <TopDownloads allLogo={allLogo} />
+      return <TopDownloads locale={locale} />
     }
     return results && results.nbHits !== 0 ? (
       <div>

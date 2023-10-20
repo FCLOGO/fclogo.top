@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { graphql, useStaticQuery } from 'gatsby'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
 import FetchDownloadData from '../../lib/fetch-download-data'
@@ -6,8 +7,36 @@ import ModalLink from '../../helpers/modal-link'
 
 import ArrowIcon from '../../../static/assets/icons/arrowForward.inline.svg'
 
-const TopDownloads = ({ allLogo }) => {
+const TopDownloads = ({ locale }) => {
   const { t } = useTranslation()
+  const data = useStaticQuery(graphql`
+    query {
+      allLogo {
+        nodes {
+          fields {
+            locale
+          }
+          logoID
+          sourceID
+          slug
+          style
+          version
+          pngPath {
+            childImageSharp {
+              gatsbyImageData(width: 500, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+            }
+          }
+          detailInfo {
+            info {
+              fullName
+              localName
+            }
+          }
+        }
+      }
+    }
+  `)
+
   const [topDownloads, setTopDownloads] = useState([])
   useEffect(() => {
     const getTopDownloads = async () => {
@@ -15,7 +44,9 @@ const TopDownloads = ({ allLogo }) => {
 
       // 匹配项目并添加其他数据
       const updatedDownloadData = downloadData.map(item => {
-        const matchedItem = allLogo.find(node => node.logoID === item.logoID)
+        const matchedItem = data.allLogo.nodes.find(
+          node => node.logoID === item.logoID && node.fields.locale === locale
+        )
         if (matchedItem) {
           return {
             ...item,

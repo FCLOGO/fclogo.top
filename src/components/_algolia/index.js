@@ -6,7 +6,7 @@ import { InstantSearch, Configure, SearchBox, PoweredBy } from 'react-instantsea
 import SearchResult from './search-result'
 import UseClickOutside from '../../hooks/use-click-outside'
 
-const AlgoliaSearch = ({ locale, allLogo }) => {
+const AlgoliaSearch = ({ locale }) => {
   const { t } = useTranslation()
 
   // Algolia Client
@@ -85,7 +85,7 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
         />
         {hasFocus && (
           <div className="bg-white w-full shadow-card absolute top-header rounded-b-lg flex flex-col">
-            <SearchResult allLogo={allLogo} />
+            <SearchResult locale={locale} />
             <PoweredBy
               classNames={{
                 root: 'h-auto px-2xl py-lg flex flex-row-reverse items-center border-t border-gray-1',
