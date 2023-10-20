@@ -48,7 +48,7 @@
     "prettier": "^3.0.3"
   },
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build > /dev/null",
     "dev": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,yaml,yml,md,mdx}\"",
     "start": "npm run develop",
