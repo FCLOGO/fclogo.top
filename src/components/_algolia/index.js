@@ -82,7 +82,6 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
             loadingIcon: 'h-md w-md'
           }}
           onFocus={() => setFocus(true)}
-          onBlur={() => setFocus(false)}
         />
         {hasFocus && (
           <div className="bg-white w-full shadow-card absolute top-header rounded-b-lg flex flex-col">
