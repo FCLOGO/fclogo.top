@@ -9,6 +9,7 @@ import UseClickOutside from '../../hooks/use-click-outside'
 const AlgoliaSearch = ({ locale, allLogo }) => {
   const { t } = useTranslation()
 
+  // Algolia Client
   const algoliaClient = useMemo(
     () => algoliasearch(process.env.GATSBY_ALGOLIA_APP_ID, process.env.GATSBY_ALGOLIA_SEARCH_KEY),
     []
@@ -41,6 +42,12 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
   // Algolia IndexName
   const indices = process.env.GATSBY_ALGOLIA_INDEX_NAME
 
+  // 搜索逻辑
+  const queryHook = (query, search) => {
+    // 只有在输入非空字符时开始搜索
+    query.trim() !== '' && search(query)
+  }
+
   // 创建一个引用用于获取根元素的实例
   const rootRef = createRef()
 
@@ -49,6 +56,7 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
 
   // 使用 useClickOutside 钩子，当用户点击页面其他地方时执行回调函数设置焦点为 false
   UseClickOutside(rootRef, () => setFocus(false))
+
   return (
     <div ref={rootRef} className="relative">
       <InstantSearch
@@ -60,6 +68,8 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
         <SearchBox
           searchAsYouType={true}
           placeholder={t(`search.placeholder`)}
+          autoFocus
+          queryHook={queryHook}
           classNames={{
             form: `h-header bg-white rounded-lg flex flex-nowrap justify-between items-center relative ${
               hasFocus ? 'rounded-b-none' : ''
@@ -73,6 +83,7 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
             loadingIcon: 'h-md w-md'
           }}
           onFocus={() => setFocus(true)}
+          onBlur={() => setFocus(false)}
         />
         {hasFocus && (
           <div className="bg-white w-full shadow-card absolute top-header rounded-b-lg flex flex-col">
