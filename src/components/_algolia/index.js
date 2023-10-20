@@ -68,7 +68,6 @@ const AlgoliaSearch = ({ locale, allLogo }) => {
         <SearchBox
           searchAsYouType={true}
           placeholder={t(`search.placeholder`)}
-          autoFocus
           queryHook={queryHook}
           classNames={{
             form: `h-header bg-white rounded-lg flex flex-nowrap justify-between items-center relative ${
