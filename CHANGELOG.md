@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/FCLOGO/fclogo.top/compare/v2.1.0...v2.1.1) (2023-10-20)
+
+
+### Bug Fixes
+
+* :bug: 修正 `logoID` 重复 ([8662652](https://github.com/FCLOGO/fclogo.top/commit/866265229aeb29e02b80e63224ec8482f7863f3e))
+* :bug: fix bug ([563a7be](https://github.com/FCLOGO/fclogo.top/commit/563a7be7644a6e3d064be3c10c8afaacf7223369))
+* :bug: fix bug ([2d71442](https://github.com/FCLOGO/fclogo.top/commit/2d7144279a26a3e5703455cb40b5db2d1b8564d7))
+* :bug: fix bug ([358f041](https://github.com/FCLOGO/fclogo.top/commit/358f0418e06e43dc53c7870006b79c3573851b5e))
+* :bug: fix bugs ([8dbbe26](https://github.com/FCLOGO/fclogo.top/commit/8dbbe26c1da3df582fdf0296f792c19fb8d48f5c))
+
 ## [2.1.0](https://github.com/FCLOGO/fclogo.top/compare/v2.0.0...v2.1.0) (2023-10-08)
 
 
