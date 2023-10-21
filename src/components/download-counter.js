@@ -7,7 +7,7 @@ import CloudIcon from '../../static/assets/icons/cloud.inline.svg'
 
 const DownloadCounter = ({ sourceID, logoID }) => {
   const { t } = useTranslation()
-  const [downloadCount, setDownloadCount] = useState(0)
+  const [downloadCount, setDownloadCount] = useState('-')
   useEffect(() => {
     // 初始化 Firestore
     const db = getFirestore(app)

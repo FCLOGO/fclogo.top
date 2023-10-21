@@ -182,8 +182,8 @@ const DetailSidebar = props => {
           ''
         )}
       </div>
-      <div className="w-aside px-xl py-3xl border-t border-t-gray-1 tablet:w-full">
-        <h6 className="flex flex-row items-center text-xs font-semibold">
+      <div className="w-aside px-xl py-3xl text-xs border-t border-t-gray-1 tablet:w-full">
+        <h6 className="flex flex-row items-center font-semibold mb-md">
           <BugIcon className="w-xl h-xl mr-xs" />
           {t('sidebar.foundErr')}
           <a
@@ -195,6 +195,10 @@ const DetailSidebar = props => {
             {t('sidebar.tellMe')}
           </a>
         </h6>
+        <span className="text-light-gray uppercase">
+          {t('sidebar.logoid')}
+          {props.logoID}
+        </span>
       </div>
     </aside>
   )
