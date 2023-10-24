@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 深圳市足球俱乐部
       shortName: 深圳 FC

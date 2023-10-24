@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Shenzhen Football Club
       shortName: Shenzhen FC
