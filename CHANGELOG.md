@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.2](https://github.com/FCLOGO/fclogo.top/compare/v2.1.1...v2.1.2) (2023-10-24)
+
+
+### ❇️ Chores | 其他更新
+
+* :pushpin: 添加 standard-version 配置 ([5c138e0](https://github.com/FCLOGO/fclogo.top/commit/5c138e052a0d8f94a91864e65bfefd5c39b8362c))
+
+
+### 🛠️ Build System | 构建
+
+* :white_check_mark: add standard-version to devDependencies ([56a775b](https://github.com/FCLOGO/fclogo.top/commit/56a775b8ce65871f03003cfcae1792ce51ea3551))
+* fix build bug ([5b8a9a1](https://github.com/FCLOGO/fclogo.top/commit/5b8a9a11ac251dba5e88b64586a009ea9b45cf3a))
+
+
+### 📝 Documentation | 文档
+
+* :white_check_mark: 更新 深圳 FC 历史队徽 ([fa940bb](https://github.com/FCLOGO/fclogo.top/commit/fa940bbf81f17024a9e7d6a4c1ea7746630240c3))
+* 详情页展示 LogoID ([9909429](https://github.com/FCLOGO/fclogo.top/commit/9909429a1274deb248330e14042fbec1a502c653))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* :bug: 修复 build 动态查询时间太长的问题 ([d824b10](https://github.com/FCLOGO/fclogo.top/commit/d824b10002d868d6a60b85d999dee4dae09d333f))
+* :bug: 修复 svg 文件错误 ([2e662fe](https://github.com/FCLOGO/fclogo.top/commit/2e662fe1d96c62094e306b5ff48ee40a0534bd3b))
+
 ### [2.1.1](https://github.com/FCLOGO/fclogo.top/compare/v2.1.0...v2.1.1) (2023-10-20)
 
 
