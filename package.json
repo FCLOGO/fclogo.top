@@ -45,7 +45,8 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-replace": "^1.1.4",
-    "prettier": "^3.0.3"
+    "prettier": "^3.0.3",
+    "standard-version": "^9.5.0"
   },
   "scripts": {
     "build": "gatsby build",
