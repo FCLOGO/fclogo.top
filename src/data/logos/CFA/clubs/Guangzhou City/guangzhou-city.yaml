@@ -94,25 +94,25 @@
 
 - data: logo
   logoID: 20220226-151141
-  version: 1997
-  isDoubtful: false
+  version: 1995
+  isDoubtful: true
   isOutdated: true
   verName: ['Shenyang Sea Lion']
-  slug: /cfa/club/guangzhou-city-v1997-mono
-  pngPath: 'png/guangzhou-city-v1997-mono.png'
-  svgPath: 'svg/guangzhou-city-v1997-mono.svg'
+  slug: /cfa/club/guangzhou-city-v1995-mono
+  pngPath: 'png/guangzhou-city-v1995-mono.png'
+  svgPath: 'svg/guangzhou-city-v1995-mono.svg'
   sourceID: cfa-club-008
   style: mono
 
 - data: logo
   logoID: 20220226-151234
-  version: 1997
-  isDoubtful: false
+  version: 1995
+  isDoubtful: true
   isOutdated: true
   verName: ['Shenyang Sea Lion']
-  slug: /cfa/club/guangzhou-city-v1997
-  pngPath: 'png/guangzhou-city-v1997.png'
-  svgPath: 'svg/guangzhou-city-v1997.svg'
+  slug: /cfa/club/guangzhou-city-v1995
+  pngPath: 'png/guangzhou-city-v1995.png'
+  svgPath: 'svg/guangzhou-city-v1995.svg'
   sourceID: cfa-club-008
   style: color
 
