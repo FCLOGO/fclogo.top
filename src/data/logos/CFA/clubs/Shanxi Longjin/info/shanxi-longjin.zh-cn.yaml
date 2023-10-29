@@ -3,6 +3,7 @@
   status: out
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 山西龙晋足球俱乐部
       shortName: 山西龙晋

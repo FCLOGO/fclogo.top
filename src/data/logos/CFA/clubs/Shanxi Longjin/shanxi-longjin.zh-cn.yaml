@@ -45,3 +45,15 @@
   svgPath: 'svg/shanxi-longjin-v2020.svg'
   sourceID: cfa-club-049
   style: color
+
+- data: logo
+  logoID: 20231029-092347-1b2e12
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['河北信友']
+  slug: /cfa/club/hebei-xinyou-v2015
+  pngPath: 'png/hebei-xinyou-v2015.png'
+  svgPath: 'svg/hebei-xinyou-v2015.svg'
+  sourceID: cfa-club-049
+  style: color
