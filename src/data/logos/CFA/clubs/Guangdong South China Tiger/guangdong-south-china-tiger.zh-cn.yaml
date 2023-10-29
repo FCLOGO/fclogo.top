@@ -45,3 +45,39 @@
   svgPath: 'svg/guangdong-south-china-tiger-v2019.svg'
   sourceID: cfa-club-037
   style: color
+
+- data: logo
+  logoID: 20231029-093652-e1c883
+  version: 2003
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Dongguan Nancheng']
+  slug: /cfa/club/dongguan-nancheng-v2003
+  pngPath: 'png/dongguan-nancheng-v2003.png'
+  svgPath: 'svg/dongguan-nancheng-v2003.svg'
+  sourceID: cfa-club-037
+  style: color
+
+- data: logo
+  logoID: 20231029-093728-a6fa58
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Dongguan Nancheng']
+  slug: /cfa/club/dongguan-nancheng-v2011
+  pngPath: 'png/dongguan-nancheng-v2011.png'
+  svgPath: 'svg/dongguan-nancheng-v2011.svg'
+  sourceID: cfa-club-037
+  style: color
+
+- data: logo
+  logoID: 20231029-093813-fe1b8a
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Meixian Kejia']
+  slug: /cfa/club/meixian-kejia-v2013
+  pngPath: 'png/meixian-kejia-v2013.png'
+  svgPath: 'svg/meixian-kejia-v2013.svg'
+  sourceID: cfa-club-037
+  style: color

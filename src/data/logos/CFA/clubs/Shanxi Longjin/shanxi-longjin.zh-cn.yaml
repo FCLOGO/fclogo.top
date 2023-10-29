@@ -38,7 +38,7 @@
   logoID: 20211107-010
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['山西龙晋']
   slug: /cfa/club/shanxi-longjin-v2020
   pngPath: 'png/shanxi-longjin-v2020.png'
@@ -50,7 +50,7 @@
   logoID: 20231029-092347-1b2e12
   version: 2015
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['河北信友']
   slug: /cfa/club/hebei-xinyou-v2015
   pngPath: 'png/hebei-xinyou-v2015.png'
