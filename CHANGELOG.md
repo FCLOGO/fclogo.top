@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.3](https://github.com/FCLOGO/fclogo.top/compare/v2.1.2...v2.1.3) (2023-10-29)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复 svg 错误 ([a7db01b](https://github.com/FCLOGO/fclogo.top/commit/a7db01bbcf78a8d12378c26f052e7840282957e4))
+
+
+### 📝 Documentation | 文档
+
+* 更新历史队徽 ([2b7a5bc](https://github.com/FCLOGO/fclogo.top/commit/2b7a5bcaee6495e9cb5672862642454c5507f541))
+* 更新历史徽标 ([53516f7](https://github.com/FCLOGO/fclogo.top/commit/53516f711635ae218ef1b62c6e47167c18ade282))
+* 修正早期队徽版本 ([d76f22a](https://github.com/FCLOGO/fclogo.top/commit/d76f22aa24cd1d04b9dcbac896dfbd2a10f43b3b))
+
 ### [2.1.2](https://github.com/FCLOGO/fclogo.top/compare/v2.1.1...v2.1.2) (2023-10-24)
 
 
