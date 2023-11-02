@@ -78,6 +78,7 @@
   sourceID: cfa-club-001
   style: color
   slug: /cfa/club/shandong-taishan-v1996
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//jinan-taishan-1996.png'
 
 - data: logo
   logoID: 20211008-006

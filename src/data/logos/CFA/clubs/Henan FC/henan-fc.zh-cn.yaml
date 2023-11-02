@@ -53,6 +53,7 @@
   svgPath: 'svg/henan-songshan-longmen-v1995-mono.svg'
   sourceID: cfa-club-012
   style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//henan-jianye-1995.jpg'
 
 - data: logo
   logoID: 20220331-102910
@@ -65,6 +66,7 @@
   svgPath: 'svg/henan-songshan-longmen-v1995.svg'
   sourceID: cfa-club-012
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//henan-jianye-1995.jpg'
 
 - data: logo
   logoID: 20220331-102942

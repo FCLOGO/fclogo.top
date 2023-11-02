@@ -81,6 +81,7 @@
   svgPath: 'svg/qingdao-hainiu-v1995.svg'
   sourceID: cfa-club-052
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//qingdao-hainiu-1995.png'
 
 - data: logo
   logoID: 20220103-225205

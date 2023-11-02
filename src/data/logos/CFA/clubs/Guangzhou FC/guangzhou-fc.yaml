@@ -89,6 +89,7 @@
   svgPath: 'svg/guangzhoufc-v2002-mono.svg'
   sourceID: cfa-club-004
   style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//xiangxue-zhiyao-2002.jpg'
 
 - data: logo
   logoID: 20220106-201837
@@ -101,6 +102,7 @@
   svgPath: 'svg/guangzhoufc-v2002.svg'
   sourceID: cfa-club-004
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//xiangxue-zhiyao-2002.jpg'
 
 - data: logo
   logoID: 20220106-201901

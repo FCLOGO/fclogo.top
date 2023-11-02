@@ -73,6 +73,7 @@
   svgPath: 'svg/shenzhen-v1996.svg'
   sourceID: cfa-club-005
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//shenzhen-fc-v1996.png'
 
 - data: logo
   logoID: 20231024-163413-6cecb1
@@ -85,6 +86,7 @@
   svgPath: 'svg/shenzhen-v1997-mono.svg'
   sourceID: cfa-club-005
   style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//1999-jia-a-qiuxing-ka.jpg'
 
 - data: logo
   logoID: 20231024-163448-13382e
@@ -97,6 +99,7 @@
   svgPath: 'svg/shenzhen-v1997.svg'
   sourceID: cfa-club-005
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//1999-jia-a-qiuxing-ka.jpg'
 
 - data: logo
   logoID: 20231024-163515-9c6a1e

@@ -29,6 +29,7 @@
   svgPath: 'svg/changchun-yatai-v1996-mono.svg'
   sourceID: cfa-club-011
   style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//changchun-yatai-v1996.png'
 
 - data: logo
   logoID: 20211227-171800
@@ -41,6 +42,7 @@
   svgPath: 'svg/changchun-yatai-v1996.svg'
   sourceID: cfa-club-011
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//changchun-yatai-v1996.png'
 
 - data: logo
   logoID: 20211227-171831
@@ -53,6 +55,7 @@
   svgPath: 'svg/changchun-yatai-v1997-mono.svg'
   sourceID: cfa-club-011
   style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//changchun-yatai-v1997.png'
 
 - data: logo
   logoID: 20211227-171848
@@ -65,6 +68,7 @@
   svgPath: 'svg/changchun-yatai-v1997.svg'
   sourceID: cfa-club-011
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//changchun-yatai-v1997.png'
 
 - data: logo
   logoID: 20211227-171914

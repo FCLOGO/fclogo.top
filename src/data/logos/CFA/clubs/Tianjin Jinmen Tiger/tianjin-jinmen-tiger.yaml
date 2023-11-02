@@ -51,6 +51,7 @@
   svgPath: 'svg/tianjin-jinmen-tiger-v1995-mono.svg'
   sourceID: cfa-club-013
   style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//tianjin-sumsung-v1995.jpg'
 
 - data: logo
   logoID: 20220302-213205
@@ -63,6 +64,7 @@
   svgPath: 'svg/tianjin-jinmen-tiger-v1995.svg'
   sourceID: cfa-club-013
   style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//tianjin-sumsung-v1995.jpg'
 
 - data: logo
   logoID: 20220302-213234
