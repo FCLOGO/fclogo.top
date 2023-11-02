@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/FCLOGO/fclogo.top/compare/v2.1.3...v2.2.0) (2023-11-02)
+
+
+### ✨ Features | 新功能
+
+* 队徽详情页面增加 `参考来源` ([a8973f0](https://github.com/FCLOGO/fclogo.top/commit/a8973f0debace3a0c939c7c9d81acd55d901aaed))
+
+
+### 📝 Documentation | 文档
+
+* 更新队徽版本 ([3203bef](https://github.com/FCLOGO/fclogo.top/commit/3203bef91e4126687cda7ec76e511cd1c945fbef))
+* 更新徽标 ([ef1e86b](https://github.com/FCLOGO/fclogo.top/commit/ef1e86bf6da7ab1ab50093300dc0139e37471621))
+* 更新历史队徽 ([2ef3b50](https://github.com/FCLOGO/fclogo.top/commit/2ef3b507f503199efd8fb2c81eff483673edace8))
+* 更新历史名称 ([ce5b606](https://github.com/FCLOGO/fclogo.top/commit/ce5b60617aa6a1359a370b89e63f963ad5ed55a1))
+
 ### [2.1.3](https://github.com/FCLOGO/fclogo.top/compare/v2.1.2...v2.1.3) (2023-10-29)
 
 
