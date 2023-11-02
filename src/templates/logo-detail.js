@@ -10,6 +10,7 @@ import Sidebar from '../components/detail-sidebar'
 import LogoTimeline from '../components/logo-timeline'
 
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
+import InfoIcon from '../../static/assets/icons/info.inline.svg'
 
 const LogoDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
@@ -23,7 +24,23 @@ const LogoDetail = ({ data, pageContext }) => {
         {data.logo ? (
           <div className="content-inner flex flex-col items-start">
             <div className="w-full flex-grow flex flex-row flex-nowrap border-b border-b-gray-1 tablet:flex-wrap detail-wrapper overflow-hidden">
-              <section className="w-full pt-[160px] flex-grow flex flex-col overflow-hidden">
+              <section className="w-full pt-[170px] flex-grow flex flex-col overflow-hidden relative">
+                {data.logo.reference && (
+                  <div className="absolute left-xl top-auto group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">
+                    <InfoIcon className="w-xl h-xl flex-shrink-0 cursor-pointer" />
+                    <span className="text-xs whitespace-nowrap overflow-hidden text-ellipsis ml-sm hidden group-hover:inline-block">
+                      {t('detail.reference')}
+                      <a
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href={data.logo.reference}
+                        className="text-link ml-sm"
+                      >
+                        {data.logo.reference}
+                      </a>
+                    </span>
+                  </div>
+                )}
                 <div className="w-full flex-grow flex items-center justify-center">
                   <GatsbyImage
                     image={getImage(data.logo.pngPath)}
@@ -185,6 +202,7 @@ export const query = graphql`
       svgPath {
         publicURL
       }
+      reference
       detailInfo {
         type
         status
