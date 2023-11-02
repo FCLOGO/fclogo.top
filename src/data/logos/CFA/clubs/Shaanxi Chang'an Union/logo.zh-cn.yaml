@@ -29,7 +29,7 @@
   version: 2023.05
   isDoubtful: false
   isOutdated: true
-  verName: ['郴州辉龙, 陕西长安联合']
+  verName: ['郴州辉龙', '陕西长安联合']
   slug: /cfa/club/shaanxi-changan-union-v202305
   pngPath: 'png/shaanxi-changan-union-v202305.png'
   svgPath: 'svg/shaanxi-changan-union-v202305.svg'
@@ -42,7 +42,7 @@
   version: 2023.07
   isDoubtful: false
   isOutdated: false
-  verName: ['郴州辉龙, 陕西长安联合']
+  verName: ['郴州辉龙', '陕西长安联合']
   slug: /cfa/club/shaanxi-changan-union-v202307-mono
   pngPath: 'png/shaanxi-changan-union-v202307-mono.png'
   svgPath: 'svg/shaanxi-changan-union-v202307-mono.svg'
@@ -55,7 +55,7 @@
   version: 2023.07
   isDoubtful: false
   isOutdated: false
-  verName: ['郴州辉龙, 陕西长安联合']
+  verName: ['郴州辉龙', '陕西长安联合']
   slug: /cfa/club/shaanxi-changan-union-v202307
   pngPath: 'png/shaanxi-changan-union-v202307.png'
   svgPath: 'svg/shaanxi-changan-union-v202307.svg'
