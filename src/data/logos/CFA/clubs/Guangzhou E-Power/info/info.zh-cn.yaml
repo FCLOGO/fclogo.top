@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-093
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 广州影豹足球俱乐部
+      shortName: 广州影豹
+      localName: 广州影豹足球俱乐部
+      founded: 2023
+      city: 广州，中国
+      ground: 广州大学城体育中心体育场
+      league: 中冠联赛
+  weiboURL: 'https://weibo.com/u/7830274764'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/广州影豹足球俱乐部/62817830'
