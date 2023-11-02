@@ -69,3 +69,29 @@
   svgPath: 'svg/jiangxi-lushan-v2023.svg'
   sourceID: cfa-club-028
   style: color
+
+- data: logo
+  logoID: 20231102-091507-e5fdab
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['九江联盛']
+  slug: /cfa/club/jiujiang-liansheng-v2002-mono
+  pngPath: 'png/jiujiang-liansheng-v2002-mono.png'
+  svgPath: 'svg/jiujiang-liansheng-v2002-mono.svg'
+  sourceID: cfa-club-028
+  style: mono
+  reference: 'https://weibo.com/ttarticle/p/show?id=2309404394255979249794'
+
+- data: logo
+  logoID: 20231102-091546-a6af66
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['九江联盛']
+  slug: /cfa/club/jiujiang-liansheng-v2002
+  pngPath: 'png/jiujiang-liansheng-v2002.png'
+  svgPath: 'svg/jiujiang-liansheng-v2002.svg'
+  sourceID: cfa-club-028
+  style: color
+  reference: 'https://weibo.com/ttarticle/p/show?id=2309404394255979249794'

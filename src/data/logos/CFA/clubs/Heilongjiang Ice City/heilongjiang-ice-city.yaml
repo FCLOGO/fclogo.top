@@ -45,3 +45,15 @@
   svgPath: 'svg/heilongjiang-ice-city-v2021.svg'
   sourceID: cfa-club-032
   style: color
+
+- data: logo
+  logoID: 20231102-091136-776da8
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Anhui Litian']
+  slug: /cfa/club/anhui-litian-v2014
+  pngPath: 'png/anhui-litian-v2014.png'
+  svgPath: 'svg/anhui-litian-v2014.svg'
+  sourceID: cfa-club-032
+  style: color

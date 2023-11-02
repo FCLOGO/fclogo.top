@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Heilongjiang Ice City Football Club
       shortName: Heilongjiang Ice City

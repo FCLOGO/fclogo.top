@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Jiangxi Lushan Football Club
       shortName: Jiangxi Lushan
