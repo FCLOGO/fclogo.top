@@ -34,7 +34,7 @@ const LogoDetail = ({ data, pageContext }) => {
                         rel="noopener noreferrer"
                         target="_blank"
                         href={data.logo.reference}
-                        className="text-link ml-sm"
+                        className="text-link"
                       >
                         {data.logo.reference}
                       </a>
