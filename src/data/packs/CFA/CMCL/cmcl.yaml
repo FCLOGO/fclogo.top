@@ -1,0 +1,17 @@
+- data: logoPack
+  packID: 20231113-162859-64a164
+  name: CMCL(Partial)
+  season: '2023'
+  packSource: cfa-comp-006
+  slug: /pack/2023-cmcl
+  items:
+    - id: cfa-club-092
+      version: 2023.07
+    - id: cfa-club-093
+      version: 2023
+    - id: cfa-club-095
+      version: 2022
+    - id: cfa-club-096
+      version: 2019
+    - id: cfa-club-097
+      version: 2022
