@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-095
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 廊坊荣耀之城足球俱乐部
+      shortName: 廊坊荣耀之城
+      localName: 廊坊荣耀之城足球俱乐部
+      founded: 2022
+      city: 廊坊，中国
+      ground: 廊坊体育场
+      league: 中冠联赛
+  weiboURL: 'https://weibo.com/u/7831687308'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

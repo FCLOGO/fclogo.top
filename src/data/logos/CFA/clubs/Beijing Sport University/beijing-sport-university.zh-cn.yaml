@@ -45,3 +45,81 @@
   svgPath: 'svg/beijing-sport-university-v2019.svg'
   sourceID: cfa-club-027
   style: color
+
+- data: logo
+  logoID: 20231113-152528-eda9ec
+  version: 2004
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京八喜盛世']
+  slug: /cfa/club/beijing-baxy-v2004
+  pngPath: 'png/beijing-baxy-v2004.png'
+  svgPath: 'svg/beijing-baxy-v2004.svg'
+  sourceID: cfa-club-027
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231113-152622-3e4c0d
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京八喜盛世']
+  slug: /cfa/club/beijing-baxy-v2009
+  pngPath: 'png/beijing-baxy-v2009.png'
+  svgPath: 'svg/beijing-baxy-v2009.svg'
+  sourceID: cfa-club-027
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231113-152703-360359
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京八喜联合竞技']
+  slug: /cfa/club/beijing-baxy-v2011
+  pngPath: 'png/beijing-baxy-v2011.png'
+  svgPath: 'svg/beijing-baxy-v2011.svg'
+  sourceID: cfa-club-027
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231113-152909-6dc716
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京八喜联合竞技']
+  slug: /cfa/club/beijing-baxy-v2012
+  pngPath: 'png/beijing-baxy-v2012.png'
+  svgPath: 'svg/beijing-baxy-v2012.svg'
+  sourceID: cfa-club-027
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231113-152941-7f9863
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京八喜联合竞技']
+  slug: /cfa/club/beijing-baxy-v2013-mono
+  pngPath: 'png/beijing-baxy-v2013-mono.png'
+  svgPath: 'svg/beijing-baxy-v2013-mono.svg'
+  sourceID: cfa-club-027
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231113-153007-5f75f6
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['北京八喜联合竞技']
+  slug: /cfa/club/beijing-baxy-v2013
+  pngPath: 'png/beijing-baxy-v2013.png'
+  svgPath: 'svg/beijing-baxy-v2013.svg'
+  sourceID: cfa-club-027
+  style: color
+  reference: ''

@@ -1,0 +1,25 @@
+- data: logo
+  logoID: 20231113-162608-8cac8d
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['深圳青年人']
+  slug: /cfa/club/shenzhen-juniors-v2022-mono
+  pngPath: 'png/shenzhen-juniors-v2022-mono.png'
+  svgPath: 'svg/shenzhen-juniors-v2022-mono.svg'
+  sourceID: cfa-club-097
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231113-162642-1659c9
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['深圳青年人']
+  slug: /cfa/club/shenzhen-juniors-v2022
+  pngPath: 'png/shenzhen-juniors-v2022.png'
+  svgPath: 'svg/shenzhen-juniors-v2022.svg'
+  sourceID: cfa-club-097
+  style: color
+  reference: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-096
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Guangxi Hengchen Football club
+      shortName: Guangxi Hengchen
+      localName: 广西恒宸足球俱乐部
+      founded: 2019
+      city: Nanning, China
+      ground:
+      league: CMCL
+  weiboURL: 'https://weibo.com/u/7844349787'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-095
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Langfang City of Glory Football Club
+      shortName: Langfang City of Glory
+      localName: 廊坊荣耀之城足球俱乐部
+      founded: 2022
+      city: Langfang, China
+      ground: Langfang Stadium
+      league: CMCL
+  weiboURL: 'https://weibo.com/u/7831687308'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

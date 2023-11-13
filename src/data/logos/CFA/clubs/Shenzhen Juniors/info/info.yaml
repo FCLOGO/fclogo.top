@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-097
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Shenzhen Juniors Football Club
+      shortName: Shenzhen Juniors
+      localName: 深圳青年人足球俱乐部
+      founded: 2022
+      city: Shenzhen, China
+      ground:
+      league: CMCL
+  weiboURL: 'https://weibo.com/u/7826105285'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

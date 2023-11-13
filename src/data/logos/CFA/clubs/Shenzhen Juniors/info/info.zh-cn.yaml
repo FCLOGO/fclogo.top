@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-097
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 深圳青年人足球俱乐部
+      shortName: 深圳青年人
+      localName: 深圳青年人足球俱乐部
+      founded: 2022
+      city: 深圳，中国
+      ground:
+      league: 中冠联赛
+  weiboURL: 'https://weibo.com/u/7826105285'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
