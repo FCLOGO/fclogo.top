@@ -91,18 +91,18 @@ const DetailSidebar = props => {
           href={props.pngURL}
           download
           onClick={pushCounter}
-          className="bg-green text-white rounded-md cursor-pointer text-base uppercase font-semibold w-[200px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green"
+          className="bg-green text-white rounded-md cursor-pointer text-lg uppercase w-[200px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green"
         >
-          <span className="flex-auto text-center">PNG</span>
+          <span className="flex-auto text-center font-mono">PNG</span>
           <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
         <a
           href={props.svgURL}
           download
           onClick={pushCounter}
-          className="bg-green text-white rounded-md cursor-pointer text-base uppercase font-semibold w-[200px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green tablet:ml-xl"
+          className="bg-green text-white rounded-md cursor-pointer text-lg uppercase w-[200px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green tablet:ml-xl"
         >
-          <span className="flex-auto text-center">SVG</span>
+          <span className="flex-auto text-center font-mono">SVG</span>
           <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
       </div>

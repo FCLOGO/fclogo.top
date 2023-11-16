@@ -20,7 +20,7 @@ const PackDetail = ({ data, pageContext }) => {
           <div className="content-inner flex flex-col items-start">
             <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap border-b border-b-gray-1 detail-wrapper">
               <section className="w-full pt-[160px] flex-grow flex flex-col overflow-hidden">
-                <div className="w-full p-xl flex-grow grid items-center justify-items-center gap-xl grid-cols-[repeat(auto-fill,_minmax(200px,_1fr))] tablet:grid-cols-[repeat(auto-fill,_minmax(150px,_1fr))]">
+                <div className="w-full p-xl flex-grow grid items-start justify-items-center gap-xl grid-cols-[repeat(auto-fill,_minmax(200px,_1fr))] tablet:grid-cols-[repeat(auto-fill,_minmax(150px,_1fr))]">
                   {data.logoPack.itemsInfo.map(item => (
                     <ModalLink
                       key={item.id}
