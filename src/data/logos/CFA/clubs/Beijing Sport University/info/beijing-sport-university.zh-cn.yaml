@@ -3,6 +3,7 @@
   status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 北京北体大足球俱乐部
       shortName: 北京北体大
