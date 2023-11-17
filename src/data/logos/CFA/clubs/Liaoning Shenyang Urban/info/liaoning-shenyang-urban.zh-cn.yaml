@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 辽宁沈阳城市足球俱乐部
       shortName: 辽宁沈阳城市

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Liaoning Shenyang Urban Football Club
       shortName: Liaoning Shenyang Urban
