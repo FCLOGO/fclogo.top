@@ -93,7 +93,7 @@ const TopDownloads = ({ locale }) => {
                 <h4 className="mb-xs">{item.fullName}</h4>
                 <span className="text-xs">{item.localName}</span>
               </div>
-              <div className="mx-md flex justify-between items-center content-center">
+              <div className="mx-md flex justify-between items-center content-center tablet:hidden">
                 {item.version !== 0 && (
                   <span className="font-mono mr-sm uppercase text-xs leading-3 px-sm py-xs rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
                     {item.version}

@@ -74,7 +74,7 @@ const SearchResult = ({ locale }) => {
           }}
         />
       </div>
-      <div className="mx-md flex justify-between items-center content-center">
+      <div className="mx-md flex justify-between items-center content-center tablet:hidden">
         {hit.version !== 0 && (
           <span className="font-mono mr-sm uppercase text-xs leading-3 px-sm py-xs rounded-full text-light-gray group-hover:text-white border border-light-gray group-hover:border-gray">
             {hit.version}
