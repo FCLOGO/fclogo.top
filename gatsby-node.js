@@ -101,6 +101,22 @@ exports.createResolvers = ({ createResolvers }) => {
           })
           return entries
         }
+      },
+
+      // LOGO 贡献者
+      contributorInfo: {
+        type: ['contributor'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                ctrbID: { eq: source.ctrbID } // 匹配贡献都ID
+              }
+            },
+            type: 'contributor'
+          })
+          return entries
+        }
       }
     },
 

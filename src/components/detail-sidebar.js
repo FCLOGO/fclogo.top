@@ -10,6 +10,7 @@ import WebsiteIcon from '../../static/assets/icons/website.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
 import XIcon from '../../static/assets/icons/x.inline.svg'
 import WikiIcon from '../../static/assets/icons/wiki.inline.svg'
+import AtIcon from '../../static/assets/icons/ctrb.inline.svg'
 import BugIcon from '../../static/assets/icons/bug.inline.svg'
 
 // Google Adsense
@@ -183,6 +184,20 @@ const DetailSidebar = props => {
         )}
       </div>
       <div className="w-aside px-xl py-3xl text-xs border-t border-t-gray-1 tablet:w-full">
+        {props.ctrbInfo !== undefined && props.ctrbInfo !== '' && (
+          <h6 className="flex flex-row items-center font-semibold mb-md">
+            <AtIcon className="w-xl h-xl mr-xs" />
+            {t('sidebar.contributor')}
+            <a
+              href={props.ctrbInfo.link}
+              rel="noopener noreferrer"
+              target="_blank"
+              className="text-link ml-sm hover:text-blue"
+            >
+              @{props.ctrbInfo.name}
+            </a>
+          </h6>
+        )}
         <h6 className="flex flex-row items-center font-semibold mb-md">
           <BugIcon className="w-xl h-xl mr-xs" />
           {t('sidebar.foundErr')}

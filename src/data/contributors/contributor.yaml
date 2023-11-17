@@ -1,24 +1,9 @@
 - data: contributor
-  name: iiiRyan
-  avatar: https://wx1.sinaimg.cn/mw200/6278c00cly8gpvxpqon1fj20ng0ng75s.jpg
-  link: https://weibo.com/u/1652080652
+  ctrbID: ctrb-fclogo
+  name: FCLOGO
+  link: https://weibo.com/u/7578670869
 
 - data: contributor
-  name: 风林火山_12
-  avatar: https://wx1.sinaimg.cn/mw200/0020PCvply8gu9ljo7jx8j60e80e8mxv02.jpg
-  link: https://weibo.com/u/1844568411
-
-- data: contributor
-  name: 欧阳云阙
-  avatar: https://wx4.sinaimg.cn/mw200/7325751aly8gitfjac9n5j20ro0ro40c.jpg
-  link: https://weibo.com/u/1931834650
-
-- data: contributor
-  name: Bi77y
-  avatar: https://ww2.sinaimg.cn/mw200/7d9e1260gw1ek74eq32ptj2050050mx9.jpg
-  link: https://weibo.com/u/2107511392
-
-- data: contributor
+  ctrbID: ctrb-waimaer
   name: 外马尔
-  avatar: https://ww1.sinaimg.cn/mw200/915c7a7fjw8f9g4j8yqa9j21kw1kw0y8.jpg
   link: https://weibo.com/u/2438756991

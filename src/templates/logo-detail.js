@@ -102,6 +102,7 @@ const LogoDetail = ({ data, pageContext }) => {
                 twitterURL={data.logo.detailInfo[0].twitterURL}
                 wikiURL={data.logo.detailInfo[0].wikiURL}
                 verName={data.logo.verName}
+                ctrbInfo={data.logo.contributorInfo[0]}
               />
             </div>
             {data.logo.logoTimeline.length > 1 ? (
@@ -203,6 +204,7 @@ export const query = graphql`
         publicURL
       }
       reference
+      ctrbID
       detailInfo {
         type
         status
@@ -256,6 +258,10 @@ export const query = graphql`
             gatsbyImageData(placeholder: BLURRED, width: 100, layout: FIXED, formats: WEBP)
           }
         }
+      }
+      contributorInfo {
+        name
+        link
       }
     }
   }
