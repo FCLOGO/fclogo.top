@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/FCLOGO/fclogo.top/compare/v2.2.0...v2.3.0) (2023-11-17)
+
+
+### 🛠️ Build System | 构建
+
+* 更新 dependencies ([117ae7b](https://github.com/FCLOGO/fclogo.top/commit/117ae7b6b7ee82f3858e23cd98e7cbe3f8b33a2e))
+* 更新 Node 至 20.9.0 ([0a6030c](https://github.com/FCLOGO/fclogo.top/commit/0a6030c6212456275631c1f3ec8db272ecce520c))
+
+
+### ✨ Features | 新功能
+
+* 详情页面增加徽标贡献者链接 ([dcf7205](https://github.com/FCLOGO/fclogo.top/commit/dcf7205f7ba6dfd73547b1d1a6b2fe364dacceae))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复错误 ([b4eecb1](https://github.com/FCLOGO/fclogo.top/commit/b4eecb105589f0d0996e9c5db52666c689f965b1))
+* 修复错误 ([855e5f7](https://github.com/FCLOGO/fclogo.top/commit/855e5f7946f39de85bd8b51e6cb4ddee9fb21d74))
+* fix bug ([ebe2998](https://github.com/FCLOGO/fclogo.top/commit/ebe2998cea3a6eb5d8fd6e1ef4eff77621241f3c))
+* fix bugs ([ef15a04](https://github.com/FCLOGO/fclogo.top/commit/ef15a043eefecdbb65b106a422cec16dcecdeaa5))
+* fix bugs ([81304ce](https://github.com/FCLOGO/fclogo.top/commit/81304ce8199c528c2d2ba0e6070f6278c72b0ce1))
+* fix node version error ([70e76b8](https://github.com/FCLOGO/fclogo.top/commit/70e76b8a793938cd822ea897c5a0530b2768f902))
+
+
+### 📝 Documentation | 文档
+
+* 更新参考链接 ([21b6c40](https://github.com/FCLOGO/fclogo.top/commit/21b6c40ccc83b0558c87acda886d8c3204de3878))
+* 更新队徽 ([6166e05](https://github.com/FCLOGO/fclogo.top/commit/6166e057df1562b6a5eb93489fe9dcbd8ffd5708))
+* 更新历史队徽 ([563df39](https://github.com/FCLOGO/fclogo.top/commit/563df39c1446156036dc5aaa7c00fd1ff76068ea))
+* 信息更新 ([81a2583](https://github.com/FCLOGO/fclogo.top/commit/81a258315d2be0dd59f90c657828803775d82363))
+* 增加2023赛季中冠联赛徽标集 ([c80c06b](https://github.com/FCLOGO/fclogo.top/commit/c80c06bfcb5a14c6c1ab8cfdbc6c8bcfb7503846))
+
 ## [2.2.0](https://github.com/FCLOGO/fclogo.top/compare/v2.1.3...v2.2.0) (2023-11-02)
 
 
