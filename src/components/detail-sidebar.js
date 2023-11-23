@@ -119,7 +119,7 @@ const DetailSidebar = props => {
         </div>
         <div className="block my-md">
           <h6 className="font-semibold my-md">{t('sidebar.termTitle')}</h6>
-          <p className="text-xs">
+          <p className="text-xs leading-5">
             <Trans i18nKey="sidebar.termText">
               By downloading <b>{{ fullName }}</b> logo you agree with our terms of use.
             </Trans>

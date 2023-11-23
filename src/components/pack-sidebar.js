@@ -62,7 +62,7 @@ const PackSidebar = props => {
       <div className="w-aside px-xl py-md flex flex-col border-t border-t-gray-1 tablet:w-full">
         <div className="block mb-md">
           <h6 className="font-semibold my-md">{t('sidebar.termTitle')}</h6>
-          <p className="text-xs">
+          <p className="text-xs leading-5">
             <Trans i18nKey="sidebar.termTextPack">
               By downloading <b>{{ name }}</b> logo you agree with our terms of use.
             </Trans>
