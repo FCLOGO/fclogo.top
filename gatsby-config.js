@@ -2,6 +2,9 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`
 })
 
+// node 监听数量
+require('events').EventEmitter.defaultMaxListeners = 50
+
 /**
  * Configure your Gatsby site with this file.
  *
