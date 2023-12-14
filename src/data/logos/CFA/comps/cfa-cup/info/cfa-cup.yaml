@@ -2,6 +2,7 @@
   sourceID: cfa-comp-004
   type: comp
   nation: China
+  timeline: true
   info:
     - fullName: China Football Association Cup
       shortName: CFA CUP

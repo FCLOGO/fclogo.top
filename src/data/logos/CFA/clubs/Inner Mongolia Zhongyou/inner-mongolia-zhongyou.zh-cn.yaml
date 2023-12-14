@@ -21,3 +21,73 @@
   svgPath: 'svg/inner-mongolia-zhongyou-v2019.svg'
   sourceID: cfa-club-038
   style: color
+
+- data: logo
+  logoID: 20231214-223542-f43023
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['山西嘉怡']
+  slug: /cfa/club/shanxi-jiayi-v2011
+  pngPath: 'png/shanxi-jiayi-v2011.png'
+  svgPath: 'svg/shanxi-jiayi-v2011.svg'
+  sourceID: cfa-club-038
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231214-223639-eb0c9e
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['太原中优嘉怡']
+  slug: /cfa/club/taiyuan-zhongyou-jiayi-v2014
+  pngPath: 'png/taiyuan-zhongyou-jiayi-v2014.png'
+  svgPath: 'svg/taiyuan-zhongyou-jiayi-v2014.svg'
+  sourceID: cfa-club-038
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231214-223720-9c2a17
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['内蒙古中优']
+  slug: /cfa/club/inner-mongolia-zhongyou-v2015
+  pngPath: 'png/inner-mongolia-zhongyou-v2015.png'
+  svgPath: 'svg/inner-mongolia-zhongyou-v2015.svg'
+  sourceID: cfa-club-038
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231214-223826-ad11c8
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['内蒙古中优']
+  slug: /cfa/club/inner-mongolia-zhongyou-v2016
+  pngPath: 'png/inner-mongolia-zhongyou-v2016.png'
+  svgPath: 'svg/inner-mongolia-zhongyou-v2016.svg'
+  sourceID: cfa-club-038
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231214-223854-26d97f
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['内蒙古中优']
+  slug: /cfa/club/inner-mongolia-zhongyou-v2018
+  pngPath: 'png/inner-mongolia-zhongyou-v2018.png'
+  svgPath: 'svg/inner-mongolia-zhongyou-v2018.svg'
+  sourceID: cfa-club-038
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -3,6 +3,7 @@
   status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 内蒙古中优足球俱乐部
       shortName: 内蒙古中优
