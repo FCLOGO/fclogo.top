@@ -151,6 +151,8 @@
   "assn": "Association",
   "conf": "Confederation",
   "membership": "Membership",
+  "hostCountry": "Host Country",
+  "dates": "Dates",
   "color": "COLOR",
   "mono": "MONO",
   "graph": "GRAPH",

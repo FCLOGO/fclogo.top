@@ -228,6 +228,8 @@ export const query = graphql`
           relegation
           code
           membership
+          hostCountry
+          dates
         }
         websiteURL
         weiboURL

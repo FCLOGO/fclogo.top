@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: afc-comp-002
+  type: comp
+  nation: Asia
+  timeline: false
+  info:
+    - fullName: 2023 卡塔尔亚足联亚洲杯
+      shortName: 2023 卡塔尔亚洲杯
+      localName: AFC Asian Cup Qatar 2023
+      hostCountry: 卡塔尔
+      dates: 2024/1/12-2024/2/10
+      confederation: AFC
+      teams: 24
+  weiboURL: 'https://weibo.com/u/3908786319'
+  twitterURL: 'https://twitter.com/afcasiancup'
+  websiteURL: 'https://www.the-afc.com/en/national/afc_asian_cup/home.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/2023_AFC_Asian_Cup'
