@@ -4,11 +4,11 @@
   isDoubtful: true
   isOutdated: true
   verName: ['大连万达', '大连万达实德']
-  slug: /cfa/club/dalian-wanda-v1994
-  pngPath: 'png/dalian-wanda-v1994.png'
-  svgPath: 'svg/dalian-wanda-v1994.svg'
+  slug: /cfa/club/dalian-wanda-v1994-kits
+  pngPath: 'png/dalian-wanda-v1994-kits.png'
+  svgPath: 'svg/dalian-wanda-v1994-kits.svg'
   sourceID: cfa-club-094
-  style: color
+  style: kits
   reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//dalian-wanda-1996-1997-home-kits.png'
 
 - data: logo
@@ -62,3 +62,17 @@
   sourceID: cfa-club-094
   style: color
   reference: ''
+
+- data: logo
+  logoID: 20231215-090404-8f0b48
+  version: 1994
+  isDoubtful: true
+  isOutdated: true
+  verName: ['大连万达', '大连万达实德']
+  slug: /cfa/club/dalian-wanda-v1994
+  pngPath: 'png/dalian-wanda-v1994.png'
+  svgPath: 'svg/dalian-wanda-v1994.svg'
+  sourceID: cfa-club-094
+  style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference@latest/1999-jia-a-qiuxing-ka.jpg'
+  ctrbID: ''
