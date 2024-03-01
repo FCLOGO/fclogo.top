@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-023
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 深圳新鹏程足球俱乐部
+      shortName: 深圳新鹏程
+      localName: 深圳新鹏程足球俱乐部
+      city: 深圳，中国
+      founded: 2017
+      ground: 深圳宝安足球场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/7834613563'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/深圳新鹏程足球俱乐部'

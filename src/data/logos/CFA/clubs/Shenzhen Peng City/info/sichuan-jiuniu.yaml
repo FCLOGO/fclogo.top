@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-023
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Shenzhen Peng City Football Club
+      shortName: Shenzhen Peng City
+      localName: 深圳新鹏程足球俱乐部
+      city: Shenzhen, China
+      founded: 2017
+      ground: CShenzhen Bao'an Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/7834613563'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shenzhen_Peng_City_F.C.'

@@ -81,3 +81,43 @@
       version: 2022
     - id: cfa-club-022
       version: 2018
+
+- data: logoPack
+  packID: 20240301-101621-9bae3b
+  name: Chinese Super League
+  season: '2024'
+  packSource: cfa-comp-001
+  slug: /pack/2024-chinese-super-league
+  items:
+    - id: cfa-club-001
+      version: 2022
+    - id: cfa-club-019
+      version: 2019
+    - id: cfa-club-018
+      version: 2022
+    - id: cfa-club-006
+      version: 2021
+    - id: cfa-club-031
+      version: 2021
+    - id: cfa-club-012
+      version: 2023
+    - id: cfa-club-002
+      version: 2022
+    - id: cfa-club-013
+      version: 2021
+    - id: cfa-club-030
+      version: 2016
+    - id: cfa-club-003
+      version: 2022
+    - id: cfa-club-061
+      version: 2023
+    - id: cfa-club-016
+      version: 2021
+    - id: cfa-club-011
+      version: 2007
+    - id: cfa-club-023
+      version: 2024
+    - id: cfa-club-052
+      version: 2022
+    - id: cfa-club-022
+      version: 2018

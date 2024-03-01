@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-007
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 大连人职业足球俱乐部
       city: Dalian, China
       founded: 2009
-      ground: Dalian Sports Center Stadium
-      league: China League 1
+      duration: 2009 - 2024
   weiboURL: 'https://weibo.com/u/1601538693'
   twitterURL: ''
   websiteURL: 'http://www.dlpro.com.cn/'
