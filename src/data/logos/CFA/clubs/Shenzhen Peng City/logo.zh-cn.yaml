@@ -33,8 +33,8 @@
   svgPath: 'svg/shenzhen-peng-city-v2024-mono.svg'
   sourceID: cfa-club-023
   style: mono
-  reference: 'https://weibo.com/7834613563/O2xlqdMxB'
-  ctrbID: ''
+  reference: ''
+  ctrbID: 'ctrb-cuida'
 
 - data: logo
   logoID: 20240301-100635-103737
