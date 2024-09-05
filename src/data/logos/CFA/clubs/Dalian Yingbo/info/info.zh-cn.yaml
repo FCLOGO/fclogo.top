@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-090
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 大连英博足球俱乐部
+      shortName: 大连英博
+      localName: 大连英博足球俱乐部
+      founded: 2021
+      city: 大连，中国
+      ground: 大连梭鱼湾专业足球场
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/7762205779'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连英博足球俱乐部'

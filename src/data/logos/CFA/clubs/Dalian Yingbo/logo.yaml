@@ -3,7 +3,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: true
-  verName: ['大连读行']
+  verName: ['Dalian Duxing']
   slug: /cfa/club/dalian-duxing-v2021-mono
   pngPath: 'png/dalian-duxing-v2021-mono.png'
   svgPath: 'svg/dalian-duxing-v2021-mono.svg'
@@ -15,7 +15,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: true
-  verName: ['大连读行']
+  verName: ['Dalian Duxing']
   slug: /cfa/club/dalian-duxing-v2021
   pngPath: 'png/dalian-duxing-v2021.png'
   svgPath: 'svg/dalian-duxing-v2021.svg'
@@ -27,7 +27,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: true
-  verName: ['大连读行']
+  verName: ['Dalian Duxing']
   slug: /cfa/club/dalian-duxing-v2021-graph
   pngPath: 'png/dalian-duxing-v2021-graph.png'
   svgPath: 'svg/dalian-duxing-v2021-graph.svg'
@@ -38,8 +38,8 @@
   logoID: 20231008-082848
   version: 2023
   isDoubtful: false
-  isOutdated: false
-  verName: ['大连智行']
+  isOutdated: true
+  verName: ['Dalian Zhixing']
   slug: /cfa/club/dalian-zhixing-v2023-mono
   pngPath: 'png/dalian-zhixing-v2023-mono.png'
   svgPath: 'svg/dalian-zhixing-v2023-mono.svg'
@@ -50,10 +50,38 @@
   logoID: 20231008-082923
   version: 2023
   isDoubtful: false
-  isOutdated: false
-  verName: ['大连智行']
+  isOutdated: true
+  verName: ['Dalian Zhixing']
   slug: /cfa/club/dalian-zhixing-v2023
   pngPath: 'png/dalian-zhixing-v2023.png'
   svgPath: 'svg/dalian-zhixing-v2023.svg'
   sourceID: cfa-club-090
   style: color
+
+- data: logo
+  logoID: 20240905-220527-eec8c6
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dalian Yingbo']
+  slug: /cfa/club/dalian-yingbo-v2024-mono
+  pngPath: 'png/dalian-yingbo-v2024-mono.png'
+  svgPath: 'svg/dalian-yingbo-v2024-mono.svg'
+  sourceID: cfa-club-090
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240905-220627-963e24
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dalian Yingbo']
+  slug: /cfa/club/dalian-yingbo-v2024
+  pngPath: 'png/dalian-yingbo-v2024.png'
+  svgPath: 'svg/dalian-yingbo-v2024.svg'
+  sourceID: cfa-club-090
+  style: color
+  reference: 'https://weibo.com/7762205779/O7fRHk6T9'
+  ctrbID: ''
