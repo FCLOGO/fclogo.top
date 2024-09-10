@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-056
+  status: alive
+  type: club
+  nation: China
+  info:
+    - fullName: Foshan Nanshi Football Club
+      shortName: Foshan Nanshi
+      localName: 佛山南狮足球俱乐部
+      founded: 2016
+      city: Foshan, China
+      ground: Nanhai Sports Center
+      league: China League
+  weiboURL: 'https://weibo.com/u/7834538336'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Foshan_Nanshi_F.C.'

@@ -26,7 +26,7 @@
   logoID: 20211102-005
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Liaoning Shenyang Urban']
   slug: /cfa/club/liaoning-shenyang-urban-v2020-mono
   pngPath: 'png/liaoning-shenyang-urban-v2020-mono.png'
@@ -38,7 +38,7 @@
   logoID: 20211102-006
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Liaoning Shenyang Urban']
   slug: /cfa/club/liaoning-shenyang-urban-v2020
   pngPath: 'png/liaoning-shenyang-urban-v2020.png'
@@ -100,4 +100,32 @@
   sourceID: cfa-club-034
   style: color
   reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-081244-146c6d
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liaoning Tieren']
+  slug: /cfa/club/liaoning-tieren-v2024-mono
+  pngPath: 'png/liaoning-tieren-v2024-mono.png'
+  svgPath: 'svg/liaoning-tieren-v2024-mono.svg'
+  sourceID: cfa-club-034
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-081333-360b8d
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liaoning Tieren']
+  slug: /cfa/club/liaoning-tieren-v2024
+  pngPath: 'png/liaoning-tieren-v2024.png'
+  svgPath: 'svg/liaoning-tieren-v2024.svg'
+  sourceID: cfa-club-034
+  style: color
+  reference: 'https://weibo.com/ttarticle/p/show?id=2309405003209939746973'
   ctrbID: ''

@@ -26,7 +26,7 @@
   logoID: 20231005-202219
   version: 2023
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['青岛红狮']
   slug: /cfa/club/qingdao-red-lions-v2023-mono
   pngPath: 'png/qingdao-red-lions-v2023-mono.png'
@@ -38,10 +38,38 @@
   logoID: 20231005-202303
   version: 2023
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['青岛红狮']
   slug: /cfa/club/qingdao-red-lions-v2023
   pngPath: 'png/qingdao-red-lions-v2023.png'
   svgPath: 'svg/qingdao-red-lions-v2023.svg'
   sourceID: cfa-club-060
   style: color
+
+- data: logo
+  logoID: 20240910-084801-61e468
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['青岛红狮']
+  slug: /cfa/club/qingdao-red-lions-v2024-mono
+  pngPath: 'png/qingdao-red-lions-v2024-mono.png'
+  svgPath: 'svg/qingdao-red-lions-v2024-mono.svg'
+  sourceID: cfa-club-060
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-084840-9b438a
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['青岛红狮']
+  slug: /cfa/club/qingdao-red-lions-v2024
+  pngPath: 'png/qingdao-red-lions-v2024.png'
+  svgPath: 'svg/qingdao-red-lions-v2024.svg'
+  sourceID: cfa-club-060
+  style: color
+  reference: ''
+  ctrbID: ''

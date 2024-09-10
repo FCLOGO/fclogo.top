@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-034
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Liaoning Tieren Football Club
+      shortName: Liaoning Tieren
+      localName: 辽宁铁人足球俱乐部
+      city: Shenyang, China
+      founded: 2015
+      ground: Shenyang Olympic Sports Center Stadium
+      league: China League
+  weiboURL: 'https://weibo.com/u/3972643388'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Liaoning_Tieren_F.C.'

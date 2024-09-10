@@ -2,7 +2,7 @@
   logoID: 20211127-003
   version: 2019
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['YanBian HaiLanJiang', 'YanBian LongDing']
   slug: /cfa/club/yanbian-longding-v2019-mono
   pngPath: 'png/yanbian-longding-v2019-mono.png'
@@ -14,10 +14,38 @@
   logoID: 20211127-004
   version: 2019
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['YanBian HaiLanJiang', 'YanBian LongDing']
   slug: /cfa/club/yanbian-longding-v2019
   pngPath: 'png/yanbian-longding-v2019.png'
   svgPath: 'svg/yanbian-longding-v2019.svg'
   sourceID: cfa-club-065
   style: color
+
+- data: logo
+  logoID: 20240910-082245-624301
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YanBian LongDing']
+  slug: /cfa/club/yanbian-longding-v2024-mono
+  pngPath: 'png/yanbian-longding-v2024-mono.png'
+  svgPath: 'svg/yanbian-longding-v2024-mono.svg'
+  sourceID: cfa-club-065
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-082315-eb7f08
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YanBian LongDing']
+  slug: /cfa/club/yanbian-longding-v2024
+  pngPath: 'png/yanbian-longding-v2024.png'
+  svgPath: 'svg/yanbian-longding-v2024.svg'
+  sourceID: cfa-club-065
+  style: color
+  reference: ''
+  ctrbID: ''
