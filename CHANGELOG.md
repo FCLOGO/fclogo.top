@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.1](https://github.com/FCLOGO/fclogo.top/compare/v2.3.0...v2.3.1) (2024-09-10)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 更新 ([6e4e6ac](https://github.com/FCLOGO/fclogo.top/commit/6e4e6ac6ca4c72a757497c5cce64f1ca727562d0))
+* 修正错别字 ([7254fff](https://github.com/FCLOGO/fclogo.top/commit/7254fffb682d254826aa5d5a6090aae5fdf97736))
+* fix bug ([cc45e1b](https://github.com/FCLOGO/fclogo.top/commit/cc45e1ba86b8f7ffa9ab310dff985758e331ef03))
+
+
+### 🛠️ Build System | 构建
+
+* 更新依赖 ([c94021a](https://github.com/FCLOGO/fclogo.top/commit/c94021a3dfe2b471949c5dbebc513df339c51324))
+* 更新依赖项 ([11dcc8e](https://github.com/FCLOGO/fclogo.top/commit/11dcc8ecde872ab67829a90c11726cf8b0ed8444))
+* upgrade dependences ([4d0ac7c](https://github.com/FCLOGO/fclogo.top/commit/4d0ac7c0e1313e12ae20b46885c1af52ecc73206))
+
+
+### 📝 Documentation | 文档
+
+* 更新2024赛季名单 ([a567c09](https://github.com/FCLOGO/fclogo.top/commit/a567c09f5d9b9be8cfafbb2a507813bec8d8e5ff))
+* 更新2024中甲俱乐部最新队徽 ([e46081d](https://github.com/FCLOGO/fclogo.top/commit/e46081d36739a82dc8134d32bd9599fd08a82d3d))
+* 更新大连英博2024队徽 ([8b8a21f](https://github.com/FCLOGO/fclogo.top/commit/8b8a21fac50abfb0f3e4b88caf0c3d2a797b2ba2))
+* 更新亚足联俱乐部赛事徽标 ([4bc7db4](https://github.com/FCLOGO/fclogo.top/commit/4bc7db4fd128af2a275e598e5865782505b83b22))
+* 添加名单 ([3a78cc4](https://github.com/FCLOGO/fclogo.top/commit/3a78cc48b83dad1ef5889a92b21961902118e01b))
+* 新增历史队徽 ([0488f09](https://github.com/FCLOGO/fclogo.top/commit/0488f09458b920951fff3ac3573b6cf8bc0851d2))
+* 修正历史队徽 ([faefba0](https://github.com/FCLOGO/fclogo.top/commit/faefba029fc533461ec0fe8fce4032b7acb97dd8))
+* 增加 2023 亚洲杯徽标 ([627b904](https://github.com/FCLOGO/fclogo.top/commit/627b9040ad142fa5431ef9c87591a8f7fe69bdc3))
+
 ## [2.3.0](https://github.com/FCLOGO/fclogo.top/compare/v2.2.0...v2.3.0) (2023-11-17)
 
 
