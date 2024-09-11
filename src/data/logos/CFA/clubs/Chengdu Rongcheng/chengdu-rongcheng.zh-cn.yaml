@@ -28,11 +28,11 @@
   isDoubtful: false
   isOutdated: false
   verName: ['成都兴城', '成都蓉城']
-  slug: /cfa/club/chengdu-rongcheng-v2018-graph-mono
-  pngPath: 'png/chengdu-rongcheng-v2018-graph-mono.png'
-  svgPath: 'svg/chengdu-rongcheng-v2018-graph-mono.svg'
+  slug: /cfa/club/chengdu-rongcheng-v2018-circl-mono
+  pngPath: 'png/chengdu-rongcheng-v2018-circl-mono.png'
+  svgPath: 'svg/chengdu-rongcheng-v2018-circl-mono.svg'
   sourceID: cfa-club-031
-  style: graph
+  style: mono
 
 - data: logo
   logoID: 20211101-006
@@ -40,11 +40,11 @@
   isDoubtful: false
   isOutdated: false
   verName: ['成都兴城', '成都蓉城']
-  slug: /cfa/club/chengdu-rongcheng-v2018-graph
-  pngPath: 'png/chengdu-rongcheng-v2018-graph.png'
-  svgPath: 'svg/chengdu-rongcheng-v2018-graph.svg'
+  slug: /cfa/club/chengdu-rongcheng-v2018-circl
+  pngPath: 'png/chengdu-rongcheng-v2018-circl.png'
+  svgPath: 'svg/chengdu-rongcheng-v2018-circl.svg'
   sourceID: cfa-club-031
-  style: graph
+  style: circl
 
 - data: logo
   logoID: 20211101-007
@@ -52,9 +52,9 @@
   isDoubtful: false
   isOutdated: false
   verName: ['成都蓉城']
-  slug: /cfa/club/chengdu-rongcheng-v2021-mono
-  pngPath: 'png/chengdu-rongcheng-v2021-mono.png'
-  svgPath: 'svg/chengdu-rongcheng-v2021-mono.svg'
+  slug: /cfa/club/chengdu-rongcheng-v2021-circl-mono
+  pngPath: 'png/chengdu-rongcheng-v2021-circl-mono.png'
+  svgPath: 'svg/chengdu-rongcheng-v2021-circl-mono.svg'
   sourceID: cfa-club-031
   style: mono
 
@@ -64,8 +64,36 @@
   isDoubtful: false
   isOutdated: false
   verName: ['成都蓉城']
+  slug: /cfa/club/chengdu-rongcheng-v2021-circl
+  pngPath: 'png/chengdu-rongcheng-v2021-circl.png'
+  svgPath: 'svg/chengdu-rongcheng-v2021-circl.svg'
+  sourceID: cfa-club-031
+  style: circl
+
+- data: logo
+  logoID: 20230911-102935-324009
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['成都蓉城']
+  slug: /cfa/club/chengdu-rongcheng-v2021-mono
+  pngPath: 'png/chengdu-rongcheng-v2021-mono.png'
+  svgPath: 'svg/chengdu-rongcheng-v2021-mono.svg'
+  sourceID: cfa-club-031
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20230911-103011-d222c9
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['成都蓉城']
   slug: /cfa/club/chengdu-rongcheng-v2021
   pngPath: 'png/chengdu-rongcheng-v2021.png'
   svgPath: 'svg/chengdu-rongcheng-v2021.svg'
   sourceID: cfa-club-031
   style: color
+  reference: ''
+  ctrbID: ''

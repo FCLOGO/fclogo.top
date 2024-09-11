@@ -81,3 +81,13 @@
       version: 2023
     - id: cfa-club-091
       version: 2020
+
+- data: logoPack
+  packID: 20240910-222857-4d6f55
+  name: China League 2
+  season: '2024'
+  packSource: cfa-comp-003
+  slug: /pack/cfa/2024-china-league-2
+  items:
+    - id: cfa-club-029
+      version: 2000
