@@ -71,7 +71,8 @@ const SourcesData = ({ data, pageContext }) => {
     },
     {
       name: t('source.latestVersion'),
-      selector: row => row.latestVersion
+      selector: row => row.latestVersion,
+      sortable: true
     },
     {
       name: t('source.status'),
