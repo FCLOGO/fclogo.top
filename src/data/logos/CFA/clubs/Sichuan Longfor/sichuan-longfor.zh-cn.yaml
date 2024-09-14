@@ -21,3 +21,31 @@
   svgPath: 'svg/sichuan-longfor-v2019.svg'
   sourceID: cfa-club-041
   style: color
+
+- data: logo
+  logoID: 20240914-221103-475a5e
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['四川鑫达海']
+  slug: /cfa/club/sichuan-longfor-v2015
+  pngPath: 'png/sichuan-longfor-v2015.png'
+  svgPath: 'svg/sichuan-longfor-v2015.svg'
+  sourceID: cfa-club-041
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-221236-404ffa
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['四川安纳普尔纳']
+  slug: /cfa/club/sichuan-longfor-v2016
+  pngPath: 'png/sichuan-longfor-v2016.png'
+  svgPath: 'svg/sichuan-longfor-v2016.svg'
+  sourceID: cfa-club-041
+  style: color
+  reference: ''
+  ctrbID: ''
