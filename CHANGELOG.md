@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.4](https://github.com/FCLOGO/fclogo.top/compare/v2.3.3...v2.3.4) (2024-09-15)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修正错误 ([5fc8730](https://github.com/FCLOGO/fclogo.top/commit/5fc87306885584b809a3ea07b7cf4b36dea680b1))
+
+
+### 📝 Documentation | 文档
+
+* 更新2024中国足协杯名单 ([1f85077](https://github.com/FCLOGO/fclogo.top/commit/1f850776ca018f69fb8e345c1680d0796f808e6a))
+* 更新参加联赛 ([8f65058](https://github.com/FCLOGO/fclogo.top/commit/8f65058dcde62049aea6ee388adfff2f6466251f))
+* 增加上海三菱重工飞狮徽标 ([cd39d1a](https://github.com/FCLOGO/fclogo.top/commit/cd39d1abe50e253d630431516722f0da1f51fcde))
+
 ### [2.3.3](https://github.com/FCLOGO/fclogo.top/compare/v2.3.2...v2.3.3) (2024-09-15)
 
 
