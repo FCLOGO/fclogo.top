@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-101
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 上海长宁三菱重工飞狮足球俱乐部
+      shortName: 上海三菱重工飞狮
+      localName: 上海长宁三菱重工飞狮足球俱乐部
+      founded: 2012
+      city: 中国，上海
+      ground:
+      league: 中冠联赛
+  weiboURL: 'https://weibo.com/7681446671'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

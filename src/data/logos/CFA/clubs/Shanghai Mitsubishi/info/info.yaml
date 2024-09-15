@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-101
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Shanghai Mitsubishi Heavy Industries air-Conditioners Football Club
+      shortName: Shanghai Mitsubishi Heavy Industries
+      localName: 上海长宁三菱重工飞狮足球俱乐部
+      founded: 2012
+      city: Shanghai, China
+      ground:
+      league: CMCL
+  weiboURL: 'https://weibo.com/7681446671'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''
