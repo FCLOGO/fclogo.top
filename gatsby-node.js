@@ -132,7 +132,8 @@ exports.createResolvers = ({ createResolvers }) => {
                   locale: { eq: source.fields.locale } // 匹配页面语言
                 },
                 sourceID: { eq: source.packSource }, // 匹配主体ID
-                style: { eq: 'color' } // 仅匹配 color 样式
+                style: { eq: 'color' }, // 仅匹配 color 样式
+                version: { eq: source.logoVersion } // 匹配 logo 版本
               }
             },
             type: 'logo'
