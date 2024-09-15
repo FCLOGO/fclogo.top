@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-092
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 陕西联合足球俱乐部
+      shortName: 陕西联合
+      localName: 陕西联合足球俱乐部
+      founded: 2013
+      city: 西安，中国
+      ground: 渭南体育中心
+      league: 中冠联赛
+  weiboURL: 'https://weibo.com/u/7839541023'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/陕西联合足球俱乐部'

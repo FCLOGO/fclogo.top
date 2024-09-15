@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20240914-224258-406dac
+  version: 2022
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Dalian Huayi']
+  slug: /cfa/club/dalian-huayi-v2022-mono
+  pngPath: 'png/dalian-huayi-v2022-mono.png'
+  svgPath: 'svg/dalian-huayi-v2022-mono.svg'
+  sourceID: cfa-club-098
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-224332-45d6e9
+  version: 2022
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Dalian Huayi']
+  slug: /cfa/club/dalian-huayi-v2022
+  pngPath: 'png/dalian-huayi-v2022.png'
+  svgPath: 'svg/dalian-huayi-v2022.svg'
+  sourceID: cfa-club-098
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-224400-02034e
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ["Dalian K'UN City"]
+  slug: /cfa/club/dalian-kuncity-v2024-mono
+  pngPath: 'png/dalian-kuncity-v2024-mono.png'
+  svgPath: 'svg/dalian-kuncity-v2024-mono.svg'
+  sourceID: cfa-club-098
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-224448-448b0e
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ["Dalian K'UN City"]
+  slug: /cfa/club/dalian-kuncity-v2024
+  pngPath: 'png/dalian-kuncity-v2024.png'
+  svgPath: 'svg/dalian-kuncity-v2024.svg'
+  sourceID: cfa-club-098
+  style: color
+  reference: ''
+  ctrbID: ''

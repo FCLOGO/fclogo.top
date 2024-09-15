@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-100
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: Yan'an Ronghai Football club
+      shortName: Yan'an Ronghai
+      localName: 延安荣海足球俱乐部
+      founded: 2021
+      city: Yan'an, China
+      ground: Yan'an National Fitness Sports Center Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7828206272'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

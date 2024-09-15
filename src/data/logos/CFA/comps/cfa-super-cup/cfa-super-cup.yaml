@@ -2,10 +2,52 @@
   logoID: 20211207-008
   version: 2017
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['CFA Super Cup']
   slug: /cfa/comp/cfa-super-cup-v2017
   pngPath: 'png/cfa-super-cup-v2017.png'
   svgPath: 'svg/cfa-super-cup-v2017.svg'
   sourceID: cfa-comp-005
   style: color
+
+- data: logo
+  logoID: 20240914-235114-cbac47
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CFA Super Cup']
+  slug: /cfa/comp/cfa-super-cup-v2024-eng
+  pngPath: 'png/cfa-super-cup-v2024-eng.png'
+  svgPath: 'svg/cfa-super-cup-v2024-eng.svg'
+  sourceID: cfa-comp-005
+  style: eng
+  reference: 'https://weibo.com/2724391323/O1227y6Ll'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-235210-ade2e4
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CFA Super Cup']
+  slug: /cfa/comp/cfa-super-cup-v2024-chn
+  pngPath: 'png/cfa-super-cup-v2024-chn.png'
+  svgPath: 'svg/cfa-super-cup-v2024-chn.svg'
+  sourceID: cfa-comp-005
+  style: chn
+  reference: 'https://weibo.com/2724391323/O1227y6Ll'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-235250-7da417
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CFA Super Cup']
+  slug: /cfa/comp/cfa-super-cup-v2024
+  pngPath: 'png/cfa-super-cup-v2024.png'
+  svgPath: 'svg/cfa-super-cup-v2024.svg'
+  sourceID: cfa-comp-005
+  style: color
+  reference: 'https://weibo.com/2724391323/O1227y6Ll'
+  ctrbID: ''

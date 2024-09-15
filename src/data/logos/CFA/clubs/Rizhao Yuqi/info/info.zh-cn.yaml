@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-099
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 日照宇启足球俱乐部
+      shortName: 日照宇启
+      localName: 日照宇启足球俱乐部
+      founded: 2014
+      city: 中国，日照
+      ground: 日照国际足球中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7785722383'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/日照宇启足球俱乐部/18665163'

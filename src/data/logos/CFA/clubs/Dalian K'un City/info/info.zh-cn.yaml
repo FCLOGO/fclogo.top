@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-098
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: 大连鲲城足球俱乐部
+      shortName: 大连鲲城
+      localName: 大连鲲城足球俱乐部
+      founded: 2022
+      city: 中国，大连
+      ground: 大连金州体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7764099020'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/大连鲲城足球俱乐部/64042924'

@@ -1,0 +1,53 @@
+- data: logo
+  logoID: 20231102-101404-d39a0a
+  version: 2023
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangzhou E-Power']
+  slug: /cfa/club/guangzhou-epower-v2023-mono
+  pngPath: 'png/guangzhou-epower-v2023-mono.png'
+  svgPath: 'svg/guangzhou-epower-v2023-mono.svg'
+  sourceID: cfa-club-093
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231102-101441-b7c9c8
+  version: 2023
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangzhou E-Power']
+  slug: /cfa/club/guangzhou-epower-v2023
+  pngPath: 'png/guangzhou-epower-v2023.png'
+  svgPath: 'svg/guangzhou-epower-v2023.svg'
+  sourceID: cfa-club-093
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20240914-222153-4e61c5
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['GuangDong GZ-Power']
+  slug: /cfa/club/guangdong-gz-power-v2024-mono
+  pngPath: 'png/guangdong-gz-power-v2024-mono.png'
+  svgPath: 'svg/guangdong-gz-power-v2024-mono.svg'
+  sourceID: cfa-club-093
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-222254-bdf2b2
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['GuangDong GZ-Power']
+  slug: /cfa/club/guangdong-gz-power-v2024
+  pngPath: 'png/guangdong-gz-power-v2024.png'
+  svgPath: 'svg/guangdong-gz-power-v2024.svg'
+  sourceID: cfa-club-093
+  style: color
+  reference: ''
+  ctrbID: ''

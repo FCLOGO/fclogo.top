@@ -3,6 +3,7 @@
   name: China League 1
   season: '2022'
   packSource: cfa-comp-002
+  logoVersion: 2004
   slug: /pack/cfa/2022-china-league-1
   items:
     - id: cfa-club-022
@@ -47,6 +48,7 @@
   name: China League 1
   season: '2023'
   packSource: cfa-comp-002
+  logoVersion: 2004
   slug: /pack/2023-china-league-1
   items:
     - id: cfa-club-004
@@ -87,6 +89,7 @@
   name: China League 1
   season: '2024'
   packSource: cfa-comp-002
+  logoVersion: 2004
   slug: /pack/2024-china-league-1
   items:
     - id: cfa-club-088

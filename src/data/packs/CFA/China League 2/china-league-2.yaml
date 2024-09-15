@@ -3,6 +3,7 @@
   name: China League 2
   season: '2022'
   packSource: cfa-comp-003
+  logoVersion: 2004
   slug: /pack/cfa/2022-china-league-2
   items:
     - id: cfa-club-056
@@ -47,6 +48,7 @@
   name: China League 2
   season: '2023'
   packSource: cfa-comp-003
+  logoVersion: 2004
   slug: /pack/cfa/2023-china-league-2
   items:
     - id: cfa-club-029
@@ -87,7 +89,46 @@
   name: China League 2
   season: '2024'
   packSource: cfa-comp-003
+  logoVersion: 2004
   slug: /pack/cfa/2024-china-league-2
   items:
+    - id: cfa-club-093
+      version: 2024
+    - id: cfa-club-097
+      version: 2022
+    - id: cfa-club-092
+      version: 2023.07
+    - id: cfa-club-096
+      version: 2019
+    - id: cfa-club-098
+      version: 2024
+    - id: cfa-club-059
+      version: 2011
+    - id: cfa-club-082
+      version: 2022
+    - id: cfa-club-095
+      version: 2022
+    - id: cfa-club-066
+      version: 2022
+    - id: cfa-club-086
+      version: 2024
     - id: cfa-club-029
       version: 2000
+    - id: cfa-club-044
+      version: 2021
+    - id: cfa-club-081
+      version: 2022
+    - id: cfa-club-091
+      version: 2020
+    - id: cfa-club-083
+      version: 2024
+    - id: cfa-club-064
+      version: 2024
+    - id: cfa-club-099
+      version: 2014
+    - id: cfa-club-100
+      version: 2023
+    - id: cfa-club-001
+      version: 2022
+    - id: cfa-club-006
+      version: 2021

@@ -3,6 +3,7 @@
   name: 中超联赛
   season: '2022'
   packSource: cfa-comp-001
+  logoVersion: 2004
   slug: /pack/cfa/2022-chinese-super-league
   items:
     - id: cfa-club-001
@@ -47,6 +48,7 @@
   name: 中超联赛
   season: '2023'
   packSource: cfa-comp-001
+  logoVersion: 2004
   slug: /pack/cfa/2023-chinese-super-league
   items:
     - id: cfa-club-001
@@ -87,6 +89,7 @@
   name: 中超联赛
   season: '2024'
   packSource: cfa-comp-001
+  logoVersion: 2004
   slug: /pack/2024-chinese-super-league
   items:
     - id: cfa-club-001

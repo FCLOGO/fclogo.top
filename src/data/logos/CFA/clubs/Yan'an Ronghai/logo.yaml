@@ -1,0 +1,83 @@
+- data: logo
+  logoID: 20240914-234000-18f857
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ["Xi'an Ronghai"]
+  slug: /cfa/club/xian-ronghai-v2021-mono
+  pngPath: 'png/xian-ronghai-v2021-mono.png'
+  svgPath: 'svg/xian-ronghai-v2021-mono.svg'
+  sourceID: cfa-club-100
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-234253-79d4a6
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ["Xi'an Ronghai"]
+  slug: /cfa/club/xian-ronghai-v2021
+  pngPath: 'png/xian-ronghai-v2021.png'
+  svgPath: 'svg/xian-ronghai-v2021.svg'
+  sourceID: cfa-club-100
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-234322-c5e0fb
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ["Xi'an Chongde Ronghai"]
+  slug: /cfa/club/xian-chongde-ronghai-v2023-mono
+  pngPath: 'png/xian-chongde-ronghai-v2023-mono.png'
+  svgPath: 'svg/xian-chongde-ronghai-v2023-mono.svg'
+  sourceID: cfa-club-100
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-234407-aa27bf
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ["Xi'an Chongde Ronghai"]
+  slug: /cfa/club/xian-chongde-ronghai-v2023
+  pngPath: 'png/xian-chongde-ronghai-v2023.png'
+  svgPath: 'svg/xian-chongde-ronghai-v2023.svg'
+  sourceID: cfa-club-100
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-234446-88ce67
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ["Yan'an Ronghai"]
+  slug: /cfa/club/yanan-ronghai-v2025-mono
+  pngPath: 'png/yanan-ronghai-v2025-mono.png'
+  svgPath: 'svg/yanan-ronghai-v2025-mono.svg'
+  sourceID: cfa-club-100
+  style: mono
+  reference: 'https://mp.weixin.qq.com/s/ICNMJvtIYr0X4xJMQS4gug'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-234528-b9ef3a
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ["Yan'an Ronghai"]
+  slug: /cfa/club/yanan-ronghai-v2025
+  pngPath: 'png/yanan-ronghai-v2025.png'
+  svgPath: 'svg/yanan-ronghai-v2025.svg'
+  sourceID: cfa-club-100
+  style: color
+  reference: 'https://mp.weixin.qq.com/s/ICNMJvtIYr0X4xJMQS4gug'
+  ctrbID: ''

@@ -3,6 +3,7 @@
   name: CMCL(Partial)
   season: '2023'
   packSource: cfa-comp-006
+  logoVersion: 2018
   slug: /pack/2023-cmcl
   items:
     - id: cfa-club-092

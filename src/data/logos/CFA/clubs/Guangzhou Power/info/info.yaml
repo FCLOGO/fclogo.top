@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-093
+  status: alive
+  type: club
+  nation: China
+  timeline: true
+  info:
+    - fullName: GuangDong GZ-Power Football club
+      shortName: GuangDong GZ-Power
+      localName: 广东广州豹足球俱乐部
+      founded: 2023
+      city: Guangzhou, China
+      ground: Huangpu Sports Center
+      league: CMCL
+  weiboURL: 'https://weibo.com/u/7830274764'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Guangdong_GZ-Power_F.C.'
