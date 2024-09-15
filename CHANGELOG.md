@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.3](https://github.com/FCLOGO/fclogo.top/compare/v2.3.2...v2.3.3) (2024-09-15)
+
+
+### 📝 Documentation | 文档
+
+* 更新2024赛季中乙联赛俱乐部徽标 ([318495e](https://github.com/FCLOGO/fclogo.top/commit/318495eb8bf7f88155446fb7f14f36a262b8f365))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修正徽标集LOGO版本 ([df7d7b2](https://github.com/FCLOGO/fclogo.top/commit/df7d7b2a32b8b2967526d85fc502141ae0ece8de))
+
 ### [2.3.2](https://github.com/FCLOGO/fclogo.top/compare/v2.3.1...v2.3.2) (2024-09-15)
 
 
