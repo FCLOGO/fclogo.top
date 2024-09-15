@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.2](https://github.com/FCLOGO/fclogo.top/compare/v2.3.1...v2.3.2) (2024-09-15)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修正名称错误 ([c30be69](https://github.com/FCLOGO/fclogo.top/commit/c30be6961a7b5f1714d5e4aa5f62e9f9ed57411d))
+
+
+### 📝 Documentation | 文档
+
+* 修正成都蓉城队徽版本 ([1aa3199](https://github.com/FCLOGO/fclogo.top/commit/1aa31994d0aaa50005861e5267247dc6c6e00431))
+* 增加翻译文本 ([6cbc1fd](https://github.com/FCLOGO/fclogo.top/commit/6cbc1fdd9c638dcaff91001d06594b078f850614))
+* 增加四川隆发历史队徽 ([81890ad](https://github.com/FCLOGO/fclogo.top/commit/81890ad73cbee748b4cf78002683d6c32c82ae49))
+
 ### [2.3.1](https://github.com/FCLOGO/fclogo.top/compare/v2.3.0...v2.3.1) (2024-09-10)
 
 
