@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-001
+  status: alive
+  type: club
+  nation: Korea
+  timeline: false
+  info:
+    - fullName: Ulsan HD Football Club
+      shortName: Ulsan HD FC
+      localName: 울산 HD FC
+      founded: 1983
+      city: Ulsan, South Korea
+      ground: Ulsan Munsu Football Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.uhfc.tv/eng/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ulsan_HD_FC'

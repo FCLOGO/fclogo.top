@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240916-164617-3293e7
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['蔚山HD']
+  slug: /kfa/club/ulsan-hd-v2024-mono
+  pngPath: 'png/ulsan-hd-v2024-mono.png'
+  svgPath: 'svg/ulsan-hd-v2024-mono.svg'
+  sourceID: kfa-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240916-164649-21ca56
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['蔚山HD']
+  slug: /kfa/club/ulsan-hd-v2024
+  pngPath: 'png/ulsan-hd-v2024.png'
+  svgPath: 'svg/ulsan-hd-v2024.svg'
+  sourceID: kfa-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
