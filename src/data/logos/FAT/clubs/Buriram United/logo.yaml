@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20240917-214953-4d1276
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Buriram United']
+  slug: /fat/club/buriram-united-v0000
+  pngPath: 'png/buriram-united-v0000.png'
+  svgPath: 'svg/buriram-united-v0000.svg'
+  sourceID: fat-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

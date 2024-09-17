@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fat-club-001
+  status: alive
+  type: club
+  nation: Thailand
+  timeline: false
+  info:
+    - fullName: Buriram United Football Club
+      shortName: Buriram United
+      localName: สโมสรฟุตบอลบุรีรัมย์ ยูไนเต็ด
+      founded: 1970
+      city: Buriram, Thailand
+      ground: Chang Arena
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.buriramunited.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Buriram_United_F.C.'

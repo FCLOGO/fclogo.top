@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: fat-club-001
+  status: alive
+  type: club
+  nation: Thailand
+  timeline: false
+  info:
+    - fullName: 武里南联足球俱乐部
+      shortName: 武里南联
+      localName: สโมสรฟุตบอลบุรีรัมย์ ยูไนเต็ด
+      founded: 1970
+      city: 泰国，武里喃府
+      ground: 象牌竞技场
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.buriramunited.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Buriram_United_F.C.'
