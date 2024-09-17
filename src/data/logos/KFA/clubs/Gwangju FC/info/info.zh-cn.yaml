@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-003
+  status: alive
+  type: club
+  nation: Korea
+  timeline: true
+  info:
+    - fullName: 光州足球俱乐部
+      shortName: 光州 FC
+      localName: 광주 시민 프로축구단
+      founded: 2010
+      city: 韩国，光州
+      ground: 光州足球专用球场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.gwangjufc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gwangju_FC'

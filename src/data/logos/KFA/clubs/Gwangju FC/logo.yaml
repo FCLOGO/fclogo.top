@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240916-195436-ee531f
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gwangju FC']
+  slug: /kfa/club/gwangju-fc-v2011-mono-2
+  pngPath: 'png/gwangju-fc-v2011-mono-2.png'
+  svgPath: 'svg/gwangju-fc-v2011-mono-2.svg'
+  sourceID: kfa-club-003
+  style: mono
+  reference: 'https://www.gwangjufc.com/fc/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240916-195522-46e076
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gwangju FC']
+  slug: /kfa/club/gwangju-fc-v2011
+  pngPath: 'png/gwangju-fc-v2011.png'
+  svgPath: 'svg/gwangju-fc-v2011.svg'
+  sourceID: kfa-club-003
+  style: color
+  reference: 'https://www.gwangjufc.com/fc/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240916-195548-6b95f9
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gwangju FC']
+  slug: /kfa/club/gwangju-fc-v2011-mono
+  pngPath: 'png/gwangju-fc-v2011-mono.png'
+  svgPath: 'svg/gwangju-fc-v2011-mono.svg'
+  sourceID: kfa-club-003
+  style: mono
+  reference: 'https://www.gwangjufc.com/fc/emblem.php'
+  ctrbID: ''

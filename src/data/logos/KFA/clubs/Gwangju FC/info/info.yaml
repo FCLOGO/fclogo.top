@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-003
+  status: alive
+  type: club
+  nation: Korea
+  timeline: true
+  info:
+    - fullName: Gwangju Football club
+      shortName: Gwangju FC
+      localName: 광주 시민 프로축구단
+      founded: 2010
+      city: Gwangju, South Korea
+      ground: Gwangju Football Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.gwangjufc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gwangju_FC'
