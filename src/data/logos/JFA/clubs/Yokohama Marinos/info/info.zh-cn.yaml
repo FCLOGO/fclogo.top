@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-002
+  status: alive
+  type: club
+  nation: Japan
+  timeline: false
+  info:
+    - fullName: 横滨水手
+      shortName: 横滨水手
+      localName: 横浜F・マリノス
+      founded: 1972
+      city: 日本，横滨
+      ground: 日产竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/prompt_fmarinos'
+  websiteURL: 'https://www.f-marinos.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Yokohama_F._Marinos'
