@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-001
+  status: alive
+  type: club
+  nation: Australia
+  timeline: false
+  info:
+    - fullName: Central Coast Mariners Football Club
+      shortName: Central Coast Mariners
+      localName: Central Coast Mariners Football Club
+      founded: 2004
+      city: Gosford, Australia
+      ground: Central Coast Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/CCMariners'
+  websiteURL: 'https://ccmariners.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Central_Coast_Mariners_FC'

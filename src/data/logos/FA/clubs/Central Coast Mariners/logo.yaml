@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240917-213448-d7d0dc
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Central Coast Mariners']
+  slug: /fa/club/central-coast-mariners-v0000-mono
+  pngPath: 'png/central-coast-mariners-v0000-mono.png'
+  svgPath: 'svg/central-coast-mariners-v0000-mono.svg'
+  sourceID: fa-club-001
+  style: mono
+  reference: 'https://www.footballaustralia.com.au/sites/ffa/files/2023-12/20484_FA_Annual%20Review_2023_Final_Low%20Res_Interactive-compressed.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240917-213607-5bdfe3
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Central Coast Mariners']
+  slug: /fa/club/central-coast-mariners-v0000
+  pngPath: 'png/central-coast-mariners-v0000.png'
+  svgPath: 'svg/central-coast-mariners-v0000.svg'
+  sourceID: fa-club-001
+  style: color
+  reference: 'https://www.footballaustralia.com.au/sites/ffa/files/2023-12/20484_FA_Annual%20Review_2023_Final_Low%20Res_Interactive-compressed.pdf'
+  ctrbID: ''
