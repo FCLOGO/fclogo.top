@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-003
+  status: alive
+  type: club
+  nation: Japan
+  timeline: false
+  info:
+    - fullName: Kawasaki Frontale
+      shortName: Kawasaki Frontale
+      localName: 川崎フロンターレ
+      founded: 1955
+      city: Kawasaki, Japan
+      ground: Kawasaki Todoroki Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/frontale_staff'
+  websiteURL: 'https://www.frontale.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kawasaki_Frontale'

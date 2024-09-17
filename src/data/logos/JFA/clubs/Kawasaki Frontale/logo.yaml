@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240917-111856-779876
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Kawasaki Frontale']
+  slug: /jfa/club/kawasaki-frontale-v0000-mono
+  pngPath: 'png/kawasaki-frontale-v0000-mono.png'
+  svgPath: 'svg/kawasaki-frontale-v0000-mono.svg'
+  sourceID: jfa-club-003
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Kawasaki-Frontale/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240917-111947-f4cec6
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Kawasaki Frontale']
+  slug: /jfa/club/kawasaki-frontale-v0000
+  pngPath: 'png/kawasaki-frontale-v0000.png'
+  svgPath: 'svg/kawasaki-frontale-v0000.svg'
+  sourceID: jfa-club-003
+  style: color
+  reference: 'https://www.jleague.co/clubs/Kawasaki-Frontale/'
+  ctrbID: ''
