@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240917-114009-449881
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Johor DT']
+  slug: /fam/club/johor-dt-v0000-mono
+  pngPath: 'png/johor-dt-v0000-mono.png'
+  svgPath: 'svg/johor-dt-v0000-mono.svg'
+  sourceID: fam-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240917-114045-1bdf9a
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Johor DT']
+  slug: /fam/club/johor-dt-v0000
+  pngPath: 'png/johor-dt-v0000.png'
+  svgPath: 'svg/johor-dt-v0000.svg'
+  sourceID: fam-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

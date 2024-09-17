@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fam-club-001
+  status: alive
+  type: club
+  nation: Malaysia
+  timeline: false
+  info:
+    - fullName: 柔佛达鲁塔克欣足球俱乐部
+      shortName: 柔佛DT
+      localName: Johor Darul Ta'zim Football Club
+      founded: 1973
+      city: 马来西亚，柔佛州新山市
+      ground: 苏丹依布拉欣体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/officialjohor'
+  websiteURL: 'http://johorsoutherntigers.com.my/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Johor_Darul_Ta%27zim_F.C.'
