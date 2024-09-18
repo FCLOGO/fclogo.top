@@ -123,18 +123,17 @@ const ItemList = ({ allItems }) => {
                         ))}
                       </div>
                       <footer className="w-full h-[80px] flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
-                        <div className="flex flex-row justify-center content-start items-center">
-                          <span className="font-mono uppercase text-xs p-xs mr-xs leading-3 rounded-[3px] bg-green text-white flex-initial">
-                            {t(item.season)}
-                          </span>
-                          <h3 className="mt-xs font-medium whitespace-nowrap overflow-hidden text-ellipsis">
-                            {item.name}
-                          </h3>
-                        </div>
+                        <span className="font-mono uppercase text-xs p-xs mr-xs leading-3 rounded-[3px] bg-green text-white flex-none">
+                          {t(item.season)}
+                        </span>
+                        <h3 className="flex-grow mt-xs font-medium whitespace-nowrap overflow-hidden text-ellipsis text-left">
+                          {item.name}
+                        </h3>
                         <GatsbyImage
                           key={item.id}
                           image={getImage(item.packInfo[0].pngPath)}
                           alt={item.name}
+                          className="flex-shrink-0"
                         />
                       </footer>
                     </Link>

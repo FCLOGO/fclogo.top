@@ -38,14 +38,12 @@ const IndexPack = ({ data }) => {
                 ))}
               </div>
               <footer className="w-full h-[80px] flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
-                <div className="flex flex-row justify-center content-start items-center">
-                  <span className="font-mono uppercase text-xs p-xs mr-xs leading-3 rounded-[3px] bg-green text-white flex-initial">
-                    {node.season}
-                  </span>
-                  <h3 className="mt-xs font-medium whitespace-nowrap overflow-hidden text-ellipsis">
-                    {node.name}
-                  </h3>
-                </div>
+                <span className="font-mono uppercase text-xs p-xs mr-xs leading-3 rounded-[3px] bg-green text-white flex-none">
+                  {node.season}
+                </span>
+                <h3 className="flex-grow mt-xs font-medium whitespace-nowrap overflow-hidden text-ellipsis text-left">
+                  {node.name}
+                </h3>
                 <GatsbyImage
                   key={node.id}
                   image={getImage(node.packInfo[0].pngPath)}
