@@ -1,0 +1,32 @@
+- data: logoPack
+  packID: 20240918-090533-5e84ba
+  name: 亚冠联赛精英联赛(东亚)
+  season: '24-25'
+  packSource: afc-comp-002
+  logoVersion: 2024
+  slug: /pack/24-25-afc-champions-league-Elite
+  items:
+    - id: cfa-club-001
+      version: 2022
+    - id: cfa-club-003
+      version: 2022
+    - id: cfa-club-006
+      version: 2021
+    - id: jfa-club-001
+      version: 0000
+    - id: jfa-club-002
+      version: 0000
+    - id: jfa-club-003
+      version: 0000
+    - id: kfa-club-001
+      version: 2024
+    - id: kfa-club-002
+      version: 2003
+    - id: kfa-club-003
+      version: 2011
+    - id: fam-club-001
+      version: 0000
+    - id: fa-club-001
+      version: 0000
+    - id: fat-club-001
+      version: 0000
