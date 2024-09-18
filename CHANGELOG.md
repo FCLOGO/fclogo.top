@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.5](https://github.com/FCLOGO/fclogo.top/compare/v2.3.4...v2.3.5) (2024-09-18)
+
+
+### 📝 Documentation | 文档
+
+* *新增* 柔佛DT ([17c7f15](https://github.com/FCLOGO/fclogo.top/commit/17c7f153f3300802edbab2d953acf08092ab1699))
+* *新增*24-25赛季亚冠精英联赛(东亚)徽标集 ([730d2a7](https://github.com/FCLOGO/fclogo.top/commit/730d2a73c79dd57d7cacce6421052492557b5b36))
+* *新增*澳大利亚中央海岸水手 ([cce1ee9](https://github.com/FCLOGO/fclogo.top/commit/cce1ee9f17b9f59e5e9eb2e6701566a2da8c45fc))
+* *新增*川崎前锋 ([76e1d9a](https://github.com/FCLOGO/fclogo.top/commit/76e1d9a1f7520aeaba527d8d90e68dd628403702))
+* *新增*光州 FC ([295d31a](https://github.com/FCLOGO/fclogo.top/commit/295d31a02ac341c9d4920ee4f5c557eccaac227f))
+* *新增*横滨水手 ([5a61ef5](https://github.com/FCLOGO/fclogo.top/commit/5a61ef52a904910f27a426772871951050da5396))
+* *新增*浦项制铁 ([42b1c5d](https://github.com/FCLOGO/fclogo.top/commit/42b1c5d6a71145b43db1fdd3ac8a57c3ac846737))
+* *新增*神户胜利船 ([3550d1d](https://github.com/FCLOGO/fclogo.top/commit/3550d1d232fcd225db8de516e03a708b46496285))
+* *新增*泰国武里南联 ([f3356cb](https://github.com/FCLOGO/fclogo.top/commit/f3356cbc0385baf58c6295cfc01e6ec8fcaaf5b6))
+* *新增*泰国武里南联 ([b572431](https://github.com/FCLOGO/fclogo.top/commit/b572431344f62f4a3046cd162b4fe0c9785ae25d))
+* *修正*名称错误 ([a46b3e1](https://github.com/FCLOGO/fclogo.top/commit/a46b3e1204f411ecb69a72a65b99c3c5cb113a8d))
+* *修正*蔚山 HD 徽标 ([e4a85b8](https://github.com/FCLOGO/fclogo.top/commit/e4a85b8106095ce92982fc31fbfef24689679db7))
+* 新增 韩国蔚山HD ([a8734dd](https://github.com/FCLOGO/fclogo.top/commit/a8734ddb7229a38c89f45cbc4d0a8712e1221f0b))
+
 ### [2.3.4](https://github.com/FCLOGO/fclogo.top/compare/v2.3.3...v2.3.4) (2024-09-15)
 
 
