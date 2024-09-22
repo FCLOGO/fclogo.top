@@ -177,6 +177,12 @@
   "noData": "There are no records to display",
   "timeline": "Timeline Status",
 
-  "China": "China PR",
-  "China HK": "China HK"
+  "Asia": "Asia",
+  "China": "🇨🇳 China PR",
+  "China HK": "🇭🇰 China HK",
+  "Japan": "🇯🇵 Japan",
+  "Korea": "🇰🇷 South Korea",
+  "Thailand": "🇹🇭 Thailand",
+  "Australia": "🇦🇺 Australia",
+  "Malaysia": "🇲🇾 Malaysia"
 }
