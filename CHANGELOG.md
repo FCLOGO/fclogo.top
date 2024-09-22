@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.6](https://github.com/FCLOGO/fclogo.top/compare/v2.3.5...v2.3.6) (2024-09-22)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* *修正* 样式错误 ([73b1648](https://github.com/FCLOGO/fclogo.top/commit/73b1648a613d04b5243971c6cb7305a74f4a6f74))
+
+
+### ❇️ Chores | 其他更新
+
+* *变更* 使用国家代码 ([34c7797](https://github.com/FCLOGO/fclogo.top/commit/34c7797dcb67f80e3747c7eb92cfda69e7159792))
+* *优化* 文档结构 ([40f0a51](https://github.com/FCLOGO/fclogo.top/commit/40f0a51ea539c5368ce14234f0f701cecb23cd79))
+
+
+### 📝 Documentation | 文档
+
+* *更新* 24/25赛季港超联赛徽标集 ([ffd20c2](https://github.com/FCLOGO/fclogo.top/commit/ffd20c29bc0d36ae77955d6fadb85b3b3b56096d))
+* *更新* 俱乐部信息 ([67a4436](https://github.com/FCLOGO/fclogo.top/commit/67a4436667953c962972aeeb76d3e4768130e80f))
+* *新增* 港超联赛俱乐部 ([3eba8c9](https://github.com/FCLOGO/fclogo.top/commit/3eba8c907c4bcab381b47911f537c886f349b241))
+* *修正* 名称缩写 ([9b3925b](https://github.com/FCLOGO/fclogo.top/commit/9b3925b988ba0226c55e83f80bf8b6b0921b5b78))
+* *增加* 泉州亚新 2019 徽标 ([9f1289d](https://github.com/FCLOGO/fclogo.top/commit/9f1289d75f4a958b621cee334e01438430e35742))
+* 名称缩写 ([73df4d7](https://github.com/FCLOGO/fclogo.top/commit/73df4d74aee60a8d02f7541ef0e08ecaf8657647))
+* 增加 *国家/地区* 翻译文本 ([3eadf70](https://github.com/FCLOGO/fclogo.top/commit/3eadf7039a2acc1401d0b7f62f0a3e85521dd764))
+
 ### [2.3.5](https://github.com/FCLOGO/fclogo.top/compare/v2.3.4...v2.3.5) (2024-09-18)
 
 
