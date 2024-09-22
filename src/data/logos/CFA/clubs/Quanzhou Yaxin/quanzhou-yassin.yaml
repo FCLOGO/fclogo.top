@@ -35,3 +35,17 @@
   style: color
   reference: 'https://weibo.com/7835119489/O1XiWhpwb'
   ctrbID: ''
+
+- data: logo
+  logoID: 20230922-221207-3e2d8a
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Quanzhou AiDeMa']
+  slug: /cfa/club/quanzhou-aidema-v2019
+  pngPath: 'png/quanzhou-aidema-v2019.png'
+  svgPath: 'svg/quanzhou-aidema-v2019.svg'
+  sourceID: cfa-club-064
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Quanzhou Yaxin Football CLub
       shortName: Quanzhou Yaxin

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 泉州亚新足球俱乐部
       shortName: 泉州亚新
