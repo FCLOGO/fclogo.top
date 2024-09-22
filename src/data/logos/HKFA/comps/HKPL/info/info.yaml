@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: hkfa-comp-001
   type: comp
-  nation: China HK
+  nation: HKG
   timeline: true
   info:
     - fullName: Hong Kong Premier League

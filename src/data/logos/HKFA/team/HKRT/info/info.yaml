@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: hkfa-team-001
   type: team
-  nation: China HK
+  nation: HKG
   timeline: true
   info:
     - fullName: Hong Kong Football Representative Team

@@ -179,10 +179,10 @@
 
   "Asia": "Asia",
   "China": "🇨🇳 China PR",
-  "China HK": "🇭🇰 China HK",
-  "Japan": "🇯🇵 Japan",
-  "Korea": "🇰🇷 South Korea",
-  "Thailand": "🇹🇭 Thailand",
-  "Australia": "🇦🇺 Australia",
-  "Malaysia": "🇲🇾 Malaysia"
+  "HKG": "🇭🇰 China HK",
+  "JPN": "🇯🇵 Japan",
+  "KOR": "🇰🇷 South Korea",
+  "THA": "🇹🇭 Thailand",
+  "AUS": "🇦🇺 Australia",
+  "MYS": "🇲🇾 Malaysia"
 }
