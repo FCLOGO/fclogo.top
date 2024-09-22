@@ -3,6 +3,7 @@
   status: out
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Hangzhou Wuyue Qiantang Football Club
       shortName: Hangzhou Wuyue Qiantang

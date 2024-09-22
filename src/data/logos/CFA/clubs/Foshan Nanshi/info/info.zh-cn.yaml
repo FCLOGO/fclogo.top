@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 佛山南狮足球俱乐部
       shortName: 佛山南狮

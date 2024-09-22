@@ -3,6 +3,7 @@
   status: out
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Xiamen Egret Island Football Club
       shortName: Xiamen Egret Island

@@ -3,7 +3,7 @@
   status: alive
   type: club
   nation: China
-  timeline: false
+  timeline: true
   info:
     - fullName: 南通海门珂缔缘足球俱乐部
       shortName: 南通海门珂缔缘

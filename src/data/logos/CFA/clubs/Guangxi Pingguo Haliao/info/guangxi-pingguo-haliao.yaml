@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Guangxi Pingguo Haliao Football Club
       shortName: Guangxi Pingguo Haliao

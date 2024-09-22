@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 江西黑马青年足球俱乐部
       shortName: 江西黑马青年

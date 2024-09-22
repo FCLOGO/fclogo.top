@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-085
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 淄博齐盛足球俱乐部
       founded: 2021
       city: Zibo, China
-      ground:
-      league: China League 2
+      duration: 2021 - 2024
   weiboURL: ''
   twitterURL: ''
   websiteURL: ''

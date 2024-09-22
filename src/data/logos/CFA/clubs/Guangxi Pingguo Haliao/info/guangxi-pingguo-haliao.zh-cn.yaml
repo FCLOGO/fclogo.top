@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 广西平果哈嘹足球俱乐部
       shortName: 广西平果哈嘹

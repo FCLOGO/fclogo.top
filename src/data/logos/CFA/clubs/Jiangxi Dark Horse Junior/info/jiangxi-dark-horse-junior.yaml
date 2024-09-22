@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Jiangxi Dark Horse Junior Football Club
       shortName: Jiangxi Dark Horse Junior

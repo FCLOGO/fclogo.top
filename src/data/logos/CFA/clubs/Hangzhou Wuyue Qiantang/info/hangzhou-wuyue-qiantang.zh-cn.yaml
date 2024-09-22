@@ -3,6 +3,7 @@
   status: out
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 杭州吴越钱唐足球俱乐部
       shortName: 杭州吴越钱唐

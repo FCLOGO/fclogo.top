@@ -3,6 +3,7 @@
   status: out
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 厦门鹭岛足球俱乐部
       shortName: 厦门鹭岛

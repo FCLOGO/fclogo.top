@@ -3,6 +3,7 @@
   status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Shenzhen Pengcheng Football Club
       shortName: Shenzhen Pengcheng

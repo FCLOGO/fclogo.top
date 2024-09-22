@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-080
-  status: alive
+  status: disbanded
   type: club
   nation: China
   timeline: true
@@ -10,8 +10,7 @@
       localName: 济南兴洲足球俱乐部
       founded: 2013
       city: Jinan, China
-      ground:
-      league: China League
+      duration: 2013 - 2024
   weiboURL: 'https://weibo.com/u/3859445471'
   twitterURL: ''
   websiteURL: ''

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Hubei Istar Football Club
       shortName: Hubei Istar

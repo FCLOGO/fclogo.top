@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 湖北青年星足球俱乐部
       shortName: 湖北青年星

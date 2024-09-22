@@ -1,16 +1,16 @@
 - data: sourceInfo
   sourceID: cfa-club-051
-  status: alive
+  status: disbanded
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: 丹东腾跃足球俱乐部
       shortName: 丹东腾跃
       localName: 丹东腾跃足球俱乐部
       founded: 2017
       city: 丹东，中国
-      ground:
-      league: 中甲联赛
+      duration: 2017 - 2024赛
   weiboURL: 'https://weibo.com/u/7304280780'
   twitterURL: ''
   websiteURL: ''

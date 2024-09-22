@@ -3,7 +3,7 @@
   status: alive
   type: club
   nation: China
-  timeline: false
+  timeline: true
   info:
     - fullName: Nantong Haimen Codion Football Club
       shortName: Nantong Haimen Codion

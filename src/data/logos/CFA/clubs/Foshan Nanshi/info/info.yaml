@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: China
+  timeline: true
   info:
     - fullName: Foshan Nanshi Football Club
       shortName: Foshan Nanshi
