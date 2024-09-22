@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: hkfa-club-008
+  status: alive
+  type: club
+  nation: China HK
+  timeline: true
+  info:
+    - fullName: Lee Man Football Club
+      shortName: Lee Man FC
+      localName: 理文足球會
+      founded: 2017
+      city: Hong Kong, China
+      ground: Tseung Kwan O Sports Ground
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://leemanfootball.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Lee_Man_FC'

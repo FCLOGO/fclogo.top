@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: hkfa-club-006
+  status: alive
+  type: club
+  nation: China HK
+  timeline: false
+  info:
+    - fullName: 九龙城区体育会
+      shortName: 九龙城
+      localName: 九龍城區體育會
+      founded: 2002
+      city: 中国，香港
+      ground: 深水埗体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.hkkcdsa.org.hk/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/九龍城足球會'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: hkfa-club-009
+  status: alive
+  type: club
+  nation: China HK
+  timeline: true
+  info:
+    - fullName: Tai Po Football Club
+      shortName: Tai Po FC
+      localName: 大埔足球會
+      founded: 2002
+      city: Hong Kong, China
+      ground: Tai Po Sports Ground
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.taipofootballclub.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tai_Po_FC'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240922-170658-3b8bf6
+  version: 2002
+  isDoubtful: true
+  isOutdated: false
+  verName: ['大埔']
+  slug: /hkfa/club/tai-po-v2002-mono
+  pngPath: 'png/tai-po-v2002-mono.png'
+  svgPath: 'svg/tai-po-v2002-mono.svg'
+  sourceID: hkfa-club-009
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-170722-3d94fe
+  version: 2002
+  isDoubtful: true
+  isOutdated: false
+  verName: ['大埔']
+  slug: /hkfa/club/tai-po-v2002
+  pngPath: 'png/tai-po-v2002.png'
+  svgPath: 'svg/tai-po-v2002.svg'
+  sourceID: hkfa-club-009
+  style: color
+  reference: ''
+  ctrbID: ''

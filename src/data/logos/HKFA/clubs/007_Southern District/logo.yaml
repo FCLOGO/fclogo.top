@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240922-164934-723fb8
+  version: 2002
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Kwoon Chung Southern']
+  slug: /hkfa/club/southern-district-v2002-mono
+  pngPath: 'png/southern-district-v2002-mono.png'
+  svgPath: 'svg/southern-district-v2002-mono.svg'
+  sourceID: hkfa-club-007
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-165029-7ef788
+  version: 2002
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Kwoon Chung Southern']
+  slug: /hkfa/club/southern-district-v2002
+  pngPath: 'png/southern-district-v2002.png'
+  svgPath: 'svg/southern-district-v2002.svg'
+  sourceID: hkfa-club-007
+  style: color
+  reference: ''
+  ctrbID: ''

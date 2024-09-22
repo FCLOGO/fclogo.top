@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240922-154334-fce6fd
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Eastern']
+  slug: /hkfa/club/eastern-sports-club-v0000-mono
+  pngPath: 'png/eastern-sports-club-v0000-mono.png'
+  svgPath: 'svg/eastern-sports-club-v0000-mono.svg'
+  sourceID: hkfa-club-003
+  style: mono
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=12'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-154424-5ff3e3
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Eastern']
+  slug: /hkfa/club/eastern-sports-club-v0000
+  pngPath: 'png/eastern-sports-club-v0000.png'
+  svgPath: 'svg/eastern-sports-club-v0000.svg'
+  sourceID: hkfa-club-003
+  style: color
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=12'
+  ctrbID: ''

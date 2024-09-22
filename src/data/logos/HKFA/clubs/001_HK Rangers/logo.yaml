@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20240922-102413-19b3f6
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['HK Rangers']
+  slug: /hkfa/club/hongkong-rangers-v2013-mono
+  pngPath: 'png/hongkong-rangers-v2013-mono.png'
+  svgPath: 'svg/hongkong-rangers-v2013-mono.svg'
+  sourceID: hkfa-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-102443-ea2e52
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['HK Rangers']
+  slug: /hkfa/club/hongkong-rangers-v2013
+  pngPath: 'png/hongkong-rangers-v2013.png'
+  svgPath: 'svg/hongkong-rangers-v2013.svg'
+  sourceID: hkfa-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-102502-8e2caa
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['HK Rangers']
+  slug: /hkfa/club/hongkong-rangers-v2018-mono
+  pngPath: 'png/hongkong-rangers-v2018-mono.png'
+  svgPath: 'svg/hongkong-rangers-v2018-mono.svg'
+  sourceID: hkfa-club-001
+  style: mono
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=3'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-102626-365d09
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['HK Rangers']
+  slug: /hkfa/club/hongkong-rangers-v2018
+  pngPath: 'png/hongkong-rangers-v2018.png'
+  svgPath: 'svg/hongkong-rangers-v2018.svg'
+  sourceID: hkfa-club-001
+  style: color
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=3'
+  ctrbID: ''
