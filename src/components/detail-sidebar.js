@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import AdSense from 'react-adsense'
 import UpdateDownloads from '../lib/update-downloads'
 import DownloadCounter from '../components/download-counter'
@@ -56,6 +57,13 @@ const DetailSidebar = props => {
     <aside className="pt-[160px] tablet:pt-xl w-aside tablet:w-full flex flex-col border-l border-l-gray-1 bg-white">
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
         <section className="flex flex-row justify-start items-center">
+          {props.detailInfo.nation && (
+            <GatsbyImage
+              image={getImage(props.detailInfo.nationalFlag[0].flag)}
+              alt={props.detailInfo.nation}
+              className="mr-sm"
+            />
+          )}
           {props.version === 0 ? (
             ''
           ) : (

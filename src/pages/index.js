@@ -59,6 +59,14 @@ export const query = graphql`
             fullName
             shortName
           }
+          nation
+          nationalFlag {
+            flag {
+              childImageSharp {
+                gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+              }
+            }
+          }
         }
       }
       totalCount

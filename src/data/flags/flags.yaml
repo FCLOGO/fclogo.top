@@ -1,0 +1,27 @@
+- data: flag
+  nation: China
+  flag: 'img/china.png'
+
+- data: flag
+  nation: HKG
+  flag: 'img/hong-kong.png'
+
+- data: flag
+  nation: JPN
+  flag: 'img/japan.png'
+
+- data: flag
+  nation: KOR
+  flag: 'img/south-korea.png'
+
+- data: flag
+  nation: AUS
+  flag: 'img/australia.png'
+
+- data: flag
+  nation: THA
+  flag: 'img/thailand.png'
+
+- data: flag
+  nation: MYS
+  flag: 'img/malasya.png'

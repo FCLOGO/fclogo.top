@@ -55,6 +55,15 @@ export const query = graphql`
             fullName
             shortName
           }
+          nation
+          nationalFlag {
+            id
+            flag {
+              childImageSharp {
+                gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+              }
+            }
+          }
         }
         internal {
           type

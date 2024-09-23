@@ -103,6 +103,7 @@ const LogoDetail = ({ data, pageContext }) => {
                 wikiURL={data.logo.detailInfo[0].wikiURL}
                 verName={data.logo.verName}
                 ctrbInfo={data.logo.contributorInfo[0]}
+                detailInfo={data.logo.detailInfo[0]}
               />
             </div>
             {data.logo.logoTimeline.length > 1 ? (
@@ -235,6 +236,14 @@ export const query = graphql`
         weiboURL
         twitterURL
         wikiURL
+        nation
+        nationalFlag {
+          flag {
+            childImageSharp {
+              gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+            }
+          }
+        }
       }
       otherStyle {
         id

@@ -1,3 +1,4 @@
+const { type } = require('os')
 const path = require(`path`)
 
 // 为数据文件添加'locale'节点
@@ -203,6 +204,22 @@ exports.createResolvers = ({ createResolvers }) => {
           })
           const versions = Array.from(entries).map(({ version }) => version)
           return Math.max(...versions)
+        }
+      },
+
+      // 添加主体国旗标志
+      nationalFlag: {
+        type: ['flag'],
+        resolve: async (source, args, context) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                nation: { eq: source.nation }
+              }
+            },
+            type: 'flag'
+          })
+          return entries
         }
       }
     }
