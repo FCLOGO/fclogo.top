@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: afc-comp-001
   type: comp
-  nation: Asia
+  continent: Asia
   timeline: false
   info:
     - fullName: 2023 卡塔尔亚足联亚洲杯
