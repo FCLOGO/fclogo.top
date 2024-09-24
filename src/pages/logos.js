@@ -60,7 +60,7 @@ export const query = graphql`
             id
             flag {
               childImageSharp {
-                gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+                gatsbyImageData(width: 24, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
               }
             }
           }
