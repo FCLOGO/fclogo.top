@@ -1,27 +1,34 @@
 - data: flag
   nation: China
   flag: 'img/china.png'
+  flag2: 'img2/china.png'
 
 - data: flag
   nation: HKG
   flag: 'img/hong-kong.png'
+  flag2: 'img2/hong-kong.png'
 
 - data: flag
   nation: JPN
   flag: 'img/japan.png'
+  flag2: 'img2/japan.png'
 
 - data: flag
   nation: KOR
   flag: 'img/south-korea.png'
+  flag2: 'img2/south-korea.png'
 
 - data: flag
   nation: AUS
   flag: 'img/australia.png'
+  flag2: 'img2/australia.png'
 
 - data: flag
   nation: THA
   flag: 'img/thailand.png'
+  flag2: 'img2/thailand.png'
 
 - data: flag
   nation: MYS
-  flag: 'img/malasya.png'
+  flag: 'img/malaysia.png'
+  flag2: 'img2/malaysia.png'

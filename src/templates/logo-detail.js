@@ -238,7 +238,7 @@ export const query = graphql`
         wikiURL
         nation
         nationalFlag {
-          flag {
+          flag2 {
             childImageSharp {
               gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
             }

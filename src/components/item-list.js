@@ -94,7 +94,7 @@ const ItemList = ({ allItems }) => {
                         <GatsbyImage
                           image={getImage(item.detailInfo[0].nationalFlag[0].flag)}
                           alt={item.detailInfo[0].nation}
-                          className="absolute top-lg right-xl"
+                          className="absolute top-lg right-xl rounded-full"
                         />
                       )}
                       <footer className="w-full h-header flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
