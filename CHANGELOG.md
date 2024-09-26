@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/FCLOGO/fclogo.top/compare/v2.3.6...v2.4.0) (2024-09-26)
+
+
+### ✨ Features | 新功能
+
+* *增加* 所属国家国旗标志 ([fbe3480](https://github.com/FCLOGO/fclogo.top/commit/fbe348024f7e2e0784cacc2378a481a3856fff1b))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* *修正* 样式错误 ([83e9b32](https://github.com/FCLOGO/fclogo.top/commit/83e9b3285e76d9021f0cddfdafdb9dbc7526bb30))
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* *修改* 国旗图标大小 ([864b66f](https://github.com/FCLOGO/fclogo.top/commit/864b66f4a40654e9cd2cafc4534704c1601bb881))
+* *修改* 国旗图标样式 ([b0440f4](https://github.com/FCLOGO/fclogo.top/commit/b0440f43885b11050aec51f8dde466a6778862b7))
+* 修改边栏宽度 ([e1ad4dc](https://github.com/FCLOGO/fclogo.top/commit/e1ad4dcdff0ecec6afb9fba3fedd8bbb68deb7f6))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2024 赛季日本 J1 联赛徽标集 ([ef0fb09](https://github.com/FCLOGO/fclogo.top/commit/ef0fb094c6b596e8eaf8de2181797b7b259ecfa7))
+* *新增* 日本 J 联赛 ([479c4ca](https://github.com/FCLOGO/fclogo.top/commit/479c4caa02ef36c2fb93b6968f3b28584f49f253))
+* *新增* 日本 J1 联赛俱乐部 ([7bbe68a](https://github.com/FCLOGO/fclogo.top/commit/7bbe68add683c336b02180fff9b5645a0333b32c))
+* *修正* 错误 ([e7beef5](https://github.com/FCLOGO/fclogo.top/commit/e7beef5412b80c6348c4d81046ae8e0a1259797d))
+
 ### [2.3.6](https://github.com/FCLOGO/fclogo.top/compare/v2.3.5...v2.3.6) (2024-09-22)
 
 
