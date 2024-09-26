@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-011
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Kashiwa Reysol Football Club
+      shortName: Kashiwa Reysol
+      localName: 柏レイソル
+      founded: 1940
+      city: Kashiwa, Japan
+      ground: Sankyo Frontier Kashiwa Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/REYSOL_Official/'
+  websiteURL: 'https://www.reysol.co.jp/index.php/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kashiwa_Reysol'

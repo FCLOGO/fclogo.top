@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-012
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Tokyo Verdy Football Club
+      shortName: Tokyo Verdy
+      localName: 東京ヴェルディ
+      founded: 1969
+      city: Tokyo, Japan
+      ground: Ajinomoto Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/TokyoVerdySTAFF/'
+  websiteURL: 'https://www.verdy.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tokyo_Verdy'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-223158-290fc9
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['町田泽维亚']
+  slug: /jfa/club/machida-zelvia-v2008-mono
+  pngPath: 'png/machida-zelvia-v2008-mono.png'
+  svgPath: 'svg/machida-zelvia-v2008-mono.svg'
+  sourceID: jfa-club-015
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-223246-05f389
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['町田泽维亚']
+  slug: /jfa/club/machida-zelvia-v2008
+  pngPath: 'png/machida-zelvia-v2008.png'
+  svgPath: 'svg/machida-zelvia-v2008.svg'
+  sourceID: jfa-club-015
+  style: color
+  reference: 'https://www.jleague.co/clubs/FC-Machida-Zelvia/'
+  ctrbID: ''

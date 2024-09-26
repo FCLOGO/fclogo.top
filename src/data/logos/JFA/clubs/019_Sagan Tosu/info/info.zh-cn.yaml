@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-019
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 鸟栖砂岩足球俱乐部
+      shortName: 鸟栖砂岩
+      localName: サガン鳥栖
+      founded: 1997
+      city: Tosu, Japan
+      ground: Ekimae Real Estate Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/saganofficial17/'
+  websiteURL: 'http://www.sagan-tosu.net/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/鳥栖砂岩'

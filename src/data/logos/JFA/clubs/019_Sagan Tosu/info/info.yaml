@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-019
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Sagan Tosu Football Club
+      shortName: Sagan Tosu
+      localName: サガン鳥栖
+      founded: 1997
+      city: Tosu, Japan
+      ground: Ekimae Real Estate Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/saganofficial17/'
+  websiteURL: 'http://www.sagan-tosu.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sagan_Tosu'

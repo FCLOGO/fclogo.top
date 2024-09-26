@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-010
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Kashima Antlers Football Club
+      shortName: Kashima Antlers
+      localName: 鹿島アントラーズ
+      founded: 1947
+      city: Kashima, Japan
+      ground: Kashima Soccer Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/atlrs_official/'
+  websiteURL: 'https://www.antlers.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kashima_Antlers'

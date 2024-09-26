@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-020
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Urawa Red Diamonds Football Club
+      shortName: Urawa Red Diamonds
+      localName: 浦和レッドダイヤモンズ
+      founded: 1950
+      city: Saitama, Japan
+      ground: Saitama Stadium 2002
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/REDSOFFICIAL/'
+  websiteURL: 'http://www.urawa-reds.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Urawa_Red_Diamonds'

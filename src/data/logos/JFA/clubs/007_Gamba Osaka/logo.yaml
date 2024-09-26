@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240925-170443-af3ffd
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Gamba Osaka']
+  slug: /jfa/club/gamba-osaka-v1996
+  pngPath: 'png/gamba-osaka-v1996.png'
+  svgPath: 'svg/gamba-osaka-v1996.svg'
+  sourceID: jfa-club-007
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-170516-63f0d8
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gamba Osaka']
+  slug: /jfa/club/gamba-osaka-v2022-mono
+  pngPath: 'png/gamba-osaka-v2022-mono.png'
+  svgPath: 'svg/gamba-osaka-v2022-mono.svg'
+  sourceID: jfa-club-007
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-170544-7ac8af
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gamba Osaka']
+  slug: /jfa/club/gamba-osaka-v2022
+  pngPath: 'png/gamba-osaka-v2022.png'
+  svgPath: 'svg/gamba-osaka-v2022.svg'
+  sourceID: jfa-club-007
+  style: color
+  reference: 'https://www.jleague.co/clubs/Gamba-Osaka/'
+  ctrbID: ''

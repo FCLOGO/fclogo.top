@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-193358-8c96c9
+  version: 1992
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kashima Antlers']
+  slug: /jfa/club/kashima-antlers-v1992-mono
+  pngPath: 'png/kashima-antlers-v1992-mono.png'
+  svgPath: 'svg/kashima-antlers-v1992-mono.svg'
+  sourceID: jfa-club-010
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-193446-e90ce5
+  version: 1992
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kashima Antlers']
+  slug: /jfa/club/kashima-antlers-v1992
+  pngPath: 'png/kashima-antlers-v1992.png'
+  svgPath: 'svg/kashima-antlers-v1992.svg'
+  sourceID: jfa-club-010
+  style: color
+  reference: 'https://www.jleague.co/clubs/Kashima-Antlers/'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-014
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Albirex Niigata Football Club
+      shortName: Albirex Niigata
+      localName: アルビレックス新潟
+      founded: 1955
+      city: Niigata, Japan
+      ground: Denka Big Swan Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/albirex_pr/'
+  websiteURL: 'http://www.albirex.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Albirex_Niigata'

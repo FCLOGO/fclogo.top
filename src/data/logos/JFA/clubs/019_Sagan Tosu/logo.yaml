@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240926-093204-77df67
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sagan Tosu']
+  slug: /jfa/club/sagan-tosu-v2006
+  pngPath: 'png/sagan-tosu-v2006.png'
+  svgPath: 'svg/sagan-tosu-v2006.svg'
+  sourceID: jfa-club-019
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240926-093238-762a4d
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sagan Tosu']
+  slug: /jfa/club/sagan-tosu-v2015-mono
+  pngPath: 'png/sagan-tosu-v2015-mono.png'
+  svgPath: 'svg/sagan-tosu-v2015-mono.svg'
+  sourceID: jfa-club-019
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240926-093324-5a5178
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sagan Tosu']
+  slug: /jfa/club/sagan-tosu-v2015
+  pngPath: 'png/sagan-tosu-v2015.png'
+  svgPath: 'svg/sagan-tosu-v2015.svg'
+  sourceID: jfa-club-019
+  style: color
+  reference: 'https://www.jleague.co/clubs/Sagan-Tosu/'
+  ctrbID: ''

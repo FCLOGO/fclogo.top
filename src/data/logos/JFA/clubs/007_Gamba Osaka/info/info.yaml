@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-007
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Gamba Osaka Football Club
+      shortName: Gamba Osaka
+      localName: ガンバ大阪
+      founded: 1980
+      city: Osaka, Japan
+      ground: Panasonic Stadium Suita
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/GAMBA_OFFICIAL/'
+  websiteURL: 'http://www.gamba-osaka.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gamba_Osaka'

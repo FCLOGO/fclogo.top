@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-017
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Shonan Bellmare Football Club
+      shortName: Shonan Bellmare
+      localName: 湘南ベルマーレ
+      founded: 1968
+      city: Hiratsuka, Japan
+      ground: Lemon Gas Stadium Hiratsuka
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/bellmare_staff/'
+  websiteURL: 'http://www.bellmare.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shonan_Bellmare'

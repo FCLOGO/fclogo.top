@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-014
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 新潟天鹅足球俱乐部
+      shortName: 新潟天鹅
+      localName: アルビレックス新潟
+      founded: 1955
+      city: 日本，新潟
+      ground: 电化大鹅球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/albirex_pr/'
+  websiteURL: 'http://www.albirex.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki//新潟天鵝'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-010
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 鹿岛鹿角足球俱乐部
+      shortName: 鹿岛鹿角
+      localName: 鹿島アントラーズ
+      founded: 1947
+      city: 日本，鹿岛
+      ground: 茨城县立鹿嶋足球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/atlrs_official/'
+  websiteURL: 'https://www.antlers.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/鹿島鹿角'

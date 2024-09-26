@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-017
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 湘南美海足球俱乐部
+      shortName: 湘南美海
+      localName: 湘南ベルマーレ
+      founded: 1968
+      city: Hiratsuka, Japan
+      ground: Lemon Gas Stadium Hiratsuka
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/bellmare_staff/'
+  websiteURL: 'http://www.bellmare.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/湘南比馬'

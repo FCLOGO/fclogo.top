@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-020
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 浦和红钻足球俱乐部
+      shortName: 浦和红钻
+      localName: 浦和レッドダイヤモンズ
+      founded: 1950
+      city: 日本，埼玉
+      ground: 埼玉2002体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/REDSOFFICIAL/'
+  websiteURL: 'http://www.urawa-reds.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/浦和紅鑽'

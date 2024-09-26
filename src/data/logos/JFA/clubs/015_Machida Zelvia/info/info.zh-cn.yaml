@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-015
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 町田泽维亚足球俱乐部
+      shortName: 町田泽维亚
+      localName: FC町田ゼルビア
+      founded: 1989
+      city: 日本，町田
+      ground: 町田市立陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/FCMachidaZelvia/'
+  websiteURL: 'http://www.zelvia.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/町田澤維亞足球會'

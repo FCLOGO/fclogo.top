@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-164323-23207d
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广岛三箭']
+  slug: /jfa/club/sanfrecce-hiroshima-v2005-mono
+  pngPath: 'png/sanfrecce-hiroshima-v2005-mono.png'
+  svgPath: 'svg/sanfrecce-hiroshima-v2005-mono.svg'
+  sourceID: jfa-club-006
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-164411-0bf96d
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广岛三箭']
+  slug: /jfa/club/sanfrecce-hiroshima-v2005
+  pngPath: 'png/sanfrecce-hiroshima-v2005.png'
+  svgPath: 'svg/sanfrecce-hiroshima-v2005.svg'
+  sourceID: jfa-club-006
+  style: color
+  reference: 'https://www.jleague.co/clubs/Sanfrecce-Hiroshima/'
+  ctrbID: ''

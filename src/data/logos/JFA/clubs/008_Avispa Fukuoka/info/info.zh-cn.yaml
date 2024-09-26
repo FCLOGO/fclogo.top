@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-008
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 福冈黄蜂足球俱乐部
+      shortName: 福冈黄蜂
+      localName: アビスパ福岡
+      founded: 1982
+      city: 日本，福冈
+      ground: 东平尾公园博多之森球技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AvispaF/'
+  websiteURL: 'http://www.avispa.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/福岡黃蜂'

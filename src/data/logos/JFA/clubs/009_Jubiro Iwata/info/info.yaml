@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-009
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Júbilo Iwata Football Club
+      shortName: Júbilo Iwata
+      localName: ジュビロ磐田
+      founded: 1972
+      city: Iwata, Japan
+      ground: Yamaha Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Jubiloiwata_YFC/'
+  websiteURL: 'http://www.jubilo-iwata.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/J%C3%BAbilo_Iwata'

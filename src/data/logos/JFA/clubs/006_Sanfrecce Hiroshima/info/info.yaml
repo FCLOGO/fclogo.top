@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-006
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Sanfrecce Hiroshima Football club
+      shortName: Sanfrecce Hiroshima
+      localName: サンフレッチェ広島
+      founded: 1938
+      city: Hiroshima, Japan
+      ground: Edion Peace Wing Hiroshima
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/sanfrecce_SFC/'
+  websiteURL: 'https://www.sanfrecce.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sanfrecce_Hiroshima'

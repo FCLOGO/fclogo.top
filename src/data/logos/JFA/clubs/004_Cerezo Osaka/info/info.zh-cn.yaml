@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-004
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 大阪樱花足球俱乐部
+      shortName: 大阪樱花
+      localName: セレッソ大阪
+      founded: 1957
+      city: 日本，大阪
+      ground: 长居球技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/crz_official/'
+  websiteURL: 'https://www.cerezo.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/大阪櫻花'

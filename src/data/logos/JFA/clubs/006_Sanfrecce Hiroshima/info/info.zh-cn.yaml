@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-006
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 广岛三箭足球俱乐部
+      shortName: 广岛三箭
+      localName: サンフレッチェ広島
+      founded: 1938
+      city: 日本，广岛
+      ground: Edion和平翼广岛球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/sanfrecce_SFC/'
+  websiteURL: 'https://www.sanfrecce.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/廣島三箭'

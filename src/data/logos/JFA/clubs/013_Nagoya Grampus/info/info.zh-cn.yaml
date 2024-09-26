@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-013
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 名古屋鲸鱼足球俱乐部
+      shortName: 名古屋鲸鱼
+      localName: 名古屋グランパス
+      founded: 1939
+      city: 日本，名古屋
+      ground: 丰田体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/nge_official/'
+  websiteURL: 'http://nagoya-grampus.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/名古屋鯨魚'

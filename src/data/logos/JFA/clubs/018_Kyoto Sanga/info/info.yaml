@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-018
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Kyoto Sanga Football Club
+      shortName: Kyoto Sanga
+      localName: 京都サンガ
+      founded: 1922
+      city: Kyoto, Japan
+      ground: Sanga Stadium by Kyocera
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/sangafc/'
+  websiteURL: 'http://www.sanga-fc.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kyoto_Sanga_FC'

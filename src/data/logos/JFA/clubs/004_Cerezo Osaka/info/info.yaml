@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-004
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Cerezo Osaka Football Club
+      shortName: Cerezo Osaka
+      localName: セレッソ大阪
+      founded: 1957
+      city: Osaja, Japan
+      ground: Yodoko Sakura Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/crz_official/'
+  websiteURL: 'https://www.cerezo.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Cerezo_Osaka'

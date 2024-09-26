@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240926-085355-fc4c7c
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Shonan Bellmare']
+  slug: /jfa/club/shonan-bellmare-v0000-mono
+  pngPath: 'png/shonan-bellmare-v0000-mono.png'
+  svgPath: 'svg/shonan-bellmare-v0000-mono.svg'
+  sourceID: jfa-club-017
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240926-085506-662951
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Shonan Bellmare']
+  slug: /jfa/club/shonan-bellmare-v0000
+  pngPath: 'png/shonan-bellmare-v0000.png'
+  svgPath: 'svg/shonan-bellmare-v0000.svg'
+  sourceID: jfa-club-017
+  style: color
+  reference: 'https://www.jleague.co/clubs/Shonan-Bellmare/'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-015
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Football Club Machida Zelvia
+      shortName: FC Machida Zelvia
+      localName: FC町田ゼルビア
+      founded: 1989
+      city: Machida, Japan
+      ground: Machida GION Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/FCMachidaZelvia/'
+  websiteURL: 'http://www.zelvia.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Machida_Zelvia'

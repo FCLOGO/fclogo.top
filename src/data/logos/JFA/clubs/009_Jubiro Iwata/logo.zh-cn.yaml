@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-173012-39ec68
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['磐田喜悦']
+  slug: /jfa/club/jubilo-iwata-v2015-mono
+  pngPath: 'png/jubilo-iwata-v2015-mono.png'
+  svgPath: 'svg/jubilo-iwata-v2015-mono.svg'
+  sourceID: jfa-club-009
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-173125-1f3825
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['磐田喜悦']
+  slug: /jfa/club/jubilo-iwata-v2015
+  pngPath: 'png/jubilo-iwata-v2015.png'
+  svgPath: 'svg/jubilo-iwata-v2015.svg'
+  sourceID: jfa-club-009
+  style: color
+  reference: 'https://www.jleague.co/clubs/Jubilo-Iwata/'
+  ctrbID: ''

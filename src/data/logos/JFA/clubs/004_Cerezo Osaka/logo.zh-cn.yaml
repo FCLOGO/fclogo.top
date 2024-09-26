@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-161710-633def
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大阪樱花']
+  slug: /jfa/club/cerezo-osaka-v2011-mono
+  pngPath: 'png/cerezo-osaka-v2011-mono.png'
+  svgPath: 'svg/cerezo-osaka-v2011-mono.svg'
+  sourceID: jfa-club-004
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-161751-6d57ba
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大阪樱花']
+  slug: /jfa/club/cerezo-osaka-v2011
+  pngPath: 'png/cerezo-osaka-v2011.png'
+  svgPath: 'svg/cerezo-osaka-v2011.svg'
+  sourceID: jfa-club-004
+  style: color
+  reference: 'https://www.jleague.co/clubs/Cerezo-Osaka/'
+  ctrbID: ''

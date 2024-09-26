@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-007
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 大阪钢巴足球俱乐部
+      shortName: 大阪钢巴
+      localName: ガンバ大阪
+      founded: 1980
+      city: 日本，大阪
+      ground: 市立吹田足球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/GAMBA_OFFICIAL/'
+  websiteURL: 'http://www.gamba-osaka.net/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/大阪飛腳'
