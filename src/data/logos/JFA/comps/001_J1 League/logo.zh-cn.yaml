@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20240926-104538-667504
+  version: 2019
+  isDoubtful: true
+  isOutdated: false
+  verName: ['明治安田生命J1联赛']
+  slug: /jfa/comp/j1-league-v2019
+  pngPath: 'png/j1-league-v2019.png'
+  svgPath: 'svg/j1-league-v2019.svg'
+  sourceID: jfa-comp-001
+  style: color
+  reference: 'https://www.jleague.co/clubs/#j1'
+  ctrbID: ''
