@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.1](https://github.com/FCLOGO/fclogo.top/compare/v2.4.0...v2.4.1) (2024-09-26)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* *修正* 国旗标志样式错误 ([a363feb](https://github.com/FCLOGO/fclogo.top/commit/a363febcaa3643d5602b7507c759043019f062fe))
+
 ## [2.4.0](https://github.com/FCLOGO/fclogo.top/compare/v2.3.6...v2.4.0) (2024-09-26)
 
 
