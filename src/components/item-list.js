@@ -91,11 +91,13 @@ const ItemList = ({ allItems }) => {
                         className="m-[15%_20%]"
                       />
                       {item.detailInfo[0].nation && (
-                        <GatsbyImage
-                          image={getImage(item.detailInfo[0].nationalFlag[0].flag)}
-                          alt={item.detailInfo[0].nation}
-                          className="absolute top-lg right-xl rounded-full"
-                        />
+                        <div className="absolute top-lg right-xl rounded-full">
+                          <GatsbyImage
+                            image={getImage(item.detailInfo[0].nationalFlag[0].flag)}
+                            alt={item.detailInfo[0].nation}
+                            className="rounded-full"
+                          />
+                        </div>
                       )}
                       <footer className="w-full h-header flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
                         <h3 className="font-medium flex-auto whitespace-nowrap overflow-hidden text-ellipsis">
