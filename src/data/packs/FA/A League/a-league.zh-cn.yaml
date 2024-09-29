@@ -1,0 +1,34 @@
+- data: logoPack
+  packID: 20240929-204904-6eabb2
+  name: 澳大利亚 A 联赛
+  season: '24-25'
+  packSource: fa-comp-001
+  logoVersion: 0000
+  slug: /pack/24-25-a-league-men
+  items:
+    - id: fa-club-001
+      version: 2005
+    - id: fa-club-002
+      version: 2005
+    - id: fa-club-003
+      version: 2014
+    - id: fa-club-004
+      version: 2024
+    - id: fa-club-005
+      version: 2019
+    - id: fa-club-006
+      version: 2014
+    - id: fa-club-007
+      version: 2005
+    - id: fa-club-008
+      version: 2005
+    - id: fa-club-009
+      version: 2009
+    - id: fa-club-010
+      version: 2018
+    - id: fa-club-011
+      version: 2017
+    - id: fa-club-012
+      version: 2012
+    - id: fa-club-013
+      version: 2019
