@@ -13,11 +13,11 @@
     - id: cfa-club-006
       version: 2021
     - id: jfa-club-001
-      version: 0000
+      version: 2005
     - id: jfa-club-002
-      version: 0000
+      version: 1999
     - id: jfa-club-003
-      version: 0000
+      version: 2005
     - id: kfa-club-001
       version: 2024
     - id: kfa-club-002
@@ -27,6 +27,6 @@
     - id: fam-club-001
       version: 0000
     - id: fa-club-001
-      version: 0000
+      version: 2005
     - id: fat-club-001
       version: 0000
