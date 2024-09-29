@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.2](https://github.com/FCLOGO/fclogo.top/compare/v2.4.1...v2.4.2) (2024-09-29)
+
+
+### 📝 Documentation | 文档
+
+* *新增* 24-25赛季A联赛徽标集 ([595a7b1](https://github.com/FCLOGO/fclogo.top/commit/595a7b178cf48ec3bcdbe02a8600d8a8b14cf826))
+* *新增* 澳大利亚 A 联赛俱乐部徽标 ([7a6647d](https://github.com/FCLOGO/fclogo.top/commit/7a6647d5c52dd2a12d49f877f20703dca85cc2c7))
+* *修正* 队徽版本错误 ([08ca6ae](https://github.com/FCLOGO/fclogo.top/commit/08ca6ae7fdb8ff658489436ec8dd3978da2510da))
+
 ### [2.4.1](https://github.com/FCLOGO/fclogo.top/compare/v2.4.0...v2.4.1) (2024-09-26)
 
 
