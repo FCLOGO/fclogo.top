@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-005
+  status: alive
+  type: club
+  nation: AUS
+  timeline: true
+  info:
+    - fullName: Macarthur Football Club
+      shortName: Macarthur FC
+      localName: Macarthur Football Club
+      founded: 2018
+      city: South Western Sydney, Australia
+      ground: Campbelltown Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/mfcbulls'
+  websiteURL: 'https://macarthurfc.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Macarthur_FC'

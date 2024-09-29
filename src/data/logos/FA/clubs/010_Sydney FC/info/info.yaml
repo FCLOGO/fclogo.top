@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-010
+  status: alive
+  type: club
+  nation: AUS
+  timeline: true
+  info:
+    - fullName: Sydney Football Club
+      shortName: Sydney FC
+      localName: Sydney Football Club
+      founded: 2004
+      city: Sydney, Australia
+      ground: Allianz Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/SydneyFC'
+  websiteURL: 'https://sydneyfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sydney_FC'

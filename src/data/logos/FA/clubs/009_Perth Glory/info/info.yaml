@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-009
+  status: alive
+  type: club
+  nation: AUS
+  timeline: false
+  info:
+    - fullName: Perth Glory Football Club
+      shortName: Perth Glory
+      localName: Perth Glory Football Club
+      founded: 1995
+      city: Perth, Australia
+      ground: HBF Park
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/PerthGloryFC'
+  websiteURL: 'https://perthglory.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Perth_Glory_FC'

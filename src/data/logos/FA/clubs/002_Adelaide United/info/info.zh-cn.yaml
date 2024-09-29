@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-002
+  status: alive
+  type: club
+  nation: AUS
+  timeline: true
+  info:
+    - fullName: 阿德莱德联足球俱乐部
+      shortName: 阿德莱德联
+      localName: Adelaide United Football Club
+      founded: 2003
+      city: 澳大利亚，阿德莱德
+      ground: 欣德马什体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AdelaideUnited'
+  websiteURL: 'https://adelaideunited.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Adelaide_United_FC'

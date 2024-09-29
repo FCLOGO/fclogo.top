@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-003
+  status: alive
+  type: club
+  nation: AUS
+  timeline: false
+  info:
+    - fullName: Brisbane Roar Football Club
+      shortName: Brisbane Roar
+      localName: Brisbane Roar Football Club
+      founded: 1957
+      city: Brisbane, Australia
+      ground: Lang Park
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/brisbaneroar'
+  websiteURL: 'https://brisbaneroar.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Brisbane_Roar_FC'

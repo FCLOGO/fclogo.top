@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240929-151453-2b0d37
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['珀斯光荣']
+  slug: /fa/club/perth-glory-v2009-mono
+  pngPath: 'png/perth-glory-v2009-mono.png'
+  svgPath: 'svg/perth-glory-v2009-mono.svg'
+  sourceID: fa-club-009
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-151530-9c2192
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['珀斯光荣']
+  slug: /fa/club/perth-glory-v2009
+  pngPath: 'png/perth-glory-v2009.png'
+  svgPath: 'svg/perth-glory-v2009.svg'
+  sourceID: fa-club-009
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

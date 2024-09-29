@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-comp-001
+  type: comp
+  nation: AUS
+  timeline: false
+  info:
+    - fullName: A-League Men
+      shortName: A-League Men
+      localName: A-League Men
+      founded: 2004
+      confederation: AFC
+      teams: 13
+      level: Level 1
+      promotion:
+      relegation:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/aleaguemen'
+  websiteURL: 'https://aleagues.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/A-League_Men'

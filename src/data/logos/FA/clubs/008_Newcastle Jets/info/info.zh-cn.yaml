@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-008
+  status: alive
+  type: club
+  nation: AUS
+  timeline: false
+  info:
+    - fullName: 纽卡斯尔联喷气机足球俱乐部
+      shortName: 纽卡斯尔喷气机
+      localName: Newcastle United Jets Football Club
+      founded: 1999
+      city: 澳大利亚，纽卡斯尔
+      ground: 纽卡斯尔国际体育中心
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/newcastlejetsfc'
+  websiteURL: 'https://newcastlejetsfc.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Newcastle_Jets_FC'

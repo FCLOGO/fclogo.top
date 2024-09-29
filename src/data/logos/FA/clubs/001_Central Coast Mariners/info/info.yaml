@@ -3,7 +3,7 @@
   status: alive
   type: club
   nation: AUS
-  timeline: false
+  timeline: true
   info:
     - fullName: Central Coast Mariners Football Club
       shortName: Central Coast Mariners

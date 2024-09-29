@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240928-201749-6337a2
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Brisbane Roar']
+  slug: /fa/club/brisbane-roar-v2014-mono
+  pngPath: 'png/brisbane-roar-v2014-mono.png'
+  svgPath: 'svg/brisbane-roar-v2014-mono.svg'
+  sourceID: fa-club-003
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240928-201845-0cf8b7
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Brisbane Roar']
+  slug: /fa/club/brisbane-roar-v2014
+  pngPath: 'png/brisbane-roar-v2014.png'
+  svgPath: 'svg/brisbane-roar-v2014.svg'
+  sourceID: fa-club-003
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-004
+  status: alive
+  type: club
+  nation: AUS
+  timeline: true
+  info:
+    - fullName: Auckland Football Club
+      shortName: Auckland FC
+      localName: Auckland Football Club
+      founded: 2024
+      city: Auckland, Australia
+      ground: Mount Smart Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fc_auckland'
+  websiteURL: 'https://aucklandfc.co.nz/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Auckland_FC'

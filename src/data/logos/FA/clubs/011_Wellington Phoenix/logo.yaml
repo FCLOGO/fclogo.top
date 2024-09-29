@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240929-201737-6b96e2
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Wellington Phoenix']
+  slug: /fa/club/wellington-phoenix-v2007
+  pngPath: 'png/wellington-phoenix-v2007.png'
+  svgPath: 'svg/wellington-phoenix-v2007.svg'
+  sourceID: fa-club-011
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-201818-9fdebd
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wellington Phoenix']
+  slug: /fa/club/wellington-phoenix-v2017-mono
+  pngPath: 'png/wellington-phoenix-v2017-mono.png'
+  svgPath: 'svg/wellington-phoenix-v2017-mono.svg'
+  sourceID: fa-club-011
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-201918-8f7e69
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wellington Phoenix']
+  slug: /fa/club/wellington-phoenix-v2017
+  pngPath: 'png/wellington-phoenix-v2017.png'
+  svgPath: 'svg/wellington-phoenix-v2017.svg'
+  sourceID: fa-club-011
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

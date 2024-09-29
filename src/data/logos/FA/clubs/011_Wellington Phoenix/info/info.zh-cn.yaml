@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-011
+  status: alive
+  type: club
+  nation: AUS
+  timeline: true
+  info:
+    - fullName: 惠灵顿凤凰足球俱乐部
+      shortName: 惠灵顿凤凰
+      localName: Wellington Phoenix Football Club
+      founded: 2007
+      city: 澳大利亚，惠灵顿
+      ground: 威灵顿地区体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/WgtnPhoenixFC'
+  websiteURL: 'https://wellingtonphoenix.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Wellington_Phoenix_FC'

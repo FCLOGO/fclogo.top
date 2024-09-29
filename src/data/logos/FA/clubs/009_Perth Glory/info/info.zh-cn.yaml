@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fa-club-009
+  status: alive
+  type: club
+  nation: AUS
+  timeline: false
+  info:
+    - fullName: 珀斯光荣足球俱乐部
+      shortName: 珀斯光荣
+      localName: Perth Glory Football Club
+      founded: 1995
+      city: 澳大利亚，珀斯
+      ground: HBF公园球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/PerthGloryFC'
+  websiteURL: 'https://perthglory.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Perth_Glory_FC'

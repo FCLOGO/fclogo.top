@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240928-200642-5f86ff
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Adelaide United']
+  slug: /fa/club/adelaide-united-v2005-mono
+  pngPath: 'png/adelaide-united-v2005-mono.png'
+  svgPath: 'svg/adelaide-united-v2005-mono.svg'
+  sourceID: fa-club-002
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240928-200830-b5844e
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Adelaide United']
+  slug: /fa/club/adelaide-united-v2005
+  pngPath: 'png/adelaide-united-v2005.png'
+  svgPath: 'svg/adelaide-united-v2005.svg'
+  sourceID: fa-club-002
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240928-204246-a80273
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Auckland FC']
+  slug: /fa/club/auckland-fc-v2024-mono
+  pngPath: 'png/auckland-fc-v2024-mono.png'
+  svgPath: 'svg/auckland-fc-v2024-mono.svg'
+  sourceID: fa-club-004
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240928-204327-f19f8a
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Auckland FC']
+  slug: /fa/club/auckland-fc-v2024
+  pngPath: 'png/auckland-fc-v2024.png'
+  svgPath: 'svg/auckland-fc-v2024.svg'
+  sourceID: fa-club-004
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
