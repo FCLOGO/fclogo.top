@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-012
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 金泉尚武足球俱乐部
+      shortName: 金泉尚武
+      localName: 김천 상무 프로축구단
+      founded: 1984
+      city: 韩国，金泉
+      ground: 金泉综合运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://gimcheonfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gimcheon_Sangmu_FC'

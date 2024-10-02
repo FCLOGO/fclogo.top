@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241001-225429-e3926c
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['首尔 FC']
+  slug: /kfa/club/fc-seoul-v2004-mono
+  pngPath: 'png/fc-seoul-v2004-mono.png'
+  svgPath: 'svg/fc-seoul-v2004-mono.svg'
+  sourceID: kfa-club-007
+  style: mono
+  reference: 'https://www.fcseoul.com/club/clubFcEmblemView'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241001-225529-442f9d
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['首尔 FC']
+  slug: /kfa/club/fc-seoul-v2004
+  pngPath: 'png/fc-seoul-v2004.png'
+  svgPath: 'svg/fc-seoul-v2004.svg'
+  sourceID: kfa-club-007
+  style: color
+  reference: 'https://www.fcseoul.com/club/clubFcEmblemView'
+  ctrbID: ''

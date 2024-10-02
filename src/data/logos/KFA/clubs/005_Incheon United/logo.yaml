@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241001-223445-1ad426
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Incheon United']
+  slug: /kfa/club/incheon-united-v2004-mono
+  pngPath: 'png/incheon-united-v2004-mono.png'
+  svgPath: 'svg/incheon-united-v2004-mono.svg'
+  sourceID: kfa-club-005
+  style: mono
+  reference: 'https://www.incheonutd.com/club/intro.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241001-223549-f0fe91
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Incheon United']
+  slug: /kfa/club/incheon-united-v2004
+  pngPath: 'png/incheon-united-v2004.png'
+  svgPath: 'svg/incheon-united-v2004.svg'
+  sourceID: kfa-club-005
+  style: color
+  reference: 'https://www.incheonutd.com/club/intro.php'
+  ctrbID: ''

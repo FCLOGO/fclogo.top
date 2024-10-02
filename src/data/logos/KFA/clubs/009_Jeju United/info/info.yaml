@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-009
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Jeju United Football Club
+      shortName: Jeju United
+      localName: 제주 유나이티드 FC
+      founded: 1982
+      city: Jeju, Korea
+      ground: Jeju World Cup Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.jeju-utd.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jeju_United_FC'

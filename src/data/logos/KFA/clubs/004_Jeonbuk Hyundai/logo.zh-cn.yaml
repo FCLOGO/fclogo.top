@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240930-232413-cea2c1
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['全北现代汽车']
+  slug: /kfa/club/jeonbuk-hyundai-v2018-mono
+  pngPath: 'png/jeonbuk-hyundai-v2018-mono.png'
+  svgPath: 'svg/jeonbuk-hyundai-v2018-mono.svg'
+  sourceID: kfa-club-004
+  style: mono
+  reference: 'https://hyundai-motorsfc.com/club/ko'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240930-232522-783017
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['全北现代汽车']
+  slug: /kfa/club/jeonbuk-hyundai-v2018
+  pngPath: 'png/jeonbuk-hyundai-v2018.png'
+  svgPath: 'svg/jeonbuk-hyundai-v2018.svg'
+  sourceID: kfa-club-004
+  style: color
+  reference: 'https://hyundai-motorsfc.com/club/ko'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-007
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 首尔足球俱乐部
+      shortName: 首尔 FC
+      localName: FC 서울
+      founded: 1983
+      city: 韩国，首尔
+      ground: 首尔世界杯体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.fcseoul.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Seoul'

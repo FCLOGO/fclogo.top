@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-004
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Jeonbuk Hyundai Motors Football Club
+      shortName: Jeonbuk Hyundai Motors
+      localName: 전북 현대 모터스 축구단
+      founded: 1994
+      city: Jeonju, Korea
+      ground: Jeonju World Cup Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://hyundai-motorsfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jeonbuk_Hyundai_Motors'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-006
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 大邱足球俱乐部
+      shortName: 大邱 FC
+      localName: 대구시민프로축구단
+      founded: 2002
+      city: 韩国，大邱
+      ground: DGB大邱银行体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://daegufc.co.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Daegu_FC'

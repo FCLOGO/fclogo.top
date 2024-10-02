@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-comp-001
+  type: comp
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: K League 1
+      shortName: K League 1
+      localName: K리그1
+      founded: 1983
+      confederation: AFC
+      teams: 12
+      level: Level 1
+      promotion:
+      relegation: K League 2
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/kleague'
+  websiteURL: 'https://www.kleague.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/K_League_1'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-012
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Gimcheon Sangmu Football Club
+      shortName: Gimcheon Sangmu
+      localName: 김천 상무 프로축구단
+      founded: 1984
+      city: Gimcheon, Korea
+      ground: Gimcheon Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://gimcheonfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gimcheon_Sangmu_FC'

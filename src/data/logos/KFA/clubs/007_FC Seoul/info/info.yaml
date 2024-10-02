@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-007
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Football Club Seoul
+      shortName: FC Seoul
+      localName: FC 서울
+      founded: 1983
+      city: Seoul, Korea
+      ground: Seoul World Cup Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.fcseoul.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Seoul'

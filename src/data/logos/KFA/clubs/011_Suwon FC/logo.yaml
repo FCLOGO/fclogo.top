@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241002-092752-28c19b
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Suwon FC']
+  slug: /kfa/club/suwon-fc-v2016-mono
+  pngPath: 'png/suwon-fc-v2016-mono.png'
+  svgPath: 'svg/suwon-fc-v2016-mono.svg'
+  sourceID: kfa-club-011
+  style: mono
+  reference: 'https://www.suwonfc.com/?p=37'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241002-092849-5cc96e
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Suwon FC']
+  slug: /kfa/club/suwon-fc-v2016
+  pngPath: 'png/suwon-fc-v2016.png'
+  svgPath: 'svg/suwon-fc-v2016.svg'
+  sourceID: kfa-club-011
+  style: color
+  reference: 'https://www.suwonfc.com/?p=37'
+  ctrbID: ''

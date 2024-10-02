@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-comp-002
+  type: comp
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: K League 2
+      shortName: K League 2
+      localName: K리그 2
+      founded: 2013
+      confederation: AFC
+      teams: 12
+      level: Level 2
+      promotion: K League 1
+      relegation:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/kleague'
+  websiteURL: 'https://www.kleague.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/K_League_2'

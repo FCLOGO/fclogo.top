@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-011
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Suwon Football Club
+      shortName: Suwon FC
+      localName: 수원시민프로축구단
+      founded: 2003
+      city: Suwon, Korea
+      ground: Suwon Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.suwonfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Suwon_FC'
