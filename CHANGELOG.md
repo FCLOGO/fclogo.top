@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.3](https://github.com/FCLOGO/fclogo.top/compare/v2.4.2...v2.4.3) (2024-10-02)
+
+
+### 📝 Documentation | 文档
+
+* *新增* 韩国 K1 联赛俱乐部徽标 ([aec5006](https://github.com/FCLOGO/fclogo.top/commit/aec5006d542edda3ff4d4fb7080c2f19872e6fbf))
+* *增加* 2024赛季 K1 联赛徽标集 ([e794c30](https://github.com/FCLOGO/fclogo.top/commit/e794c30b5dae90423fe58f2c566617c81b5bee81))
+
 ### [2.4.2](https://github.com/FCLOGO/fclogo.top/compare/v2.4.1...v2.4.2) (2024-09-29)
 
 
