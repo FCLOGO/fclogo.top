@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.4](https://github.com/FCLOGO/fclogo.top/compare/v2.4.3...v2.4.4) (2024-10-13)
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2024赛季日本J2联赛俱乐部徽标集 ([fb76b30](https://github.com/FCLOGO/fclogo.top/commit/fb76b302cb232ec92f6263a9afe360c0ea3ead71))
+* *新增* 日本 J2 联赛俱乐部徽标 ([a5f9260](https://github.com/FCLOGO/fclogo.top/commit/a5f9260aceef67cf87437190c11687d72a5ddd3b))
+
 ### [2.4.3](https://github.com/FCLOGO/fclogo.top/compare/v2.4.2...v2.4.3) (2024-10-02)
 
 
