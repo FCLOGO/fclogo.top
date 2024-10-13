@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-022
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 市原千叶JEF联足球俱乐部
+      shortName: 千叶市原
+      localName: ジェフユナイテッド市原・千葉
+      founded: 1946
+      city: 日本，千叶
+      ground: 千叶市苏我球技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/jef_united/'
+  websiteURL: 'https://jefunited.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/JEF_United_Chiba'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-031
+  status: alive
+  type: club
+  nation: JPN
+  timeline: true
+  info:
+    - fullName: V-Varen Nagasaki Football Club
+      shortName: V-Varen Nagasaki
+      localName: V・ファーレン長崎
+      founded: 2005
+      city: Nagasaki, Japan
+      ground: Peace Stadium Connected by Softbank
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/v_varenstaff/'
+  websiteURL: 'https://www.v-varen.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/V-Varen_Nagasaki'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-230448-dce565
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山口雷法']
+  slug: /jfa/club/renofa-yamaguchi-v2013-mono
+  pngPath: 'png/renofa-yamaguchi-v2013-mono.png'
+  svgPath: 'svg/renofa-yamaguchi-v2013-mono.svg'
+  sourceID: jfa-club-039
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Renofa-Yamaguchi-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-230523-03c25a
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山口雷法']
+  slug: /jfa/club/renofa-yamaguchi-v2013
+  pngPath: 'png/renofa-yamaguchi-v2013.png'
+  svgPath: 'svg/renofa-yamaguchi-v2013.svg'
+  sourceID: jfa-club-039
+  style: color
+  reference: 'https://www.jleague.co/clubs/Renofa-Yamaguchi-FC/'
+  ctrbID: ''

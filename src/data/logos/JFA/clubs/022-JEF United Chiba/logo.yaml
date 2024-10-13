@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241012-155849-c1db5c
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['JEF United Chiba']
+  slug: /jfa/club/jef-united-chiba-v1996-mono
+  pngPath: 'png/jef-united-chiba-v1996-mono.png'
+  svgPath: 'svg/jef-united-chiba-v1996-mono.svg'
+  sourceID: jfa-club-022
+  style: mono
+  reference: 'https://www.jleague.co/clubs/JEF-United-Chiba/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241012-155932-2b4ee4
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['JEF United Chiba']
+  slug: /jfa/club/jef-united-chiba-v1996
+  pngPath: 'png/jef-united-chiba-v1996.png'
+  svgPath: 'svg/jef-united-chiba-v1996.svg'
+  sourceID: jfa-club-022
+  style: color
+  reference: 'https://www.jleague.co/clubs/JEF-United-Chiba/'
+  ctrbID: ''

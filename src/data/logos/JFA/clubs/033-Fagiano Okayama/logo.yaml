@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-221030-a6c6b3
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fagiano Okayama']
+  slug: /jfa/club/fagiano-okayama-v2018-mono
+  pngPath: 'png/fagiano-okayama-v2018-mono.png'
+  svgPath: 'svg/fagiano-okayama-v2018-mono.svg'
+  sourceID: jfa-club-033
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Fagiano-Okayama/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-221126-39fdf7
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fagiano Okayama']
+  slug: /jfa/club/fagiano-okayama-v2018
+  pngPath: 'png/fagiano-okayama-v2018.png'
+  svgPath: 'svg/fagiano-okayama-v2018.svg'
+  sourceID: jfa-club-033
+  style: color
+  reference: 'https://www.jleague.co/clubs/Fagiano-Okayama/'
+  ctrbID: ''

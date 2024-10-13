@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-023
+  status: alive
+  type: club
+  nation: JPN
+  timeline: true
+  info:
+    - fullName: 藤枝MYFC
+      shortName: 藤枝MYFC
+      localName: 藤枝MYFC
+      founded: 2009
+      city: 日本，藤枝
+      ground: 藤枝总合运动公园足球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fujiedamyfc_pr/'
+  websiteURL: 'http://myfc.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fujieda_MYFC'

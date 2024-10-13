@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-039
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Renofa Yamaguchi Football Club
+      shortName: Renofa Yamaguchi
+      localName: レノファ山口FC
+      founded: 1949
+      city: Yamaguchi, Japan
+      ground: Ishin Me-Life Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/renofayamaguchi/'
+  websiteURL: 'http://www.renofa.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Renofa_Yamaguchi_FC'

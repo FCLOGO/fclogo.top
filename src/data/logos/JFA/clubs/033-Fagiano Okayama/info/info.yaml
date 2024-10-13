@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-033
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Fagiano Okayama Football Club
+      shortName: Fagiano Okayama
+      localName: ファジアーノ岡山FC
+      founded: 2004
+      city: Okayama, Japan
+      ground: City Light Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fagiano_koho/'
+  websiteURL: 'http://www.fagiano-okayama.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fagiano_Okayama'

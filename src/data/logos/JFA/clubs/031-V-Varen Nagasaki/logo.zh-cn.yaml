@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-204832-6bd992
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['长崎航海']
+  slug: /jfa/club/v-varen-nagasaki-v2005-mono
+  pngPath: 'png/v-varen-nagasaki-v2005-mono.png'
+  svgPath: 'svg/v-varen-nagasaki-v2005-mono.svg'
+  sourceID: jfa-club-031
+  style: mono
+  reference: 'https://www.jleague.co/clubs/V-Varen-Nagasaki/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-204920-91b168
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['长崎航海']
+  slug: /jfa/club/v-varen-nagasaki-v2005
+  pngPath: 'png/v-varen-nagasaki-v2005.png'
+  svgPath: 'svg/v-varen-nagasaki-v2005.svg'
+  sourceID: jfa-club-031
+  style: color
+  reference: 'https://www.jleague.co/clubs/V-Varen-Nagasaki/'
+  ctrbID: ''

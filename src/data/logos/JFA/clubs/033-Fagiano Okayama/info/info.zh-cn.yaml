@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-033
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 冈山绿雉足球俱乐部
+      shortName: 冈山绿雉
+      localName: ファジアーノ岡山FC
+      founded: 2004
+      city: 日本，冈山
+      ground: City Light 球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fagiano_koho/'
+  websiteURL: 'http://www.fagiano-okayama.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fagiano_Okayama'

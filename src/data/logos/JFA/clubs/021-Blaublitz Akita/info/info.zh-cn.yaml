@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-021
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 秋田蓝闪电足球俱乐部
+      shortName: 秋田蓝闪电
+      localName: ブラウブリッツ秋田
+      founded: 1965
+      city: 日本，秋田
+      ground: 八桥陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/blaublitz_akita/'
+  websiteURL: 'http://blaublitz.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Blaublitz_Akita'

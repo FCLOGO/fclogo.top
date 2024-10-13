@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-040
+  status: alive
+  type: club
+  nation: JPN
+  timeline: true
+  info:
+    - fullName: 横滨足球俱乐部
+      shortName: 横滨 FC
+      localName: 横浜FC
+      founded: 1998
+      city: 日本，横滨
+      ground: 三泽公园球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/yokohama_fc/'
+  websiteURL: 'https://www.yokohamafc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Yokohama_FC'

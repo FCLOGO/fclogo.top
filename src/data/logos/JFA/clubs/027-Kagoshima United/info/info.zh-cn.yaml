@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-027
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 鹿儿岛联足球俱乐部
+      shortName: 鹿儿岛联
+      localName: 鹿児島ユナイテッドFC
+      founded: 1959
+      city: 日本，鹿儿岛
+      ground: 鹿儿岛县立鸭池陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/kagoshimaufc/'
+  websiteURL: 'http://www.kufc.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kagoshima_United_FC'

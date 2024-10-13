@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-035
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 清水心跳足球俱乐部
+      shortName: 清水心跳
+      localName: 清水エスパルス
+      founded: 1991
+      city: 日本，清水
+      ground: 日本平运动公园竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/spulse_official/'
+  websiteURL: 'https://www.s-pulse.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shimizu_S-Pulse'

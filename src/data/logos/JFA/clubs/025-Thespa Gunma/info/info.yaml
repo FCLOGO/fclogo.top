@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-025
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Thespa Gunma
+      shortName: Thespa Gunma
+      localName: ザスパクサツ群馬
+      founded: 1995
+      city: Maebashi, Japan
+      ground: Shoda Shoyu Stadium Gunma
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/OfficialThespa/'
+  websiteURL: 'http://www.thespa.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Thespa_Gunma'

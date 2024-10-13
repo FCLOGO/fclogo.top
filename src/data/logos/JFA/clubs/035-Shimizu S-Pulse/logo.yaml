@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-222855-9e56dd
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shimizu S-Pulse']
+  slug: /jfa/club/shimizu-s-pulse-v2020-mono
+  pngPath: 'png/shimizu-s-pulse-v2020-mono.png'
+  svgPath: 'svg/shimizu-s-pulse-v2020-mono.svg'
+  sourceID: jfa-club-035
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Shimizu-S-Pulse/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-222924-8e8273
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shimizu S-Pulse']
+  slug: /jfa/club/shimizu-s-pulse-v2020
+  pngPath: 'png/shimizu-s-pulse-v2020.png'
+  svgPath: 'svg/shimizu-s-pulse-v2020.svg'
+  sourceID: jfa-club-035
+  style: color
+  reference: 'https://www.jleague.co/clubs/Shimizu-S-Pulse/'
+  ctrbID: ''

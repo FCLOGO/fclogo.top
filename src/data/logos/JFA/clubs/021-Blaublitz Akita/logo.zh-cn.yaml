@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241012-154111-8f2b0a
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['秋田蓝闪电']
+  slug: /jfa/club/blaublitz-akita-v2014-mono
+  pngPath: 'png/blaublitz-akita-v2014-mono.png'
+  svgPath: 'svg/blaublitz-akita-v2014-mono.svg'
+  sourceID: jfa-club-021
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Blaublitz-Akita/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241012-154158-54326f
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['秋田蓝闪电']
+  slug: /jfa/club/blaublitz-akita-v2014
+  pngPath: 'png/blaublitz-akita-v2014.png'
+  svgPath: 'svg/blaublitz-akita-v2014.svg'
+  sourceID: jfa-club-021
+  style: color
+  reference: 'https://www.jleague.co/clubs/Blaublitz-Akita/'
+  ctrbID: ''

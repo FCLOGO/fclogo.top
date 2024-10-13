@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-030
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Football Club Mito HollyHock Ibaraki
+      shortName: Mito HollyHock
+      localName: 水戸ホーリーホック
+      founded: 1994
+      city: Mito, Japan
+      ground: K's denki Stadium Mito
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/hollyhock_staff/'
+  websiteURL: 'http://www.mito-hollyhock.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Mito_HollyHock'

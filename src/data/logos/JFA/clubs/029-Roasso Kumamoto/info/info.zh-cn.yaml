@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-029
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 熊本深红足球俱乐部
+      shortName: 熊本深红
+      localName: ロアッソ熊本
+      founded: 1969
+      city: 日本，熊本
+      ground: 笑颜健康体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/roassoofficial/'
+  websiteURL: 'http://roasso-k.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Roasso_Kumamoto'

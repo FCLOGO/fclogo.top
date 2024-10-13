@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-213922-2dbeee
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大分三神']
+  slug: /jfa/club/oita-trinita-v2006-mono
+  pngPath: 'png/oita-trinita-v2006-mono.png'
+  svgPath: 'svg/oita-trinita-v2006-mono.svg'
+  sourceID: jfa-club-032
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Oita-Trinita/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-214006-df5044
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大分三神']
+  slug: /jfa/club/oita-trinita-v2006
+  pngPath: 'png/oita-trinita-v2006.png'
+  svgPath: 'svg/oita-trinita-v2006.svg'
+  sourceID: jfa-club-032
+  style: color
+  reference: 'https://www.jleague.co/clubs/Oita-Trinita/'
+  ctrbID: ''

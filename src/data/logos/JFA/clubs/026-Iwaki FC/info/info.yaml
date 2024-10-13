@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-026
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Iwaki Football Club
+      shortName: Iwaki FC
+      localName: いわきFC
+      founded: 2012
+      city: Iwaki, Japan
+      ground: Hawaiians Stadium Iwaki
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/IwakiFcOfficial'
+  websiteURL: 'https://iwakifc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Iwaki_FC'

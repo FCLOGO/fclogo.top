@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-038
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 山形山神足球俱乐部
+      shortName: 山形山神
+      localName: モンテディオ山形
+      founded: 1984
+      city: 日本，山形
+      ground: 山形县综合运动公园陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/monte_prstaff/'
+  websiteURL: 'https://www.montedioyamagata.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Montedio_Yamagata'

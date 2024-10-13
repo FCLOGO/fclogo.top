@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-029
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Roasso Kumamoto Football Club
+      shortName: Roasso Kumamoto
+      localName: ロアッソ熊本
+      founded: 1969
+      city: Kumamoto, Japan
+      ground: Egao Kenkō Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/roassoofficial/'
+  websiteURL: 'http://roasso-k.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Roasso_Kumamoto'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-036
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 栃木足球俱乐部
+      shortName: 栃木 SC
+      localName: 栃木サッカークラブ
+      founded: 1953
+      city: 日本，宇都宫
+      ground: 栃木县绿色球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/tochigisc/'
+  websiteURL: 'http://www.tochigisc.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tochigi_SC'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241012-213107-ec1fa3
+  version: 1994
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Ehime']
+  slug: /jfa/club/ehime-fc-v1994-mono
+  pngPath: 'png/ehime-fc-v1994-mono.png'
+  svgPath: 'svg/ehime-fc-v1994-mono.svg'
+  sourceID: jfa-club-024
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Ehime-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241012-213141-874c2b
+  version: 1994
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Ehime']
+  slug: /jfa/club/ehime-fc-v1994
+  pngPath: 'png/ehime-fc-v1994.png'
+  svgPath: 'svg/ehime-fc-v1994.svg'
+  sourceID: jfa-club-024
+  style: color
+  reference: 'https://www.jleague.co/clubs/Ehime-FC/'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-028
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 甲府风林足球俱乐部
+      shortName: 甲府风林
+      localName: ヴァンフォーレ甲府
+      founded: 1965
+      city: 日本，甲府
+      ground: 山梨县小濑体育公园陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/vfk_official/'
+  websiteURL: 'http://www.ventforet.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ventforet_Kofu'

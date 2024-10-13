@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241012-213842-e2b24f
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['群马温泉']
+  slug: /jfa/club/thespa-gunma-v2024-mono
+  pngPath: 'png/thespa-gunma-v2024-mono.png'
+  svgPath: 'svg/thespa-gunma-v2024-mono.svg'
+  sourceID: jfa-club-025
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Thespa-Gunma/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241012-213921-372dd2
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['群马温泉']
+  slug: /jfa/club/thespa-gunma-v2024
+  pngPath: 'png/thespa-gunma-v2024.png'
+  svgPath: 'svg/thespa-gunma-v2024.svg'
+  sourceID: jfa-club-025
+  style: color
+  reference: 'https://www.jleague.co/clubs/Thespa-Gunma/'
+  ctrbID: ''

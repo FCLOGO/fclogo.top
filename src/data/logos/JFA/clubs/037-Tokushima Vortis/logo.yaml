@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241013-224806-c30658
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Tokushima Vortis']
+  slug: /jfa/club/tokushima-vortis-v2024
+  pngPath: 'png/tokushima-vortis-v2024.png'
+  svgPath: 'svg/tokushima-vortis-v2024.svg'
+  sourceID: jfa-club-037
+  style: color
+  reference: 'https://www.jleague.co/clubs/Tokushima-Vortis/'
+  ctrbID: ''

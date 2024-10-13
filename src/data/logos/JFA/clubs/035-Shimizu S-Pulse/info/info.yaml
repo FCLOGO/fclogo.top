@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-035
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Shimizu S-Pulse Football club
+      shortName: Shimizu S-Pulse
+      localName: 清水エスパルス
+      founded: 1991
+      city: Shimizu, Japan
+      ground: IAI Stadium Nihondaira
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/spulse_official/'
+  websiteURL: 'https://www.s-pulse.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shimizu_S-Pulse'
