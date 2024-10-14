@@ -3,7 +3,7 @@
   version: 2005
   isDoubtful: false
   isOutdated: false
-  verName: ['长崎航海']
+  verName: ['长崎航海', '长崎成功丸']
   slug: /jfa/club/v-varen-nagasaki-v2005-mono
   pngPath: 'png/v-varen-nagasaki-v2005-mono.png'
   svgPath: 'svg/v-varen-nagasaki-v2005-mono.svg'
@@ -17,7 +17,7 @@
   version: 2005
   isDoubtful: false
   isOutdated: false
-  verName: ['长崎航海']
+  verName: ['长崎航海', '长崎成功丸']
   slug: /jfa/club/v-varen-nagasaki-v2005
   pngPath: 'png/v-varen-nagasaki-v2005.png'
   svgPath: 'svg/v-varen-nagasaki-v2005.svg'
