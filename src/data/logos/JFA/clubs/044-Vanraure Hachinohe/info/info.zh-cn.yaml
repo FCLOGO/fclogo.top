@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-044
+  status: alive
+  type: club
+  nation: JPN
+  timeline: true
+  info:
+    - fullName: 八户于南乡足球俱乐部
+      shortName: 八户于南乡
+      localName: ヴァンラーレ八戸
+      founded: 2006
+      city: 日本，八户
+      ground: 八户市多贺多目的体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/vanraure/'
+  websiteURL: 'http://www.vanraure.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vanraure_Hachinohe'

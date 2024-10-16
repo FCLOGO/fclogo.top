@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-043
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 岐阜足球俱乐部
+      shortName: FC 岐阜
+      localName: フットボールクラブ岐阜
+      founded: 2002
+      city: 日本，岐阜
+      ground: 长良川竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fcgifudream/'
+  websiteURL: 'http://www.fc-gifu.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Gifu'

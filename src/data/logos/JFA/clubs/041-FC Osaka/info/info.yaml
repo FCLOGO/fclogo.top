@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-041
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Football Club Osaka
+      shortName: FC Osaka
+      localName: FC大阪
+      founded: 1996
+      city: Higashiōsaka, Japan
+      ground: Hanazono Rugby Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/FCosakaOfficial/'
+  websiteURL: 'https://fc-osaka.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Osaka'

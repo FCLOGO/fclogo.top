@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-042
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Fukushima United Football Club
+      shortName: Fukushima United FC
+      localName: 福島ユナイテッドFC
+      founded: 1977
+      city: Fukushima, Japan
+      ground: Toho Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fufc_staff/'
+  websiteURL: 'http://fufc.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fukushima_United_FC'

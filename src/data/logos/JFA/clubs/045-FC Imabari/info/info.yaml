@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-045
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Football Club Imabari
+      shortName: FC Imabari
+      localName: FC今治
+      founded: 1978
+      city: Imabari, Japan
+      ground: ASICS Satoyama Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/FCimabari'
+  websiteURL: 'http://www.fcimabari.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Imabari'

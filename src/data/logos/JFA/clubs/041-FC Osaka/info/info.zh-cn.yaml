@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-041
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 大阪足球俱乐部
+      shortName: FC 大阪
+      localName: FC大阪
+      founded: 1996
+      city: 日本，东大阪
+      ground: 东大阪市花园橄榄球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/FCosakaOfficial/'
+  websiteURL: 'https://fc-osaka.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Osaka'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241016-102601-4c9f7e
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Gifu']
+  slug: /jfa/club/fc-gifu-v2006-mono
+  pngPath: 'png/fc-gifu-v2006-mono.png'
+  svgPath: 'svg/fc-gifu-v2006-mono.svg'
+  sourceID: jfa-club-043
+  style: mono
+  reference: 'https://www.jleague.co/clubs/FC-Gifu/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241016-102633-fa22fc
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Gifu']
+  slug: /jfa/club/fc-gifu-v2006
+  pngPath: 'png/fc-gifu-v2006.png'
+  svgPath: 'svg/fc-gifu-v2006.svg'
+  sourceID: jfa-club-043
+  style: color
+  reference: 'https://www.jleague.co/clubs/FC-Gifu/'
+  ctrbID: ''

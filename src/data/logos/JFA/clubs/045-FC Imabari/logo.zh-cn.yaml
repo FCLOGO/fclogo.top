@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241016-104034-b0b338
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 今治']
+  slug: /jfa/club/fc-imabari-v2015-mono
+  pngPath: 'png/fc-imabari-v2015-mono.png'
+  svgPath: 'svg/fc-imabari-v2015-mono.svg'
+  sourceID: jfa-club-045
+  style: mono
+  reference: 'https://www.jleague.co/clubs/FC-Imabari/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241016-104102-0b45b8
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 今治']
+  slug: /jfa/club/fc-imabari-v2015
+  pngPath: 'png/fc-imabari-v2015.png'
+  svgPath: 'svg/fc-imabari-v2015.svg'
+  sourceID: jfa-club-045
+  style: color
+  reference: 'https://www.jleague.co/clubs/FC-Imabari/'
+  ctrbID: ''
