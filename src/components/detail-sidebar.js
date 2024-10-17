@@ -177,7 +177,7 @@ const DetailSidebar = props => {
             ''
           )}
         </div>
-        {props.verName ? (
+        {props.verName && props.verName != '' ? (
           <div className="border-t border-t-gray-1 mb-md mt-2xl pt-2xl">
             <ul className="flex flex-row items-center text-xs text-light-gray">
               {props.verName.map(tag => (
