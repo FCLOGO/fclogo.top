@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-048
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 松本山雅足球俱乐部
+      shortName: 松本山雅
+      localName: 本山雅フットボールクラブ
+      founded: 1965
+      city: 日本，松本
+      ground: 松本平广域公园体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/yamagafc/'
+  websiteURL: 'https://www.yamaga-fc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Matsumoto_Yamaga_FC'

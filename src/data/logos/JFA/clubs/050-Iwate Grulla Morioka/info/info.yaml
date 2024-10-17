@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-050
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Iwate Grulla Morioka Football Club
+      shortName: Iwate Grulla Morioka
+      localName: いわてグルージャ盛岡
+      founded: 2003
+      city: Morioka, Japan
+      ground: Iwagin Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/IwateGrulla/'
+  websiteURL: 'http://grulla-morioka.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Iwate_Grulla_Morioka'

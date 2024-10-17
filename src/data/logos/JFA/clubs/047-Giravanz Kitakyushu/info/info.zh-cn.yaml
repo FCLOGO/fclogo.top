@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-047
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 北九州向日葵足球俱乐部
+      shortName: 北九州向日葵
+      localName: ギラヴァンツ北九州
+      founded: 1947
+      city: 日本，北九州
+      ground: 北九州体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/giravanz_staff/'
+  websiteURL: 'https://www.giravanz.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Giravanz_Kitakyushu'

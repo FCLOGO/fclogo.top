@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-046
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 金泽共进足球俱乐部
+      shortName: 金泽共进
+      localName: ツエーゲン金沢
+      founded: 1956
+      city: 日本，金泽
+      ground: 石川县西部绿地公园陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/zweigen_staff/'
+  websiteURL: 'http://www.zweigen-kanazawa.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Zweigen_Kanazawa'
