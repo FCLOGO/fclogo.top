@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.5](https://github.com/FCLOGO/fclogo.top/compare/v2.4.4...v2.4.5) (2024-10-18)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* *修正* 样式错误 ([d6668fa](https://github.com/FCLOGO/fclogo.top/commit/d6668fa2568ba38514975f32b3f17663098bc040))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2024赛季日本J3联赛俱乐部徽标集 ([663a6dc](https://github.com/FCLOGO/fclogo.top/commit/663a6dccf3e3404dbb8453b7ec8ba09f6440085e))
+* *新增* 日本J3联赛俱乐部徽标 ([7bbc5f9](https://github.com/FCLOGO/fclogo.top/commit/7bbc5f9a75a527fdbd227406e607431f25459559))
+* *新增* 日本J3联赛俱乐部徽标 ([5863b5c](https://github.com/FCLOGO/fclogo.top/commit/5863b5cd892224343d20a25fb4efc714e6abe22f))
+* *新增* 日本J3联赛俱乐部徽标 ([7b80c38](https://github.com/FCLOGO/fclogo.top/commit/7b80c3885dc678d06dad57fe783cf50b33dc4bc9))
+* *修正* 错误 ([0fc0ec4](https://github.com/FCLOGO/fclogo.top/commit/0fc0ec4c42f0f19d78f6eae289b24acf9833072e))
+* *修正* 名称错误 ([3bc2b92](https://github.com/FCLOGO/fclogo.top/commit/3bc2b9262bc272fc3c9cc00d83ccb7fdf5e18ba2))
+* *修正* 名称错误 ([b21e223](https://github.com/FCLOGO/fclogo.top/commit/b21e223d693112cf968be9afbd32717452609848))
+
 ### [2.4.4](https://github.com/FCLOGO/fclogo.top/compare/v2.4.3...v2.4.4) (2024-10-13)
 
 
