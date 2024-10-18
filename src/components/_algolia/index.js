@@ -1,6 +1,6 @@
 import { createRef, default as React, useState, useMemo } from 'react'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
-import { algoliasearch } from 'algoliasearch'
+import algoliasearch from 'algoliasearch'
 import { InstantSearch, Configure, SearchBox, PoweredBy } from 'react-instantsearch'
 
 import SearchResult from './search-result'
