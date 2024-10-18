@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-052
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 奈良俱乐部
+      shortName: 奈良俱乐部
+      localName: 奈良クラブ
+      founded: 1991
+      city: 日本，奈良
+      ground: 奈良市鸿池陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/naraclub_info'
+  websiteURL: 'https://naraclub.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Nara_Club'

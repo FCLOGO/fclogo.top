@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-184047-67e824
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kamatamare Sanuki']
+  slug: /jfa/club/kamatamare-sanuki-v2006-mono
+  pngPath: 'png/kamatamare-sanuki-v2006-mono.png'
+  svgPath: 'svg/kamatamare-sanuki-v2006-mono.svg'
+  sourceID: jfa-club-057
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Kamatamare-Sanuki/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-184125-a2d8a6
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Kamatamare Sanuki']
+  slug: /jfa/club/kamatamare-sanuki-v2006
+  pngPath: 'png/kamatamare-sanuki-v2006.png'
+  svgPath: 'svg/kamatamare-sanuki-v2006.svg'
+  sourceID: jfa-club-057
+  style: color
+  reference: 'https://www.jleague.co/clubs/Kamatamare-Sanuki/'
+  ctrbID: ''

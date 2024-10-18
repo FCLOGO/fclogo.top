@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-058
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: SC Gainare Tottori Football
+      shortName: Gainare Tottori
+      localName: ガイナーレ鳥取
+      founded: 1983
+      city: Tottori, Japan
+      ground: Axis Bird Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/gainareofficial/'
+  websiteURL: 'https://www.gainare.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gainare_Tottori'

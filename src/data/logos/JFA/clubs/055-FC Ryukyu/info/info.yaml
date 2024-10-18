@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-055
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Football Club Ryukyu
+      shortName: FC Ryukyu
+      localName: FC琉球
+      founded: 2003
+      city: Okinawa, Japan
+      ground: Tapic Kenso Hiyagon Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fcr_info/'
+  websiteURL: 'http://fcryukyu.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Ryukyu'

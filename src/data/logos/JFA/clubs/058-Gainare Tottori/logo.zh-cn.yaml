@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-185946-1b19ef
+  version: 2007
+  isDoubtful: false
+  isOutdated: false
+  verName: ['鸟取飞翔']
+  slug: /jfa/club/gainare-tottori-v2007-mono
+  pngPath: 'png/gainare-tottori-v2007-mono.png'
+  svgPath: 'svg/gainare-tottori-v2007-mono.svg'
+  sourceID: jfa-club-058
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Gainare-Tottori/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-190025-8df89e
+  version: 2007
+  isDoubtful: false
+  isOutdated: false
+  verName: ['鸟取飞翔']
+  slug: /jfa/club/gainare-tottori-v2007
+  pngPath: 'png/gainare-tottori-v2007.png'
+  svgPath: 'svg/gainare-tottori-v2007.svg'
+  sourceID: jfa-club-058
+  style: color
+  reference: 'https://www.jleague.co/clubs/Gainare-Tottori/'
+  ctrbID: ''

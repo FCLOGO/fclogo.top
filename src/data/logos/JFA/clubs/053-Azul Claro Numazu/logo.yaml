@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-164832-f98408
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Azul Claro Numazu']
+  slug: /jfa/club/azul-claro-numazu-v2006-mono
+  pngPath: 'png/azul-claro-numazu-v2006-mono.png'
+  svgPath: 'svg/azul-claro-numazu-v2006-mono.svg'
+  sourceID: jfa-club-053
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Azul-Claro-Numazu/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-164935-ee176d
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Azul Claro Numazu']
+  slug: /jfa/club/azul-claro-numazu-v2006
+  pngPath: 'png/azul-claro-numazu-v2006.png'
+  svgPath: 'svg/azul-claro-numazu-v2006.svg'
+  sourceID: jfa-club-053
+  style: color
+  reference: 'https://www.jleague.co/clubs/Azul-Claro-Numazu/'
+  ctrbID: ''

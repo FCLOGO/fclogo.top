@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-053
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Football Club Azul Claro Numazu
+      shortName: Azul Claro Numazu
+      localName: アスルクラロ沼津
+      founded: 1990
+      city: Numazu, Japan
+      ground: Shizuoka Ashitaka Athletic Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/azulclaro1990/'
+  websiteURL: 'https://www.azul-claro.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Azul_Claro_Numazu'

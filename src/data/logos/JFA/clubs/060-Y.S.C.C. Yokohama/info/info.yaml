@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-060
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: Yokohama Sports and Culture Club
+      shortName: YSCC Yokohama
+      localName: 横浜スポーツ&カルチャークラブ
+      founded: 1986
+      city: Yokohama, Japan
+      ground: Nippatsu Mitsuzawa Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/yscc1986/'
+  websiteURL: 'http://www.yscc1986.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/YSCC_Yokohama'

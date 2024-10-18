@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-051
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: AC Nagano Parceiro Football Club
+      shortName: AC Nagano Parceiro
+      localName: AC長野パルセイロ
+      founded: 1992
+      city: Nagano, Japan
+      ground: Nagano U Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/NAGANO_PARCEIRO/'
+  websiteURL: 'https://parceiro.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/AC_Nagano_Parceiro'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-170442-5f3b65
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 琉球']
+  slug: /jfa/club/fc-ryukyu-v2024-mono
+  pngPath: 'png/fc-ryukyu-v2024-mono.png'
+  svgPath: 'svg/fc-ryukyu-v2024-mono.svg'
+  sourceID: jfa-club-055
+  style: mono
+  reference: 'https://www.jleague.co/clubs/FC-RYUKYU/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-170513-a5a4ce
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 琉球']
+  slug: /jfa/club/fc-ryukyu-v2024
+  pngPath: 'png/fc-ryukyu-v2024.png'
+  svgPath: 'svg/fc-ryukyu-v2024.svg'
+  sourceID: jfa-club-055
+  style: color
+  reference: 'https://www.jleague.co/clubs/FC-RYUKYU/'
+  ctrbID: ''

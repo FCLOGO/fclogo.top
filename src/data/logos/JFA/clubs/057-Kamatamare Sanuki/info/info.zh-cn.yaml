@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-club-057
+  status: alive
+  type: club
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 赞岐釜玉海足球俱乐部
+      shortName: 赞岐釜玉海
+      localName: カマタマーレ讃岐
+      founded: 1956
+      city: 日本，高松
+      ground: 香川县立丸龟竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/kamatama_kouhou/'
+  websiteURL: 'https://www.kamatamare.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kamatamare_Sanuki'
