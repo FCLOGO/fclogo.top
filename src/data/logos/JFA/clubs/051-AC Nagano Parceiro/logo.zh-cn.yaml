@@ -25,3 +25,17 @@
   style: color
   reference: 'https://www.jleague.co/clubs/AC-Nagano-Parceiro/'
   ctrbID: ''
+
+- data: logo
+  logoID: 20241022-091032-4d241e
+  version: 2007
+  isDoubtful: false
+  isOutdated: false
+  verName: ['长野帕塞罗']
+  slug: /jfa/club/ac-nagano-parceiro-v2007-mono-2
+  pngPath: 'png/ac-nagano-parceiro-v2007-mono-2.png'
+  svgPath: 'svg/ac-nagano-parceiro-v2007-mono-2.svg'
+  sourceID: jfa-club-051
+  style: mono
+  reference: 'https://www.jleague.co/clubs/AC-Nagano-Parceiro/'
+  ctrbID: ''
