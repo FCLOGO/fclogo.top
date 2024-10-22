@@ -198,7 +198,7 @@ export const query = graphql`
       pngPath {
         publicURL
         childImageSharp {
-          gatsbyImageData(placeholder: BLURRED, width: 300, layout: FIXED, formats: WEBP)
+          gatsbyImageData(placeholder: BLURRED, width: 400, layout: FIXED, formats: WEBP)
         }
       }
       svgPath {
