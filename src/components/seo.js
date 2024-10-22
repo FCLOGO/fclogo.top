@@ -28,6 +28,7 @@ const Seo = ({ description, title, pathname, children }) => {
       <meta name="twitter:title" content={seo.title} />
       <meta name="twitter:url" content={seo.url} />
       <meta name="twitter:description" content={seo.description} />
+      <meta name="baidu-site-verification" content="codeva-dQrpWaqWuy" />
       {children}
     </>
   )
