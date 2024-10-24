@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-016
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Seoul E-Land Football club
+      shortName: Seoul E-Land
+      localName: 서울 이랜드 프로축구단
+      founded: 2014
+      city: Seoul, Korea
+      ground: Mokdong Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.seoulelandfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Seoul_E-Land_FC'

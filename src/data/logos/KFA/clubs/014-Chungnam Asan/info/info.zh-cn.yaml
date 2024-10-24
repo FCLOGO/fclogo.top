@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-014
+  status: alive
+  type: club
+  nation: KOR
+  timeline: true
+  info:
+    - fullName: 忠南牙山足球俱乐部
+      shortName: 忠南牙山
+      localName: 충남 아산 프로축구단
+      founded: 2020
+      city: 韩国，牙山
+      ground: 李舜臣综合体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.asanfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chungnam_Asan_FC'

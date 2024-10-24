@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-101711-2b0ce9
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['天安城']
+  slug: /kfa/club/cheonan-city-v2023-mono
+  pngPath: 'png/cheonan-city-v2023-mono.png'
+  svgPath: 'svg/cheonan-city-v2023-mono.svg'
+  sourceID: kfa-club-021
+  style: mono
+  reference: 'https://cheonancityfc.kr/fc/ci.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-101756-f36216
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['天安城']
+  slug: /kfa/club/cheonan-city-v2023
+  pngPath: 'png/cheonan-city-v2023.png'
+  svgPath: 'svg/cheonan-city-v2023.svg'
+  sourceID: kfa-club-021
+  style: color
+  reference: 'https://cheonancityfc.kr/fc/ci.php'
+  ctrbID: ''

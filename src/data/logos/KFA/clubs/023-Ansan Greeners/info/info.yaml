@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-023
+  status: alive
+  type: club
+  nation: KOR
+  timeline: true
+  info:
+    - fullName: Ansan Greeners Football Club
+      shortName: Ansan Greeners
+      localName: 안산 그리너스 축구단
+      founded: 2017
+      city: Ansan, Korea
+      ground: Ansan Wa~ Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.greenersfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ansan_Greeners_FC'

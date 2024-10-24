@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-019
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Bucheon Football Club 1995
+      shortName: Bucheon FC 1995
+      localName: 부천 FC 1995
+      founded: 2007
+      city: Bucheon, Korea
+      ground: Bucheon Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.bfc1995.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Bucheon_FC_1995'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-013
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 安养足球俱乐部
+      shortName: FC 安养
+      localName: 안양시민프로축구단
+      founded: 2013
+      city: 韩国，安养
+      ground: 安养市体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.fc-anyang.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Anyang'

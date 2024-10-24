@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-016
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 首尔衣恋足球俱乐部
+      shortName: 首尔衣恋
+      localName: 서울 이랜드 프로축구단
+      founded: 2014
+      city: 韩国，首尔
+      ground: 首尔奥林匹克主竞技场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.seoulelandfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Seoul_E-Land_FC'

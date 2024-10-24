@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-021
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 天安城足球俱乐部
+      shortName: 天安城
+      localName: 천안시민프로축구단
+      founded: 2008
+      city: 韩国，天安
+      ground: 天安体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://cheonancityfc.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Cheonan_City_FC'

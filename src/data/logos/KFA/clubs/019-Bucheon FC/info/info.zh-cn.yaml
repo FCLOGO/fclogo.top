@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-019
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 富川 1995 足球俱乐部
+      shortName: 富川 1995
+      localName: 부천 FC 1995
+      founded: 2007
+      city: 韩国，富川
+      ground: 富川市运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.bfc1995.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Bucheon_FC_1995'

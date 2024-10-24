@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-022
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 忠北清州足球俱乐部
+      shortName: 忠北清州
+      localName: 충북청주프로축구단
+      founded: 2002
+      city: 韩国，清州
+      ground: 清州综合运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://chfc.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chungbuk_Cheongju_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-025
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 城南足球俱乐部
+      shortName: 城南 FC
+      localName: 성남시민프로축구단
+      founded: 1989
+      city: 韩国，城南
+      ground: 炭川综合运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://seongnamfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Seongnam_FC'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-100731-96ad61
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['金浦FC']
+  slug: /kfa/club/gimpo-fc-v0000-mono
+  pngPath: 'png/gimpo-fc-v0000-mono.png'
+  svgPath: 'svg/gimpo-fc-v0000-mono.svg'
+  sourceID: kfa-club-020
+  style: mono
+  reference: 'https://gimpofc.com/sub/emblem.html'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-100754-b070a5
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['金浦FC']
+  slug: /kfa/club/gimpo-fc-v0000
+  pngPath: 'png/gimpo-fc-v0000.png'
+  svgPath: 'svg/gimpo-fc-v0000.svg'
+  sourceID: kfa-club-020
+  style: color
+  reference: 'https://gimpofc.com/sub/emblem.html'
+  ctrbID: ''

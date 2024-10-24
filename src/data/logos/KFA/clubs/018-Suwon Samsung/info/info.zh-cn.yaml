@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-018
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 水原三星蓝翼足球俱乐部
+      shortName: 水原三星蓝翼
+      localName: 수원 삼성 블루윙즈 축구단
+      founded: 1995
+      city: 韩国，水原
+      ground: 水原世界杯体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.bluewings.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Suwon_Samsung_Bluewings'

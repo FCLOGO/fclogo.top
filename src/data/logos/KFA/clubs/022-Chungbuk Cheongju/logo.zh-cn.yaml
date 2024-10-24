@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-102541-94f545
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['忠北清州']
+  slug: /kfa/club/chungbuk-cheongju-v2023-mono
+  pngPath: 'png/chungbuk-cheongju-v2023-mono.png'
+  svgPath: 'svg/chungbuk-cheongju-v2023-mono.svg'
+  sourceID: kfa-club-022
+  style: mono
+  reference: 'http://chfc.kr/menu/view/36'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-102630-b5c4db
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['忠北清州']
+  slug: /kfa/club/chungbuk-cheongju-v2023
+  pngPath: 'png/chungbuk-cheongju-v2023.png'
+  svgPath: 'svg/chungbuk-cheongju-v2023.svg'
+  sourceID: kfa-club-022
+  style: color
+  reference: 'http://chfc.kr/menu/view/36'
+  ctrbID: ''

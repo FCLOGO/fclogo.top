@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-018
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Suwon Samsung Bluewings Football Club
+      shortName: Suwon Samsung Bluewings
+      localName: 수원 삼성 블루윙즈 축구단
+      founded: 1995
+      city: Suwon, Korea
+      ground: Suwon World Cup Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.bluewings.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Suwon_Samsung_Bluewings'

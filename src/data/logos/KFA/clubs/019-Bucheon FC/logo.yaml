@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-100247-3d6e98
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Bucheon FC 1995']
+  slug: /kfa/club/bucheon-fc-v0000-mono
+  pngPath: 'png/bucheon-fc-v0000-mono.png'
+  svgPath: 'svg/bucheon-fc-v0000-mono.svg'
+  sourceID: kfa-club-019
+  style: mono
+  reference: 'https://www.bfc1995.com:8444/site/homepage/menu/viewMenu?menuid=112001004002'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-100326-941ad8
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Bucheon FC 1995']
+  slug: /kfa/club/bucheon-fc-v0000
+  pngPath: 'png/bucheon-fc-v0000.png'
+  svgPath: 'svg/bucheon-fc-v0000.svg'
+  sourceID: kfa-club-019
+  style: color
+  reference: 'https://www.bfc1995.com:8444/site/homepage/menu/viewMenu?menuid=112001004002'
+  ctrbID: ''

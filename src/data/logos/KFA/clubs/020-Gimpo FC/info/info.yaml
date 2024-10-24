@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-020
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Gimpo Football Club
+      shortName: Gimpo FC
+      localName: 김포시민프로축구단
+      founded: 2013
+      city: Gimpo, Korea
+      ground: Gimpo Solteo Football Field
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.gimpofc.co.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gimpo_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-024
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: 庆南足球俱乐部
+      shortName: 庆南 FC
+      localName: 경남 도민프로축구단
+      founded: 2006
+      city: 韩国，昌原
+      ground: 昌原足球运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.gyeongnamfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gyeongnam_FC'

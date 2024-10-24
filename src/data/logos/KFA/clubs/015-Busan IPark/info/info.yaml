@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-015
+  status: alive
+  type: club
+  nation: KOR
+  timeline: false
+  info:
+    - fullName: Busan IPark Football Club
+      shortName: Busan IPark
+      localName: 부산 아이파크 축구단
+      founded: 1979
+      city: Busan, Korea
+      ground: Busan Gudeok Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.busanipark.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Busan_IPark'
