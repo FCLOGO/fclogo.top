@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.6](https://github.com/FCLOGO/fclogo.top/compare/v2.4.5...v2.4.6) (2024-10-24)
+
+
+### 🛠️ Build System | 构建
+
+* *修正* 依赖调整 ([81d3ac3](https://github.com/FCLOGO/fclogo.top/commit/81d3ac375d856153efe1e4030664b86fbcb5c148))
+
+
+### ❇️ Chores | 其他更新
+
+* *增加* 百度验证 meta 标签 ([2e68aa1](https://github.com/FCLOGO/fclogo.top/commit/2e68aa15eec05e04b45ed223b3c325efc59d52bc))
+* 添加百度验证文件 ([bbcfe55](https://github.com/FCLOGO/fclogo.top/commit/bbcfe55bcf4310833685a57372454b2daf8823a8))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2024赛季韩国K2联赛俱乐部徽标集 ([3c1217f](https://github.com/FCLOGO/fclogo.top/commit/3c1217fcff69b4aacd25d9b6f59d2c8f7d9b14e6))
+* *新增* 韩国K2联赛俱乐部徽标 ([11b14c4](https://github.com/FCLOGO/fclogo.top/commit/11b14c4eb86b927eb06a321528001ff6ebc19170))
+* *修正* 翻译文本 ([9109714](https://github.com/FCLOGO/fclogo.top/commit/910971495e749350351e0e776665e41e993e7bab))
+* *修正* 样式错误 ([eafa0f1](https://github.com/FCLOGO/fclogo.top/commit/eafa0f143d6da28effaf2a73dc69be8a37ef1014))
+* *修正* 样式错误 ([a0493de](https://github.com/FCLOGO/fclogo.top/commit/a0493de04a20edafe10fa26d66fb2df77ec5aa51))
+* *增加* 长野拍档单色徽标样式 ([791101f](https://github.com/FCLOGO/fclogo.top/commit/791101f8952a0fad5dc6c51a7f3c0d6be77976fc))
+
 ### [2.4.5](https://github.com/FCLOGO/fclogo.top/compare/v2.4.4...v2.4.5) (2024-10-18)
 
 
