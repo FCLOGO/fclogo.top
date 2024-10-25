@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-comp-001
+  type: comp
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Saudi Pro League
+      shortName: Saudi Pro League
+      localName: دوري المحترفين السعودي
+      founded: 1976
+      confederation: AFC
+      teams: 18
+      level: Level 1
+      relegation: Saudi FD League
+  weiboURL: 'https://weibo.com/u/7871916813'
+  twitterURL: 'https://twitter.com/SPL_EN'
+  websiteURL: 'https://www.spl.com.sa/en'
+  wikiURL: 'https://en.wikipedia.org/wiki/Saudi_Pro_League'
