@@ -32,3 +32,8 @@
   nation: MYS
   flag: 'img/malaysia.png'
   flag2: 'img2/malaysia.png'
+
+- data: flag
+  nation: SAU
+  flag: 'img/saudi-arabia.png'
+  flag2: 'img2/saudi-arabia.png'
