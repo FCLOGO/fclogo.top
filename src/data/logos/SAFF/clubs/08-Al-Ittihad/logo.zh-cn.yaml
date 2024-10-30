@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241029-222751-350118
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['吉达联合']
+  slug: /saff/club/Ittihad-Saudi-Arabian-Club-v2015-mono
+  pngPath: 'png/Ittihad-Saudi-Arabian-Club-v2015-mono.png'
+  svgPath: 'svg/Ittihad-Saudi-Arabian-Club-v2015-mono.svg'
+  sourceID: saff-club-008
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3082/al-ittihad'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241029-222835-1a386b
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['吉达联合']
+  slug: /saff/club/Ittihad-Saudi-Arabian-Club-v2015
+  pngPath: 'png/Ittihad-Saudi-Arabian-Club-v2015.png'
+  svgPath: 'svg/Ittihad-Saudi-Arabian-Club-v2015.svg'
+  sourceID: saff-club-008
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3082/al-ittihad'
+  ctrbID: ''

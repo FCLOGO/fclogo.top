@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241026-231624-4c5e87
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Al-Fayha']
+  slug: /saff/club/al-fayha-club-v0000-mono
+  pngPath: 'png/al-fayha-club-v0000-mono.png'
+  svgPath: 'svg/al-fayha-club-v0000-mono.svg'
+  sourceID: saff-club-005
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3086/al-fayha'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241026-231737-757de4
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Al-Fayha']
+  slug: /saff/club/al-fayha-club-v0000
+  pngPath: 'png/al-fayha-club-v0000.png'
+  svgPath: 'svg/al-fayha-club-v0000.svg'
+  sourceID: saff-club-005
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3086/al-fayha'
+  ctrbID: ''

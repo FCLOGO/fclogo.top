@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-003
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Damac Football Club
+      shortName: Damac FC
+      localName: نادي ضمك
+      founded: 1972
+      city: Khamis Mushait
+      ground: Damac Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/damac_club'
+  websiteURL: 'https://damac.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Damac_FC'

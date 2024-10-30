@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-001
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 吉达国民足球俱乐部
+      shortName: 吉达国民
+      localName: النادي الأهلي السعودي
+      founded: 1937
+      city: 吉达
+      ground: 阿卜杜拉国王体育城
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.alahlifc.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Ahli_Saudi_FC'

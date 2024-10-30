@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-017
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 布赖代合作足球俱乐部
+      shortName: 布赖代合作
+      localName: نادي التعاون لكرة القدم
+      founded: 1956
+      city: 布赖代
+      ground: 阿卜杜拉国王体育城体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://altaawounfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Taawoun_FC'

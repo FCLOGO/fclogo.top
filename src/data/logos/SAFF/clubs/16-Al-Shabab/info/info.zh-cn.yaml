@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-016
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 利雅得青年足球俱乐部
+      shortName: 利雅得青年
+      localName: نادي الشباب لكرة القدم
+      founded: 1947
+      city: 利雅得
+      ground: 利雅得青年俱乐部球场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.alshabab-sc.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Shabab_FC_(Riyadh)'

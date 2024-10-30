@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241026-230659-53de86
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['哈萨征服']
+  slug: /saff/club/al-fateh-sc-v2022
+  pngPath: 'png/al-fateh-sc-v2022.png'
+  svgPath: 'svg/al-fateh-sc-v2022.svg'
+  sourceID: saff-club-004
+  style: color
+  reference: 'https://www.fatehclub.com/'
+  ctrbID: ''

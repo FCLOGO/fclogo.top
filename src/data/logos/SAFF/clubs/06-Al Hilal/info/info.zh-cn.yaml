@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-006
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 利雅得新月足球俱乐部
+      shortName: 利雅得新月
+      localName: نادي الهلال السعودي
+      founded: 1957
+      city: 利雅得
+      ground: 法赫德国王国际体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Alhilal_FC'
+  websiteURL: 'https://alhilal.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Hilal_SFC'

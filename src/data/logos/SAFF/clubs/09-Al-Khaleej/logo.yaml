@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241029-223538-2cd8ad
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Khaleej']
+  slug: /saff/club/Al-Khaleej-v2019-mono
+  pngPath: 'png/Al-Khaleej-v2019-mono.png'
+  svgPath: 'svg/Al-Khaleej-v2019-mono.svg'
+  sourceID: saff-club-009
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3088/al-khaleej'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241029-223621-8f11e5
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Khaleej']
+  slug: /saff/club/Al-Khaleej-v2019
+  pngPath: 'png/Al-Khaleej-v2019.png'
+  svgPath: 'svg/Al-Khaleej-v2019.svg'
+  sourceID: saff-club-009
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3088/al-khaleej'
+  ctrbID: ''

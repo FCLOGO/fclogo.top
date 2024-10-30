@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-002
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 阿科多俱乐部
+      shortName: 阿科多
+      localName: نادي الأخدود
+      founded: 1976
+      city: 奈季兰
+      ground: 哈特卢尔·本·阿卜杜勒阿齐兹王子体育城体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ALAKHDOUD'
+  websiteURL: 'https://alakhdoud.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Okhdood_Club'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-010
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Al-Kholood Club
+      shortName: Al-Kholood
+      localName: نادي الخلود
+      founded: 1970
+      city: Ar Rass
+      ground: Al-Hazem Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Kholood_Club'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-005
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Al-Fayha Football Club
+      shortName: Al-Fayha FC
+      localName: نادي الفيحاء السعودي
+      founded: 1953
+      city: Al Majma'ah
+      ground: Al Majma'ah Sports City
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Alfaihaclub'
+  websiteURL: 'https://www.alfayhasc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Fayha_FC'

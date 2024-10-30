@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-005
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 费哈足球俱乐部
+      shortName: 费哈
+      localName: نادي الفيحاء السعودي
+      founded: 1953
+      city: 迈季迈阿
+      ground: 迈季迈阿体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Alfaihaclub'
+  websiteURL: 'https://www.alfayhasc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Fayha_FC'

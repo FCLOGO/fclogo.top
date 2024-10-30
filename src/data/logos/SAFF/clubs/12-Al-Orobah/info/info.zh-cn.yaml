@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-012
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 塞卡凯阿拉伯足球俱乐部
+      shortName: 塞卡凯阿拉伯
+      localName: نادي العروبة لكرة القدم
+      founded: 1975
+      city: 塞卡凯
+      ground: Al-Orobah Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://orobahfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Orobah_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-002
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Al-Okhdood Club
+      shortName: Al-Okhdood
+      localName: نادي الأخدود
+      founded: 1976
+      city: Najran
+      ground: Prince Hathloul Bin Abdulaziz Sport City Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ALAKHDOUD'
+  websiteURL: 'https://alakhdoud.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Okhdood_Club'

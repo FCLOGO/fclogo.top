@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241029-222056-537f5f
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['达曼协作']
+  slug: /saff/club/Al-Ettifaq-v2016-mono
+  pngPath: 'png/Al-Ettifaq-v2016-mono.png'
+  svgPath: 'svg/Al-Ettifaq-v2016-mono.svg'
+  sourceID: saff-club-007
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3081/al-ittifaq'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241029-222155-735069
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['达曼协作']
+  slug: /saff/club/Al-Ettifaq-v2016
+  pngPath: 'png/Al-Ettifaq-v2016.png'
+  svgPath: 'svg/Al-Ettifaq-v2016.svg'
+  sourceID: saff-club-007
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3081/al-ittifaq'
+  ctrbID: ''

@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241029-224244-1f07bc
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Kholood']
+  slug: /saff/club/Al-Kholood-v2024
+  pngPath: 'png/Al-Kholood-v2024.png'
+  svgPath: 'svg/Al-Kholood-v2024.svg'
+  sourceID: saff-club-010
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3111/al-kholood'
+  ctrbID: ''

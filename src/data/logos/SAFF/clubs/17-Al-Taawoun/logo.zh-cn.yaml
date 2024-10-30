@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241030-120232-389c65
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Taawoun']
+  slug: /saff/club/Al-Taawoun-v2019-mono
+  pngPath: 'png/Al-Taawoun-v2019-mono.png'
+  svgPath: 'svg/Al-Taawoun-v2019-mono.svg'
+  sourceID: saff-club-017
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3089/al-taawon'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241030-120312-7fe9f8
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Taawoun']
+  slug: /saff/club/Al-Taawoun-v2019
+  pngPath: 'png/Al-Taawoun-v2019.png'
+  svgPath: 'svg/Al-Taawoun-v2019.svg'
+  sourceID: saff-club-017
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3089/al-taawon'
+  ctrbID: ''

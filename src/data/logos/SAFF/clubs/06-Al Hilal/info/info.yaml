@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-006
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Al Hilal Saudi Football Club
+      shortName: Al Hilal
+      localName: نادي الهلال السعودي
+      founded: 1957
+      city: Riyadh
+      ground: Kingdom Arena
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Alhilal_FC'
+  websiteURL: 'https://alhilal.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Hilal_SFC'

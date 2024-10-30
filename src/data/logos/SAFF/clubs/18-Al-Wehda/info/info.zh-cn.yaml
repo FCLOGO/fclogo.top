@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-018
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 麦加统一足球俱乐部
+      shortName: 麦加统一
+      localName: نادي الوحدة لكرة القدم
+      founded: 1945
+      city: 麦加
+      ground: 阿卜杜勒阿齐兹国王体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://alwehdaclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Wehda_FC'

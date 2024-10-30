@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241029-225309-759ab9
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Orobah']
+  slug: /saff/club/Al-Orobah-v2024
+  pngPath: 'png/Al-Orobah-v2024.png'
+  svgPath: 'svg/Al-Orobah-v2024.svg'
+  sourceID: saff-club-012
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3107/al-orobah?compSeason=858'
+  ctrbID: ''

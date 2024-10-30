@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-008
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Ittihad Saudi Arabian Club
+      shortName: Ittihad Club
+      localName: ناديي الاتحادي العربي اةلسعودي
+      founded: 1927
+      city: Jeddah
+      ground: King Abdullah Sports City
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ittihad'
+  websiteURL: 'https://ittihadclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ittihad_Club'

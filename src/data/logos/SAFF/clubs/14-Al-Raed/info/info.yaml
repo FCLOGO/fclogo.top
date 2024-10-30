@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-014
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Al Raed Saudi Football Club
+      shortName: Al Raed FC
+      localName: نادي الرائد
+      founded: 1954
+      city: Buraidah
+      ground: King Abdullah Sport City Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://alraedclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Raed_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-009
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: Al-Khaleej Football Club
+      shortName: Al-Khaleej FC
+      localName: نادي الخليج بسيهات
+      founded: 1945
+      city: Saihat
+      ground: Prince Nayef bin Abdulaziz Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/khaleejclub?lang=en'
+  websiteURL: 'https://khaleejclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Khaleej_FC'

@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241025-204218-215704
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['奈季兰阿科多']
+  slug: /saff/club/al-okhdood-club-v2024
+  pngPath: 'png/al-okhdood-club-v2024.png'
+  svgPath: 'svg/al-okhdood-club-v2024.svg'
+  sourceID: saff-club-002
+  style: color
+  reference: 'https://alakhdoud.com/documents/Annual%20Report%202023-2024.pdf'
+  ctrbID: ''

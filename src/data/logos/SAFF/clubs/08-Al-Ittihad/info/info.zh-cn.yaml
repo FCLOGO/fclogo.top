@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: saff-club-008
+  status: alive
+  type: club
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 吉达联合俱乐部
+      shortName: 吉达联合
+      localName: ناديي الاتحادي العربي اةلسعودي
+      founded: 1927
+      city: 吉达
+      ground: 阿卜杜拉国王体育城
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ittihad'
+  websiteURL: 'https://ittihadclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ittihad_Club'
