@@ -4,9 +4,9 @@
   isDoubtful: true
   isOutdated: false
   verName: ['Al-Riyadh']
-  slug: /saff/club/Al-Riyadh-v0000
-  pngPath: 'png/Al-Riyadh-v0000.png'
-  svgPath: 'svg/Al-Riyadh-v0000.svg'
+  slug: /saff/club/Al-Riyadh-v0000-mono
+  pngPath: 'png/Al-Riyadh-v0000-mono.png'
+  svgPath: 'svg/Al-Riyadh-v0000-mono.svg'
   sourceID: saff-club-015
   style: mono
   reference: 'https://drive.google.com/file/d/1LbuxOkG29W_0ecLcr0GkSowJasKLPWmH/view'
