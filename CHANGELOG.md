@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.7](https://github.com/FCLOGO/fclogo.top/compare/v2.4.6...v2.4.7) (2024-10-30)
+
+
+### 📝 Documentation | 文档
+
+* *新增* 24-25赛季沙特足球联赛徽标集 ([2fe7f69](https://github.com/FCLOGO/fclogo.top/commit/2fe7f696a6b80c5d5d3aea5f0899d600485e8894))
+* *新增* 沙特国旗标志 ([da41626](https://github.com/FCLOGO/fclogo.top/commit/da4162648010a000eb534b114e93d57691d3e28a))
+* *新增* 沙特职业联赛徽标 ([98b3252](https://github.com/FCLOGO/fclogo.top/commit/98b32521074aaecdb41b0fda2eafab75227f615c))
+* *新增* 沙特足球联赛俱乐部徽标 ([4a161d6](https://github.com/FCLOGO/fclogo.top/commit/4a161d609496b58a6145deba1284a81ff7ee2f5a))
+
 ### [2.4.6](https://github.com/FCLOGO/fclogo.top/compare/v2.4.5...v2.4.6) (2024-10-24)
 
 
