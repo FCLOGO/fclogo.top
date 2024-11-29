@@ -4,6 +4,11 @@
   flag2: 'img2/china.png'
 
 - data: flag
+  nation: CHN
+  flag: 'img/china.png'
+  flag2: 'img2/china.png'
+
+- data: flag
   nation: HKG
   flag: 'img/hong-kong.png'
   flag2: 'img2/hong-kong.png'
@@ -37,3 +42,13 @@
   nation: SAU
   flag: 'img/saudi-arabia.png'
   flag2: 'img2/saudi-arabia.png'
+
+- data: flag
+  nation: USA
+  flag: 'img/united-states.png'
+  flag2: 'img2/united-states.png'
+
+- data: flag
+  nation: CAN
+  flag: 'img/canada.png'
+  flag2: 'img2/canada.png'
