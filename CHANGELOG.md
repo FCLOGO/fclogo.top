@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.8](https://github.com/FCLOGO/fclogo.top/compare/v2.4.7...v2.4.8) (2024-11-30)
+
+
+### ❇️ Chores | 其他更新
+
+* *修改* 文件目录结构 ([f24b25b](https://github.com/FCLOGO/fclogo.top/commit/f24b25bc742f5b14738699bd5e4d8c0c27d644ce))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2024赛季中冠军联赛俱乐部徽标集(部分) ([a66b2c9](https://github.com/FCLOGO/fclogo.top/commit/a66b2c9e32985565b6522651f9191a7b3f15c1c1))
+* *新增* 2024中冠联赛部分俱乐部队徽 ([f82d86d](https://github.com/FCLOGO/fclogo.top/commit/f82d86dc60f10a683afe1c60c812eb2faf344336))
+* *修正* 单色版徽标样式错误 ([1a8a7eb](https://github.com/FCLOGO/fclogo.top/commit/1a8a7eb47a2a33561e344d64e948c0c8210dc0f6))
+* *修正* svg 文件错误 ([74ea3c9](https://github.com/FCLOGO/fclogo.top/commit/74ea3c9785654790e44eb83f7a4e4f2857078adb))
+* *增加* 美国、加拿大国旗 ([38d597b](https://github.com/FCLOGO/fclogo.top/commit/38d597b55bff2a9421a9ec7464512f737eec97d1))
+
 ### [2.4.7](https://github.com/FCLOGO/fclogo.top/compare/v2.4.6...v2.4.7) (2024-10-30)
 
 
