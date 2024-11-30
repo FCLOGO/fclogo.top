@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-104156-942dba
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['重庆春蕾']
+  slug: /cfa/club/Chongqing-Chunlei-v2024-mono
+  pngPath: 'png/Chongqing-Chunlei-v2024-mono.png'
+  svgPath: 'svg/Chongqing-Chunlei-v2024-mono.svg'
+  sourceID: cfa-club-102
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-104233-10e0f9
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['重庆春蕾']
+  slug: /cfa/club/Chongqing-Chunlei-v2024
+  pngPath: 'png/Chongqing-Chunlei-v2024.png'
+  svgPath: 'svg/Chongqing-Chunlei-v2024.svg'
+  sourceID: cfa-club-102
+  style: color
+  reference: ''
+  ctrbID: ''

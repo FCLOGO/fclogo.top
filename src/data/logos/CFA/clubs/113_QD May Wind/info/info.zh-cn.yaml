@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-113
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: 青岛五月的风足球俱乐部
+      shortName: 青岛五月的风
+      localName: 青岛五月的风足球俱乐部
+      founded: 2022
+      city: 山东，青岛
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

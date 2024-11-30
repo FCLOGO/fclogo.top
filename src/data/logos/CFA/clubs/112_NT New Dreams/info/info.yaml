@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-112
+  status: alive
+  type: club
+  nation: CHN
+  timeline: false
+  info:
+    - fullName: Nantong Hai'An New Dreams Football Club
+      shortName: NT Hai'An New Dreams
+      localName: 南通海安新梦想足球俱乐部
+      founded: 2018
+      city: Nantong, Jiangsu
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/5447016786'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/%E5%8D%97%E9%80%9A%E6%96%B0%E6%A2%A6%E6%83%B3%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/63757207'

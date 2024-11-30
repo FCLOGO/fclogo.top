@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-105
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: 广东铭途足球俱乐部
+      shortName: 广东铭途
+      localName: 广东铭途足球俱乐部
+      founded: 2018
+      city: 广东，广州
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

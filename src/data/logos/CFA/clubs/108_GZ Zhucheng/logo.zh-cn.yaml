@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-134407-46e12e
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['贵州筑城竞技']
+  slug: /cfa/club/Guizhou-Zhucheng-v2023-mono
+  pngPath: 'png/Guizhou-Zhucheng-v2023-mono.png'
+  svgPath: 'svg/Guizhou-Zhucheng-v2023-mono.svg'
+  sourceID: cfa-club-108
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-134454-4d5de2
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['贵州筑城竞技']
+  slug: /cfa/club/Guizhou-Zhucheng-v2023
+  pngPath: 'png/Guizhou-Zhucheng-v2023.png'
+  svgPath: 'svg/Guizhou-Zhucheng-v2023.svg'
+  sourceID: cfa-club-108
+  style: color
+  reference: ''
+  ctrbID: ''

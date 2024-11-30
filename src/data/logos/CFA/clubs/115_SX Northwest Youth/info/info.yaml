@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-115
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: Shaanxi Northwest Youth Football Club
+      shortName: Shaanxi Northwest Youth
+      localName: 陕西西北青年人足球俱乐部
+      founded: 2023
+      city: Xi'An, Shaanxi
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

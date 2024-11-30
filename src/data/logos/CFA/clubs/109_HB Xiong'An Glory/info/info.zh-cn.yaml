@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-109
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: 河北雄安之光足球俱乐部
+      shortName: 河北雄安之光
+      localName: 河北雄安之光足球俱乐部
+      founded: 2023
+      city: 河北，雄安
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/3636869562'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

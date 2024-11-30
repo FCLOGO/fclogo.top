@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-221257-3598e6
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shantou Chouxiang']
+  slug: /cfa/club/Shantou-Chouxiang-v2023-mono
+  pngPath: 'png/Shantou-Chouxiang-v2023-mono.png'
+  svgPath: 'svg/Shantou-Chouxiang-v2023-mono.svg'
+  sourceID: cfa-club-114
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-221325-28a8c4
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shantou Chouxiang']
+  slug: /cfa/club/Shantou-Chouxiang-v2023
+  pngPath: 'png/Shantou-Chouxiang-v2023.png'
+  svgPath: 'svg/Shantou-Chouxiang-v2023.svg'
+  sourceID: cfa-club-114
+  style: color
+  reference: ''
+  ctrbID: ''

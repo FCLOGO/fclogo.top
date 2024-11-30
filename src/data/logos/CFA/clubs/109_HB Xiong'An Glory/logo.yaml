@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-135347-de9a3f
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['HB XiongAn Glory']
+  slug: /cfa/club/Hebei-XiongAn-Glory-v2023-mono
+  pngPath: 'png/Hebei-XiongAn-Glory-v2023-mono.png'
+  svgPath: 'svg/Hebei-XiongAn-Glory-v2023-mono.svg'
+  sourceID: cfa-club-109
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-135435-ce81d6
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['HB XiongAn Glory']
+  slug: /cfa/club/Hebei-XiongAn-Glory-v2023
+  pngPath: 'png/Hebei-XiongAn-Glory-v2023.png'
+  svgPath: 'svg/Hebei-XiongAn-Glory-v2023.svg'
+  sourceID: cfa-club-109
+  style: color
+  reference: ''
+  ctrbID: ''

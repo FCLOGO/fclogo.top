@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-118
+  status: alive
+  type: club
+  nation: CHN
+  timeline: false
+  info:
+    - fullName: Xinjiang Lingmengzhe Football Club
+      shortName: Xinjing Lingmengzhe
+      localName: 新疆领梦者足球俱乐部
+      founded: 2018
+      city: Urumqi, Xinjiang
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

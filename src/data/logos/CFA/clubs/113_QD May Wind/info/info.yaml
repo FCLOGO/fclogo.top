@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-113
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: Qingdao May Wind Football Club
+      shortName: Qingdao May Wind
+      localName: 青岛五月的风足球俱乐部
+      founded: 2022
+      city: Qingdao, Shandong
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

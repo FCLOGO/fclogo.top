@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-111401-232ba5
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广西布山']
+  slug: /cfa/club/Guangxi-Bushan-v2024-mono
+  pngPath: 'png/Guangxi-Bushan-v2024-mono.png'
+  svgPath: 'svg/Guangxi-Bushan-v2024-mono.svg'
+  sourceID: cfa-club-106
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-111424-9e6f5d
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广西布山']
+  slug: /cfa/club/Guangxi-Bushan-v2024
+  pngPath: 'png/Guangxi-Bushan-v2024.png'
+  svgPath: 'svg/Guangxi-Bushan-v2024.svg'
+  sourceID: cfa-club-106
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-230702-49dfa6
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Xinjiang Lingmengzhe']
+  slug: /cfa/club/Xinjiang-Lingmengzhe-v2022-mono
+  pngPath: 'png/Xinjiang-Lingmengzhe-v2022-mono.png'
+  svgPath: 'svg/Xinjiang-Lingmengzhe-v2022-mono.svg'
+  sourceID: cfa-club-118
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-230728-470564
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Xinjiang Lingmengzhe']
+  slug: /cfa/club/Xinjiang-Lingmengzhe-v2022
+  pngPath: 'png/Xinjiang-Lingmengzhe-v2022.png'
+  svgPath: 'svg/Xinjiang-Lingmengzhe-v2022.svg'
+  sourceID: cfa-club-118
+  style: color
+  reference: ''
+  ctrbID: ''

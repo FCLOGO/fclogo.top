@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-230053-ccbd1d
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Xiamen 1026']
+  slug: /cfa/club/Xiamen-1026-v2019-mono
+  pngPath: 'png/Xiamen-1026-v2019-mono.png'
+  svgPath: 'svg/Xiamen-1026-v2019-mono.svg'
+  sourceID: cfa-club-117
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-230117-8fbc96
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Xiamen 1026']
+  slug: /cfa/club/Xiamen-1026-v2019
+  pngPath: 'png/Xiamen-1026-v2019.png'
+  svgPath: 'svg/Xiamen-1026-v2019.svg'
+  sourceID: cfa-club-117
+  style: color
+  reference: ''
+  ctrbID: ''

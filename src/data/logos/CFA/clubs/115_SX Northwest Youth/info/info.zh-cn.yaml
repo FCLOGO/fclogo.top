@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-115
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: 陕西西北青年人足球俱乐部
+      shortName: 陕西西北青年人
+      localName: 陕西西北青年人足球俱乐部
+      founded: 2023
+      city: 陕西，西安
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

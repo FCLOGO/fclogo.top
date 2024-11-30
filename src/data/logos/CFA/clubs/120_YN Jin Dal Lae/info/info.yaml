@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-120
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: Yunnan Jin Dal Lae Football Club
+      shortName: Yunnan Jin Dal Lae
+      localName: 云南金达莱足球俱乐部
+      founded: 2019
+      city: Kunming, Yunnan
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-110
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: 昆明城市足球俱乐部
+      shortName: 昆明城市
+      localName: 昆明城市足球俱乐部
+      founded: 2024
+      city: 云南，昆明
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/6269639115'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

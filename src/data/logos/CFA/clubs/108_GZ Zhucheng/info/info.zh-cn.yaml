@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-108
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: 贵州筑城竞技足球俱乐部
+      shortName: 贵州筑城竞技
+      localName: 贵州筑城竞技足球俱乐部
+      founded:
+      city: 贵州，贵阳
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/7853745715'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

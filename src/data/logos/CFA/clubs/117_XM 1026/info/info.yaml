@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-117
+  status: alive
+  type: club
+  nation: CHN
+  timeline: false
+  info:
+    - fullName: Xiamen 1026 Football Club
+      shortName: Xiamen 1026 FC
+      localName: 厦门壹零贰陆足球俱乐部
+      founded: 2011
+      city: Xiamen, Fujian
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-116
+  status: alive
+  type: club
+  nation: CHN
+  timeline: true
+  info:
+    - fullName: Shenzhen 2028 Football Club
+      shortName: Shenzhen 2028
+      localName: 深圳二零二八足球俱乐部
+      founded: 2023
+      city: Shenzhen, Guangdong
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

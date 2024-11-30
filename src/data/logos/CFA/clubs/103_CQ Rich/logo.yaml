@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-104844-e76029
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Chongqing Rich']
+  slug: /cfa/club/Chongqing-Rich-v2024-mono
+  pngPath: 'png/Chongqing-Rich-v2024-mono.png'
+  svgPath: 'svg/Chongqing-Rich-v2024-mono.svg'
+  sourceID: cfa-club-103
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-104920-08c65c
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Chongqing Rich']
+  slug: /cfa/club/Chongqing-Rich-v2024
+  pngPath: 'png/Chongqing-Rich-v2024.png'
+  svgPath: 'svg/Chongqing-Rich-v2024.svg'
+  sourceID: cfa-club-103
+  style: color
+  reference: ''
+  ctrbID: ''
