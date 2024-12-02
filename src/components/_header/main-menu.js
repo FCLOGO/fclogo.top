@@ -21,6 +21,7 @@ const MainMenu = () => {
       <ul className="flex felx-auto flex-row flex-nowrap items-center tablet:flex-col tablet:px-xxl tablet:mb-xxl">
         <MenuLink to="/logos">{t('menu.logo')}</MenuLink>
         <MenuLink to="/packs">{t('menu.pack')}</MenuLink>
+        <MenuLink to="/logomap">{t('menu.map')}</MenuLink>
         <MenuLink to="/about">{t('menu.about')}</MenuLink>
       </ul>
       <LanguageSwitcher />

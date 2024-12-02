@@ -19,6 +19,7 @@
   "menu.sources": "索引",
   "menu.terms": "使用条款",
   "menu.whatsnew": "What's new",
+  "menu.map": "徽标地图",
 
   "hero.title": "收集 <1>{{totalCount}}</1> 个矢量徽标",
   "hero.subtitle": "所有徽标包含 SVG 和 PNG 两种格式。无需账号，无限制免费下载。👋",
@@ -123,6 +124,8 @@
   "source.logoCount": "徽标数量",
   "source.latestVersion": "最新版本",
   "source.status": "状态",
+
+  "maptitle": "徽标地图",
 
   "continent": "大洲",
   "nation": "国家/地区",

@@ -7,6 +7,7 @@
   "author": "@fclogo",
   "license": "MIT",
   "dependencies": {
+    "@mapbox/mapbox-gl-language": "^1.0.1",
     "@tailwindcss/typography": "^0.5.15",
     "algoliasearch": "4.24.0",
     "autoprefixer": "^10.4.20",
@@ -31,6 +32,7 @@
     "gatsby-transformer-sharp": "^5.13.1",
     "gatsby-transformer-yaml": "^5.13.1",
     "i18next": "^23.16.0",
+    "mapbox-gl": "^3.8.0",
     "postcss": "^8.4.47",
     "react": "^18.3.1",
     "react-adsense": "^0.1.0",
@@ -38,6 +40,7 @@
     "react-dom": "^18.3.1",
     "react-i18next": "^15.0.3",
     "react-instantsearch": "^7.13.4",
+    "react-map-gl": "^7.1.7",
     "react-responsive": "^10.0.0",
     "styled-components": "^6.1.13",
     "tailwindcss": "^3.4.14"

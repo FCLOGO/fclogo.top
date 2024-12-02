@@ -1,4 +1,4 @@
-const { type } = require('os')
+const { type, version } = require('os')
 const path = require(`path`)
 
 // 为数据文件添加'locale'节点
@@ -204,6 +204,27 @@ exports.createResolvers = ({ createResolvers }) => {
           })
           const versions = Array.from(entries).map(({ version }) => version)
           return Math.max(...versions)
+        }
+      },
+
+      // 添加主体最新版本徽标
+      latestLogo: {
+        type: ['logo'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                sourceID: { eq: source.sourceID },
+                fields: {
+                  locale: { eq: source.fields.locale }
+                },
+                style: { eq: 'color' },
+                isOutdated: { eq: false }
+              }
+            },
+            type: `logo`
+          })
+          return entries
         }
       },
 
