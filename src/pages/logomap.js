@@ -130,7 +130,7 @@ const logomap = ({ data, pageContext }) => {
               mapStyle="mapbox://styles/mapbox/dark-v10"
               ref={mapRefCallback}
               style={{ width: '100%', height: '100%' }}
-              mapboxAccessToken="pk.eyJ1IjoibHhsMnJ5YW4iLCJhIjoiY2xxZHJxaG9kMGZvMTJxcGprbGhqczdkdCJ9.LHPbHcYKj3zROdbHB1pBzw"
+              mapboxAccessToken={process.env.GATSBY_MAPBOX_ACCESS_TOKEN}
               interactiveLayerIds={['club-points']}
               onMouseEnter={onHover}
               onMouseLeave={onLeave}
