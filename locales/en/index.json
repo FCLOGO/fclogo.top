@@ -126,6 +126,8 @@
   "source.status": "Status",
 
   "maptitle": "Logo Map",
+  "clubStatistics": "Club Statistics",
+  "totalCount": "Total",
 
   "continent": "Continent",
   "nation": "Country / Region",
@@ -181,11 +183,12 @@
   "timeline": "Timeline Status",
 
   "Asia": "Asia",
-  "China": "🇨🇳 China PR",
-  "HKG": "🇭🇰 China HK",
-  "JPN": "🇯🇵 Japan",
-  "KOR": "🇰🇷 South Korea",
-  "THA": "🇹🇭 Thailand",
-  "AUS": "🇦🇺 Australia",
-  "MYS": "🇲🇾 Malaysia"
+  "China": "China PR",
+  "CHN": "China PR",
+  "HKG": "China HK",
+  "JPN": "Japan",
+  "KOR": "South Korea",
+  "THA": "Thailand",
+  "AUS": "Australia",
+  "MYS": "Malaysia"
 }

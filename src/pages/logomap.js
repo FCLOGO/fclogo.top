@@ -11,6 +11,7 @@ import Seo from '../components/seo'
 
 import OpenEyeIcon from '../../static/assets/icons/openEye.inline.svg'
 import CloseEyeIcon from '../../static/assets/icons/closeEye.inline.svg'
+import ClubIcon from '../../static/assets/icons/club.inline.svg'
 
 const languageMap = {
   'zh-cn': 'zh-Hans',
@@ -19,7 +20,34 @@ const languageMap = {
   // 其他语言的映射...
 }
 
+// club 数量统计
+const CountryInfo = ({ countryData }) => {
+  const { t } = useTranslation()
+  return (
+    <div className="text-gray overflow-y-scroll flex-grow">
+      <ul className="mt-md">
+        {Object.keys(countryData).map(nation => (
+          <li
+            key={nation}
+            className="pb-lg mt-lg border-b border-dashed border-b-gray border-opacity-35 flex flex-col"
+          >
+            <span className="font-mono font-thin text-5xl">{countryData[nation].count}</span>
+            <div className="flex flex-row items-center mt-xs">
+              <GatsbyImage
+                image={getImage(countryData[nation].flag[0].flag2)} // 从 clubs 找到对应的 logo
+                alt={nation}
+              />
+              <span className="ml-sm">{t(nation)}</span>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
+
 const logomap = ({ data, pageContext }) => {
+  const { t } = useTranslation()
   // 初始化地图
   const mapRef = useRef()
   const [viewState, setViewState] = React.useState({
@@ -73,23 +101,40 @@ const logomap = ({ data, pageContext }) => {
     [pageContext.language, layersVisible]
   )
 
-  // 从数据中提取 clubs 和坐标，转换为 GeoJSON 格式
-  const clubs = data.allSourceInfo.nodes
+  // 从数据中提取包括坐标数据的 clubs
+  const clubs = data.allSourceInfo.nodes.filter(
+    club => club.coordinates && club.coordinates.length === 2
+  )
+
+  // 统计各国 club 数量
+  const nationCount = clubs.reduce((accumulator, club) => {
+    if (club.nation) {
+      // 如果国家不存在于 accumulator 中，则初始化
+      if (!accumulator[club.nation]) {
+        accumulator[club.nation] = {
+          count: 0,
+          flag: club.nationalFlag
+        }
+      }
+      accumulator[club.nation].count += 1
+    }
+    return accumulator
+  }, {})
+
+  // 提取 club 坐标数据，转换为 GeoJSON 格式
   const geojsonData = {
     type: 'FeatureCollection',
-    features: clubs
-      .filter(club => club.coordinates && club.coordinates.length === 2)
-      .map(club => ({
-        type: 'Feature',
-        properties: {
-          id: club.id,
-          name: club.info[0].fullName
-        },
-        geometry: {
-          type: 'Point',
-          coordinates: club.coordinates
-        }
-      }))
+    features: clubs.map(club => ({
+      type: 'Feature',
+      properties: {
+        id: club.id,
+        name: club.info[0].fullName
+      },
+      geometry: {
+        type: 'Point',
+        coordinates: club.coordinates
+      }
+    }))
   }
 
   // 定义标记样式
@@ -183,6 +228,19 @@ const logomap = ({ data, pageContext }) => {
               <Source id="clubs" type="geojson" data={geojsonData}>
                 <Layer {...circleLayerStyle} />
               </Source>
+              <div className="text-gray absolute bg-black h-full w-[280px] bg-opacity-55 p-xl pb-[40px] flex flex-col justify-between">
+                <header className="border-b border-b-gray border-opacity-35">
+                  <ClubIcon className="w-[48px] h-[48px] stroke-gray stroke-[24] mb-md" />
+                  <h3 className="uppercase font-semibold text-lg tracking-wider mb-md">
+                    {t('clubStatistics')}
+                  </h3>
+                </header>
+                <CountryInfo countryData={nationCount} />
+                <div className="flex flex-col pt-lg border-t border-t-gray border-opacity-35">
+                  <span className="font-mono font-thin text-6xl">{clubs.length}</span>
+                  <span className="">{t('totalCount')}</span>
+                </div>
+              </div>
 
               {hoveredClub && (
                 <Popup
@@ -241,6 +299,14 @@ export const query = graphql`
         coordinates
         info {
           fullName
+        }
+        nation
+        nationalFlag {
+          flag2 {
+            childImageSharp {
+              gatsbyImageData(width: 20, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+            }
+          }
         }
         latestLogo {
           pngPath {
