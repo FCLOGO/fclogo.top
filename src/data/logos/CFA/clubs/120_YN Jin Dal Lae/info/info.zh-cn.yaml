@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [102.71, 25.01]
   timeline: true
   info:
     - fullName: 云南金达莱足球俱乐部

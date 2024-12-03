@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [120.45, 32.52]
   timeline: false
   info:
     - fullName: Nantong Hai'An New Dreams Football Club

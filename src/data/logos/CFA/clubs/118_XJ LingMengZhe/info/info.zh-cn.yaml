@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [87.63, 43.73]
   timeline: false
   info:
     - fullName: 新疆领梦者足球俱乐部

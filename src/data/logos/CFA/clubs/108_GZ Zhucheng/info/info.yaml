@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [106.61, 26.62]
   timeline: true
   info:
     - fullName: Guizhou Zhucheng Athletic Football Club

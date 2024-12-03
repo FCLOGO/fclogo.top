@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [87.61, 43.79]
   timeline: true
   info:
     - fullName: 新疆丝路雄鹰足球俱乐部

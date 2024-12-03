@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [120.38, 36.06]
   timeline: true
   info:
     - fullName: Qingdao May Wind Football Club

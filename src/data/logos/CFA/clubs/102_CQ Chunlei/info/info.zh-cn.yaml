@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [106.57, 29.58]
   timeline: false
   info:
     - fullName: 重庆春蕾足球俱乐部

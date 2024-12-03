@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [106.61, 26.62]
   timeline: true
   info:
     - fullName: 贵州筑城竞技足球俱乐部

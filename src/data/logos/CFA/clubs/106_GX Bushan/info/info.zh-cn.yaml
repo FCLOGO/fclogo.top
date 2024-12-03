@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [109.45, 23.12]
   timeline: false
   info:
     - fullName: 广西布山足球俱乐部

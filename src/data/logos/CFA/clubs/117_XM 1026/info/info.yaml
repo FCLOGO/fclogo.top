@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [118.09, 24.51]
   timeline: false
   info:
     - fullName: Xiamen 1026 Football Club

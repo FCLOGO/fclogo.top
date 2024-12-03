@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [87.61, 43.79]
   timeline: true
   info:
     - fullName: Xinjiang Silk Road Eagles Football Club

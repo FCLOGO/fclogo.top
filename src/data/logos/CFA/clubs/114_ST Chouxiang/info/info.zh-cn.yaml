@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [116.76, 23.36]
   timeline: true
   info:
     - fullName: 汕头抽象足球俱乐部

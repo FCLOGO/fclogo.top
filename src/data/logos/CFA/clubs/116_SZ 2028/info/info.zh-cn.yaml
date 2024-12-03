@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [113.89, 22.81]
   timeline: true
   info:
     - fullName: 深圳二零二八足球俱乐部

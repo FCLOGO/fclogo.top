@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [106.60, 29.68]
   timeline: false
   info:
     - fullName: 重庆润麒足球俱乐部

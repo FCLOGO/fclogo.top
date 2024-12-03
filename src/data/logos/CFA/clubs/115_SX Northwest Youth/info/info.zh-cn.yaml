@@ -3,13 +3,14 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [109.20, 34.75]
   timeline: true
   info:
     - fullName: 陕西西北青年人足球俱乐部
       shortName: 陕西西北青年人
       localName: 陕西西北青年人足球俱乐部
       founded: 2023
-      city: 陕西，西安
+      city: 陕西，渭南
       ground:
       league:
   weiboURL: ''

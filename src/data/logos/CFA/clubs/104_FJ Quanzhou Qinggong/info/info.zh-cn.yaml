@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [118.61, 24.91]
   timeline: false
   info:
     - fullName: 福建泉州青工足球俱乐部

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [120.45, 32.52]
   timeline: false
   info:
     - fullName: 南通海安新梦想足球俱乐部

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [102.66, 25.11]
   timeline: true
   info:
     - fullName: Kunming City Football Club

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [115.95, 38.95]
   timeline: true
   info:
     - fullName: Hebei Xiong'An Glory Football Club

@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [113.33, 23.13]
   timeline: false
   info:
     - fullName: Guangzhou Anhua Football Club

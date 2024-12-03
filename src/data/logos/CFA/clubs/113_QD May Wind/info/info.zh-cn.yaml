@@ -3,6 +3,7 @@
   status: alive
   type: club
   nation: CHN
+  coordinates: [120.38, 36.06]
   timeline: true
   info:
     - fullName: 青岛五月的风足球俱乐部
