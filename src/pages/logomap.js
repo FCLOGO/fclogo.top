@@ -248,7 +248,7 @@ const logomap = ({ data, pageContext }) => {
                   latitude={hoveredClub.geometry.coordinates[1]}
                   closeOnClick={false}
                   closeButton={false}
-                  maxWidth="140px"
+                  maxWidth="120px"
                 >
                   <div className="flex flex-col items-center content-center">
                     {getClubLogo(hoveredClub.properties.id) && (
