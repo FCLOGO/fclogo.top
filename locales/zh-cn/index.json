@@ -128,6 +128,8 @@
   "maptitle": "徽标地图",
   "clubStatistics": "俱乐部统计",
   "totalCount": "合计",
+  "mapInfo_1.1": "运营中",
+  "mapInfo_1.2": "停止运营",
 
   "continent": "大洲",
   "nation": "国家/地区",
@@ -183,12 +185,14 @@
   "timeline": "队徽演变进度",
 
   "Asia": "亚洲",
-  "China": "中国",
   "CHN": "中国",
   "HKG": "中国香港",
   "JPN": "日本",
   "KOR": "韩国",
   "THA": "泰国",
   "AUS": "澳大利亚",
-  "MYS": "马来西亚"
+  "MYS": "马来西亚",
+  "USA": "美国",
+  "CAN": "加拿大",
+  "SAU": "沙特阿拉伯"
 }

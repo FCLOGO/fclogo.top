@@ -31,7 +31,9 @@ const CountryInfo = ({ countryData }) => {
             key={nation}
             className="pb-lg mt-lg border-b border-dashed border-b-gray border-opacity-35 flex flex-col"
           >
-            <span className="font-mono font-thin text-5xl">{countryData[nation].count}</span>
+            <span className="font-mono font-thin text-5xl map:text-4xl">
+              {countryData[nation].count}
+            </span>
             <div className="flex flex-row items-center mt-xs">
               <GatsbyImage
                 image={getImage(countryData[nation].flag[0].flag2)} // 从 clubs 找到对应的 logo
@@ -128,7 +130,8 @@ const logomap = ({ data, pageContext }) => {
       type: 'Feature',
       properties: {
         id: club.id,
-        name: club.info[0].fullName
+        name: club.info[0].fullName,
+        status: club.status
       },
       geometry: {
         type: 'Point',
@@ -142,7 +145,16 @@ const logomap = ({ data, pageContext }) => {
     id: 'club-points',
     type: 'circle',
     paint: {
-      'circle-color': '#4264fb',
+      'circle-color': [
+        'case',
+        ['==', ['get', 'status'], 'alive'],
+        '#4264fb',
+        ['==', ['get', 'status'], 'disbanded'],
+        '#7f8c8d',
+        ['==', ['get', 'status'], 'out'],
+        '#7f8c8d',
+        '#4264fb' // default to blue if not matched
+      ],
       'circle-radius': 6,
       'circle-stroke-width': 2,
       'circle-stroke-color': '#ffffff'
@@ -225,10 +237,12 @@ const logomap = ({ data, pageContext }) => {
                   )}
                 </button>
               </div>
+
               <Source id="clubs" type="geojson" data={geojsonData}>
                 <Layer {...circleLayerStyle} />
               </Source>
-              <div className="text-gray absolute bg-black h-full w-[280px] bg-opacity-55 p-xl pb-[40px] flex flex-col justify-between">
+
+              <div className="text-gray absolute bg-black h-full w-[280px] map:w-[160px] bg-opacity-55 p-xl pb-[40px] flex flex-col justify-between">
                 <header className="border-b border-b-gray border-opacity-35">
                   <ClubIcon className="w-[48px] h-[48px] stroke-gray stroke-[24] mb-md" />
                   <h3 className="uppercase font-semibold text-lg tracking-wider mb-md">
@@ -237,9 +251,16 @@ const logomap = ({ data, pageContext }) => {
                 </header>
                 <CountryInfo countryData={nationCount} />
                 <div className="flex flex-col pt-lg border-t border-t-gray border-opacity-35">
-                  <span className="font-mono font-thin text-6xl">{clubs.length}</span>
+                  <span className="font-mono font-thin text-6xl map:text-4xl">{clubs.length}</span>
                   <span className="">{t('totalCount')}</span>
                 </div>
+              </div>
+
+              <div className="absolute bg-white bg-opacity-50 h-xl bottom-zero right-[275px] map:right-[40px] map:bottom-md map:rounded-[10px] pl-[6px] pr-[6px] flex flex-row items-center">
+                <span className="inline-block bg-[#4264fb] w-md h-md rounded-md border-2 border-white mr-xs"></span>
+                {t('mapInfo_1.1')}
+                <span className="inline-block bg-[#7f8c8d] w-md h-md rounded-md border-2 border-white ml-xs mr-xs"></span>
+                {t('mapInfo_1.2')}
               </div>
 
               {hoveredClub && (
@@ -296,6 +317,7 @@ export const query = graphql`
     allSourceInfo(filter: { type: { eq: "club" }, fields: { locale: { eq: $language } } }) {
       nodes {
         id
+        status
         coordinates
         info {
           fullName
