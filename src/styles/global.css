@@ -231,3 +231,8 @@
 .modal_content .nav-link {
   border-radius: 50%;
 }
+
+/* MapBox Popup 圆角 */
+.mapboxgl-popup-content {
+  border-radius: 5px !important;
+}

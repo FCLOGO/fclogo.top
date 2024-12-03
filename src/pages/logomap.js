@@ -1,5 +1,5 @@
 import React, { useState, useRef, useCallback } from 'react'
-import { StaticImage, GatsbyImage, getImage } from 'gatsby-plugin-image'
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { graphql } from 'gatsby'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
 import MapboxLanguage from '@mapbox/mapbox-gl-language'
@@ -8,6 +8,9 @@ import 'mapbox-gl/dist/mapbox-gl.css'
 
 import Layout from '../components/layout'
 import Seo from '../components/seo'
+
+import OpenEyeIcon from '../../static/assets/icons/openEye.inline.svg'
+import CloseEyeIcon from '../../static/assets/icons/closeEye.inline.svg'
 
 const languageMap = {
   'zh-cn': 'zh-Hans',
@@ -20,13 +23,13 @@ const logomap = ({ data, pageContext }) => {
   // 初始化地图
   const mapRef = useRef()
   const [viewState, setViewState] = React.useState({
-    longitude: 116.4,
-    latitude: 39.9,
+    longitude: 120,
+    latitude: 30,
     zoom: 2.5
   })
 
-  const MAP_LAYER_LIST = [
-    'road-label',
+  const REMOVE_LAYER_LIST = [
+    'road-label-simple',
     'waterway-label',
     'natural-line-label',
     'natural-point-label',
@@ -34,9 +37,17 @@ const logomap = ({ data, pageContext }) => {
     'water-point-label',
     'poi-label',
     'airport-label',
-    'settlement-subdivision-label'
+    'settlement-subdivision-label' //街道社区标签
   ]
 
+  const CONTROL_LAYER_LIST = [
+    'settlement-minor-label', // 县级标签
+    'settlement-major-label', //市级标签
+    'state-label', //省级标签
+    'country-label', //国家标签
+    'continent-label' //洲标签
+  ]
+  const [layersVisible, setLayersVisible] = useState(true)
   const [hoveredClub, setHoveredClub] = useState(null)
   const mapRefCallback = useCallback(
     ref => {
@@ -46,14 +57,20 @@ const logomap = ({ data, pageContext }) => {
         // 获取页面的语言，并找到对应的 Mapbox 语言代码
         const language = languageMap[pageContext.language] || 'en' // 默认使用英语
         map.addControl(new MapboxLanguage({ defaultLanguage: language }))
+
         map.on('load', () => {
-          MAP_LAYER_LIST.forEach(layerId => {
+          REMOVE_LAYER_LIST.forEach(layerId => {
             map.removeLayer(layerId)
           })
+          if (layersVisible) {
+            CONTROL_LAYER_LIST.forEach(layerId => {
+              map.setLayoutProperty(layerId, 'visibility', 'visible')
+            })
+          }
         })
       }
     },
-    [pageContext.language]
+    [pageContext.language, layersVisible]
   )
 
   // 从数据中提取 clubs 和坐标，转换为 GeoJSON 格式
@@ -87,6 +104,18 @@ const logomap = ({ data, pageContext }) => {
     }
   }
 
+  // 显示/隐藏位置标签
+  const toggleLayersVisibility = () => {
+    const map = mapRef.current.getMap()
+    const newVisibility = layersVisible ? 'none' : 'visible'
+    CONTROL_LAYER_LIST.forEach(layerId => {
+      if (map.getLayer(layerId)) {
+        map.setLayoutProperty(layerId, 'visibility', newVisibility)
+      }
+    })
+    setLayersVisible(!layersVisible)
+  }
+
   const onHover = e => {
     const features = e.features
     if (features.length > 0) {
@@ -116,7 +145,7 @@ const logomap = ({ data, pageContext }) => {
     position: 'absolute',
     marginTop: '30px',
     right: '10px',
-    opacity: 0.2
+    opacity: 0.3
   }
 
   return (
@@ -127,9 +156,10 @@ const logomap = ({ data, pageContext }) => {
             <Map
               {...viewState}
               onMove={evt => setViewState(evt.viewState)}
-              mapStyle="mapbox://styles/mapbox/dark-v10"
+              mapStyle="mapbox://styles/mapbox/dark-v11"
               ref={mapRefCallback}
               style={{ width: '100%', height: '100%' }}
+              projection={'mercator'} //设置地图投影
               mapboxAccessToken={process.env.GATSBY_MAPBOX_ACCESS_TOKEN}
               interactiveLayerIds={['club-points']}
               onMouseEnter={onHover}
@@ -141,6 +171,15 @@ const logomap = ({ data, pageContext }) => {
                 position={'bottom-right'}
                 style={{ opacity: 0.3 }}
               />
+              <div className="absolute w-[29px] h-[29px] right-xl top-[70px] p-xs bg-white opacity-30 z-50 rounded">
+                <button onClick={toggleLayersVisibility}>
+                  {layersVisible ? (
+                    <CloseEyeIcon className="w-full h-full fill-dark-gray" />
+                  ) : (
+                    <OpenEyeIcon className="w-full h-full fill-dark-gray" />
+                  )}
+                </button>
+              </div>
               <Source id="clubs" type="geojson" data={geojsonData}>
                 <Layer {...circleLayerStyle} />
               </Source>
