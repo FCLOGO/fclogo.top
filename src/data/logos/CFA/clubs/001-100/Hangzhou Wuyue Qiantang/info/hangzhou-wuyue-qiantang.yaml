@@ -2,7 +2,8 @@
   sourceID: cfa-club-074
   status: out
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.191773, 30.38271]
   timeline: true
   info:
     - fullName: Hangzhou Wuyue Qiantang Football Club

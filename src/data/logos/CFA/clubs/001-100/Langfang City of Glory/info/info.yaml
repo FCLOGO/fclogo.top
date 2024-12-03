@@ -2,7 +2,8 @@
   sourceID: cfa-club-095
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [116.68375, 39.556233]
   timeline: true
   info:
     - fullName: Langfang City of Glory Football Club

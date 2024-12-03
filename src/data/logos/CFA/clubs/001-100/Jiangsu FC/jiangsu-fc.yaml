@@ -24,7 +24,7 @@
   logoID: 20211213-160746
   version: 2021
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['JiangSu']
   slug: /cfa/club/jiangsufc-v2021-mono
   pngPath: 'png/jiangsufc-v2021-mono.png'
@@ -36,7 +36,7 @@
   logoID: 20211213-160834
   version: 2021
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['JiangSu']
   slug: /cfa/club/jiangsufc-v2021
   pngPath: 'png/jiangsufc-v2021.png'

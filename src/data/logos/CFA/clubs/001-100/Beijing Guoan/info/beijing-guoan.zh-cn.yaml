@@ -2,7 +2,8 @@
   sourceID: cfa-club-002
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [116.705193, 40.421631]
   timeline: true
   info:
     - fullName: 北京国安足球俱乐部

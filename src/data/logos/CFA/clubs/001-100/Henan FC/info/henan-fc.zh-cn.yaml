@@ -2,7 +2,8 @@
   sourceID: cfa-club-012
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [113.72398, 34.753075]
   timeline: true
   info:
     - fullName: 河南足球俱乐部

@@ -2,7 +2,8 @@
   sourceID: cfa-club-091
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [109.203519, 23.77994]
   timeline: true
   info:
     - fullName: 广西蓝航足球俱乐部

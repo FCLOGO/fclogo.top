@@ -2,7 +2,8 @@
   sourceID: cfa-club-038
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [111.652405, 40.851097]
   timeline: true
   info:
     - fullName: 内蒙古中优足球俱乐部

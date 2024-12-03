@@ -2,7 +2,8 @@
   sourceID: cfa-club-059
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [112.979844, 28.184188]
   timeline: true
   info:
     - fullName: Hunan Billows Football Club

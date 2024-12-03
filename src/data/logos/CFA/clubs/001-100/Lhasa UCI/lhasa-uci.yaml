@@ -2,7 +2,7 @@
   logoID: 20211208-155105
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Lhasa UCI']
   slug: /cfa/club/lhasa-uci-v2017-mono
   pngPath: 'png/lhasa-uci-v2017-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-155134
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Lhasa UCI']
   slug: /cfa/club/lhasa-uci-v2017
   pngPath: 'png/lhasa-uci-v2017.png'

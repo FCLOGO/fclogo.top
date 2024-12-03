@@ -1,6 +1,8 @@
 - data: logo
   logoID: 20211014-001
   version: 2015
+  isDoubtful: false
+  isOutdated: false
   verName: ['广州 FC', '广州恒大淘宝']
   pngPath: 'png/guangzhoufc-v2015.png'
   svgPath: 'svg/guangzhoufc-v2015.svg'
@@ -11,6 +13,8 @@
 - data: logo
   logoID: 20211014-002
   version: 2015
+  isDoubtful: false
+  isOutdated: false
   verName: ['广州 FC', '广州恒大淘宝']
   pngPath: 'png/guangzhoufc-v2015-mono.png'
   svgPath: 'svg/guangzhoufc-v2015-mono.svg'

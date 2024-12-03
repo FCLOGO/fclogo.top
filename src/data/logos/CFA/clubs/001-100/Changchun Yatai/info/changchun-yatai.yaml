@@ -2,12 +2,13 @@
   sourceID: cfa-club-011
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [125.390069, 43.765536]
   timeline: true
   info:
     - fullName: Changchun Yatai Football Club
       shortName: Changchun Yatai FC
-      localName: 长春亚泰俱乐部
+      localName: 长春亚泰足球俱乐部
       city: Changchun, China
       founded: 1996
       ground: Changchun Stadium

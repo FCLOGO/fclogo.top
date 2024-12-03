@@ -2,7 +2,7 @@
   logoID: 20211103-005
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['北京人和', '北京橙丰']
   slug: /cfa/club/beijing-chengfeng-v2016-mono
   pngPath: 'png/beijing-chengfeng-v2016-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211103-006
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['北京人和', '北京橙丰']
   slug: /cfa/club/beijing-chengfeng-v2016
   pngPath: 'png/beijing-chengfeng-v2016.png'

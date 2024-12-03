@@ -2,7 +2,7 @@
   logoID: 20211208-003
   version: 2018
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Dalian Chanjoy']
   slug: /cfa/club/dalian-chanjoy-v2018-mono
   pngPath: 'png/dalian-chanjoy-v2018-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-004
   version: 2018
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Dalian Chanjoy']
   slug: /cfa/club/dalian-chanjoy-v2018
   pngPath: 'png/dalian-chanjoy-v2018.png'

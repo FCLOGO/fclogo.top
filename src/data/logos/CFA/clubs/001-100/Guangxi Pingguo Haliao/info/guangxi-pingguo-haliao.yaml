@@ -2,7 +2,8 @@
   sourceID: cfa-club-047
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [107.585152, 23.331804]
   timeline: true
   info:
     - fullName: Guangxi Pingguo Haliao Football Club

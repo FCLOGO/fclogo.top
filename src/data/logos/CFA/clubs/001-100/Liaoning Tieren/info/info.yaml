@@ -2,7 +2,8 @@
   sourceID: cfa-club-034
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [123.382185, 41.654399]
   timeline: true
   info:
     - fullName: Liaoning Tieren Football Club

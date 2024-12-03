@@ -2,7 +2,8 @@
   sourceID: cfa-club-031
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [104.212307, 30.743847]
   timeline: true
   info:
     - fullName: 成都蓉城足球俱乐部

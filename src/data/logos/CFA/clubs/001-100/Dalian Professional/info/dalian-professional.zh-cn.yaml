@@ -2,7 +2,8 @@
   sourceID: cfa-club-007
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.776768, 39.04939]
   timeline: true
   info:
     - fullName: 大连人职业足球俱乐部

@@ -2,7 +2,8 @@
   sourceID: cfa-club-036
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [116.55, 39.90]
   timeline: true
   info:
     - fullName: 北京橙丰足球俱乐部

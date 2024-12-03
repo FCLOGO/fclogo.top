@@ -26,7 +26,7 @@
   logoID: 20211028-009
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Beijing Sport University']
   slug: /cfa/club/beijing-sport-university-v2019-mono
   pngPath: 'png/beijing-sport-university-v2019-mono.png'
@@ -38,7 +38,7 @@
   logoID: 20211028-010
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Beijing Sport University']
   slug: /cfa/club/beijing-sport-university-v2019
   pngPath: 'png/beijing-sport-university-v2019.png'

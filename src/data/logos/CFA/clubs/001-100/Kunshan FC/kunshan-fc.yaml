@@ -2,7 +2,7 @@
   logoID: 20211027-001
   version: 2018
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Kunshan FC']
   slug: /cfa/club/kunshan-v2018-mono-2
   pngPath: 'png/kunshan-v2018-mono-2.png'
@@ -14,7 +14,7 @@
   logoID: 20211027-002
   version: 2018
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Kunshan FC']
   slug: /cfa/club/kunshan-v2018-mono
   pngPath: 'png/kunshan-v2018-mono.png'
@@ -26,7 +26,7 @@
   logoID: 20211027-003
   version: 2018
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Kunshan FC']
   slug: /cfa/club/kunshan-v2018
   pngPath: 'png/kunshan-v2018.png'

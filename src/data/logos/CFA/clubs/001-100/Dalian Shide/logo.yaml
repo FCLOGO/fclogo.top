@@ -41,7 +41,7 @@
   logoID: 20231113-151955-b072d1
   version: 2006
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Dalian Shide']
   slug: /cfa/club/dalian-shide-v2006-mono
   pngPath: 'png/dalian-shide-v2006-mono.png'
@@ -54,7 +54,7 @@
   logoID: 20231113-152023-448b6a
   version: 2006
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Dalian Shide']
   slug: /cfa/club/dalian-shide-v2006
   pngPath: 'png/dalian-shide-v2006.png'

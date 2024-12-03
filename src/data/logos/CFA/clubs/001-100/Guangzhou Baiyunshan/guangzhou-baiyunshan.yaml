@@ -2,7 +2,7 @@
   logoID: 20220106-201320
   version: 1998
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Guangzhou Baiyunshan']
   slug: /cfa/club/guangzhou-baiyunshan-v1998-mono
   pngPath: 'png/guangzhou-baiyunshan-v1998-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20220106-201429
   version: 1998
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Guangzhou Baiyunshan']
   slug: /cfa/club/guangzhou-baiyunshan-v1998
   pngPath: 'png/guangzhou-baiyunshan-v1998.png'

@@ -2,7 +2,7 @@
   logoID: 20211208-005
   version: 2015
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['DaLian Transcendence']
   slug: /cfa/club/dalian-transcendence-v2015-mono
   pngPath: 'png/dalian-transcendence-v2015-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-006
   version: 2015
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['DaLian Transcendence']
   slug: /cfa/club/dalian-transcendence-v2015
   pngPath: 'png/dalian-transcendence-v2015.png'

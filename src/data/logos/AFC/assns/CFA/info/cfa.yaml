@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: afc-assn-001
   type: assn
-  nation: China
+  nation: CHN
   info:
     - fullName: Chinese Football Association
       shortName: CFA

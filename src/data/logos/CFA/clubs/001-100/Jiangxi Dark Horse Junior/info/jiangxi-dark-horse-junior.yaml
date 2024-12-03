@@ -2,7 +2,8 @@
   sourceID: cfa-club-066
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [115.031633, 24.790541]
   timeline: true
   info:
     - fullName: Jiangxi Dark Horse Junior Football Club

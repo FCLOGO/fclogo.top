@@ -1,6 +1,8 @@
 - data: logo
   logoID: 20211016-013
   version: 2007
+  isDoubtful: false
+  isOutdated: false
   verName: ['长春亚泰']
   pngPath: 'png/changchun-yatai-v2007-mono.png'
   svgPath: 'svg/changchun-yatai-v2007-mono.svg'
@@ -11,6 +13,8 @@
 - data: logo
   logoID: 20211016-014
   version: 2007
+  isDoubtful: false
+  isOutdated: false
   verName: ['长春亚泰']
   pngPath: 'png/changchun-yatai-v2007.png'
   svgPath: 'svg/changchun-yatai-v2007.svg'

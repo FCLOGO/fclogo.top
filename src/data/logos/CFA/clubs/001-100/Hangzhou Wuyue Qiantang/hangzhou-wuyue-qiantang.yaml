@@ -2,7 +2,7 @@
   logoID: 20211208-154145
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['HangZhou WuYue QianTang']
   slug: /cfa/club/hangzhou-wuyue-qiantang-v2017-mono
   pngPath: 'png/hangzhou-wuyue-qiantang-v2017-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-154244
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['HangZhou WuYue QianTang']
   slug: /cfa/club/hangzhou-wuyue-qiantang-v2017
   pngPath: 'png/hangzhou-wuyue-qiantang-v2017.png'

@@ -2,7 +2,8 @@
   sourceID: cfa-club-044
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [114.243415, 30.635068]
   timeline: true
   info:
     - fullName: Hubei Istar Football Club

@@ -2,7 +2,8 @@
   sourceID: cfa-club-096
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [108.348064, 22.776203]
   timeline: true
   info:
     - fullName: 广西恒宸足球俱乐部

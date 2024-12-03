@@ -2,7 +2,8 @@
   sourceID: cfa-club-027
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [116.421223, 39.876794]
   timeline: true
   info:
     - fullName: Beijing Sport University Football Club

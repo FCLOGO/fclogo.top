@@ -2,7 +2,8 @@
   sourceID: cfa-club-053
   status: out
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [102.699617, 25.073306]
   timeline: true
   info:
     - fullName: 昆明郑和船工足球俱乐部

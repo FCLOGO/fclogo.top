@@ -2,7 +2,8 @@
   sourceID: cfa-club-056
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [112.999378, 23.120387]
   timeline: true
   info:
     - fullName: Foshan Nanshi Football Club

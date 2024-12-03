@@ -2,7 +2,8 @@
   sourceID: cfa-club-051
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [124.350498, 40.03018]
   timeline: true
   info:
     - fullName: 丹东腾跃足球俱乐部

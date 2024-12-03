@@ -2,7 +2,8 @@
   sourceID: cfa-club-010
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [118.639542, 31.938023]
   timeline: true
   info:
     - fullName: 江苏足球俱乐部

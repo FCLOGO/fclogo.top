@@ -2,7 +2,8 @@
   sourceID: cfa-club-039
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [123.413259, 41.790901]
   info:
     - fullName: Liaoning Football Club
       shortName: Liaoning FC

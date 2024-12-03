@@ -2,7 +2,8 @@
   sourceID: cfa-club-029
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [116.322321, 39.957541]
   timeline: true
   info:
     - fullName: 北京理工足球俱乐部

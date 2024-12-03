@@ -2,7 +2,8 @@
   sourceID: cfa-club-089
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [106.080614, 29.82483]
   timeline: true
   info:
     - fullName: 重庆铜梁龙足球俱乐部

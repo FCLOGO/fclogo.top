@@ -2,7 +2,8 @@
   sourceID: cfa-club-048
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [109.837175, 40.644504]
   info:
     - fullName: 内蒙古草上飞足球俱乐部
       shortName: 内蒙古草上飞

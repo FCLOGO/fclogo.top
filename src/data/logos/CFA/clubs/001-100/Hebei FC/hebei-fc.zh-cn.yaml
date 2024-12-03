@@ -23,6 +23,8 @@
 - data: logo
   logoID: 20211018-005
   version: 2021
+  isDoubtful: false
+  isOutdated: false
   verName: ['河北 FC']
   pngPath: 'png/hebeifc-v2021-mono.png'
   svgPath: 'svg/hebeifc-v2021-mono.svg'
@@ -33,6 +35,8 @@
 - data: logo
   logoID: 20211018-006
   version: 2021
+  isDoubtful: false
+  isOutdated: false
   verName: ['河北 FC']
   pngPath: 'png/hebeifc-v2021.png'
   svgPath: 'svg/hebeifc-v2021.svg'

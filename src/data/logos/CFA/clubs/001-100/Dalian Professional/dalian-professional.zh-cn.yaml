@@ -1,6 +1,8 @@
 - data: logo
   logoID: 20211016-003
   version: 2020
+  isDoubtful: false
+  isOutdated: false
   verName: ['大连人']
   pngPath: 'png/dalian-professional-v2020.png'
   svgPath: 'svg/dalian-professional-v2020.svg'
@@ -11,6 +13,8 @@
 - data: logo
   logoID: 20211016-004
   version: 2020
+  isDoubtful: false
+  isOutdated: false
   verName: ['大连人']
   pngPath: 'png/dalian-professional-v2020-mono.png'
   svgPath: 'svg/dalian-professional-v2020-mono.svg'

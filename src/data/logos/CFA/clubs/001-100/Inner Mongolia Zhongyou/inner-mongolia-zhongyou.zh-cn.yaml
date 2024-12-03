@@ -2,7 +2,7 @@
   logoID: 20211103-011
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['内蒙古中优']
   slug: /cfa/club/inner-mongolia-zhongyou-v2019-mono
   pngPath: 'png/inner-mongolia-zhongyou-v2019-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211103-012
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['内蒙古中优']
   slug: /cfa/club/inner-mongolia-zhongyou-v2019
   pngPath: 'png/inner-mongolia-zhongyou-v2019.png'

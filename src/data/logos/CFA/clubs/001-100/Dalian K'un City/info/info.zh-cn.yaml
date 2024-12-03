@@ -2,7 +2,8 @@
   sourceID: cfa-club-098
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.825607, 39.049467]
   timeline: true
   info:
     - fullName: 大连鲲城足球俱乐部
