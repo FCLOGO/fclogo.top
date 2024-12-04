@@ -234,15 +234,7 @@ const logomap = ({ data, pageContext }) => {
           <div className="rounded-lg bg-white overflow-hidden h-full">
             <Map
               {...viewState}
-              onMove={evt => {
-                if (
-                  evt.viewState.longitude !== viewState.longitude ||
-                  evt.viewState.latitude !== viewState.latitude ||
-                  evt.viewState.zoom !== viewState.zoom
-                ) {
-                  setViewState(evt.viewState)
-                }
-              }}
+              onMove={evt => setViewState(evt.viewState)}
               mapStyle="mapbox://styles/mapbox/dark-v11"
               ref={mapRefCallback}
               style={{ width: '100%', height: '100%' }}
