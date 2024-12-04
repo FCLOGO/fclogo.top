@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [139.88926225684872, 36.559011855190896]
   timeline: false
   info:
     - fullName: Tochigi Soccer Club

@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [133.30776354178715, 35.4788696813021]
   timeline: false
   info:
     - fullName: SC 鸟取飞翔

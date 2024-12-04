@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [139.43541083593132, 35.53285790702868]
   timeline: true
   info:
     - fullName: Sports Club Sagamihara

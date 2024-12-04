@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [135.82022136737436, 34.659115298228244]
   timeline: false
   info:
     - fullName: Nara Club

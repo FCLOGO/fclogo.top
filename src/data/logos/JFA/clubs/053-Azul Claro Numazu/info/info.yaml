@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [138.85640845574358, 35.13996576314371]
   timeline: false
   info:
     - fullName: Football Club Azul Claro Numazu

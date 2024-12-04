@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [132.95922651306125, 34.0408131605871]
   timeline: false
   info:
     - fullName: Football Club Imabari

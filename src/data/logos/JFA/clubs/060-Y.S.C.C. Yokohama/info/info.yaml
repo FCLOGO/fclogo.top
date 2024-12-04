@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [139.66768683855634, 35.43333323191791]
   timeline: false
   info:
     - fullName: Yokohama Sports and Culture Club

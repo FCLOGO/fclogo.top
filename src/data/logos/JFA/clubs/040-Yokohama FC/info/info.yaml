@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [139.56988693625914, 35.478329107442]
   timeline: true
   info:
     - fullName: Yokohama Football Club

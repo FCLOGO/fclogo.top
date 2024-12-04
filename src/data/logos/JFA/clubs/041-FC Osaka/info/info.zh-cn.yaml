@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [135.50587141782535, 34.68075974243867]
   timeline: false
   info:
     - fullName: 大阪足球俱乐部

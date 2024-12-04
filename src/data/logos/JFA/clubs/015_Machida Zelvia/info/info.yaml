@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [139.46031798606083, 35.58945139748488]
   timeline: false
   info:
     - fullName: Football Club Machida Zelvia

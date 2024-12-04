@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [140.12518108864464, 35.575426519786]
   timeline: false
   info:
     - fullName: JEF United Ichihara Chiba

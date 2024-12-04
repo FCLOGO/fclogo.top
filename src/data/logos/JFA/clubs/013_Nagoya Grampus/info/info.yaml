@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [137.11205643996863, 35.13711493421076]
   timeline: false
   info:
     - fullName: Nagoya Grampus Football Club

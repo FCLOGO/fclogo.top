@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [138.27274987791174, 34.851594634154395]
   timeline: true
   info:
     - fullName: Fujieda MYFC

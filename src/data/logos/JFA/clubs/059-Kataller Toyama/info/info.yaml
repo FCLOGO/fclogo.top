@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [137.19520291159907, 36.626292631496085]
   timeline: true
   info:
     - fullName: Kataller Toyama Football Club

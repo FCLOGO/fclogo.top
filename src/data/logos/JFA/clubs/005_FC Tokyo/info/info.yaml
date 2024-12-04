@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: JPN
+  coordinates: [139.53376010011675, 35.6711664841997]
   timeline: false
   info:
     - fullName: Football Club Tokyo
