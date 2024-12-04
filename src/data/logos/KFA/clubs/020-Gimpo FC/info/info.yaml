@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [126.64921368073476, 37.641815188396116]
   timeline: false
   info:
     - fullName: Gimpo Football Club

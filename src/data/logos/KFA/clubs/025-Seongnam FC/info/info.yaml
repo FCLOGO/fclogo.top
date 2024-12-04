@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [127.12069618463315, 37.41058953290705]
   timeline: false
   info:
     - fullName: Seongnam Football Club

@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [128.58759928459673, 35.88193718518427]
   timeline: false
   info:
     - fullName: Daegu Football Club

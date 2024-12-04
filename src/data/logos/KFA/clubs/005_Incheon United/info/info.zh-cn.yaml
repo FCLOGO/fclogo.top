@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [126.64330391454834, 37.46839084031833]
   timeline: true
   info:
     - fullName: 仁川联足球俱乐部

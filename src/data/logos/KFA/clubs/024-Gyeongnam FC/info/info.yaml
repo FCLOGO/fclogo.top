@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [128.70600474225313, 35.22504988764656]
   timeline: false
   info:
     - fullName: Gyeongnam Football Club

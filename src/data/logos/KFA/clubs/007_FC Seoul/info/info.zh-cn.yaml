@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [126.89727940944104, 37.574184015369845]
   timeline: false
   info:
     - fullName: 首尔足球俱乐部

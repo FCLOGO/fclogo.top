@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [127.01132202846603, 37.29806937489414]
   timeline: false
   info:
     - fullName: 水原足球俱乐部

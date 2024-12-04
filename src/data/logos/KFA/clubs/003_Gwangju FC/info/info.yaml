@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [126.87427627532503, 35.13120292866024]
   timeline: true
   info:
     - fullName: Gwangju Football club

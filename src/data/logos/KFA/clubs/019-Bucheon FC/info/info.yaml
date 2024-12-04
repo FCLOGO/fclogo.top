@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [126.8031945962775, 37.523000882298554]
   timeline: false
   info:
     - fullName: Bucheon Football Club 1995

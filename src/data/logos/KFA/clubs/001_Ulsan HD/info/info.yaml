@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [129.42354632691683, 35.52841736968605]
   timeline: false
   info:
     - fullName: Ulsan HD Football Club

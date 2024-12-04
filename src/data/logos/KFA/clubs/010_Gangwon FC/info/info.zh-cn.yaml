@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [128.90768409047013, 37.747182863431156]
   timeline: true
   info:
     - fullName: 江原足球俱乐部

@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: KOR
+  coordinates: [129.35832795727418, 36.02486316031967]
   timeline: false
   info:
     - fullName: Football Club Pohang Steelers
