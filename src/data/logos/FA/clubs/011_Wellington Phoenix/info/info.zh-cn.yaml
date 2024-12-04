@@ -2,14 +2,15 @@
   sourceID: fa-club-011
   status: active
   type: club
-  nation: AUS
+  nation: NZL
+  coordinates: [175.02691546104742, -41.14290675810841]
   timeline: true
   info:
     - fullName: 惠灵顿凤凰足球俱乐部
       shortName: 惠灵顿凤凰
       localName: Wellington Phoenix Football Club
       founded: 2007
-      city: 澳大利亚，惠灵顿
+      city: 新西兰，惠灵顿
       ground: 威灵顿地区体育场
       league:
   weiboURL: ''

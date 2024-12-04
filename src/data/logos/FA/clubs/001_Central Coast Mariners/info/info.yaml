@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: AUS
+  coordinates: [151.4234149557023, -33.31205545556832]
   timeline: true
   info:
     - fullName: Central Coast Mariners Football Club

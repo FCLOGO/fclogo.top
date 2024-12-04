@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: AUS
+  coordinates: [151.11321725188398, -33.739382938044706]
   timeline: true
   info:
     - fullName: 悉尼足球俱乐部

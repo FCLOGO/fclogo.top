@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: AUS
+  coordinates: [115.72926348102996, -31.177789515186227]
   timeline: false
   info:
     - fullName: Perth Glory Football Club

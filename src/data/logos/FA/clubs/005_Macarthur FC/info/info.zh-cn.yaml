@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: AUS
+  coordinates: [150.8231995396014, -34.10120756180473]
   timeline: true
   info:
     - fullName: 麦克阿瑟足球俱乐部

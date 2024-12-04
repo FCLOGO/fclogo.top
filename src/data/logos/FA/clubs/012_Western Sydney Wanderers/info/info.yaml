@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: AUS
+  coordinates: [150.85664267050876, -33.773256455479576]
   timeline: true
   info:
     - fullName: Western Sydney Wanderers Football Club

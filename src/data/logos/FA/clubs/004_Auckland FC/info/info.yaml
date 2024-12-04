@@ -2,14 +2,15 @@
   sourceID: fa-club-004
   status: active
   type: club
-  nation: AUS
+  nation: NZL
+  coordinates: [174.765, -36.8402]
   timeline: true
   info:
     - fullName: Auckland Football Club
       shortName: Auckland FC
       localName: Auckland Football Club
       founded: 2024
-      city: Auckland, Australia
+      city: Auckland, New Zealand
       ground: Mount Smart Stadium
       league:
   weiboURL: ''

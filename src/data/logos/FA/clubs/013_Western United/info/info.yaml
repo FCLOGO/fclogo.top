@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: AUS
+  coordinates: [144.74515645081658, -37.83407422111976]
   timeline: true
   info:
     - fullName: Western United Football Club
