@@ -1,4 +1,4 @@
-import React, { useState, useRef, useCallback } from 'react'
+import React, { useState, useRef, useMemo, useCallback } from 'react'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { graphql } from 'gatsby'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
@@ -112,39 +112,42 @@ const logomap = ({ data, pageContext }) => {
   // 统计各国 club 数量
   const nationCount = clubs.reduce((accumulator, club) => {
     if (club.nation) {
-      // 如果国家不存在于 accumulator 中，则初始化
-      if (!accumulator[club.nation]) {
-        accumulator[club.nation] = {
-          count: 0,
-          flag: club.nationalFlag
-        }
+      accumulator[club.nation] = accumulator[club.nation] || {
+        count: 0,
+        flag: club.nationalFlag
       }
+      // 增加计数
       accumulator[club.nation].count += 1
     }
     return accumulator
   }, {})
 
   // 将 nationCount 转换为数组并排序
-  const sortedNationCount = Object.entries(nationCount)
-    .map(([nation, data]) => ({ nation, ...data })) // 转换为对象数组
-    .sort((a, b) => b.count - a.count) // 按 count 从多到少排序
+  const sortedNationCount = useMemo(() => {
+    return Object.entries(nationCount)
+      .map(([nation, data]) => ({ nation, ...data }))
+      .sort((a, b) => b.count - a.count)
+  }, [nationCount])
 
   // 提取 club 坐标数据，转换为 GeoJSON 格式
-  const geojsonData = {
-    type: 'FeatureCollection',
-    features: clubs.map(club => ({
-      type: 'Feature',
-      properties: {
-        id: club.id,
-        name: club.info[0].fullName,
-        status: club.status
-      },
-      geometry: {
-        type: 'Point',
-        coordinates: club.coordinates
-      }
-    }))
-  }
+  const geojsonData = useMemo(
+    () => ({
+      type: 'FeatureCollection',
+      features: clubs.map(club => ({
+        type: 'Feature',
+        properties: {
+          id: club.id,
+          name: club.info[0].fullName,
+          status: club.status
+        },
+        geometry: {
+          type: 'Point',
+          coordinates: club.coordinates
+        }
+      }))
+    }),
+    [clubs]
+  )
 
   // 定义标记样式
   const circleLayerStyle = {
