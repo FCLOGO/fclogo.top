@@ -3,7 +3,8 @@
   status: alive
   type: club
   timeline: true
-  nation: China
+  nation: CHN
+  coordinates: [117.025906, 36.5989]
   info:
     - fullName: 山东泰山足球俱乐部
       shortName: 山东泰山

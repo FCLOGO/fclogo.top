@@ -2,7 +2,7 @@
   logoID: 20211103-019
   version: 2014
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Yanbian Baekdu', 'Yanbian Funde']
   slug: /cfa/club/yanbian-funde-v2014-mono
   pngPath: 'png/yanbian-funde-v2014-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211103-020
   version: 2014
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Yanbian Baekdu', 'Yanbian Funde']
   slug: /cfa/club/yanbian-funde-v2014
   pngPath: 'png/yanbian-funde-v2014.png'

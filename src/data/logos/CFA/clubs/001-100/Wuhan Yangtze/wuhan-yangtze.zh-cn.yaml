@@ -96,7 +96,7 @@
   logoID: 20220520-180704
   version: 2022
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['武汉长江']
   slug: /cfa/club/wuhan-yangtze-v2022-mono
   pngPath: 'png/wuhan-yangtze-v2022-mono.png'
@@ -108,7 +108,7 @@
   logoID: 20220520-180745
   version: 2022
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['武汉长江']
   slug: /cfa/club/wuhan-yangtze-v2022
   pngPath: 'png/wuhan-yangtze-v2022.png'

@@ -26,7 +26,7 @@
   logoID: 20211103-003
   version: 2020
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Xinjiang Tianshan Leopard']
   slug: /cfa/club/xinjiang-tianshan-leopard-v2020-mono
   pngPath: 'png/xinjiang-tianshan-leopard-v2020-mono.png'
@@ -38,7 +38,7 @@
   logoID: 20211103-004
   version: 2020
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Xinjiang Tianshan Leopard']
   slug: /cfa/club/xinjiang-tianshan-leopard-v2020
   pngPath: 'png/xinjiang-tianshan-leopard-v2020.png'

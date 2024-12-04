@@ -2,7 +2,8 @@
   sourceID: cfa-club-082
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.151829, 31.817794]
   timeline: true
   info:
     - fullName: Nantong Haimen Codion Football Club

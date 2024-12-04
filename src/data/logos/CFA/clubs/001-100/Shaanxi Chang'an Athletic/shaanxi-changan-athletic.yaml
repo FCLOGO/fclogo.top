@@ -2,7 +2,7 @@
   logoID: 20211027-004
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ["Shaanxi Chang'an Athletic"]
   slug: /cfa/club/shaanxi-changan-athletic-v2016-mono
   pngPath: 'png/shaanxi-changan-athletic-v2016-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211027-005
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ["Shaanxi Chang'an Athletic"]
   slug: /cfa/club/shaanxi-changan-athletic-v2016
   pngPath: 'png/shaanxi-changan-athletic-v2016.png'

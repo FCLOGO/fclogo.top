@@ -23,6 +23,8 @@
 - data: logo
   logoID: 20211021-001
   version: 2021
+  isDoubtful: false
+  isOutdated: false
   verName: ['Tianjin Jinmen Tiger']
   pngPath: 'png/tianjin-jinmen-tiger-v2021-mono.png'
   svgPath: 'svg/tianjin-jinmen-tiger-v2021-mono.svg'
@@ -33,6 +35,8 @@
 - data: logo
   logoID: 20211021-002
   version: 2021
+  isDoubtful: false
+  isOutdated: false
   verName: ['Tianjin Jinmen Tiger']
   pngPath: 'png/tianjin-jinmen-tiger-v2021.png'
   svgPath: 'svg/tianjin-jinmen-tiger-v2021.svg'

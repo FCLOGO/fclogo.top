@@ -2,7 +2,8 @@
   sourceID: cfa-club-025
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.788586, 31.276048]
   timeline: true
   info:
     - fullName: 苏州东吴足球俱乐部

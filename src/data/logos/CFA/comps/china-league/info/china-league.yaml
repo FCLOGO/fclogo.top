@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: cfa-comp-002
   type: comp
-  nation: China
+  nation: CHN
   info:
     - fullName: Chinese Football Association China League
       shortName: China League

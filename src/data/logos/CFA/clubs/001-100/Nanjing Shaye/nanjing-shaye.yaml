@@ -2,7 +2,7 @@
   logoID: 20211208-155822
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['NanJing ShaYe']
   slug: /cfa/club/nanjing-shaye-v2017-mono-2
   pngPath: 'png/nanjing-shaye-v2017-mono-2.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-160004
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['NanJing ShaYe']
   slug: /cfa/club/nanjing-shaye-v2017-mono
   pngPath: 'png/nanjing-shaye-v2017-mono.png'
@@ -26,7 +26,7 @@
   logoID: 20211208-160022
   version: 2017
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['NanJing ShaYe']
   slug: /cfa/club/nanjing-shaye-v2017
   pngPath: 'png/nanjing-shaye-v2017.png'

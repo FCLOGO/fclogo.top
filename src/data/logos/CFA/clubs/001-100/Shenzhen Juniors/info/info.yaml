@@ -2,7 +2,8 @@
   sourceID: cfa-club-097
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [114.041679, 22.657907]
   timeline: true
   info:
     - fullName: Shenzhen Juniors Football Club

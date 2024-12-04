@@ -2,7 +2,8 @@
   sourceID: cfa-club-049
   status: out
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [112.537781, 37.754899]
   timeline: true
   info:
     - fullName: 山西龙晋足球俱乐部

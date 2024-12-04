@@ -2,7 +2,8 @@
   sourceID: cfa-club-092
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [108.795806, 34.432273]
   timeline: true
   info:
     - fullName: 陕西联合足球俱乐部

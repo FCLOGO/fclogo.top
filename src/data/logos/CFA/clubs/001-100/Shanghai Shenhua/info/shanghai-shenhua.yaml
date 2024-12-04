@@ -2,7 +2,8 @@
   sourceID: cfa-club-003
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.566294, 31.142534]
   timeline: true
   info:
     - fullName: Shanghai Shenhua Football Club

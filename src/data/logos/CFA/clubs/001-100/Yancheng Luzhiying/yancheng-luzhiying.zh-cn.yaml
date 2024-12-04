@@ -2,7 +2,7 @@
   logoID: 20211208-007
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['江苏盐城鼎立', '盐城鹿之瀛']
   slug: /cfa/club/yancheng-luzhiying-v2016-mono
   pngPath: 'png/yancheng-luzhiying-v2016-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-008
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['江苏盐城鼎立', '盐城鹿之瀛']
   slug: /cfa/club/yancheng-luzhiying-v2016
   pngPath: 'png/yancheng-luzhiying-v2016.png'

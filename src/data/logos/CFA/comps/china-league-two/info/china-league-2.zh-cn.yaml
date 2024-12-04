@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: cfa-comp-003
   type: comp
-  nation: China
+  nation: CHN
   info:
     - fullName: 中国足球协会乙级联赛
       shortName: 中乙联赛

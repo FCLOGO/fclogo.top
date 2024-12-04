@@ -2,7 +2,7 @@
   logoID: 20220604-001119
   version: 2021
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['琴澳（珠海）']
   slug: /cfa/club/qinao-zhuhai-v2021-mono
   pngPath: 'png/qinao-zhuhai-v2021-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20220604-001146
   version: 2021
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['琴澳（珠海）']
   slug: /cfa/club/qinao-zhuhai-v2021
   pngPath: 'png/qinao-zhuhai-v2021.png'

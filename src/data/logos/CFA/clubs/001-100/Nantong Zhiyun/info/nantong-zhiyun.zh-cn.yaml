@@ -2,7 +2,8 @@
   sourceID: cfa-club-022
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.589261, 32.375547]
   timeline: true
   info:
     - fullName: 南通支云足球俱乐部

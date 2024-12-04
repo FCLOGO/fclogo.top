@@ -2,7 +2,8 @@
   sourceID: cfa-club-026
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [118.061095, 36.842327]
   timeline: true
   info:
     - fullName: Zibo Cuju Football Club

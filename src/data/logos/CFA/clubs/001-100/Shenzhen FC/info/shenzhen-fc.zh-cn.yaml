@@ -2,8 +2,9 @@
   sourceID: cfa-club-005
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
   timeline: true
+  coordinates: [114.072349, 22.654589]
   info:
     - fullName: 深圳市足球俱乐部
       shortName: 深圳 FC

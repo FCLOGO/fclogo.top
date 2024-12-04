@@ -2,7 +2,8 @@
   sourceID: cfa-club-013
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [117.734142, 39.043169]
   timeline: true
   info:
     - fullName: 天津津门虎足球俱乐部

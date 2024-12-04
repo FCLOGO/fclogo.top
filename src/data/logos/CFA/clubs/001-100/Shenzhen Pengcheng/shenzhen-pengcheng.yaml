@@ -2,7 +2,7 @@
   logoID: 20211208-155545
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['ShenZhen PengCheng']
   slug: /cfa/club/shenzhen-pengcheng-v2016-mono
   pngPath: 'png/shenzhen-pengcheng-v2016-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-155617
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['ShenZhen PengCheng']
   slug: /cfa/club/shenzhen-pengcheng-v2016
   pngPath: 'png/shenzhen-pengcheng-v2016.png'

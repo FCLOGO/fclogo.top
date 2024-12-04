@@ -26,7 +26,7 @@
   logoID: 20211103-023
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Tianjin Tianhai']
   slug: /cfa/club/tianjin-tianhai-v2019-mono
   pngPath: 'png/tianjin-tianhai-v2019-mono.png'
@@ -38,7 +38,7 @@
   logoID: 20211103-024
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Tianjin Tianhai']
   slug: /cfa/club/tianjin-tianhai-v2019
   pngPath: 'png/tianjin-tianhai-v2019.png'

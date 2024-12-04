@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: cfa-comp-006
   type: comp
-  nation: China
+  nation: CHN
   info:
     - fullName: Chinese Football Association Member Association Champions League
       shortName: CMCL

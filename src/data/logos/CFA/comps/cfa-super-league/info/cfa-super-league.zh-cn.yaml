@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: cfa-comp-001
   type: comp
-  nation: China
+  nation: CHN
   info:
     - fullName: 中国足球协会超级联赛
       shortName: 中超联赛

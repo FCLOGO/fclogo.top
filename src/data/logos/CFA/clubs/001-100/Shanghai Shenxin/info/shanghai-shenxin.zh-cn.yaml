@@ -2,7 +2,8 @@
   sourceID: cfa-club-040
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.328721, 30.784849]
   timeline: true
   info:
     - fullName: 上海申鑫足球俱乐部

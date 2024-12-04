@@ -2,7 +2,8 @@
   sourceID: cfa-club-085
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [118.037898, 36.646598]
   timeline: true
   info:
     - fullName: Zibo Qisheng Football Club

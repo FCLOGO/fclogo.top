@@ -2,7 +2,8 @@
   sourceID: cfa-club-035
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [87.560084, 43.880814]
   timeline: true
   info:
     - fullName: Xinjiang Tianshan Leopard Football Club

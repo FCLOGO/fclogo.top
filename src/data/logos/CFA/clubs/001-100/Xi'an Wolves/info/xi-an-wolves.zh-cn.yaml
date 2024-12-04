@@ -2,7 +2,8 @@
   sourceID: cfa-club-046
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [108.885998, 34.226196]
   timeline: true
   info:
     - fullName: 西安骏狼足球俱乐部

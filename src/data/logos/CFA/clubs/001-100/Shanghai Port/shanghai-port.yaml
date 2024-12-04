@@ -1,6 +1,7 @@
 - data: logo
   logoID: 20211015-001
   version: 2014
+  isDoubtful: false
   isOutdated: true
   verName: ['Shanghai SIPG FC']
   pngPath: 'png/shanghai-port-v2014.png'
@@ -12,6 +13,7 @@
 - data: logo
   logoID: 20211015-002
   version: 2014
+  isDoubtful: false
   isOutdated: true
   verName: ['Shanghai SIPG FC']
   pngPath: 'png/shanghai-port-v2014-mono.png'
@@ -23,6 +25,8 @@
 - data: logo
   logoID: 20211018-001
   version: 2021
+  isDoubtful: false
+  isOutdated: false
   verName: ['Shanghai Port']
   pngPath: 'png/shanghai-port-v2021-mono.png'
   svgPath: 'svg/shanghai-port-v2021-mono.svg'
@@ -33,6 +37,8 @@
 - data: logo
   logoID: 20211018-002
   version: 2021
+  isDoubtful: false
+  isOutdated: false
   verName: ['Shanghai Port']
   pngPath: 'png/shanghai-port-v2021.png'
   svgPath: 'svg/shanghai-port-v2021.svg'

@@ -2,7 +2,8 @@
   sourceID: cfa-club-018
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [119.954269, 30.236397]
   timeline: true
   info:
     - fullName: 浙江职业足球俱乐部

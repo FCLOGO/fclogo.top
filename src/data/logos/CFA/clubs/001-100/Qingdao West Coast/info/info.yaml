@@ -2,7 +2,8 @@
   sourceID: cfa-club-061
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.122769, 36.069245]
   timeline: true
   info:
     - fullName: Qingdao West Coast Football Club

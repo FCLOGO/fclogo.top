@@ -2,7 +2,8 @@
   sourceID: cfa-club-078
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [118.781179, 32.020124]
   timeline: true
   info:
     - fullName: 南京沙叶足球俱乐部

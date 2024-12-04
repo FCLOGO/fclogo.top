@@ -2,7 +2,7 @@
   logoID: 20211208-007
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['JiangSu YanCheng DingLi', 'YanCheng LuZhiYing']
   slug: /cfa/club/yancheng-luzhiying-v2016-mono
   pngPath: 'png/yancheng-luzhiying-v2016-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211208-008
   version: 2016
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['JiangSu YanCheng DingLi', 'YanCheng LuZhiYing']
   slug: /cfa/club/yancheng-luzhiying-v2016
   pngPath: 'png/yancheng-luzhiying-v2016.png'

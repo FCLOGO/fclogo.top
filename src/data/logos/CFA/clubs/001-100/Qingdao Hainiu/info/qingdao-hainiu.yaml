@@ -2,7 +2,8 @@
   sourceID: cfa-club-052
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.402955, 36.319529]
   timeline: true
   info:
     - fullName: Qingdao Hainiu Football Club

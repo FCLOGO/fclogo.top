@@ -2,7 +2,8 @@
   sourceID: cfa-club-063
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [104.082159, 30.670887]
   timeline: true
   info:
     - fullName: Sichuan Minzu Football Club

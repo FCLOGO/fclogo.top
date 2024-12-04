@@ -2,7 +2,8 @@
   sourceID: cfa-club-060
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.127425, 36.017139]
   timeline: true
   info:
     - fullName: Qingdao Red Lions Football Club

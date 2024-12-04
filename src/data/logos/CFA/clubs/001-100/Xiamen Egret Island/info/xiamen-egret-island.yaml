@@ -2,7 +2,8 @@
   sourceID: cfa-club-062
   status: out
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [118.160812, 24.660323]
   timeline: true
   info:
     - fullName: Xiamen Egret Island Football Club

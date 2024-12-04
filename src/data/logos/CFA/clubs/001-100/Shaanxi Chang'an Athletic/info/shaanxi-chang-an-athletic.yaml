@@ -2,7 +2,8 @@
   sourceID: cfa-club-021
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [108.884972, 34.202181]
   timeline: true
   info:
     - fullName: Shaanxi Chang'an Athletic Football Club

@@ -2,7 +2,8 @@
   sourceID: cfa-club-058
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.280344, 31.416356]
   info:
     - fullName: 上海嘉定汇龙足球俱乐部
       shortName: 上海嘉定汇龙

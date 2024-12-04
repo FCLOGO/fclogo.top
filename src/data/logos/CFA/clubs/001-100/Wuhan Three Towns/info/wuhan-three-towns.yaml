@@ -2,7 +2,8 @@
   sourceID: cfa-club-019
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [114.457882, 30.473691]
   timeline: true
   info:
     - fullName: Wuhan Three Towns Football Club

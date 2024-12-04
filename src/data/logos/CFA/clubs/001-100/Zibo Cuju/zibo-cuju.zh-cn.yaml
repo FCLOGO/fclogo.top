@@ -2,7 +2,7 @@
   logoID: 20211028-005
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['淄博蹴鞠']
   slug: /cfa/club/zibo-cuju-v2019-mono
   pngPath: 'png/zibo-cuju-v2019-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211028-006
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['淄博蹴鞠']
   slug: /cfa/club/zibo-cuju-v2019
   pngPath: 'png/zibo-cuju-v2019.png'

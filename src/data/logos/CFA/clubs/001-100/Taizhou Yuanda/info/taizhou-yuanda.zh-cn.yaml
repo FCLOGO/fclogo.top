@@ -2,7 +2,8 @@
   sourceID: cfa-club-072
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [120.072508, 32.184754]
   info:
     - fullName: 泰州远大足球俱乐部
       shortName: 泰州远大

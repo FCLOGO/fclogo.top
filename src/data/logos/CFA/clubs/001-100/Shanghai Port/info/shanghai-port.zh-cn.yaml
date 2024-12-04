@@ -2,7 +2,8 @@
   sourceID: cfa-club-006
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.531281, 31.223065]
   timeline: true
   info:
     - fullName: 上海海港足球俱乐部
@@ -14,5 +15,5 @@
       league: 中超联赛
   weiboURL: 'https://weibo.com/u/3593916900'
   twitterURL: ''
-  websiteURL: 'http://www.sipg-fc.com/'
+  websiteURL: 'https://www.fcshanghaiport.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/上海海港足球俱乐部'

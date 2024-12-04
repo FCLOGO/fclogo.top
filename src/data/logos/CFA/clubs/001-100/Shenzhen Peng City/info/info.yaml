@@ -2,7 +2,8 @@
   sourceID: cfa-club-023
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [114.035698, 22.525828]
   timeline: true
   info:
     - fullName: Shenzhen Peng City Football Club

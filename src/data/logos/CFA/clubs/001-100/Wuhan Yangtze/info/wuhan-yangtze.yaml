@@ -2,7 +2,8 @@
   sourceID: cfa-club-014
   status: disbanded
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [114.282629, 30.711605]
   timeline: true
   info:
     - fullName: Wuhan Yangtze Football Club

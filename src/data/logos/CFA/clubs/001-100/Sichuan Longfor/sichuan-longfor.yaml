@@ -2,7 +2,7 @@
   logoID: 20211103-017
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Sichuan Longfor']
   slug: /cfa/club/sichuan-longfor-v2019-mono
   pngPath: 'png/sichuan-longfor-v2019-mono.png'
@@ -14,7 +14,7 @@
   logoID: 20211103-018
   version: 2019
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Sichuan Longfor']
   slug: /cfa/club/sichuan-longfor-v2019
   pngPath: 'png/sichuan-longfor-v2019.png'

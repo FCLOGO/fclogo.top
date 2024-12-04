@@ -2,7 +2,8 @@
   sourceID: cfa-club-006
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [121.531281, 31.223065]
   timeline: true
   info:
     - fullName: Shanghai Port Football Club
@@ -14,5 +15,5 @@
       league: Chinese Super League
   weiboURL: 'https://weibo.com/u/3593916900'
   twitterURL: ''
-  websiteURL: 'http://www.sipg-fc.com/'
+  websiteURL: 'https://www.fcshanghaiport.com/'
   wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Port_F.C.'

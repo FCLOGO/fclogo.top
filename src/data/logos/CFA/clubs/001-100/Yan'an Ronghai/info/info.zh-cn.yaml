@@ -2,7 +2,8 @@
   sourceID: cfa-club-100
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [108.98284, 34.215778]
   timeline: true
   info:
     - fullName: 延安荣海足球俱乐部

@@ -38,7 +38,7 @@
   logoID: 20211107-010
   version: 2020
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Shanxi Longjin']
   slug: /cfa/club/shanxi-longjin-v2020
   pngPath: 'png/shanxi-longjin-v2020.png'

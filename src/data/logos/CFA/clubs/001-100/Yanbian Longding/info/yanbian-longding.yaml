@@ -2,7 +2,8 @@
   sourceID: cfa-club-065
   status: alive
   type: club
-  nation: China
+  nation: CHN
+  coordinates: [129.437514, 42.815429]
   info:
     - fullName: Yanbian Longding Football Club
       shortName: Yanbian Longding

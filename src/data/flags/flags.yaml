@@ -1,9 +1,4 @@
 - data: flag
-  nation: China
-  flag: 'img/china.png'
-  flag2: 'img2/china.png'
-
-- data: flag
   nation: CHN
   flag: 'img/china.png'
   flag2: 'img2/china.png'
