@@ -21,17 +21,24 @@
 
 - data: flag
   nation: KOR
-  center: [156, 60]
-  zoom: 5
+  center: [126.8500, 36.0055]
+  zoom: 6.5
   flag: 'img/south-korea.png'
   flag2: 'img2/south-korea.png'
 
 - data: flag
   nation: AUS
-  center: [106, 80]
-  zoom: 5
+  center: [130, -29]
+  zoom: 4
   flag: 'img/australia.png'
   flag2: 'img2/australia.png'
+
+- data: flag
+  nation: NZL
+  center: [170.00, -41.50]
+  zoom: 5
+  flag: 'img/new-zealand.png'
+  flag2: 'img2/new-zealand.png'
 
 - data: flag
   nation: THA
