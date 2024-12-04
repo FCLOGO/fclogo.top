@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.17149181081945, 22.250333598609622]
   timeline: true
   info:
     - fullName: Southern District Football Club

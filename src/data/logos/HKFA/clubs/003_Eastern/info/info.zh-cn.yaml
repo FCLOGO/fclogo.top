@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.17206458307413, 22.325590693178167]
   timeline: true
   info:
     - fullName: 东方体育会足球队
@@ -14,5 +15,5 @@
       league:
   weiboURL: ''
   twitterURL: ''
-  websiteURL: ''
+  websiteURL: 'http://easternsportsclub.com/'
   wikiURL: 'https://zh.wikipedia.org/wiki/東方足球隊'

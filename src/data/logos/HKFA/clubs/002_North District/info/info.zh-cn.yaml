@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.12668927178755, 22.50563102059712]
   timeline: true
   info:
     - fullName: 北区足球会

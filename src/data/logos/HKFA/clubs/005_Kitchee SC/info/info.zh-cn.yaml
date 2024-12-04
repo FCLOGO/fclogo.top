@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.2074803264164, 22.387573447928066]
   timeline: false
   info:
     - fullName: 杰志体育会

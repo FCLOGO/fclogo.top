@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.2582395668865, 22.30257837986678]
   timeline: true
   info:
     - fullName: Lee Man Football Club

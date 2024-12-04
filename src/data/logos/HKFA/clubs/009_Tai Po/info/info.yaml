@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.16218291192408, 22.456002470815967]
   timeline: true
   info:
     - fullName: Tai Po Football Club

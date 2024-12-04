@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: HKG
+  coordinates: [114.18211074290392, 22.275398959557265]
   timeline: false
   info:
     - fullName: Hong Kong Football Club
