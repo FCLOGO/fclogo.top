@@ -2,6 +2,43 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/FCLOGO/fclogo.top/compare/v2.4.8...v2.5.0) (2024-12-04)
+
+
+### ✨ Features | 新功能
+
+* **增加** 徽标地图页面 ([785f7ad](https://github.com/FCLOGO/fclogo.top/commit/785f7addf973744b5b2ad93605ae0e03de18718a))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* Fix bugs ([fe126ba](https://github.com/FCLOGO/fclogo.top/commit/fe126ba374cf8c4f98f549d8830fa04079f4bace))
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* **优化** 地图样式 ([15f0bd0](https://github.com/FCLOGO/fclogo.top/commit/15f0bd0d5e2ccc9271dc01bc0eb4bd2edecd149b))
+* 地图页增加俱乐部统计信息 ([c80384f](https://github.com/FCLOGO/fclogo.top/commit/c80384f320386cb7affa7c5f4e476b2f162a9b4f))
+* 用不同颜色标记俱乐部状态 ([3e2bf26](https://github.com/FCLOGO/fclogo.top/commit/3e2bf26b51e0be7b93492674abeb58dfe0efaa3f))
+
+
+### ❇️ Chores | 其他更新
+
+* *修改* 俱乐部 `status` 状态字体值 ([4233a34](https://github.com/FCLOGO/fclogo.top/commit/4233a34cba5db33f70aee334909bbaf156684331))
+
+
+### 🛠️ Build System | 构建
+
+* *更新* 依赖项 ([3e4858f](https://github.com/FCLOGO/fclogo.top/commit/3e4858f53f96635cd225fbf7805c9ce4a41a7d87))
+
+
+### 📝 Documentation | 文档
+
+* 添加俱乐部位置坐标信息 ([290de84](https://github.com/FCLOGO/fclogo.top/commit/290de84330b2563d73b0243dac0106285b03839a))
+* 添加俱乐部位置坐标信息 ([99c8b5e](https://github.com/FCLOGO/fclogo.top/commit/99c8b5eb916b00312b59bcfd7979a3d19be61c65))
+* 增加俱乐部位置坐标信息 ([3c513ef](https://github.com/FCLOGO/fclogo.top/commit/3c513efa18665ced35bfee196d657f6d0ed45987))
+* 增加俱乐部坐标信息 ([42f5017](https://github.com/FCLOGO/fclogo.top/commit/42f501715c36233321c1603802486a5c787b5b48))
+
 ### [2.4.8](https://github.com/FCLOGO/fclogo.top/compare/v2.4.7...v2.4.8) (2024-11-30)
 
 
