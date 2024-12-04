@@ -26,17 +26,15 @@ const CountryInfo = ({ countryData }) => {
   return (
     <div className="text-gray overflow-y-scroll flex-grow">
       <ul className="mt-md">
-        {Object.keys(countryData).map(nation => (
+        {countryData.map(({ nation, count, flag }) => (
           <li
             key={nation}
             className="pb-lg mt-lg border-b border-dashed border-b-gray border-opacity-35 flex flex-col"
           >
-            <span className="font-mono font-thin text-5xl map:text-4xl">
-              {countryData[nation].count}
-            </span>
+            <span className="font-mono font-thin text-5xl map:text-4xl">{count}</span>
             <div className="flex flex-row items-center mt-xs">
               <GatsbyImage
-                image={getImage(countryData[nation].flag[0].flag2)} // 从 clubs 找到对应的 logo
+                image={getImage(flag[0].flag2)} // 从 clubs 找到对应的 logo
                 alt={nation}
               />
               <span className="ml-sm">{t(nation)}</span>
@@ -122,6 +120,11 @@ const logomap = ({ data, pageContext }) => {
     }
     return accumulator
   }, {})
+
+  // 将 nationCount 转换为数组并排序
+  const sortedNationCount = Object.entries(nationCount)
+    .map(([nation, data]) => ({ nation, ...data })) // 转换为对象数组
+    .sort((a, b) => b.count - a.count) // 按 count 从多到少排序
 
   // 提取 club 坐标数据，转换为 GeoJSON 格式
   const geojsonData = {
@@ -247,7 +250,7 @@ const logomap = ({ data, pageContext }) => {
                     {t('clubStatistics')}
                   </h3>
                 </header>
-                <CountryInfo countryData={nationCount} />
+                <CountryInfo countryData={sortedNationCount} />
                 <div className="flex flex-col pt-lg border-t border-t-gray border-opacity-35">
                   <span className="font-mono font-thin text-6xl map:text-4xl">{clubs.length}</span>
                   <span className="">{t('totalCount')}</span>
