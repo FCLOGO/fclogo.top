@@ -243,7 +243,7 @@ const logomap = ({ data, pageContext }) => {
                 <Layer {...circleLayerStyle} />
               </Source>
 
-              <div className="text-gray absolute bg-black h-full w-[280px] map:w-[160px] bg-opacity-55 p-xl pb-[40px] flex flex-col justify-between">
+              <div className="text-gray absolute bg-black h-full w-[280px] map:w-[160px] bg-opacity-85 p-xl pb-[40px] flex flex-col justify-between">
                 <header className="border-b border-b-gray border-opacity-35">
                   <ClubIcon className="w-[48px] h-[48px] stroke-gray stroke-[24] mb-md" />
                   <h3 className="uppercase font-semibold text-lg tracking-wider mb-md">
