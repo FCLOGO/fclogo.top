@@ -1,49 +1,69 @@
 - data: flag
   nation: CHN
+  center: [100, 35]
+  zoom: 4
   flag: 'img/china.png'
   flag2: 'img2/china.png'
 
 - data: flag
   nation: HKG
+  center: [114.18510966572981, 22.352641245975696]
+  zoom: 10.5
   flag: 'img/hong-kong.png'
   flag2: 'img2/hong-kong.png'
 
 - data: flag
   nation: JPN
+  center: [136.15, 37.45]
+  zoom: 5
   flag: 'img/japan.png'
   flag2: 'img2/japan.png'
 
 - data: flag
   nation: KOR
+  center: [156, 60]
+  zoom: 5
   flag: 'img/south-korea.png'
   flag2: 'img2/south-korea.png'
 
 - data: flag
   nation: AUS
+  center: [106, 80]
+  zoom: 5
   flag: 'img/australia.png'
   flag2: 'img2/australia.png'
 
 - data: flag
   nation: THA
+  center: [100.65585, 13.90812]
+  zoom: 7
   flag: 'img/thailand.png'
   flag2: 'img2/thailand.png'
 
 - data: flag
   nation: MYS
+  center: [103.7515, 1.4976]
+  zoom: 7
   flag: 'img/malaysia.png'
   flag2: 'img2/malaysia.png'
 
 - data: flag
   nation: SAU
+  center: [106, 4]
+  zoom: 5
   flag: 'img/saudi-arabia.png'
   flag2: 'img2/saudi-arabia.png'
 
 - data: flag
   nation: USA
+  center: [106, 4]
+  zoom: 5
   flag: 'img/united-states.png'
   flag2: 'img2/united-states.png'
 
 - data: flag
   nation: CAN
+  center: [106, 4]
+  zoom: 5
   flag: 'img/canada.png'
   flag2: 'img2/canada.png'

@@ -21,7 +21,7 @@ const languageMap = {
 }
 
 // club 数量统计
-const CountryInfo = ({ countryData }) => {
+const CountryInfo = ({ countryData, onCountryClick }) => {
   const { t } = useTranslation()
   return (
     <div className="text-gray overflow-y-scroll flex-grow">
@@ -29,7 +29,8 @@ const CountryInfo = ({ countryData }) => {
         {countryData.map(({ nation, count, flag }) => (
           <li
             key={nation}
-            className="pb-lg mt-lg border-b border-dashed border-b-gray border-opacity-35 flex flex-col"
+            onClick={() => onCountryClick(flag[0].center, flag[0].zoom)}
+            className="cursor-pointer w-full pb-lg mt-lg border-b border-dashed border-b-gray border-opacity-35 flex flex-col"
           >
             <span className="font-mono font-thin text-5xl map:text-4xl">{count}</span>
             <div className="flex flex-row items-center mt-xs">
@@ -50,11 +51,13 @@ const logomap = ({ data, pageContext }) => {
   const { t } = useTranslation()
   // 初始化地图
   const mapRef = useRef()
-  const [viewState, setViewState] = React.useState({
+  // 默认的经度、纬度和缩放级别
+  const defaultViewState = {
     longitude: 120,
     latitude: 30,
     zoom: 2.5
-  })
+  }
+  const [viewState, setViewState] = React.useState(defaultViewState)
 
   const REMOVE_LAYER_LIST = [
     'road-label-simple',
@@ -192,6 +195,21 @@ const logomap = ({ data, pageContext }) => {
     setHoveredClub(null)
   }
 
+  // 点击国家时更新地图中心
+  const handleCountryClick = (center, zoom) => {
+    setViewState({
+      ...viewState,
+      longitude: center[0],
+      latitude: center[1],
+      zoom: zoom
+    })
+  }
+
+  // 点击合计数量时恢复到默认中心及缩放级别
+  const handleTotalCountClick = () => {
+    setViewState(defaultViewState)
+  }
+
   // 查找对应的 logo 数据
   const getClubLogo = clubId => {
     const club = clubs.find(c => c.id === clubId)
@@ -250,8 +268,11 @@ const logomap = ({ data, pageContext }) => {
                     {t('clubStatistics')}
                   </h3>
                 </header>
-                <CountryInfo countryData={sortedNationCount} />
-                <div className="flex flex-col pt-lg border-t border-t-gray border-opacity-35">
+                <CountryInfo countryData={sortedNationCount} onCountryClick={handleCountryClick} />
+                <div
+                  onClick={handleTotalCountClick}
+                  className="cursor-pointer w-full flex flex-col pt-lg border-t border-t-gray border-opacity-35"
+                >
                   <span className="font-mono font-thin text-6xl map:text-4xl">{clubs.length}</span>
                   <span className="">{t('totalCount')}</span>
                 </div>
@@ -325,6 +346,8 @@ export const query = graphql`
         }
         nation
         nationalFlag {
+          center
+          zoom
           flag2 {
             childImageSharp {
               gatsbyImageData(width: 20, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
