@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-002
-  status: alive
+  status: active
   type: club
   nation: CHN
   coordinates: [116.705193, 40.421631]

@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: fat-club-001
-  status: alive
+  status: active
   type: club
   nation: THA
   timeline: false

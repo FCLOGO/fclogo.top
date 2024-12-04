@@ -101,9 +101,8 @@
   "sidebar.logoid": "ID: ",
   "sidebar.downloads": " download",
   "sidebar.s": "s",
-  "disbanded": "Disbanded",
-  "out": "Signed out",
-  "alive": "Alive",
+  "inactive": "Inactive",
+  "active": "Active",
   "sidebar.contributor": "Contributor: ",
 
   "detailTitleVector": " Vector Logo",

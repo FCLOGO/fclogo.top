@@ -147,11 +147,9 @@ const logomap = ({ data, pageContext }) => {
     paint: {
       'circle-color': [
         'case',
-        ['==', ['get', 'status'], 'alive'],
+        ['==', ['get', 'status'], 'active'],
         '#4264fb',
-        ['==', ['get', 'status'], 'disbanded'],
-        '#7f8c8d',
-        ['==', ['get', 'status'], 'out'],
+        ['==', ['get', 'status'], 'inactive'],
         '#7f8c8d',
         '#4264fb' // default to blue if not matched
       ],

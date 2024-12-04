@@ -86,7 +86,7 @@ const DetailSidebar = props => {
             {props.fullName}
             {t('detailTitleVector')}
           </h1>
-          {props.status !== 'alive' && props.status ? (
+          {props.status == 'inactive' && props.status ? (
             <span className="flex-none text-xs uppercase font-semibold bg-light-gray rounded-sm text-gray px-xs py-mini ml-xs">
               {t(props.status)}
             </span>
