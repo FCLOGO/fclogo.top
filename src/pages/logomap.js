@@ -191,11 +191,15 @@ const logomap = ({ data, pageContext }) => {
       }
       // 设置 hoveredClub 的状态
       setHoveredClub({ ...feature, geometry: { coordinates } }) // 添加调整后的坐标
+
+      // 改变鼠标光标样式为指针
+      mapRef.current.getCanvas().style.cursor = 'pointer'
     }
   }
 
   const onLeave = () => {
     setHoveredClub(null)
+    mapRef.current.getCanvas().style.cursor = '' // 恢复默认光标样式
   }
 
   // 点击国家时更新地图中心
