@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [39.80249379727753, 21.498125295054972]
   timeline: false
   info:
     - fullName: Al Wehda Football Club

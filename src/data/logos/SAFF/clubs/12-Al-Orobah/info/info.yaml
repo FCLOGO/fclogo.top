@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [40.211508576966445, 30.004779870835904]
   timeline: false
   info:
     - fullName: Al-Orobah Football Club

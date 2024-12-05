@@ -3,13 +3,14 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [50.20541388942308, 26.499586022324717]
   timeline: false
   info:
     - fullName: 卡迪西亚足球俱乐部
       shortName: 卡迪西亚
       localName: نادي القادسية لكرة القدم
       founded: 1967
-      city: Khobar
+      city: 科巴尔
       ground: 沙特·本·贾拉维王子体育场
       league:
   weiboURL: ''

@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [45.345052997486, 25.90923633589843]
   timeline: false
   info:
     - fullName: Al-Fayha Football Club

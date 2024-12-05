@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [50.03141181493065, 26.47837625003447]
   timeline: false
   info:
     - fullName: Al-Khaleej Football Club

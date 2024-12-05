@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [39.20529396670866, 21.644595955829036]
   timeline: false
   info:
     - fullName: Ittihad Saudi Arabian Club

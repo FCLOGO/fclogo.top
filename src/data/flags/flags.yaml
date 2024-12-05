@@ -56,8 +56,8 @@
 
 - data: flag
   nation: SAU
-  center: [106, 4]
-  zoom: 5
+  center: [41.5, 23.0]
+  zoom: 4.5
   flag: 'img/saudi-arabia.png'
   flag2: 'img2/saudi-arabia.png'
 

@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [42.5925225496093, 18.375984278593396]
   timeline: false
   info:
     - fullName: Damac Football Club

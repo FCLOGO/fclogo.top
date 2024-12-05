@@ -3,6 +3,7 @@
   status: active
   type: club
   nation: SAU
+  coordinates: [43.49557124905501, 25.887810231588894]
   timeline: false
   info:
     - fullName: Al-Kholood Club
