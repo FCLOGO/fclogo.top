@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/FCLOGO/fclogo.top/compare/v2.5.0...v2.5.1) (2024-12-05)
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* 根据国家别控制地图缩放 ([289d2a3](https://github.com/FCLOGO/fclogo.top/commit/289d2a3ccf2aa11ee6f18f275c90463dc87dea64))
+* 统计信息按数量排序 ([ed5285d](https://github.com/FCLOGO/fclogo.top/commit/ed5285dee01706c38808fee82fa505964453474e))
+* 性能优化 ([5beb8cd](https://github.com/FCLOGO/fclogo.top/commit/5beb8cdb84b7de7d5f89ca9e455e43da63905b1b))
+* 性能优化 ([f214c19](https://github.com/FCLOGO/fclogo.top/commit/f214c191fa9874604aee302346d97ed0c6cf0719))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 新西兰 ([07fb80b](https://github.com/FCLOGO/fclogo.top/commit/07fb80bcc13f0a6d0d445b2d8fbd6157ceb51894))
+* 增加俱乐部位置坐标信息 ([dc7d441](https://github.com/FCLOGO/fclogo.top/commit/dc7d4410bd108a3d2fa7512ce07e2896d7a1c3e9))
+* 增加俱乐部位置坐标信息 ([1327554](https://github.com/FCLOGO/fclogo.top/commit/132755464b1b42ae278b6d144d12b9e59e4f852b))
+* 增加俱乐部位置坐标信息 ([fcab437](https://github.com/FCLOGO/fclogo.top/commit/fcab437e9056e6180659acd99ceaaf5557b93f05))
+* 增加俱乐部位置坐标信息 ([f4217d9](https://github.com/FCLOGO/fclogo.top/commit/f4217d9ea5793537b2b4b733857d9d5e47d90aba))
+
+
+### ❇️ Chores | 其他更新
+
+* *修改* 地图页翻译 ([c0e1a92](https://github.com/FCLOGO/fclogo.top/commit/c0e1a924d8b1deaab4f03a58ddf71c9633eb17a8))
+* *优化* 鼠标悬停时改变样式 ([0cba224](https://github.com/FCLOGO/fclogo.top/commit/0cba224a7ddc07b0749d4f46e1e958ed8a332bd2))
+* 优化背景透明度 ([569f0eb](https://github.com/FCLOGO/fclogo.top/commit/569f0ebd1be069c4e49553f3a67e40ffc47976bd))
+
 ## [2.5.0](https://github.com/FCLOGO/fclogo.top/compare/v2.4.8...v2.5.0) (2024-12-04)
 
 
