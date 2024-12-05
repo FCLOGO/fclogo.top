@@ -76,6 +76,7 @@ const Footer = () => {
             <ListLink to="/sources">{t('menu.sources')}</ListLink>
             <ListLink to="/support/terms-of-use">{t('menu.terms')}</ListLink>
             <ListLink to="/support/what-is-new">{t('menu.whatsnew')}</ListLink>
+            <ListLink to="/links">{t('menu.links')}</ListLink>
           </ul>
         </div>
       </section>

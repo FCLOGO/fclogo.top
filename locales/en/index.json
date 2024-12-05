@@ -20,6 +20,7 @@
   "menu.terms": "Terms of Use",
   "menu.whatsnew": "What's new",
   "menu.map": "Map",
+  "menu.links": "Links",
 
   "hero.title": "Access <1>{{totalCount}}</1> vector logos",
   "hero.subtitle": "All logos include SVG and PNG formats. No account and unlimited downloads for free.👋",
@@ -81,6 +82,10 @@
 
   "statisticstitle": "Logo Statistics",
   "statistics.subtitle": "under construction.....",
+
+  "linkstitle": "Links",
+  "contactus": "Contact Us",
+  "exchangelinks": "Exchange Links?",
 
   "sidebar.logoVer": "ver. ",
   "sidebar.doubtful": "?",

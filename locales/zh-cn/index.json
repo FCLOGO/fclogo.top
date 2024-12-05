@@ -20,6 +20,7 @@
   "menu.terms": "使用条款",
   "menu.whatsnew": "What's new",
   "menu.map": "地图",
+  "menu.links": "友情链接",
 
   "hero.title": "收集 <1>{{totalCount}}</1> 个矢量徽标",
   "hero.subtitle": "所有徽标包含 SVG 和 PNG 两种格式。无需账号，无限制免费下载。👋",
@@ -81,6 +82,10 @@
 
   "statisticstitle": "徽标统计",
   "statistics.subtitle": "建设中.....",
+
+  "linkstitle": "友情链接",
+  "contactus": "联系我们",
+  "exchangelinks": "交换链接?",
 
   "sidebar.logoVer": "版本：",
   "sidebar.doubtful": "?",
