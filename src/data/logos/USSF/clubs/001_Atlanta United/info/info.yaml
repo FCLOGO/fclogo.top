@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-001
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-84.4009282356692, 33.75650697033178]
+  timeline: true
+  info:
+    - fullName: Atlanta United FC
+      shortName: Atlanta United
+      localName: Atlanta United FC
+      founded: 2014
+      city: Atlanta
+      ground: Mercedes-Benz Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/atlutd'
+  websiteURL: 'https://www.atlutd.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Atlanta_United_FC'

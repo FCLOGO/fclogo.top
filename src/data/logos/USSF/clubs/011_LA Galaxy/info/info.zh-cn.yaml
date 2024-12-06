@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-011
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-118.26029557774302, 33.86507084357667]
+  timeline: true
+  info:
+    - fullName: 洛杉矶银河
+      shortName: 洛杉矶银河
+      localName: Los Angeles Galaxy
+      founded: 1994
+      city: 卡森, 加利福尼亚州
+      ground: 尊严健康体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/lagalaxy'
+  websiteURL: 'https://www.lagalaxy.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/LA_Galaxy'

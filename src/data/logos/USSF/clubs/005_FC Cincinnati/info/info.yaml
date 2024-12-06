@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-005
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-84.51567438137647, 39.11175160575144]
+  timeline: true
+  info:
+    - fullName: Football Club Cincinnati
+      shortName: FC Cincinnati
+      localName: Football Club Cincinnati
+      founded: 2015
+      city: Cincinnati, Ohio
+      ground: TQL Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fccincinnati'
+  websiteURL: 'https://www.fccincinnati.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Cincinnati'

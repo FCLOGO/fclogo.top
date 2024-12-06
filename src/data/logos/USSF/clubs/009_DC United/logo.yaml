@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241206-094741-254c4c
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['DC United']
+  slug: /ussf/club/DC-United-v1998
+  pngPath: 'png/DC-United-v1998.png'
+  svgPath: 'svg/DC-United-v1998.svg'
+  sourceID: ussf-club-009
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-094814-f930cb
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['DC United']
+  slug: /ussf/club/DC-United-v2015-mono
+  pngPath: 'png/DC-United-v2015-mono.png'
+  svgPath: 'svg/DC-United-v2015-mono.svg'
+  sourceID: ussf-club-009
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-094835-971d7d
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['DC United']
+  slug: /ussf/club/DC-United-v2015
+  pngPath: 'png/DC-United-v2015.png'
+  svgPath: 'svg/DC-United-v2015.svg'
+  sourceID: ussf-club-009
+  style: color
+  reference: ''
+  ctrbID: ''

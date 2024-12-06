@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241205-190716-eb9355
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Austin FC']
+  slug: /ussf/club/Austin-FC-v2018-mono
+  pngPath: 'png/Austin-FC-v2018-mono.png'
+  svgPath: 'svg/Austin-FC-v2018-mono.svg'
+  sourceID: ussf-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-190825-e60a77
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Austin FC']
+  slug: /ussf/club/Austin-FC-v2018
+  pngPath: 'png/Austin-FC-v2018.png'
+  svgPath: 'svg/Austin-FC-v2018.svg'
+  sourceID: ussf-club-002
+  style: color
+  reference: ''
+  ctrbID: ''

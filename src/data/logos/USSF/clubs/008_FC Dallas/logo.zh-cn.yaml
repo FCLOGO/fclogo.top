@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241206-090906-2130de
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 达拉斯']
+  slug: /ussf/club/FC-Dallas-v2005-mono-2
+  pngPath: 'png/FC-Dallas-v2005-mono-2.png'
+  svgPath: 'svg/FC-Dallas-v2005-mono-2.svg'
+  sourceID: ussf-club-008
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-090939-b6a2d6
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 达拉斯']
+  slug: /ussf/club/FC-Dallas-v2005-mono
+  pngPath: 'png/FC-Dallas-v2005-mono.png'
+  svgPath: 'svg/FC-Dallas-v2005-mono.svg'
+  sourceID: ussf-club-008
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-090959-2cb691
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 达拉斯']
+  slug: /ussf/club/FC-Dallas-v2005
+  pngPath: 'png/FC-Dallas-v2005.png'
+  svgPath: 'svg/FC-Dallas-v2005.svg'
+  sourceID: ussf-club-008
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-002
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-97.71941392844941, 30.387841320345245]
+  timeline: true
+  info:
+    - fullName: 奥斯汀足球俱乐部
+      shortName: 奥斯汀 FC
+      localName: Austin Football Club
+      founded: 2018
+      city: 奥斯汀, 得克萨斯州
+      ground: Q2 体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AustinFC'
+  websiteURL: 'https://www.austinfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Austin_FC'

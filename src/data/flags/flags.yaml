@@ -63,8 +63,8 @@
 
 - data: flag
   nation: USA
-  center: [106, 4]
-  zoom: 5
+  center: [-97.5, 39.0]
+  zoom: 4
   flag: 'img/united-states.png'
   flag2: 'img2/united-states.png'
 

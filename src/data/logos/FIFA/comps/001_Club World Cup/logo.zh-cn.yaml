@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241205-153901-89f26e
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FCWC25']
+  slug: /fifa/comp/FIFA-Club-World-Cup-v2025
+  pngPath: 'png/FIFA-Club-World-Cup-v2025.png'
+  svgPath: 'svg/FIFA-Club-World-Cup-v2025.svg'
+  sourceID: fifa-comp-001
+  style: color
+  reference: 'https://digitalhub.fifa.com/m/18848e4224efbd91/original/FCWC25_Regulations_EN.pdf'
+  ctrbID: ''

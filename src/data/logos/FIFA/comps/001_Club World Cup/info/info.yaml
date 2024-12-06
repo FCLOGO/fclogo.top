@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fifa-comp-001
+  type: comp
+  timeline: true
+  info:
+    - fullName: FIFA Club World Cup
+      shortName: FIFA Club World Cup
+      localName: FIFA Club World Cup
+      founded: 2000
+      confederation: FIFA
+      teams: 32
+      level:
+      promotion:
+      relegation:
+  weiboURL: ''
+  twitterURL: 'https://x.com/FIFACWC'
+  websiteURL: 'https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025'
+  wikiURL: 'https://en.wikipedia.org/wiki/FIFA_Club_World_Cup'

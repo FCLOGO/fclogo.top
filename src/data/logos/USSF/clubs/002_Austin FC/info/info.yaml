@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-002
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-97.71941392844941, 30.387841320345245]
+  timeline: true
+  info:
+    - fullName: Austin Football Club
+      shortName: Austin FC
+      localName: Austin Football Club
+      founded: 2018
+      city: Austin, Texas
+      ground: Q2 Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AustinFC'
+  websiteURL: 'https://www.austinfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Austin_FC'

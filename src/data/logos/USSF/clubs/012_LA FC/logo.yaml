@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241206-104402-cc648f
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['LAFC']
+  slug: /ussf/club/Los-Angeles-FC-v2016-mono
+  pngPath: 'png/Los-Angeles-FC-v2016-mono.png'
+  svgPath: 'svg/Los-Angeles-FC-v2016-mono.svg'
+  sourceID: ussf-club-012
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-104433-795821
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['LAFC']
+  slug: /ussf/club/Los-Angeles-FC-v2016
+  pngPath: 'png/Los-Angeles-FC-v2016.png'
+  svgPath: 'svg/Los-Angeles-FC-v2016.svg'
+  sourceID: ussf-club-012
+  style: color
+  reference: ''
+  ctrbID: ''

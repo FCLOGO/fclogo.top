@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-004
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-87.62916692612627, 41.88251721597156]
+  timeline: true
+  info:
+    - fullName: Chicago Fire Football Club
+      shortName: Chicago Fire
+      localName: Chicago Fire Football Club
+      founded: 1997
+      city: Chicago, Illinois
+      ground: Soldier Field
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ChicagoFire'
+  websiteURL: 'https://www.chicagofirefc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chicago_Fire_FC'

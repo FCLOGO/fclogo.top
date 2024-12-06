@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241205-192704-a088db
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CLTFC']
+  slug: /ussf/club/Charlotte-FC-v2019-mono
+  pngPath: 'png/Charlotte-FC-v2019-mono.png'
+  svgPath: 'svg/Charlotte-FC-v2019-mono.svg'
+  sourceID: ussf-club-003
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-192742-55b063
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CLTFC']
+  slug: /ussf/club/Charlotte-FC-v2019
+  pngPath: 'png/Charlotte-FC-v2019.png'
+  svgPath: 'svg/Charlotte-FC-v2019.svg'
+  sourceID: ussf-club-003
+  style: color
+  reference: ''
+  ctrbID: ''

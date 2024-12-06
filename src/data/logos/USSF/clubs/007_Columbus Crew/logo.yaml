@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20241205-224141-e9bc17
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Columbus Crew']
+  slug: /ussf/club/Columbus-Crew-v1996
+  pngPath: 'png/Columbus-Crew-v1996.png'
+  svgPath: 'svg/Columbus-Crew-v1996.svg'
+  sourceID: ussf-club-007
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-224226-a7e041
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Columbus Crew']
+  slug: /ussf/club/Columbus-Crew-v2014
+  pngPath: 'png/Columbus-Crew-v2014.png'
+  svgPath: 'svg/Columbus-Crew-v2014.svg'
+  sourceID: ussf-club-007
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-224324-92d124
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Columbus Crew']
+  slug: /ussf/club/Columbus-Crew-v2021-mono
+  pngPath: 'png/Columbus-Crew-v2021-mono.png'
+  svgPath: 'svg/Columbus-Crew-v2021-mono.svg'
+  sourceID: ussf-club-007
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-224412-04ae67
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Columbus Crew']
+  slug: /ussf/club/Columbus-Crew-v2021
+  pngPath: 'png/Columbus-Crew-v2021.png'
+  svgPath: 'svg/Columbus-Crew-v2021.svg'
+  sourceID: ussf-club-007
+  style: color
+  reference: ''
+  ctrbID: ''
