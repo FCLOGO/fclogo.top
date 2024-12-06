@@ -5,12 +5,6 @@
   logoPath: 'logo/Bibliotecario-del-fútbol.png'
 
 - data: link
-  title: Ramr LaPalma
-  url: https://www.facebook.com/RamrPalma/
-  description: Diseños de uniformes de futbol de todos los tiempos y países
-  logoPath: 'logo/ramr-lapalma.jpg'
-
-- data: link
   title: football emblem
   url: https://football-emblem.com/
   description: サッカークラブのエンブレムを徹底解説！
@@ -23,7 +17,7 @@
   logoPath: 'logo/Football-Kit-Archive.jpg'
 
 - data: link
-  title: SportsLogos.Net
-  url: https://www.sportslogos.net/
-  description: Chris Creamer's Sports Logos Page
-  logoPath: 'logo/sportslogos-net.jpg'
+  title: Ramr LaPalma
+  url: https://www.facebook.com/RamrPalma/
+  description: Diseños de uniformes de futbol de todos los tiempos y países
+  logoPath: 'logo/ramr-lapalma.jpg'
