@@ -1,0 +1,69 @@
+- data: logo
+  logoID: 20241206-224245-81516c
+  version: 1995
+  isDoubtful: false
+  isOutdated: true
+  verName: ['New York Metro Stars']
+  slug: /ussf/club/Metro-Stars-v1995
+  pngPath: 'png/Metro-Stars-v1995.png'
+  svgPath: 'svg/Metro-Stars-v1995.svg'
+  sourceID: ussf-club-019
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-224403-febe22
+  version: 2003
+  isDoubtful: false
+  isOutdated: true
+  verName: ['New York Metro Stars']
+  slug: /ussf/club/Metro-Stars-v2003
+  pngPath: 'png/Metro-Stars-v2003.png'
+  svgPath: 'svg/Metro-Stars-v2003.svg'
+  sourceID: ussf-club-019
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-224518-7b6535
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['RBNY', 'NYRB']
+  slug: /ussf/club/New-York-Red-Bulls-v2006
+  pngPath: 'png/New-York-Red-Bulls-v2006.png'
+  svgPath: 'svg/New-York-Red-Bulls-v2006.svg'
+  sourceID: ussf-club-019
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-224647-9935db
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RBNY', 'NYRB']
+  slug: /ussf/club/New-York-Red-Bulls-v2008-mono
+  pngPath: 'png/New-York-Red-Bulls-v2008-mono.png'
+  svgPath: 'svg/New-York-Red-Bulls-v2008-mono.svg'
+  sourceID: ussf-club-019
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-224818-182684
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RBNY', 'NYRB']
+  slug: /ussf/club/New-York-Red-Bulls-v2008
+  pngPath: 'png/New-York-Red-Bulls-v2008.png'
+  svgPath: 'svg/New-York-Red-Bulls-v2008.svg'
+  sourceID: ussf-club-019
+  style: color
+  reference: ''
+  ctrbID: ''

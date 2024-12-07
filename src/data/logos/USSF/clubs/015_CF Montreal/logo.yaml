@@ -1,0 +1,69 @@
+- data: logo
+  logoID: 20241206-163544-5b7841
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Montreal Impact']
+  slug: /ussf/club/Montreal-Impact-v2002
+  pngPath: 'png/Montreal-Impact-v2002.png'
+  svgPath: 'svg/Montreal-Impact-v2002.svg'
+  sourceID: ussf-club-015
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-163652-aa2d08
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Montreal Impact']
+  slug: /ussf/club/Montreal-Impact-v2012
+  pngPath: 'png/Montreal-Impact-v2012.png'
+  svgPath: 'svg/Montreal-Impact-v2012.svg'
+  sourceID: ussf-club-015
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-163801-750937
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CF Montreal']
+  slug: /ussf/club/Club-de-Foot-Montreal-v2021
+  pngPath: 'png/Club-de-Foot-Montreal-v2021.png'
+  svgPath: 'svg/Club-de-Foot-Montreal-v2021.svg'
+  sourceID: ussf-club-015
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-163845-f623fb
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CF Montreal']
+  slug: /ussf/club/Club-de-Foot-Montreal-v2023-mono
+  pngPath: 'png/Club-de-Foot-Montreal-v2023-mono.png'
+  svgPath: 'svg/Club-de-Foot-Montreal-v2023-mono.svg'
+  sourceID: ussf-club-015
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-163947-a52e22
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CF Montreal']
+  slug: /ussf/club/Club-de-Foot-Montreal-v2023
+  pngPath: 'png/Club-de-Foot-Montreal-v2023.png'
+  svgPath: 'svg/Club-de-Foot-Montreal-v2023.svg'
+  sourceID: ussf-club-015
+  style: color
+  reference: ''
+  ctrbID: ''

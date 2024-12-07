@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-023
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-111.89345063101675, 40.58367586746827]
+  timeline: true
+  info:
+    - fullName: Real Salt Lake Soccer Club
+      shortName: Real Salt Lake
+      localName: Real Salt Lake Soccer Club
+      founded: 2004
+      city: Sandy, Utah
+      ground: America First Field
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/realsaltlake'
+  websiteURL: 'https://www.rsl.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Salt_Lake'

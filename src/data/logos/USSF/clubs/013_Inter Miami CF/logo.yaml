@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241206-134408-05c18d
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Inter Miami CF']
+  slug: /ussf/club/Club-Internacional-de-Futbol-Miami-v2018-mono
+  pngPath: 'png/Club-Internacional-de-Futbol-Miami-v2018-mono.png'
+  svgPath: 'svg/Club-Internacional-de-Futbol-Miami-v2018-mono.svg'
+  sourceID: ussf-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-134530-5d8317
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Inter Miami CF']
+  slug: /ussf/club/Club-Internacional-de-Futbol-Miami-v2018
+  pngPath: 'png/Club-Internacional-de-Futbol-Miami-v2018.png'
+  svgPath: 'svg/Club-Internacional-de-Futbol-Miami-v2018.svg'
+  sourceID: ussf-club-013
+  style: color
+  reference: ''
+  ctrbID: ''

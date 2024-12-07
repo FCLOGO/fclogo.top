@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241207-222809-2ac41c
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Seattle Sounders']
+  slug: /ussf/club/Seattle-Sounders-v2008
+  pngPath: 'png/Seattle-Sounders-v2008.png'
+  svgPath: 'svg/Seattle-Sounders-v2008.svg'
+  sourceID: ussf-club-025
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-222913-c767cd
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Seattle Sounders']
+  slug: /ussf/club/Seattle-Sounders-v2024-mono
+  pngPath: 'png/Seattle-Sounders-v2024-mono.png'
+  svgPath: 'svg/Seattle-Sounders-v2024-mono.svg'
+  sourceID: ussf-club-025
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-222934-ea471b
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Seattle Sounders']
+  slug: /ussf/club/Seattle-Sounders-v2024
+  pngPath: 'png/Seattle-Sounders-v2024.png'
+  svgPath: 'svg/Seattle-Sounders-v2024.svg'
+  sourceID: ussf-club-025
+  style: color
+  reference: ''
+  ctrbID: ''

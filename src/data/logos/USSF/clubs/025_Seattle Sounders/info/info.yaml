@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-025
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-122.23430721743868, 47.462239311029954]
+  timeline: true
+  info:
+    - fullName: Seattle Sounders Football Club
+      shortName: Seattle Sounders FC
+      localName: Seattle Sounders Football Club
+      founded: 1974
+      city: Seattle, Washington
+      ground: Lumen Field
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/SoundersFC'
+  websiteURL: 'https://www.soundersfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Seattle_Sounders_FC'

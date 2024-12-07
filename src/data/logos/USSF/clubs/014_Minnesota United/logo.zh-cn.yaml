@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241206-150307-5c5aa6
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Minnesota Stars']
+  slug: /ussf/club/Minnesota-Stars-FC-v2012
+  pngPath: 'png/Minnesota-Stars-FC-v2012.png'
+  svgPath: 'svg/Minnesota-Stars-FC-v2012.svg'
+  sourceID: ussf-club-014
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-150408-1072b3
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Minnesota United']
+  slug: /ussf/club/Minnesota-United-FC-v2013-mono
+  pngPath: 'png/Minnesota-United-FC-v2013-mono.png'
+  svgPath: 'svg/Minnesota-United-FC-v2013-mono.svg'
+  sourceID: ussf-club-014
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-150538-ab6593
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Minnesota United']
+  slug: /ussf/club/Minnesota-United-FC-v2013
+  pngPath: 'png/Minnesota-United-FC-v2013.png'
+  svgPath: 'svg/Minnesota-United-FC-v2013.svg'
+  sourceID: ussf-club-014
+  style: color
+  reference: ''
+  ctrbID: ''

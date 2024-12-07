@@ -70,7 +70,7 @@
 
 - data: flag
   nation: CAN
-  center: [106, 4]
-  zoom: 5
+  center: [-95.5, 55.0]
+  zoom: 3.5
   flag: 'img/canada.png'
   flag2: 'img2/canada.png'

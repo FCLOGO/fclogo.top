@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-016
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-71.26306035608151, 42.09160667280614]
+  timeline: true
+  info:
+    - fullName: New England Revolution
+      shortName: New England Revolution
+      localName: New England Revolution
+      founded: 1994
+      city: Foxborough, Massachusetts
+      ground: Gillette Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/nerevolution'
+  websiteURL: 'https://www.revolutionsoccer.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/New_England_Revolution'

@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241206-192702-64514d
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['New England Revolution']
+  slug: /ussf/club/New-England-Revolution-v1996
+  pngPath: 'png/New-England-Revolution-v1996.png'
+  svgPath: 'svg/New-England-Revolution-v1996.svg'
+  sourceID: ussf-club-016
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-192751-65ebce
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['New England Revolution']
+  slug: /ussf/club/New-England-Revolution-v2021-mono
+  pngPath: 'png/New-England-Revolution-v2021-mono.png'
+  svgPath: 'svg/New-England-Revolution-v2021-mono.svg'
+  sourceID: ussf-club-016
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-192819-a8d33a
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['New England Revolution']
+  slug: /ussf/club/New-England-Revolution-v2021
+  pngPath: 'png/New-England-Revolution-v2021.png'
+  svgPath: 'svg/New-England-Revolution-v2021.svg'
+  sourceID: ussf-club-016
+  style: color
+  reference: ''
+  ctrbID: ''

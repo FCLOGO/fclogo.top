@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-018
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-73.97590867621325, 40.749323917690916]
+  timeline: true
+  info:
+    - fullName: New York City Football Club
+      shortName: New York City FC
+      localName: New York City Football Club
+      founded: 2013
+      city: New York City, New York
+      ground: Yankee Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/newyorkcityfc'
+  websiteURL: 'https://www.newyorkcityfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/New_York_City_FC'

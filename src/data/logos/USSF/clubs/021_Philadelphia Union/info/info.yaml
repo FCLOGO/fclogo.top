@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-021
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-75.38338258532961, 39.82854199276126]
+  timeline: true
+  info:
+    - fullName: Philadelphia Union Soccer Club
+      shortName: Philadelphia Union
+      localName: Philadelphia Union Soccer Club
+      founded: 2008
+      city: Chester, Pennsylvania
+      ground: Subaru Park
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/philaunion'
+  websiteURL: 'https://www.philadelphiaunion.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Philadelphia_Union'

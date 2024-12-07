@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241206-195526-1b6686
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Nashville SC']
+  slug: /ussf/club/Nashville-Soccer-Club-v2016
+  pngPath: 'png/Nashville-Soccer-Club-v2016.png'
+  svgPath: 'svg/Nashville-Soccer-Club-v2016.svg'
+  sourceID: ussf-club-017
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-195605-970243
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nashville SC']
+  slug: /ussf/club/Nashville-Soccer-Club-v2019-mono
+  pngPath: 'png/Nashville-Soccer-Club-v2019-mono.png'
+  svgPath: 'svg/Nashville-Soccer-Club-v2019-mono.svg'
+  sourceID: ussf-club-017
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-195631-622752
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nashville SC']
+  slug: /ussf/club/Nashville-Soccer-Club-v2019
+  pngPath: 'png/Nashville-Soccer-Club-v2019.png'
+  svgPath: 'svg/Nashville-Soccer-Club-v2019.svg'
+  sourceID: ussf-club-017
+  style: color
+  reference: ''
+  ctrbID: ''

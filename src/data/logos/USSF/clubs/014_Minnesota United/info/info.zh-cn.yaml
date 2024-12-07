@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-014
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-93.3319295598392, 44.9846555908699]
+  timeline: false
+  info:
+    - fullName: 明尼苏达联足球俱乐部
+      shortName: 明尼苏达联
+      localName: Minnesota United Football Club
+      founded: 2010
+      city: 圣保罗, 明尼苏达州
+      ground: 安联体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/mnufc'
+  websiteURL: 'https://www.mnufc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Minnesota_United_FC'

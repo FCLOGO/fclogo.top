@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-013
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-80.1611493300607, 26.19401214445602]
+  timeline: true
+  info:
+    - fullName: 迈阿密国际足球俱乐部
+      shortName: 迈阿密国际
+      localName: Club Internacional de Fútbol Miami
+      founded: 2018
+      city: 罗德岱堡, 佛罗里达州
+      ground: DRV PNK体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/intermiamicf'
+  websiteURL: 'https://www.intermiamicf.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Inter_Miami_CF'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-024
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-121.92550675196762, 37.35152398558238]
+  timeline: false
+  info:
+    - fullName: San Jose Earthquakes Soccer Club
+      shortName: San Jose Earthquakes
+      localName: San Jose Earthquakes Soccer Club
+      founded: 1994
+      city: San Jose, California
+      ground: PayPal Park
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/SJEarthquakes'
+  websiteURL: 'https://www.sjearthquakes.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/San_Jose_Earthquakes'

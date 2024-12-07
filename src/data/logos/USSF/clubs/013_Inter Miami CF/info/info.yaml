@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-013
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-80.1611493300607, 26.19401214445602]
+  timeline: true
+  info:
+    - fullName: Club Internacional de Fútbol Miami
+      shortName: Inter Miami CF
+      localName: Club Internacional de Fútbol Miami
+      founded: 2018
+      city: Fort Lauderdale, Florida
+      ground: Chase Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/intermiamicf'
+  websiteURL: 'https://www.intermiamicf.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Inter_Miami_CF'
