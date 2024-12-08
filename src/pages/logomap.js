@@ -233,7 +233,7 @@ const logomap = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <div className="w-full m-[0_auto] flex-grow flex flex-col flex-nowrap items-start pt-[120px]">
+      <div className="w-full m-[0_auto] flex-grow flex flex-col flex-nowrap items-start pt-[120px] min-h-[800px]">
         <section className="w-full m-[0_auto] px-xl flex flex-col overflow-visible h-full pb-header">
           <div className="rounded-lg bg-white overflow-hidden h-full">
             <Map
@@ -254,7 +254,7 @@ const logomap = ({ data, pageContext }) => {
                 position={'bottom-right'}
                 style={{ opacity: 0.3 }}
               />
-              <div className="absolute w-[29px] h-[29px] right-xl top-[70px] p-xs bg-white opacity-30 z-50 rounded">
+              <div className="absolute w-[29px] h-[29px] right-xl top-[70px] p-xs bg-white opacity-30 z-50 rounded map:hidden">
                 <button onClick={toggleLayersVisibility}>
                   {layersVisible ? (
                     <CloseEyeIcon className="w-full h-full fill-dark-gray" />
