@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-026
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-94.8242198594831, 39.12276444460032]
+  timeline: false
+  info:
+    - fullName: Sporting Kansas City
+      shortName: Sporting Kansas City
+      localName: Sporting Kansas City
+      founded: 1995
+      city: Kansas City, Kansas
+      ground: Children's Mercy Park
+      league:
+  weiboURL: ''
+  twitterURL: 'http://twitter.com/SportingKC'
+  websiteURL: 'https://www.sportingkc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sporting_Kansas_City'

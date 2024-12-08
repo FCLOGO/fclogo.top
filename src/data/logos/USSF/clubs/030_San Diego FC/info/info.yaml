@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-030
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-117.14709789612847, 32.76930087617834]
+  timeline: true
+  info:
+    - fullName: San Diego Football Club
+      shortName: San Diego FC
+      localName: San Diego Football Club
+      founded: 2023
+      city: San Diego, California
+      ground: Snapdragon Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/sandiegofc'
+  websiteURL: 'https://www.sandiegofc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/San_Diego_FC'

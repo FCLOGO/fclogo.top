@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-028
+  status: active
+  type: club
+  nation: CAN
+  coordinates: [-79.41848825373035, 43.63299248967032]
+  timeline: true
+  info:
+    - fullName: 多伦多足球俱乐部
+      shortName: 多伦多 FC
+      localName: Toronto Football Club
+      founded: 2005
+      city: 多伦多, 安大略省
+      ground: BMO 球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/TorontoFC'
+  websiteURL: 'https://www.torontofc.ca/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Toronto_FC'

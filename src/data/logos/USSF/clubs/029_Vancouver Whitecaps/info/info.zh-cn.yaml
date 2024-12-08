@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-029
+  status: active
+  type: club
+  nation: CAN
+  coordinates: [-123.11345512361773, 49.27765860907568]
+  timeline: true
+  info:
+    - fullName: 温哥华白浪足球俱乐部
+      shortName: 温哥华白浪
+      localName: Vancouver Whitecaps Football Club
+      founded: 2009
+      city: 温哥华, 不列颠哥伦比亚省
+      ground: 不列颠哥伦比亚体育馆
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.whitecapsfc.com/'
+  websiteURL: 'https://www.whitecapsfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC'

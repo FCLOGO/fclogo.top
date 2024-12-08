@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241208-141504-5950bc
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Diego']
+  slug: /ussf/club/San-Diego-FC-v2023-mono
+  pngPath: 'png/San-Diego-FC-v2023-mono.png'
+  svgPath: 'svg/San-Diego-FC-v2023-mono.svg'
+  sourceID: ussf-club-030
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241208-141605-bf5f58
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Diego']
+  slug: /ussf/club/San-Diego-FC-v2023
+  pngPath: 'png/San-Diego-FC-v2023.png'
+  svgPath: 'svg/San-Diego-FC-v2023.svg'
+  sourceID: ussf-club-030
+  style: color
+  reference: ''
+  ctrbID: ''

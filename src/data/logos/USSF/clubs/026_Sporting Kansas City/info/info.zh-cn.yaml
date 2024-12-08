@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-026
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-94.8242198594831, 39.12276444460032]
+  timeline: false
+  info:
+    - fullName: 堪萨斯城体育会
+      shortName: 堪萨斯城体育会
+      localName: Sporting Kansas City
+      founded: 1995
+      city: 堪萨斯城, 堪萨斯州
+      ground: 儿童慈善公园
+      league:
+  weiboURL: ''
+  twitterURL: 'http://twitter.com/SportingKC'
+  websiteURL: 'https://www.sportingkc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sporting_Kansas_City'

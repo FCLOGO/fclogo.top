@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-027
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-90.2103568618177, 38.63123979718853]
+  timeline: true
+  info:
+    - fullName: 圣路易斯城足球俱乐部
+      shortName: 圣路易斯城
+      localName: St. Louis City Soccer Club
+      founded: 2019
+      city: 圣路易斯, 密苏里州
+      ground: 城市公园球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/stlCITYsc'
+  websiteURL: 'https://www.stlcitysc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/St._Louis_City_SC'
