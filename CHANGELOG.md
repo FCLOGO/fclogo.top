@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.3](https://github.com/FCLOGO/fclogo.top/compare/v2.5.2...v2.5.3) (2024-12-08)
+
+
+### 📝 Documentation | 文档
+
+* *删除* 删除测试链接 ([c23c50c](https://github.com/FCLOGO/fclogo.top/commit/c23c50c3cee9b7bb7df1d1347850d9a37afc645a))
+* *新增* 美职联俱乐部徽标 ([7bdcf82](https://github.com/FCLOGO/fclogo.top/commit/7bdcf823ce7304847f2391e109ae9e01570a3015))
+* *新增* 美职联俱乐部徽标 ([b166bd6](https://github.com/FCLOGO/fclogo.top/commit/b166bd67e1bfe7730d9f4d106d242791d9a2ebaf))
+* *新增* 美职联俱乐部徽标 ([e19c5ed](https://github.com/FCLOGO/fclogo.top/commit/e19c5ed976ec0ba88bf15a65ef0804d0e531625e))
+
 ### [2.5.2](https://github.com/FCLOGO/fclogo.top/compare/v2.5.1...v2.5.2) (2024-12-05)
 
 
