@@ -9,11 +9,11 @@ import InsIcon from '../../static/assets/icons/instagram.inline.svg'
 import DiscordIcon from '../../static/assets/icons/discord.inline.svg'
 
 const SocialMedia = [
-  {
-    title: 'Github',
-    link: 'https://github.com/FCLOGO',
-    icon: <GithubIcon className="h-2xl w-2xl" />
-  },
+  // {
+  //   title: 'Github',
+  //   link: 'https://github.com/FCLOGO',
+  //   icon: <GithubIcon className="h-2xl w-2xl" />
+  // },
   {
     title: 'X',
     link: 'https://twitter.com/fclogotop',

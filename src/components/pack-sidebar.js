@@ -126,7 +126,7 @@ const PackSidebar = props => {
           <BugIcon className="w-xl h-xl mr-xs" />
           {t('sidebar.foundErr')}
           <a
-            href="https://github.com/FCLOGO/fclogo.top/discussions"
+            href="mailto:info@fclogo.top"
             rel="noopener noreferrer"
             target="_blank"
             className="text-link ml-sm hover:text-blue"
