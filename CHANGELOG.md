@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.5](https://github.com/FCLOGO/fclogo.top/compare/v2.5.4...v2.5.5) (2024-12-09)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* fix bug ([7929314](https://github.com/FCLOGO/fclogo.top/commit/7929314669699afa84daf542778abe90c36e764f))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 新西兰奥克兰城徽标 ([f72c07e](https://github.com/FCLOGO/fclogo.top/commit/f72c07e52f745e86f135696d60744bdfb75f09d0))
+
+
+### ❇️ Chores | 其他更新
+
+* *修改* 广告样式 ([0b9e8f0](https://github.com/FCLOGO/fclogo.top/commit/0b9e8f0083f47b863bf24d740b7f14a82121a985))
+
 ### [2.5.4](https://github.com/FCLOGO/fclogo.top/compare/v2.5.3...v2.5.4) (2024-12-09)
 
 
