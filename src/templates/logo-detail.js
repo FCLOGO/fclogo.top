@@ -20,10 +20,10 @@ const DetailAdsense = () => {
   return (
     <AdSense.Google
       style={{ display: 'block' }}
-      format="auto"
+      format="autorelaxed"
       responsive="true"
       client="ca-pub-9573165480183467"
-      slot="1229678468"
+      slot="7735919201"
     />
   )
 }
