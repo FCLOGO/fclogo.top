@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: nzf-club-001
+  status: active
+  type: club
+  nation: NZL
+  coordinates: [174.736944, -36.8975]
+  timeline: true
+  info:
+    - fullName: 奥克兰城足球俱乐部
+      shortName: 奥克兰城
+      localName: Auckland City Football Club
+      founded: 2004
+      city: 奥克兰
+      ground: Kiwitea Street
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AucklandCity_FC'
+  websiteURL: 'https://www.aucklandcityfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Auckland_City_FC'

@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241209-103957-735e2c
+  version: 2004
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Auckland City']
+  slug: /nzf/club/Auckland-City-v2004
+  pngPath: 'png/Auckland-City-v2004.png'
+  svgPath: 'svg/Auckland-City-v2004.svg'
+  sourceID: nzf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241209-104024-ebac93
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Auckland City']
+  slug: /nzf/club/Auckland-City-v2022-mono
+  pngPath: 'png/Auckland-City-v2022-mono.png'
+  svgPath: 'svg/Auckland-City-v2022-mono.svg'
+  sourceID: nzf-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241209-104049-cb33bf
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Auckland City']
+  slug: /nzf/club/Auckland-City-v2022
+  pngPath: 'png/Auckland-City-v2022.png'
+  svgPath: 'svg/Auckland-City-v2022.svg'
+  sourceID: nzf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
