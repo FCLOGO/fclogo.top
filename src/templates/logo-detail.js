@@ -30,7 +30,7 @@ const DetailAdsense = () => {
 
 const LogoDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
-  const [showAd, setShowAd] = useState(false) // 控制广告显示
+  const [showAd, setShowAd] = useState(true) // 控制广告显示
   const handleShowAd = () => {
     setShowAd(true)
   }
@@ -116,7 +116,7 @@ const LogoDetail = ({ data, pageContext }) => {
                     </div>
                     <div className="flex-grow flex flex-col justify-center items-center">
                       <DoneIcon className="text-light-green w-[120px] h-[120px] mb-md" />
-                      <span>{t('downloadtips')}</span>
+                      <span className="uppercase font-medium">{t('downloadtips')}</span>
                     </div>
                     <div className="flex-grow text-center">
                       <DetailAdsense />

@@ -118,7 +118,7 @@ const DetailSidebar = props => {
       <div className="w-aside px-xl mb-md flex flex-row items-center justify-between tablet:justify-start tablet:w-full">
         <a
           onClick={event => handleDownloadClick(event, props.pngURL, 'PNG')}
-          className="bg-green text-white rounded-md cursor-pointer text-lg uppercase w-[210px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green"
+          className="bg-green text-white rounded-md cursor-pointer text-[16px] uppercase w-[210px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green"
         >
           <span className="flex-auto text-center font-mono">
             {downloadingButton === 'PNG' ? t('sidebar.downloading') : 'PNG'}
