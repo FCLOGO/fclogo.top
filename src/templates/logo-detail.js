@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { graphql } from 'gatsby'
-import { GatsbyImage, getImage } from 'gatsby-plugin-image'
+import { StaticImage, GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
+import AdSense from 'react-adsense'
 
 import ConditionalLayout from '../components/conditional-layout'
 import ModalLink from '../helpers/modal-link'
@@ -11,9 +12,31 @@ import LogoTimeline from '../components/logo-timeline'
 
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
 import InfoIcon from '../../static/assets/icons/info.inline.svg'
+import CloseIcon from '../../static/assets/icons/close.inline.svg'
+import DoneIcon from '../../static/assets/icons/checkmark.inline.svg'
+
+// Google Adsense
+const DetailAdsense = () => {
+  return (
+    <AdSense.Google
+      style={{ display: 'block' }}
+      format="auto"
+      responsive="true"
+      client="ca-pub-9573165480183467"
+      slot="1229678468"
+    />
+  )
+}
 
 const LogoDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
+  const [showAd, setShowAd] = useState(false) // 控制广告显示
+  const handleShowAd = () => {
+    setShowAd(true)
+  }
+  const handleCloseAd = () => {
+    setShowAd(false) // 关闭广告
+  }
   const { next, previous } = pageContext
   return (
     <ConditionalLayout pageContext={pageContext}>
@@ -24,7 +47,7 @@ const LogoDetail = ({ data, pageContext }) => {
         {data.logo ? (
           <div className="content-inner flex flex-col items-start">
             <div className="w-full flex-grow flex flex-row flex-nowrap border-b border-b-gray-1 tablet:flex-wrap detail-wrapper overflow-hidden">
-              <section className="w-full pt-[170px] flex-grow flex flex-col overflow-hidden relative">
+              <section className="w-full pt-[152px] flex-grow flex flex-col overflow-hidden relative">
                 {data.logo.reference && (
                   <div className="absolute left-xl top-auto group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">
                     <InfoIcon className="w-xl h-xl flex-shrink-0 cursor-pointer" />
@@ -83,6 +106,23 @@ const LogoDetail = ({ data, pageContext }) => {
                 ) : (
                   ''
                 )}
+                {showAd && (
+                  <div className="ad-overlay text-white absolute top-zero bottom-zero right-zero left-zero bg-dark-gray bg-opacity-75 w-full h-full p-xl pt-[170px] flex flex-col justify-between">
+                    <div className="flex flex-row-reverse">
+                      <CloseIcon
+                        className="w-3xl h-3xl flex-shrink-0 cursor-pointer"
+                        onClick={handleCloseAd}
+                      />
+                    </div>
+                    <div className="flex-grow flex flex-col justify-center items-center">
+                      <DoneIcon className="text-light-green w-[120px] h-[120px] mb-md" />
+                      <span>{t('downloadtips')}</span>
+                    </div>
+                    <div className="flex-grow text-center">
+                      <DetailAdsense />
+                    </div>
+                  </div>
+                )}
               </section>
               <Sidebar
                 version={data.logo.version}
@@ -104,6 +144,7 @@ const LogoDetail = ({ data, pageContext }) => {
                 verName={data.logo.verName}
                 ctrbInfo={data.logo.contributorInfo[0]}
                 detailInfo={data.logo.detailInfo[0]}
+                onDownload={handleShowAd}
               />
             </div>
             {data.logo.logoTimeline.length > 1 ? (

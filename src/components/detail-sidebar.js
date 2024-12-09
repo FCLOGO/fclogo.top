@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import AdSense from 'react-adsense'
@@ -51,8 +51,28 @@ const InfoTable = ({ info }) => {
 
 const DetailSidebar = props => {
   const { t } = useTranslation()
+  const [downloadingButton, setDownloadingButton] = useState(null) // 控制下载状态
   const fullName = props.fullName
   const pushCounter = () => UpdateDownloads(props.sourceID, props.logoID)
+
+  // 处理下载链接
+  const handleDownloadClick = (event, url, buttonType) => {
+    event.preventDefault() // 阻止默认下载行为
+    setDownloadingButton(buttonType) // 设置正在下载的按钮类型
+
+    // 延迟下载逻辑
+    setTimeout(() => {
+      pushCounter() // 更新点击统计
+      const downloadLink = document.createElement('a') // 创建下载链接元素
+      downloadLink.href = url // 设置链接为图片的URL
+      downloadLink.download = '' // 指定为下载
+      document.body.appendChild(downloadLink)
+      downloadLink.click() // 触发下载
+      props.onDownload() // 调用父级方法以显示广告
+      document.body.removeChild(downloadLink) // 下载后移除链接
+      setDownloadingButton(null) // 下载完成，重置状态
+    }, 600) // 延迟下载
+  }
   return (
     <aside className="pt-[160px] tablet:pt-xl w-aside tablet:w-full flex flex-col border-l border-l-gray-1 bg-white">
       <header className="w-aside p-xl flex flex-col items-start justify-center content-start tablet:w-full">
@@ -97,21 +117,21 @@ const DetailSidebar = props => {
       </header>
       <div className="w-aside px-xl mb-md flex flex-row items-center justify-between tablet:justify-start tablet:w-full">
         <a
-          href={props.pngURL}
-          download
-          onClick={pushCounter}
+          onClick={event => handleDownloadClick(event, props.pngURL, 'PNG')}
           className="bg-green text-white rounded-md cursor-pointer text-lg uppercase w-[210px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green"
         >
-          <span className="flex-auto text-center font-mono">PNG</span>
+          <span className="flex-auto text-center font-mono">
+            {downloadingButton === 'PNG' ? t('sidebar.downloading') : 'PNG'}
+          </span>
           <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
         <a
-          href={props.svgURL}
-          download
-          onClick={pushCounter}
-          className="bg-green text-white rounded-md cursor-pointer text-lg uppercase w-[210px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green tablet:ml-xl"
+          onClick={event => handleDownloadClick(event, props.svgURL, 'SVG')}
+          className="bg-green text-white rounded-md cursor-pointer text-[16px] uppercase w-[210px] h-[50px] flex flex-row items-center justify-between hover:bg-light-green tablet:ml-xl"
         >
-          <span className="flex-auto text-center font-mono">SVG</span>
+          <span className="flex-auto text-center font-mono">
+            {downloadingButton === 'SVG' ? t('sidebar.downloading') : 'SVG'}
+          </span>
           <DownloadIcon className="w-[50px] h-[50px] p-md flex-none rounded-r-md bg-light-green stroke-white border-l border-l-white border-opacity-30" />
         </a>
       </div>

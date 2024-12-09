@@ -105,6 +105,7 @@
   "sidebar.tellMe": "Tell Me",
   "sidebar.logoid": "ID: ",
   "sidebar.downloads": " download",
+  "sidebar.downloading": "Downloading...",
   "sidebar.s": "s",
   "inactive": "Inactive",
   "active": "Active",
@@ -116,6 +117,7 @@
   "detailNotransTitle": "This page hasn't been translated yet",
   "detail.notrans": "This page hasn't been translated yet",
   "detail.reference": "Reference: ",
+  "downloadtips": "Download completed. Please strictly adhere to our terms of use.",
 
   "support.back": "Go Back",
   "support.lastUpdated": "Last Updated: ",

@@ -211,8 +211,20 @@
   min-height: calc(100vh - 60px);
 }
 
-.modal_content .detail-wrapper > section, .modal_content .detail-wrapper > aside {
+.modal_content .detail-wrapper {
+  border-bottom: none;
+}
+
+.modal_content .detail-wrapper > section {
+  padding-top: 0;
+}
+
+.modal_content .detail-wrapper>aside {
   padding-top: 30px;
+}
+
+.modal_content .ad-overlay {
+  padding-top: 20px;
 }
 
 .modal_content .detail-nav {
@@ -235,4 +247,9 @@
 /* MapBox Popup 圆角 */
 .mapboxgl-popup-content {
   border-radius: 5px !important;
+}
+
+/* Ad 加载不成功时，容器隐藏 */
+.ad-container:has(ins.adsbygoogle[data-ad-status="unfilled"]) {
+  display: none;
 }
