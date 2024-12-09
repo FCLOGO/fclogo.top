@@ -46,7 +46,7 @@ const LogoDetail = ({ data, pageContext }) => {
       <div className="w-full m-[0_auto] flex-grow main-content block">
         {data.logo ? (
           <div className="content-inner flex flex-col items-start">
-            <div className="w-full flex-grow flex flex-row flex-nowrap border-b border-b-gray-1 tablet:flex-wrap detail-wrapper overflow-hidden">
+            <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap detail-wrapper overflow-hidden">
               <section className="w-full pt-[152px] flex-grow flex flex-col overflow-hidden relative">
                 {data.logo.reference && (
                   <div className="absolute left-xl top-auto group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">

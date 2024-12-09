@@ -9,7 +9,7 @@ const LogoTimeline = props => {
   // 历史徽标根据版本时间重新排序
   const sortLogos = props.logos.sort((a, b) => b.version - a.version)
   return (
-    <section className="w-full px-xl py-[40px] flex flex-col border-b border-b-gray-1 timeline-wrapper">
+    <section className="w-full px-xl py-[40px] flex flex-col border-y border-y-gray-1 timeline-wrapper">
       <div className="w-full mb-xl">
         <h3 className="uppercase font-semibold">{t('detail.historyTitle')}</h3>
       </div>
