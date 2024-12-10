@@ -30,7 +30,7 @@ const DetailAdsense = () => {
 
 const LogoDetail = ({ data, pageContext }) => {
   const { t } = useTranslation()
-  const [showAd, setShowAd] = useState(true) // 控制广告显示
+  const [showAd, setShowAd] = useState(false) // 控制广告显示
   const handleShowAd = () => {
     setShowAd(true)
   }
