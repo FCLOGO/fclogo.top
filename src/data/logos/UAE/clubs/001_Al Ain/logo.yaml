@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241210-095741-06a68f
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Ain']
+  slug: /uae/club/Al-Ain-FC-v2023-mono
+  pngPath: 'png/Al-Ain-FC-v2023-mono.png'
+  svgPath: 'svg/Al-Ain-FC-v2023-mono.svg'
+  sourceID: uae-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241210-095827-8b438f
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Ain']
+  slug: /uae/club/Al-Ain-FC-v2023
+  pngPath: 'png/Al-Ain-FC-v2023.png'
+  svgPath: 'svg/Al-Ain-FC-v2023.svg'
+  sourceID: uae-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

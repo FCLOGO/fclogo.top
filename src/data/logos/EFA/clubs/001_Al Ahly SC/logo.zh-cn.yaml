@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241210-100944-175b03
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Ahly']
+  slug: /efa/club/Al-Ahly-SC-v2023-mono
+  pngPath: 'png/Al-Ahly-SC-v2023-mono.png'
+  svgPath: 'svg/Al-Ahly-SC-v2023-mono.svg'
+  sourceID: efa-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241210-101032-e28eb2
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Ahly']
+  slug: /efa/club/Al-Ahly-SC-v2023
+  pngPath: 'png/Al-Ahly-SC-v2023.png'
+  svgPath: 'svg/Al-Ahly-SC-v2023.svg'
+  sourceID: efa-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: uae-club-001
+  status: active
+  type: club
+  nation: ARE
+  coordinates: [55.76579885267285, 24.20717798465439]
+  timeline: false
+  info:
+    - fullName: Al Ain Football Club
+      shortName: Al Ain FC
+      localName: نادي العين لكرة القدم
+      founded: 1968
+      city: Al Ain, Abu Dhabi
+      ground: Hazza bin Zayed Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/alainfcae'
+  websiteURL: 'https://alainclub.ae/en/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Ain_FC'
