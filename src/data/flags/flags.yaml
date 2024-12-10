@@ -74,3 +74,24 @@
   zoom: 3.5
   flag: 'img/canada.png'
   flag2: 'img2/canada.png'
+
+- data: flag
+  nation: ARE
+  center: [41.5, 23.0]
+  zoom: 4.5
+  flag: 'img/united-arab-emirates.png'
+  flag2: 'img2/united-arab-emirates.png'
+
+- data: flag
+  nation: EGY
+  center: [41.5, 23.0]
+  zoom: 4.5
+  flag: 'img/egypt.png'
+  flag2: 'img2/egypt.png'
+
+- data: flag
+  nation: MAR
+  center: [41.5, 23.0]
+  zoom: 4.5
+  flag: 'img/morocco.png'
+  flag2: 'img2/morocco.png'
