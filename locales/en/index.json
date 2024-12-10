@@ -189,17 +189,5 @@
   "filterPlaceholder": "Search by name",
   "noData": "There are no records to display",
   "timeline": "Timeline Status",
-
-  "Asia": "Asia",
-  "CHN": "China PR",
-  "HKG": "China HK",
-  "JPN": "Japan",
-  "KOR": "South Korea",
-  "THA": "Thailand",
-  "AUS": "Australia",
-  "NZL": "New Zealand",
-  "MYS": "Malaysia",
-  "USA": "United States",
-  "CAN": "Canada",
-  "SAU": "Saudi Arabia"
+  "Asia": "Asia"
 }
