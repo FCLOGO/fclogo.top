@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241211-155752-146303
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Sundowns']
+  slug: /safa/club/Mamelodi-Sundowns-v0000-mono
+  pngPath: 'png/Mamelodi-Sundowns-v0000-mono.png'
+  svgPath: 'svg/Mamelodi-Sundowns-v0000-mono.svg'
+  sourceID: safa-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241211-155835-d7b839
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Sundowns']
+  slug: /safa/club/Mamelodi-Sundowns-v0000
+  pngPath: 'png/Mamelodi-Sundowns-v0000.png'
+  svgPath: 'svg/Mamelodi-Sundowns-v0000.svg'
+  sourceID: safa-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

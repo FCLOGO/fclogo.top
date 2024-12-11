@@ -95,3 +95,17 @@
   zoom: 5.5
   flag: 'img/morocco.png'
   flag2: 'img2/morocco.png'
+
+- data: flag
+  nation: TUN
+  center: [10.0, 35.0]
+  zoom: 6.0
+  flag: 'img/tunisia.png'
+  flag2: 'img2/tunisia.png'
+
+- data: flag
+  nation: ZAF
+  center: [28.0, -26.0]
+  zoom: 5.5
+  flag: 'img/south-africa.png'
+  flag2: 'img2/south-africa.png'

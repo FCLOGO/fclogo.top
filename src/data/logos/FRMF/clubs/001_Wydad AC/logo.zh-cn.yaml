@@ -30,7 +30,7 @@
   logoID: 20241210-102603-677f75
   version: 1990
   isDoubtful: false
-  isOutdated: true
+  isOutdated: false
   verName: ['Wydad AC']
   slug: /frmf/club/Wydad-Athletic-Club-v1990
   pngPath: 'png/Wydad-Athletic-Club-v1990.png'
@@ -42,13 +42,13 @@
 
 - data: logo
   logoID: 20241210-102632-7f2716
-  version: 2022
+  version: 1990
   isDoubtful: false
   isOutdated: false
   verName: ['Wydad AC']
-  slug: /frmf/club/Wydad-Athletic-Club-v2022-mono
-  pngPath: 'png/Wydad-Athletic-Club-v2022-mono.png'
-  svgPath: 'svg/Wydad-Athletic-Club-v2022-mono.svg'
+  slug: /frmf/club/Wydad-Athletic-Club-v1990-mono
+  pngPath: 'png/Wydad-Athletic-Club-v1990-mono.png'
+  svgPath: 'svg/Wydad-Athletic-Club-v1990-mono.svg'
   sourceID: frmf-club-001
   style: mono
   reference: ''
@@ -56,7 +56,7 @@
 
 - data: logo
   logoID: 20241210-102700-8fa5a8
-  version: 2022
+  version: 1990
   isDoubtful: false
   isOutdated: false
   verName: ['Wydad AC']
@@ -64,6 +64,6 @@
   pngPath: 'png/Wydad-Athletic-Club-v2022.png'
   svgPath: 'svg/Wydad-Athletic-Club-v2022.svg'
   sourceID: frmf-club-001
-  style: color
+  style: star
   reference: ''
   ctrbID: ''
