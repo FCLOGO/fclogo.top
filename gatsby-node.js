@@ -76,7 +76,7 @@ exports.createResolvers = ({ createResolvers }) => {
                   locale: { eq: source.fields.locale } // 匹配页面语言
                 },
                 sourceID: { eq: source.sourceID }, // 匹配主体ID
-                style: { eq: 'color' } // 仅匹配'color'样式
+                style: { in: ['color', 'comm'] } // 匹配'color'或者`comm`样式
               }
             },
             type: 'logo'
