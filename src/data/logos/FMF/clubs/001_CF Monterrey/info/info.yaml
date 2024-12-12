@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fmf-club-001
+  status: active
+  type: club
+  nation: MEX
+  coordinates: [-100.24457568649106, 25.66836276863696]
+  timeline: false
+  info:
+    - fullName: Club de Fútbol Monterrey
+      shortName: C.F. Monterrey
+      localName: Club de Fútbol Monterrey
+      founded: 1945
+      city: Monterrey metropolitan area
+      ground: Estadio BBVA
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/rayados'
+  websiteURL: 'https://www.rayados.com/en'
+  wikiURL: 'https://en.wikipedia.org/wiki/C.F._Monterrey'

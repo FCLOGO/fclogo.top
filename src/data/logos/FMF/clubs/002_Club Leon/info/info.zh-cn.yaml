@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fmf-club-002
+  status: active
+  type: club
+  nation: MEX
+  coordinates: [-100.28992483054236, 25.693510150528365]
+  timeline: false
+  info:
+    - fullName: 莱昂足球俱乐部
+      shortName: 莱昂
+      localName: Club León
+      founded: 1944
+      city: 瓜纳华托州, 莱昂
+      ground: 莱昂诺坎普球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/clubleonfc'
+  websiteURL: 'https://www.clubleon.mx/plantilla.php'
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Le%C3%B3n'

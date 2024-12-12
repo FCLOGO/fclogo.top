@@ -109,3 +109,10 @@
   zoom: 5.5
   flag: 'img/south-africa.png'
   flag2: 'img2/south-africa.png'
+
+- data: flag
+  nation: MEX
+  center: [-102.0, 23.0]
+  zoom: 5.5
+  flag: 'img/mexico.png'
+  flag2: 'img2/mexico.png'

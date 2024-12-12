@@ -67,3 +67,17 @@
   style: star
   reference: ''
   ctrbID: ''
+
+- data: logo
+  logoID: 20241210-202119-061b43
+  version: 1990
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wydad AC']
+  slug: /frmf/club/Wydad-Athletic-Club-v2022-mono
+  pngPath: 'png/Wydad-Athletic-Club-v2022-mono.png'
+  svgPath: 'svg/Wydad-Athletic-Club-v2022-mono.svg'
+  sourceID: frmf-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
