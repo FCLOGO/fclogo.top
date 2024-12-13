@@ -8,7 +8,11 @@
   font-style: normal;
   font-weight: 100;
   src: url('./fonts/Metropolis/eot/Metropolis-Thin.eot');
-  src: local('Metropolis Thin'), url('./fonts/Metropolis/eot/Metropolis-Thin.eot?#iefix') format('embedded-opentype'), url('./fonts/Metropolis/woff/Metropolis-Thin.woff') format('woff'), url('./fonts/Metropolis/TrueType/Metropolis-Thin.ttf') format('truetype')
+  src:
+    local('Metropolis Thin'),
+    url('./fonts/Metropolis/eot/Metropolis-Thin.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Thin.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Thin.ttf') format('truetype');
 }
 
 @font-face {
@@ -16,7 +20,11 @@
   font-style: normal;
   font-weight: 400;
   src: url('./fonts/Metropolis/eot/Metropolis-Regular.eot');
-  src: local('Metropolis Regular'), url('./fonts/Metropolis/eot/Metropolis-Regular.eot?#iefix') format('embedded-opentype'), url('./fonts/Metropolis/woff/Metropolis-Regular.woff') format('woff'), url('./fonts/Metropolis/TrueType/Metropolis-Regular.ttf') format('truetype')
+  src:
+    local('Metropolis Regular'),
+    url('./fonts/Metropolis/eot/Metropolis-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Regular.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -24,7 +32,11 @@
   font-style: normal;
   font-weight: 500;
   src: url('./fonts/Metropolis/eot/Metropolis-Medium.eot');
-  src: local('Metropolis Medium'), url('./fonts/Metropolis/eot/Metropolis-Medium.eot?#iefix') format('embedded-opentype'), url('./fonts/Metropolis/woff/Metropolis-Medium.woff') format('woff'), url('./fonts/Metropolis/TrueType/Metropolis-Medium.ttf') format('truetype')
+  src:
+    local('Metropolis Medium'),
+    url('./fonts/Metropolis/eot/Metropolis-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Medium.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Medium.ttf') format('truetype');
 }
 
 @font-face {
@@ -32,7 +44,11 @@
   font-style: normal;
   font-weight: 600;
   src: url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot');
-  src: local('Metropolis SemiBold'), url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot?#iefix') format('embedded-opentype'), url('./fonts/Metropolis/woff/Metropolis-SemiBold.woff') format('woff'), url('./fonts/Metropolis/TrueType/Metropolis-SemiBold.ttf') format('truetype')
+  src:
+    local('Metropolis SemiBold'),
+    url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-SemiBold.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -40,14 +56,21 @@
   font-style: normal;
   font-weight: 700;
   src: url('./fonts/Metropolis/eot/Metropolis-Bold.eot');
-  src: local('Metropolis Bold'), url('./fonts/Metropolis/eot/Metropolis-Bold.eot?#iefix') format('embedded-opentype'), url('./fonts/Metropolis/woff/Metropolis-Bold.woff') format('woff'), url('./fonts/Metropolis/TrueType/Metropolis-Bold.ttf') format('truetype')
+  src:
+    local('Metropolis Bold'),
+    url('./fonts/Metropolis/eot/Metropolis-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Bold.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Bold.ttf') format('truetype');
 }
 
 /* Font JetBrainsMono */
 @font-face {
   font-family: 'JetBrainsMono';
   src: url('./fonts/JetBrainsMono/JetBrainsMono-Regular.ttf');
-  src: local('JetBrainsMono Regular'), url('./fonts/JetBrainsMono/JetBrainsMono-Regular.ttf') format('truetype'), url('./fonts/JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff')
+  src:
+    local('JetBrainsMono Regular'),
+    url('./fonts/JetBrainsMono/JetBrainsMono-Regular.ttf') format('truetype'),
+    url('./fonts/JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff');
 }
 
 ::selection {
@@ -61,12 +84,14 @@
   }
 
   /* 移除默认搜索框的取消按钮 */
-  input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+  input[type='search']::-webkit-search-cancel-button,
+  input[type='search']::-webkit-search-decoration {
     display: none;
   }
 
   /* 移除 input mark 背景色 */
-  input, mark {
+  input,
+  mark {
     background: none;
     appearance: none;
     outline: none;
@@ -92,7 +117,7 @@
   width: 100%;
   border-collapse: collapse;
   word-wrap: normal;
-  word-break:normal;
+  word-break: normal;
   margin: 0 0 1.5em;
 }
 
@@ -106,11 +131,13 @@
   padding: 0.4em;
 }
 
-.info-table th:first-child, .info-table td:first-child {
+.info-table th:first-child,
+.info-table td:first-child {
   padding-left: 0;
 }
 
-.info-table th:last-child, .info-table td:last-child {
+.info-table th:last-child,
+.info-table td:last-child {
   padding-right: 0;
 }
 
@@ -154,20 +181,21 @@
 
 /* 索引表格样式 */
 .complete span {
-  background: #66CC66;
+  background: #66cc66;
 }
 
 .not-complete span {
-  background: #FF6666;
+  background: #ff6666;
 }
 
 .rdt_TableCell[data-column-id='1'],
 .rdt_TableCell[data-column-id='5'],
 .rdt_TableCell[data-column-id='7'],
 .rdt_TableCell[data-column-id='8'] {
-  font-family: 'JetBrainsMono', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', 'monospace';
+  font-family: 'JetBrainsMono', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas',
+    'Liberation Mono', 'Courier New', 'monospace';
   text-transform: uppercase;
-} 
+}
 
 /* Modal Routing Styles */
 .ReactModal__Body--open {
@@ -204,7 +232,7 @@
 }
 
 .modal_content .content-inner {
-  background: #F6F8FA;
+  background: #f6f8fa;
   border-radius: 10px;
   margin: 30px auto;
   overflow: hidden;
@@ -215,8 +243,12 @@
   padding-top: 0;
 }
 
-.modal_content .detail-wrapper>aside {
+.modal_content .detail-wrapper > aside {
   padding-top: 30px;
+}
+
+.modal_content .logo-reference {
+  top: 20px;
 }
 
 .modal_content .ad-overlay {
@@ -233,7 +265,7 @@
 }
 
 .modal_content .detail-nav svg {
-  stroke: #F6F8FA;
+  stroke: #f6f8fa;
 }
 
 .modal_content .nav-link {
@@ -246,6 +278,6 @@
 }
 
 /* Ad 加载不成功时，容器隐藏 */
-.ad-container:has(ins.adsbygoogle[data-ad-status="unfilled"]) {
+.ad-container:has(ins.adsbygoogle[data-ad-status='unfilled']) {
   display: none;
 }

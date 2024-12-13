@@ -49,7 +49,7 @@ const LogoDetail = ({ data, pageContext }) => {
             <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap detail-wrapper overflow-hidden">
               <section className="w-full pt-[152px] flex-grow flex flex-col overflow-hidden relative">
                 {data.logo.reference && (
-                  <div className="absolute left-xl top-auto group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">
+                  <div className="logo-reference absolute left-xl top-[180px] group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">
                     <InfoIcon className="w-xl h-xl flex-shrink-0 cursor-pointer" />
                     <span className="text-xs whitespace-nowrap overflow-hidden text-ellipsis ml-sm hidden group-hover:inline-block">
                       {t('detail.reference')}
