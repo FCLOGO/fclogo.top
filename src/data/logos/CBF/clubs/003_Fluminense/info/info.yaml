@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-003
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-43.184849057258056, -22.936318607484527]
+  timeline: false
+  info:
+    - fullName: Fluminense Football Club
+      shortName: Fluminense FC
+      localName: Fluminense Football Club
+      founded: 1902
+      city: Rio de Janeiro
+      ground: Maracanã
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fluminensefc'
+  websiteURL: 'https://www.fluminense.com.br/site/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fluminense_FC'

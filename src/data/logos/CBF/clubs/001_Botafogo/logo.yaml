@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241212-190754-ac8dcb
+  version: 1942
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Botafogo']
+  slug: /cbf/club/Botafogo-de-Futebol-e-Regatas-v1942-mono
+  pngPath: 'png/Botafogo-de-Futebol-e-Regatas-v1942-mono.png'
+  svgPath: 'svg/Botafogo-de-Futebol-e-Regatas-v1942-mono.svg'
+  sourceID: cbf-club-001
+  style: mono
+  reference: 'https://static.botafogo.com.br/upload/manual_marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241212-190927-9b159d
+  version: 1942
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Botafogo']
+  slug: /cbf/club/Botafogo-de-Futebol-e-Regatas-v1942
+  pngPath: 'png/Botafogo-de-Futebol-e-Regatas-v1942.png'
+  svgPath: 'svg/Botafogo-de-Futebol-e-Regatas-v1942.svg'
+  sourceID: cbf-club-001
+  style: color
+  reference: 'https://static.botafogo.com.br/upload/manual_marca.pdf'
+  ctrbID: ''

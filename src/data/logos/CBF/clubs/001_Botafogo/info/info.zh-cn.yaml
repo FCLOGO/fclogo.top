@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-001
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-43.20792953741827, -22.971495925978626]
+  timeline: false
+  info:
+    - fullName: 博塔弗戈足球俱乐部
+      shortName: 博塔弗戈
+      localName: Botafogo de Futebol e Regatas
+      founded: 1904
+      city: 里约热内卢
+      ground: 阿维兰热奥林匹克体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Botafogo'
+  websiteURL: 'https://www.botafogo.com.br/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas'

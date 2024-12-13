@@ -116,3 +116,17 @@
   zoom: 5.5
   flag: 'img/mexico.png'
   flag2: 'img2/mexico.png'
+
+- data: flag
+  nation: BRA
+  center: [-50.0, -16.5]
+  zoom: 3.5
+  flag: 'img/brazil.png'
+  flag2: 'img2/brazil.png'
+
+- data: flag
+  nation: ARG
+  center: [-66.0, -39.0]
+  zoom: 3.5
+  flag: 'img/argentina.png'
+  flag2: 'img2/argentina.png'

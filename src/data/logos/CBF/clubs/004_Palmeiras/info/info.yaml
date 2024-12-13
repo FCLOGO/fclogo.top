@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-004
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-54.120472225794124, -27.674072531939988]
+  timeline: false
+  info:
+    - fullName: Sociedade Esportiva Palmeiras
+      shortName: SE Palmeiras
+      localName: Sociedade Esportiva Palmeiras
+      founded: 1914
+      city: São Paulo
+      ground: Allianz Parque
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Palmeiras/'
+  websiteURL: 'https://www.palmeiras.com.br/'
+  wikiURL: 'https://en.wikipedia.org/wiki/SE_Palmeiras'

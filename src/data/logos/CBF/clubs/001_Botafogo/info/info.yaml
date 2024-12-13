@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-001
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-43.20792953741827, -22.971495925978626]
+  timeline: false
+  info:
+    - fullName: Botafogo de Futebol e Regatas
+      shortName: Botafogo
+      localName: Botafogo de Futebol e Regatas
+      founded: 1904
+      city: Rio de Janeiro
+      ground: Estádio Olímpico Nilton Santos
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Botafogo'
+  websiteURL: 'https://www.botafogo.com.br/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas'

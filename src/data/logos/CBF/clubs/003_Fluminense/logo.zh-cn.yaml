@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241212-194025-89b1b3
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fluminense']
+  slug: /cbf/club/Fluminense-Football-Club-v2015-mono
+  pngPath: 'png/Fluminense-Football-Club-v2015-mono.png'
+  svgPath: 'svg/Fluminense-Football-Club-v2015-mono.svg'
+  sourceID: cbf-club-003
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241212-194058-021cc6
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fluminense']
+  slug: /cbf/club/Fluminense-Football-Club-v2015
+  pngPath: 'png/Fluminense-Football-Club-v2015.png'
+  svgPath: 'svg/Fluminense-Football-Club-v2015.svg'
+  sourceID: cbf-club-003
+  style: color
+  reference: ''
+  ctrbID: ''
