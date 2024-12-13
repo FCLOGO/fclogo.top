@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.7](https://github.com/FCLOGO/fclogo.top/compare/v2.5.6...v2.5.7) (2024-12-13)
+
+
+### 📝 Documentation | 文档
+
+* *修正* 版本错误 ([450143c](https://github.com/FCLOGO/fclogo.top/commit/450143cc84024f8a05d32e50bf740b6beeda63d9))
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* *优化* 网站 SEO ([369f1c7](https://github.com/FCLOGO/fclogo.top/commit/369f1c7f74a7e3e23db2f39ba53bda23ca279410))
+
 ### [2.5.6](https://github.com/FCLOGO/fclogo.top/compare/v2.5.5...v2.5.6) (2024-12-13)
 
 
