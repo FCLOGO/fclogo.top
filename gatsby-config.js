@@ -18,7 +18,7 @@ module.exports = {
     description: `Collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.`,
     keywords: `football,football club,logo,vector,vector logo,football logo,football badge,AI,SVG`,
     author: `@fclogo`,
-    siteUrl: `https://fclogo.top/`
+    siteUrl: `https://fclogo.top`
   },
   plugins: [
     `gatsby-plugin-robots-txt`,

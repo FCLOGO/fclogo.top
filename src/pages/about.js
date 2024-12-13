@@ -23,7 +23,6 @@ const About = ({ data }) => {
   }, {})
   return (
     <Layout>
-      <Seo title={t('about.title')} />
       <PageHero pageSlogan={t('about.slogan')} />
       <div className="w-full m-[0_auto] flex-grow flex flex-col items-center justify-center py-header px-xl">
         <section className="w-full">
@@ -80,6 +79,25 @@ const About = ({ data }) => {
 }
 
 export default About
+
+export const Head = ({ data, pageContext }) => {
+  const locales = data.locales.edges[0].node.data
+  const { i18n, language } = pageContext
+  let obj = undefined
+  if (locales) {
+    obj = JSON.parse(locales)
+  }
+  return (
+    <Seo
+      title={`${obj?.abouttitle} | ${obj?.hometitle}`}
+      description={obj?.indexDescription}
+      path={i18n.path}
+      locale={language}
+      languages={i18n.languages}
+      originalPath={i18n.originalPath}
+    />
+  )
+}
 
 export const query = graphql`
   query ($language: String!) {

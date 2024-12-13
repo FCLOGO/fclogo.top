@@ -199,8 +199,9 @@ const LogoDetail = ({ data, pageContext }) => {
 
 export default LogoDetail
 
-export const Head = ({ data }) => {
+export const Head = ({ data, pageContext }) => {
   const locales = data.locales.edges[0].node.data
+  const { i18n, language } = pageContext
   let obj = undefined
   if (locales) {
     obj = JSON.parse(locales)
@@ -208,9 +209,18 @@ export const Head = ({ data }) => {
   return (
     <>
       {data.logo ? (
-        <Seo title={`${data.logo.detailInfo[0].info[0].fullName}${obj?.detailTitleVector}`} />
+        <Seo
+          title={`${data.logo.detailInfo[0].info[0].fullName}${obj?.detailTitleVector}`}
+          path={i18n.path}
+          description={`${obj?.headDownload}${data.logo.detailInfo[0].info[0].fullName}${obj?.detailTitleVector}${obj?.detailDescription}`}
+          image={`${data.logo.pngPath.publicURL}`}
+          type="article"
+          locale={language}
+          languages={i18n.languages}
+          originalPath={i18n.originalPath}
+        />
       ) : (
-        <Seo title={obj?.detailNotransTitle} />
+        <Seo title={obj?.detailNotransTitle} description={obj?.indexDescription} />
       )}
     </>
   )

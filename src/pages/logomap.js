@@ -323,13 +323,23 @@ const logomap = ({ data, pageContext }) => {
 
 export default logomap
 
-export const Head = ({ data }) => {
+export const Head = ({ data, pageContext }) => {
   const locales = data.locales.edges[0].node.data
+  const { i18n, language } = pageContext
   let obj = undefined
   if (locales) {
     obj = JSON.parse(locales)
   }
-  return <Seo title={obj?.maptitle} />
+  return (
+    <Seo
+      title={`${obj?.maptitle} | ${obj?.hometitle}`}
+      description={obj?.indexDescription}
+      path={i18n.path}
+      locale={language}
+      languages={i18n.languages}
+      originalPath={i18n.originalPath}
+    />
+  )
 }
 
 export const query = graphql`

@@ -99,8 +99,26 @@ const PackDetail = ({ data, pageContext }) => {
 
 export default PackDetail
 
-export const Head = ({ data }) => {
+// export const Head = ({ data }) => {
+//   const locales = data.locales.edges[0].node.data
+//   let obj = undefined
+//   if (locales) {
+//     obj = JSON.parse(locales)
+//   }
+//   return (
+//     <>
+//       {data.logoPack ? (
+//         <Seo title={`${data.logoPack.season} ${data.logoPack.name}${obj?.detailTitleVectorPack}`} />
+//       ) : (
+//         <Seo title={obj?.detailNotransTitle} />
+//       )}
+//     </>
+//   )
+// }
+
+export const Head = ({ data, pageContext }) => {
   const locales = data.locales.edges[0].node.data
+  const { i18n, language } = pageContext
   let obj = undefined
   if (locales) {
     obj = JSON.parse(locales)
@@ -108,9 +126,18 @@ export const Head = ({ data }) => {
   return (
     <>
       {data.logoPack ? (
-        <Seo title={`${data.logoPack.season} ${data.logoPack.name}${obj?.detailTitleVectorPack}`} />
+        <Seo
+          title={`${data.logoPack.season} ${data.logoPack.name}${obj?.detailTitleVectorPack}`}
+          path={i18n.path}
+          description={`${obj?.headDownload}${data.logoPack.season} ${data.logoPack.name}${obj?.detailTitleVectorPack}${obj?.detailDescription}`}
+          image={`${data.logoPack.packInfo[0].pngPath.publicURL}`}
+          type="article"
+          locale={language}
+          languages={i18n.languages}
+          originalPath={i18n.originalPath}
+        />
       ) : (
-        <Seo title={obj?.detailNotransTitle} />
+        <Seo title={obj?.detailNotransTitle} description={obj?.indexDescription} />
       )}
     </>
   )
@@ -135,6 +162,7 @@ export const query = graphql`
       packInfo {
         id
         pngPath {
+          publicURL
           childImageSharp {
             gatsbyImageData(width: 200, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
           }

@@ -129,8 +129,9 @@ const SupportTemplate = ({ data, pageContext }) => {
 
 export default SupportTemplate
 
-export const Head = ({ data }) => {
+export const Head = ({ data, pageContext }) => {
   const locales = data.locales.edges[0].node.data
+  const { i18n, language } = pageContext
   let obj = undefined
   if (locales) {
     obj = JSON.parse(locales)
@@ -138,7 +139,14 @@ export const Head = ({ data }) => {
   return (
     <>
       {data.markdownRemark ? (
-        <Seo title={data.markdownRemark.frontmatter.title} />
+        <Seo
+          title={data.markdownRemark.frontmatter.title}
+          description={obj?.indexDescription}
+          path={i18n.path}
+          locale={language}
+          languages={i18n.languages}
+          originalPath={i18n.originalPath}
+        />
       ) : (
         <Seo title={obj?.detailNotransTitle} />
       )}
