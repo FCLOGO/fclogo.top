@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.6](https://github.com/FCLOGO/fclogo.top/compare/v2.5.5...v2.5.6) (2024-12-13)
+
+
+### ❇️ Chores | 其他更新
+
+* *优化* 下载完成提示文本 ([958a8ef](https://github.com/FCLOGO/fclogo.top/commit/958a8ef26136e29dce9b410c81750badccf32a0f))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* fix bug ([f3b51a8](https://github.com/FCLOGO/fclogo.top/commit/f3b51a839310e180da43371956603baf70472a02))
+* fix bugs ([8397b74](https://github.com/FCLOGO/fclogo.top/commit/8397b74e39c3acc219bad6fd6869a48b86a6cd59))
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* *优化* 徽标时间线 ([79e87f7](https://github.com/FCLOGO/fclogo.top/commit/79e87f7f271a5ef49530611fccacea428fc82e52))
+* 增加 ISO 3166-1 alpha-3 国家代码 ([79c4ee2](https://github.com/FCLOGO/fclogo.top/commit/79c4ee269b948635a527ec9d8ffcc6ded1797fd3))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2025 FIFA 世俱杯参赛俱乐部徽标 ([2b21eb1](https://github.com/FCLOGO/fclogo.top/commit/2b21eb1c5d323c0af15f262080a47fc4837d6c94))
+* *新增* 2025世俱乐杯俱乐部徽标 ([89191a9](https://github.com/FCLOGO/fclogo.top/commit/89191a98004b509b1d90064f9fbb8be20a431c09))
+* *新增* 2025世俱乐杯俱乐部徽标 ([82a28ee](https://github.com/FCLOGO/fclogo.top/commit/82a28eef1218d68ed4c1f26f05a7562a7e2d6517))
+* *增加* 2025世俱杯俱乐部徽标 ([3d75395](https://github.com/FCLOGO/fclogo.top/commit/3d75395778b88cc07f73cd062bea9c4cf497a351))
+* 增加国旗 ([3d43af2](https://github.com/FCLOGO/fclogo.top/commit/3d43af2752f20c46669b16c3ff2893fd192f4f03))
+
 ### [2.5.5](https://github.com/FCLOGO/fclogo.top/compare/v2.5.4...v2.5.5) (2024-12-09)
 
 
