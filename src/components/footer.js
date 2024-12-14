@@ -7,6 +7,7 @@ import XIcon from '../../static/assets/icons/x.inline.svg'
 import WeiboIcon from '../../static/assets/icons/weibo.inline.svg'
 import InsIcon from '../../static/assets/icons/instagram.inline.svg'
 import DiscordIcon from '../../static/assets/icons/discord.inline.svg'
+import FacebookIcon from '../../static/assets/icons/facebook.inline.svg'
 
 const SocialMedia = [
   // {
@@ -28,6 +29,11 @@ const SocialMedia = [
     title: 'Instagram',
     link: 'https://www.instagram.com/fclogo_top/',
     icon: <InsIcon className="h-2xl w-2xl" />
+  },
+  {
+    title: 'Facebook',
+    link: 'https://www.facebook.com/profile.php?id=61569819506882',
+    icon: <FacebookIcon className="h-2xl w-2xl" />
   },
   {
     title: 'Discord',
