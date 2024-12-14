@@ -1,0 +1,83 @@
+- data: logo
+  logoID: 20241214-220457-f2d469
+  version: 1993
+  isDoubtful: false
+  isOutdated: true
+  verName: ['River Plate']
+  slug: /afa/club/Club-Atletico-River-Plate-v1993
+  pngPath: 'png/Club-Atletico-River-Plate-v1993.png'
+  svgPath: 'svg/Club-Atletico-River-Plate-v1993.svg'
+  sourceID: afa-club-002
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-220556-a88f9f
+  version: 1994
+  isDoubtful: false
+  isOutdated: true
+  verName: ['River Plate']
+  slug: /afa/club/Club-Atletico-River-Plate-v1994
+  pngPath: 'png/Club-Atletico-River-Plate-v1994.png'
+  svgPath: 'svg/Club-Atletico-River-Plate-v1994.svg'
+  sourceID: afa-club-002
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-220644-bf7341
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['River Plate']
+  slug: /afa/club/Club-Atletico-River-Plate-v1998
+  pngPath: 'png/Club-Atletico-River-Plate-v1998.png'
+  svgPath: 'svg/Club-Atletico-River-Plate-v1998.svg'
+  sourceID: afa-club-002
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-220724-b9b0ba
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['River Plate']
+  slug: /afa/club/Club-Atletico-River-Plate-v2006
+  pngPath: 'png/Club-Atletico-River-Plate-v2006.png'
+  svgPath: 'svg/Club-Atletico-River-Plate-v2006.svg'
+  sourceID: afa-club-002
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-220758-c9d188
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['River Plate']
+  slug: /afa/club/Club-Atletico-River-Plate-v2022-mono
+  pngPath: 'png/Club-Atletico-River-Plate-v2022-mono.png'
+  svgPath: 'svg/Club-Atletico-River-Plate-v2022-mono.svg'
+  sourceID: afa-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-221235-8dc0fa
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['River Plate']
+  slug: /afa/club/Club-Atletico-River-Plate-v2022
+  pngPath: 'png/Club-Atletico-River-Plate-v2022.png'
+  svgPath: 'svg/Club-Atletico-River-Plate-v2022.svg'
+  sourceID: afa-club-002
+  style: color
+  reference: ''
+  ctrbID: ''

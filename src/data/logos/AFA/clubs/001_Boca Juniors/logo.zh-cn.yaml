@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241214-130735-c58114
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Boca Juniors']
+  slug: /afa/club/Club-Atletico-Boca-Juniors-v1996-70-mono
+  pngPath: 'png/Club-Atletico-Boca-Juniors-v1996-70-mono.png'
+  svgPath: 'svg/Club-Atletico-Boca-Juniors-v1996-70-mono.svg'
+  sourceID: afa-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-130938-a802fe
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Boca Juniors']
+  slug: /afa/club/Club-Atletico-Boca-Juniors-v1996-70
+  pngPath: 'png/Club-Atletico-Boca-Juniors-v1996-70.png'
+  svgPath: 'svg/Club-Atletico-Boca-Juniors-v1996-70.svg'
+  sourceID: afa-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241214-131057-3332cf
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Boca Juniors']
+  slug: /afa/club/Club-Atletico-Boca-Juniors-v1996-kits
+  pngPath: 'png/Club-Atletico-Boca-Juniors-v1996-kits.png'
+  svgPath: 'svg/Club-Atletico-Boca-Juniors-v1996-kits.svg'
+  sourceID: afa-club-001
+  style: kits
+  reference: ''
+  ctrbID: ''

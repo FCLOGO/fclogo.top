@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: afa-club-001
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.364049780678535, -34.635828362551905]
+  timeline: false
+  info:
+    - fullName: Club Atlético Boca Juniors
+      localName: Club Atlético Boca Juniors
+      shortName: Boca Juniors
+      founded: 1905
+      city: Buenos Aires
+      ground: La Bombonera
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/BocaJrsOficial'
+  websiteURL: 'https://www.bocajuniors.com.ar/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Boca_Juniors'
