@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241215-132912-3a3698
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Chelsea']
+  slug: /thefa/club/Chelsea-FC-v2006-mono
+  pngPath: 'png/Chelsea-FC-v2006-mono.png'
+  svgPath: 'svg/Chelsea-FC-v2006-mono.svg'
+  sourceID: thefa-club-001
+  style: mono
+  reference: 'https://downloads.ctfassets.net/d4h4t9hbh431/4LPefK54OcjWUCBLzjbnPD/8c9f1e3273b54542fa9c48cd5620421b/Chelsea_Foundation_Annual_Report_2023.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-133042-559fe5
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Chelsea']
+  slug: /thefa/club/Chelsea-FC-v2006
+  pngPath: 'png/Chelsea-FC-v2006.png'
+  svgPath: 'svg/Chelsea-FC-v2006.svg'
+  sourceID: thefa-club-001
+  style: color
+  reference: 'https://assets.ctfassets.net/d4h4t9hbh431/5OORXFGdqj2eugIJrsVlqm/97cba48f2f845b50ebf63e98b231da68/05351_Fan_Engagement_Report_23-24.pdf'
+  ctrbID: ''

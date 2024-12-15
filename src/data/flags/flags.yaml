@@ -130,3 +130,10 @@
   zoom: 3.5
   flag: 'img/argentina.png'
   flag2: 'img2/argentina.png'
+
+- data: flag
+  nation: ENG
+  center: [-3.0, 52.8]
+  zoom: 6.0
+  flag: 'img/england.png'
+  flag2: 'img2/england.png'

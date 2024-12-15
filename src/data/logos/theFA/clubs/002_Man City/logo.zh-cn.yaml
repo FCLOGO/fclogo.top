@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241215-134001-3ca779
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Man City']
+  slug: /thefa/club/Manchester-City-v2016-mono
+  pngPath: 'png/Manchester-City-v2016-mono.png'
+  svgPath: 'svg/Manchester-City-v2016-mono.svg'
+  sourceID: thefa-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-134028-93cd09
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Man City']
+  slug: /thefa/club/Manchester-City-v2016
+  pngPath: 'png/Manchester-City-v2016.png'
+  svgPath: 'svg/Manchester-City-v2016.svg'
+  sourceID: thefa-club-002
+  style: color
+  reference: ''
+  ctrbID: ''

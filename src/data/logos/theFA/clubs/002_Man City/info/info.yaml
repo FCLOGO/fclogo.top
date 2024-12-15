@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-002
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.2004124619099303, 53.48313355067256]
+  timeline: false
+  info:
+    - fullName: Manchester City Football Club
+      localName: Manchester City Football Club
+      shortName: Man City F.C.
+      founded: 1880
+      city: Manchester
+      ground: City of Manchester Stadium
+      league:
+  weiboURL: 'https://weibo.com/u/2759906397'
+  twitterURL: 'https://www.twitter.com/mancity'
+  websiteURL: 'https://www.mancity.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Manchester_City_F.C.'
