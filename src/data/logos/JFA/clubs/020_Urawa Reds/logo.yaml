@@ -11,3 +11,17 @@
   style: color
   reference: 'https://www.jleague.co/clubs/Urawa-Reds/'
   ctrbID: ''
+
+- data: logo
+  logoID: 20241116-171226-286c76
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Urawa Reds']
+  slug: /jfa/club/urawa-reds-v2000-mono
+  pngPath: 'png/urawa-reds-v2000-mono.png'
+  svgPath: 'svg/urawa-reds-v2000-mono.svg'
+  sourceID: jfa-club-020
+  style: mono
+  reference: ''
+  ctrbID: ''
