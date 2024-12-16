@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.8](https://github.com/FCLOGO/fclogo.top/compare/v2.5.7...v2.5.8) (2024-12-16)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* fix bugs ([2621f9c](https://github.com/FCLOGO/fclogo.top/commit/2621f9c0b3072c8aff47c048e7691638b4d041f4))
+
+
+### ❇️ Chores | 其他更新
+
+* 添加 Facebook 公共主页链接 ([88da9e0](https://github.com/FCLOGO/fclogo.top/commit/88da9e01aec1d4201787dbbcb846121ac2898c47))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 2025世俱杯徽标集 ([aca400b](https://github.com/FCLOGO/fclogo.top/commit/aca400b09255105e352e223095aaa6360349d1e3))
+* *新增* 2025世俱杯南美俱乐部徽标 ([cfd6247](https://github.com/FCLOGO/fclogo.top/commit/cfd6247ff04aa035b6975d1f7a7406901767661d))
+* *新增* 2025世俱杯欧洲俱乐部徽标 ([231b4ce](https://github.com/FCLOGO/fclogo.top/commit/231b4ce960c02d0e44c6a72a8ce68731f5c29621))
+* *新增*2025世俱杯英格兰俱乐部徽标 ([c8cc783](https://github.com/FCLOGO/fclogo.top/commit/c8cc783208a829f39f34408f44e97f6f60f97321))
+
 ### [2.5.7](https://github.com/FCLOGO/fclogo.top/compare/v2.5.6...v2.5.7) (2024-12-13)
 
 
