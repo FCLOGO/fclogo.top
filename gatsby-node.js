@@ -153,7 +153,7 @@ exports.createResolvers = ({ createResolvers }) => {
                 fields: {
                   locale: { eq: source.fields.locale } // 匹配页面语言
                 },
-                style: { eq: 'color' } // 仅匹配 color 样式
+                style: { in: ['color', 'minor', 'comm'] }
               }
             },
             type: `logo`
