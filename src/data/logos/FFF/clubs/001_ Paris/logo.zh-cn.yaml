@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241216-103759-af7f9e
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['PSG']
+  slug: /fff/club/Paris-Saint-Germain-v2013-mono
+  pngPath: 'png/Paris-Saint-Germain-v2013-mono.png'
+  svgPath: 'svg/Paris-Saint-Germain-v2013-mono.svg'
+  sourceID: fff-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-103906-547a7f
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['PSG']
+  slug: /fff/club/Paris-Saint-Germain-v2013
+  pngPath: 'png/Paris-Saint-Germain-v2013.png'
+  svgPath: 'svg/Paris-Saint-Germain-v2013.svg'
+  sourceID: fff-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

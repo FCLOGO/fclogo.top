@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: rfef-club-001
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.6883617210096338, 40.45305646873621]
+  timeline: false
+  info:
+    - fullName: 皇家马德里足球俱乐部
+      localName: Real Madrid Club de Fútbol
+      shortName: 皇家马德里
+      founded: 1902
+      city: 马德里
+      ground: 圣地亚哥·伯纳乌球场
+      league:
+  weiboURL: 'https://weibo.com/u/3855731810'
+  twitterURL: 'https://twitter.com/realmadrid'
+  websiteURL: 'https://www.realmadrid.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Madrid_CF'

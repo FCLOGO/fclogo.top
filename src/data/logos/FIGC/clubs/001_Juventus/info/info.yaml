@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: figc-club-001
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [7.634265989937778, 45.111728784038284]
+  timeline: false
+  info:
+    - fullName: Juventus Football Club
+      localName: Juventus Football Club
+      shortName: Juventus FC
+      founded: 1897
+      city: Turin
+      ground: Juventus Stadium
+      league:
+  websiteURL: 'https://www.juventus.com/en'
+  twitterURL: 'https://twitter.com/juventusfcen'
+  weiboURL: 'https://weibo.com/u/5466272016'
+  wikiURL: 'https://en.wikipedia.org/wiki/Juventus_FC'

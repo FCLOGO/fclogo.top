@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: figc-club-001
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [7.634265989937778, 45.111728784038284]
+  timeline: false
+  info:
+    - fullName: 尤文图斯足球俱乐部
+      localName: Juventus Football Club
+      shortName: 尤文图斯
+      founded: 1897
+      city: 尤文图斯
+      ground: 安联球场
+      league:
+  websiteURL: 'https://www.juventus.com/en'
+  twitterURL: 'https://twitter.com/juventusfcen'
+  weiboURL: 'https://weibo.com/u/5466272016'
+  wikiURL: 'https://en.wikipedia.org/wiki/Juventus_FC'

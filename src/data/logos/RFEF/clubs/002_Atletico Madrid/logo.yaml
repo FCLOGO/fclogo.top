@@ -1,0 +1,69 @@
+- data: logo
+  logoID: 20241215-162205-a30132
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Atlético Madrid']
+  slug: /rfef/club/Atletico-Madrid-v2017-mono
+  pngPath: 'png/Atletico-Madrid-v2017-mono.png'
+  svgPath: 'svg/Atletico-Madrid-v2017-mono.svg'
+  sourceID: rfef-club-002
+  style: mono
+  reference: 'https://en.atleticodemadrid.com/files/20220217_1_V_ATM_Sustainability_Report_2021_WEB.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-162253-e363a6
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Atlético Madrid']
+  slug: /rfef/club/Atletico-Madrid-v2017
+  pngPath: 'png/Atletico-Madrid-v2017.png'
+  svgPath: 'svg/Atletico-Madrid-v2017.svg'
+  sourceID: rfef-club-002
+  style: color
+  reference: 'https://en.atleticodemadrid.com/files/20220217_1_V_ATM_Sustainability_Report_2021_WEB.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-162324-5cdfdd
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Atlético Madrid']
+  slug: /rfef/club/Atletico-Madrid-v2024-mono
+  pngPath: 'png/Atletico-Madrid-v2024-mono.png'
+  svgPath: 'svg/Atletico-Madrid-v2024-mono.svg'
+  sourceID: rfef-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-162332-2a9483
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Atlético Madrid']
+  slug: /rfef/club/Atletico-Madrid-v2024-mono-2
+  pngPath: 'png/Atletico-Madrid-v2024-mono-2.png'
+  svgPath: 'svg/Atletico-Madrid-v2024-mono-2.svg'
+  sourceID: rfef-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-162346-0362f3
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Atletico Madrid']
+  slug: /rfef/club/Atletico-Madrid-v2024
+  pngPath: 'png/Atletico-Madrid-v2024.png'
+  svgPath: 'svg/Atletico-Madrid-v2024.svg'
+  sourceID: rfef-club-002
+  style: color
+  reference: ''
+  ctrbID: ''

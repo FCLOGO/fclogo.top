@@ -137,3 +137,45 @@
   zoom: 6.0
   flag: 'img/england.png'
   flag2: 'img2/england.png'
+
+- data: flag
+  nation: ESP
+  center: [-3.5, 40.0]
+  zoom: 6.0
+  flag: 'img/spain.png'
+  flag2: 'img2/spain.png'
+
+- data: flag
+  nation: PRT
+  center: [-8.0, 39.8]
+  zoom: 6.5
+  flag: 'img/portugal.png'
+  flag2: 'img2/portugal.png'
+
+- data: flag
+  nation: FRA
+  center: [1.0, 48.8]
+  zoom: 6.2
+  flag: 'img/france.png'
+  flag2: 'img2/france.png'
+
+- data: flag
+  nation: ITA
+  center: [10.0, 42.0]
+  zoom: 5.5
+  flag: 'img/italy.png'
+  flag2: 'img2/italy.png'
+
+- data: flag
+  nation: DEU
+  center: [9.0, 51.0]
+  zoom: 5.5
+  flag: 'img/germany.png'
+  flag2: 'img2/germany.png'
+
+- data: flag
+  nation: AUT
+  center: [13.0, 48.0]
+  zoom: 6.0
+  flag: 'img/austria.png'
+  flag2: 'img2/austria.png'

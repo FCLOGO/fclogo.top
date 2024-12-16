@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: figc-club-002
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.195085381889385, 45.482523864252784]
+  timeline: false
+  info:
+    - fullName: Football Club Internazionale Milano
+      localName: Football Club Internazionale Milano
+      shortName: Inter Milan
+      founded: 1908
+      city: Milan
+      ground: Stadio Giuseppe Meazza
+      league:
+  websiteURL: 'https://www.inter.it/en'
+  twitterURL: 'https://twitter.com/Inter_en'
+  weiboURL: 'https://weibo.com/fcinternazionale'
+  wikiURL: 'https://en.wikipedia.org/wiki/Inter_Milan'

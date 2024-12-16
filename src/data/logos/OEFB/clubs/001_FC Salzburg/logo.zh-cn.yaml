@@ -1,0 +1,69 @@
+- data: logo
+  logoID: 20241216-100229-37a461
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['RB Salzburg']
+  slug: /oefb/club/Red-Bull-Salzburg-v2007
+  pngPath: 'png/Red-Bull-Salzburg-v2007.png'
+  svgPath: 'svg/Red-Bull-Salzburg-v2007.svg'
+  sourceID: oefb-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-100319-4dbba4
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RB Salzburg']
+  slug: /oefb/club/Red-Bull-Salzburg-v2019-mono
+  pngPath: 'png/Red-Bull-Salzburg-v2019-mono.png'
+  svgPath: 'svg/Red-Bull-Salzburg-v2019-mono.svg'
+  sourceID: oefb-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-100358-6874ee
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RB Salzburg']
+  slug: /oefb/club/Red-Bull-Salzburg-v2019
+  pngPath: 'png/Red-Bull-Salzburg-v2019.png'
+  svgPath: 'svg/Red-Bull-Salzburg-v2019.svg'
+  sourceID: oefb-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-100427-f2b427
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Salzburg']
+  slug: /oefb/club/FC-Salzburg-v2022-minor-mono
+  pngPath: 'png/FC-Salzburg-v2022-minor-mono.png'
+  svgPath: 'svg/FC-Salzburg-v2022-minor-mono.svg'
+  sourceID: oefb-club-001
+  style: mono
+  reference: 'https://indd.adobe.com/view/publication/f2775b56-3f10-48b1-af79-55026873e9a5/l7c5/publication-web-resources/pdf/UCL_Tech-Report_2023-24_Digital.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-100515-5ff5f5
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Salzburg']
+  slug: /oefb/club/FC-Salzburg-v2022-minor
+  pngPath: 'png/FC-Salzburg-v2022-minor.png'
+  svgPath: 'svg/FC-Salzburg-v2022-minor.svg'
+  sourceID: oefb-club-001
+  style: minor
+  reference: 'https://indd.adobe.com/view/publication/f2775b56-3f10-48b1-af79-55026873e9a5/l7c5/publication-web-resources/pdf/UCL_Tech-Report_2023-24_Digital.pdf'
+  ctrbID: ''

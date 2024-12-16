@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241216-105253-e252c1
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Juventus']
+  slug: /figc/club/Juventus-FC-v2017
+  pngPath: 'png/Juventus-FC-v2017.png'
+  svgPath: 'svg/Juventus-FC-v2017.svg'
+  sourceID: figc-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

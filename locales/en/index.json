@@ -188,6 +188,7 @@
   "stereo": "STEREO",
   "kits": "KITS",
   "acl": "ACL",
+  "minor": "MINOR",
   "type": "Type",
   "all": "All",
   "rowsPerPage": "Rows Per Page",

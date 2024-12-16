@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-002
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.554609724232446, 51.53740882912199]
+  timeline: false
+  info:
+    - fullName: 多特蒙德普鲁士09球类体育俱乐部
+      localName: Ballspielverein Borussia 09 e. V. Dortmund
+      shortName: 多特蒙德
+      founded: 1909
+      city: 多特蒙德
+      ground: 威斯法伦球场
+      league:
+  websiteURL: 'https://www.bvb.de/de/de.html'
+  twitterURL: 'https://twitter.com/bvb'
+  weiboURL: 'https://weibo.com/u/5041890608'
+  wikiURL: 'https://en.wikipedia.org/wiki/Borussia_Dortmund'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fpf-club-001
+  status: active
+  type: club
+  nation: PRT
+  coordinates: [-9.183053906678143, 38.75229208335825]
+  timeline: false
+  info:
+    - fullName: Sport Lisboa e Benfica
+      localName: Sport Lisboa e Benfica
+      shortName: S.L. Benfica
+      founded: 1904
+      city: Lisbon
+      ground: Estádio da Luz
+      league:
+  websiteURL: 'https://www.slbenfica.pt/'
+  twitterURL: 'https://x.com/slbenfica_en'
+  weiboURL: 'https://weibo.com/u/5974285221'
+  wikiURL: 'https://en.wikipedia.org/wiki/S.L._Benfica'

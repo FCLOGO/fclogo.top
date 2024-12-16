@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-001
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [11.572817446705047, 48.10222238792276]
+  timeline: false
+  info:
+    - fullName: Fußball-Club Bayern München e. V.
+      localName: Fußball-Club Bayern München e. V.
+      shortName: FC Bayern Munich
+      founded: 1900
+      city: Munich
+      ground: Allianz Arena
+      league:
+  websiteURL: 'https://fcbayern.com/en'
+  twitterURL: 'https://twitter.com/fcbayernen'
+  weiboURL: 'https://weibo.com/u/2971183691'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Bayern_Munich'

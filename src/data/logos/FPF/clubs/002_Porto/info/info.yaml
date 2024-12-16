@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fpf-club-002
+  status: active
+  type: club
+  nation: PRT
+  coordinates: [-8.583307102005167, 41.16178329839365]
+  timeline: false
+  info:
+    - fullName: Futebol Clube do Porto
+      localName: Futebol Clube do Porto
+      shortName: FC Porto
+      founded: 1893
+      city: Porto
+      ground: Estádio do Dragão
+      league:
+  websiteURL: 'https://www.fcporto.pt/'
+  twitterURL: 'https://x.com/FCPorto'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Porto'

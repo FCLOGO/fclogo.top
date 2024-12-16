@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241215-161411-da3eca
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RMA', '皇马']
+  slug: /rfef/club/Real-Madrid-CF-v2002-mono-fill
+  pngPath: 'png/Real-Madrid-CF-v2002-mono-fill.png'
+  svgPath: 'svg/Real-Madrid-CF-v2002-mono-fill.svg'
+  sourceID: rfef-club-001
+  style: mono
+  reference: 'https://www.realmadrid.com/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-161521-0daab8
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RMA', '皇马']
+  slug: /rfef/club/Real-Madrid-CF-v2002-mono-line
+  pngPath: 'png/Real-Madrid-CF-v2002-mono-line.png'
+  svgPath: 'svg/Real-Madrid-CF-v2002-mono-line.svg'
+  sourceID: rfef-club-001
+  style: mono
+  reference: 'https://static.realmadrid.com/StaticFiles/RealMadrid/img/pdf/Annual-Report_Foundation-RM.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241215-161614-84a787
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RMA', '皇马']
+  slug: /rfef/club/Real-Madrid-CF-v2002
+  pngPath: 'png/Real-Madrid-CF-v2002.png'
+  svgPath: 'svg/Real-Madrid-CF-v2002.svg'
+  sourceID: rfef-club-001
+  style: color
+  reference: 'https://www.realmadrid.com/StaticFiles/RealMadrid/img/pdf/Annual_Report_RealMadrid_2021-22.pdf'
+  ctrbID: ''

@@ -1,0 +1,69 @@
+- data: logo
+  logoID: 20241216-111151-773415
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Bayern Munich']
+  slug: /dfb/club/FC-Bayern-Munchen-v1996
+  pngPath: 'png/FC-Bayern-Munchen-v1996.png'
+  svgPath: 'svg/FC-Bayern-Munchen-v1996.svg'
+  sourceID: dfb-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-111230-11b33f
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Bayern Munich']
+  slug: /dfb/club/FC-Bayern-Munchen-v2002
+  pngPath: 'png/FC-Bayern-Munchen-v2002.png'
+  svgPath: 'svg/FC-Bayern-Munchen-v2002.svg'
+  sourceID: dfb-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-111258-7c5762
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Bayern Munich']
+  slug: /dfb/club/FC-Bayern-Munchen-v2017
+  pngPath: 'png/FC-Bayern-Munchen-v2017.png'
+  svgPath: 'svg/FC-Bayern-Munchen-v2017.svg'
+  sourceID: dfb-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-111334-f4a372
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Bayern Munich']
+  slug: /dfb/club/FC-Bayern-Munchen-v2024-mono
+  pngPath: 'png/FC-Bayern-Munchen-v2024-mono.png'
+  svgPath: 'svg/FC-Bayern-Munchen-v2024-mono.svg'
+  sourceID: dfb-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-111402-3f9abc
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Bayern Munich']
+  slug: /dfb/club/FC-Bayern-Munchen-v2024
+  pngPath: 'png/FC-Bayern-Munchen-v2024.png'
+  svgPath: 'svg/FC-Bayern-Munchen-v2024.svg'
+  sourceID: dfb-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

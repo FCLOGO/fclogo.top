@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241216-110100-03d827
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Inter Milan']
+  slug: /figc/club/FC-Inter-Milan-v2021-mono
+  pngPath: 'png/FC-Inter-Milan-v2021-mono.png'
+  svgPath: 'svg/FC-Inter-Milan-v2021-mono.svg'
+  sourceID: figc-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-110127-5480ec
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Inter Milan']
+  slug: /figc/club/FC-Inter-Milan-v2021
+  pngPath: 'png/FC-Inter-Milan-v2021.png'
+  svgPath: 'svg/FC-Inter-Milan-v2021.svg'
+  sourceID: figc-club-002
+  style: color
+  reference: ''
+  ctrbID: ''
