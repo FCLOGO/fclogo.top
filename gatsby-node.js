@@ -159,8 +159,14 @@ exports.createResolvers = ({ createResolvers }) => {
             type: `logo`
           })
           const items = entries.filter(item => {
-            // 根据主体 ID 与徽标 version 匹配徽标
-            return source.items.some(i => i.id === item.sourceID && i.version === item.version)
+            // 根据主体 ID 与徽标 version 匹配徽标，同时检查 style
+            return source.items.some(i => {
+              return (
+                i.id === item.sourceID &&
+                i.version === item.version &&
+                (i.style || 'color') === item.style
+              )
+            })
           })
           return items
         }

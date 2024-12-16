@@ -28,6 +28,7 @@
       version: 2024
     - id: fmf-club-002
       version: 2014
+      style: color
     - id: fmf-club-003
       version: 2007
     - id: cbf-club-004
@@ -68,5 +69,6 @@
       version: 2024
     - id: oefb-club-001
       version: 2022
+      style: minor
     - id: ussf-club-013
       version: 2018
