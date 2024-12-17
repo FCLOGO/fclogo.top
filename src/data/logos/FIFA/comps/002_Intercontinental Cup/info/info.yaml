@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fifa-comp-002
+  type: comp
+  timeline: true
+  info:
+    - fullName: FIFA Intercontinental Cup
+      localname: FIFA Intercontinental Cup
+      shortName: Intercontinental Cup
+      founded: 2024
+      confederation: FIFA
+      teams: 6
+      level:
+      promotion:
+      relegation:
+  websiteURL: 'https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2024'
+  twitterURL: 'https://twitter.com/FIFAcom'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FIFA_Intercontinental_Cup'

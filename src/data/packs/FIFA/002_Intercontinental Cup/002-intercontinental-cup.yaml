@@ -1,0 +1,26 @@
+- data: logoPack
+  packID: 20241217-101434-388034
+  name: FIFA Intercontinental Cup
+  season: '2024'
+  packSource: fifa-comp-002
+  logoVersion: 2024
+  slug: /pack/2024-FIFA-Intercontinental-Cup
+  items:
+    - id: rfef-club-001
+      version: 2002
+      style: color
+    - id: fmf-club-003
+      version: 2007
+      style: color
+    - id: cbf-club-001
+      version: 1942
+      style: color
+    - id: uae-club-001
+      version: 2014
+      style: color
+    - id: efa-club-001
+      version: 2023
+      style: color
+    - id: nzf-club-001
+      version: 2022
+      style: color
