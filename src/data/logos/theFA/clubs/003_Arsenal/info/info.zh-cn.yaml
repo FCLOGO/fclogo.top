@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-003
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.10833602570187019, 51.55586727173078]
+  timeline: false
+  info:
+    - fullName: 阿森纳足球俱乐部
+      localName: Arsenal Football Club
+      shortName: 阿森纳
+      founded: 1886
+      city: 伦敦
+      ground: 酋长球场
+      league:
+  websiteURL: 'https://www.arsenal.com/'
+  twitterURL: 'https://twitter.com/Arsenal'
+  weiboURL: 'https://e.weibo.com/OfficialArsenal'
+  wikiURL: 'https://en.wikipedia.org/wiki/Arsenal_F.C.'
