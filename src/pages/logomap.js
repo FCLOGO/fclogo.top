@@ -53,9 +53,9 @@ const logomap = ({ data, pageContext }) => {
   const mapRef = useRef()
   // 默认的经度、纬度和缩放级别
   const defaultViewState = {
-    longitude: 120,
-    latitude: 30,
-    zoom: 2.5
+    longitude: 0,
+    latitude: 10,
+    zoom: 2.2
   }
   const [viewState, setViewState] = React.useState(defaultViewState)
 
