@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.9](https://github.com/FCLOGO/fclogo.top/compare/v2.5.8...v2.5.9) (2024-12-18)
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* *优化* 合集徽标显示样式 ([f25508e](https://github.com/FCLOGO/fclogo.top/commit/f25508e2bec78e25421c8a06bdbfabfc2d0a9f28))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* *修正* 位置坐标错误 ([3a11cb1](https://github.com/FCLOGO/fclogo.top/commit/3a11cb1ae0152938f11a81f9295142bc1c746a0f))
+
+
+### ❇️ Chores | 其他更新
+
+* 调整默认地图中心 ([091b511](https://github.com/FCLOGO/fclogo.top/commit/091b511295512f629f503a71d400639df133d8c9))
+* 移除剪切蒙版 ([d2d78c1](https://github.com/FCLOGO/fclogo.top/commit/d2d78c12f18c7c5af017bd228dceaf909832552a))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 阿森纳&利物浦徽标 ([a8ddbf3](https://github.com/FCLOGO/fclogo.top/commit/a8ddbf3926b903bdeffa20e8946967be7f5e8571))
+* *新增* 英超联赛俱乐部徽标 ([3eb4c46](https://github.com/FCLOGO/fclogo.top/commit/3eb4c46ac43a1c70f081eb66476ec5048ad5e422))
+* *新增* FIFA洲际杯 ([47feea4](https://github.com/FCLOGO/fclogo.top/commit/47feea422d0f8707295587dd8f9350fc5d8ff478))
+* *增加* 浦和红钻单色徽标 ([c6ef043](https://github.com/FCLOGO/fclogo.top/commit/c6ef043b95959e179534d32244ad88eebc6f0857))
+
 ### [2.5.8](https://github.com/FCLOGO/fclogo.top/compare/v2.5.7...v2.5.8) (2024-12-16)
 
 
