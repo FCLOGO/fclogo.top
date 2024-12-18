@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-006
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.838904428596941, 50.73492737427462]
+  timeline: false
+  info:
+    - fullName: AFC Bournemouth
+      localName: AFC Bournemouth
+      shortName: Bournemouth
+      founded: 1899
+      city: Bournemouth
+      ground: Dean Court
+      league:
+  websiteURL: 'https://www.afcb.co.uk/'
+  twitterURL: 'https://x.com/afcbournemouth'
+  weiboURL: 'https://weibo.com/afcb'
+  wikiURL: 'https://en.wikipedia.org/wiki/AFC_Bournemouth'

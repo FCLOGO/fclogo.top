@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-005
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.885356934193376, 52.50938498895979]
+  timeline: false
+  info:
+    - fullName: 阿斯顿维拉足球俱乐部
+      localName: Aston Villa Football Club
+      shortName: 阿斯顿维拉
+      founded: 1874
+      city: 伯明翰
+      ground: 维拉公园球场
+      league:
+  websiteURL: 'https://www.avfc.co.uk/'
+  twitterURL: 'https://twitter.com/AVFCOfficial'
+  weiboURL: 'https://weibo.com/u/2959911774'
+  wikiURL: 'https://en.wikipedia.org/wiki/Aston_Villa_F.C.'

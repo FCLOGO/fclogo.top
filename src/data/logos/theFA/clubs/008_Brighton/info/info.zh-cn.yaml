@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-008
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.08476365865228572, 50.86197515029972]
+  timeline: false
+  info:
+    - fullName: 布莱顿和霍夫阿尔比恩足球俱乐部
+      localName: Brighton & Hove Albion Football Club
+      shortName: 布莱顿
+      founded: 1901
+      city: 布莱顿和霍夫
+      ground: 美国运通球场
+      league:
+  websiteURL: 'https://www.brightonandhovealbion.com/pages/en/home'
+  twitterURL: 'https://x.com/OfficialBHAFC'
+  weiboURL: 'https://weibo.com/u/7375046466'
+  wikiURL: 'wikiURL'

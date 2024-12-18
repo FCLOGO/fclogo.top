@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241218-084851-4e4d6b
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Aston Villa']
+  slug: /thefa/club/Aston-Villa-Football-Club-v2024-mono
+  pngPath: 'png/Aston-Villa-Football-Club-v2024-mono.png'
+  svgPath: 'svg/Aston-Villa-Football-Club-v2024-mono.svg'
+  sourceID: thefa-club-005
+  style: mono
+  reference: 'https://www.avfc.co.uk/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241218-084949-7d93c6
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Aston Villa']
+  slug: /thefa/club/Aston-Villa-Football-Club-v2024
+  pngPath: 'png/Aston-Villa-Football-Club-v2024.png'
+  svgPath: 'svg/Aston-Villa-Football-Club-v2024.svg'
+  sourceID: thefa-club-005
+  style: color
+  reference: 'https://www.avfc.co.uk/'
+  ctrbID: ''

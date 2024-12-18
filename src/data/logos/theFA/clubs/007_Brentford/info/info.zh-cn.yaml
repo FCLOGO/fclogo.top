@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-007
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.28842813550692104, 51.49088801784205]
+  timeline: false
+  info:
+    - fullName: 布伦特福德足球俱乐部
+      localName: Brentford Football Club
+      shortName: 布伦特福德
+      founded: 1889
+      city: 伦敦
+      ground: Gtech社区球场
+      league:
+  websiteURL: 'https://www.brentfordfc.com/'
+  twitterURL: 'https://twitter.com/brentfordfc'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Brentford_F.C.'
