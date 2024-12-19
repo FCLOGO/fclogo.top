@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-comp-001
+  type: comp
+  nation: ENG
+  timeline: false
+  info:
+    - fullName: 英格兰足球超级联赛
+      localname: Premier League
+      shortName: 英超联赛
+      founded: 1995
+      confederation: UEFA
+      teams: 20
+      level: 第 1 级
+      promotion:
+      relegation: 英格兰足球冠军联赛
+  websiteURL: 'https://www.premierleague.com/'
+  twitterURL: 'https://twitter.com/premierleague'
+  weiboURL: 'https://weibo.com/u/3690518992'
+  wikiURL: 'https://en.wikipedia.org/wiki/Premier_League'
