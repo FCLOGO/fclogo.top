@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.10](https://github.com/FCLOGO/fclogo.top/compare/v2.5.9...v2.5.10) (2024-12-19)
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* *增加*单色徽标在深色背景显示样式 ([ee0ed00](https://github.com/FCLOGO/fclogo.top/commit/ee0ed009a69d6fde11e74138b8a13f2504c788c2))
+
+
+### ❇️ Chores | 其他更新
+
+* *优化* 下边框加粗 ([e75a9c6](https://github.com/FCLOGO/fclogo.top/commit/e75a9c6e56ea0339cd7c0d15ec7be1797ccccd4b))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* fix bug ([8b13321](https://github.com/FCLOGO/fclogo.top/commit/8b13321eff0c158cf7a1bd794ab6527ddb81134a))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 24-25赛季英超联赛徽标集 ([8b773f3](https://github.com/FCLOGO/fclogo.top/commit/8b773f325f4ca915d28e2f1798b36ee6fb4cfe82))
+* *新增* 英超俱乐部徽标 ([444a7b4](https://github.com/FCLOGO/fclogo.top/commit/444a7b40c2d98f1b4a0bbb147ed9ada2646c5abf))
+* *新增* 英超联赛徽标 ([fe0a7e3](https://github.com/FCLOGO/fclogo.top/commit/fe0a7e3bc033d04931c52f2db212f08895089e25))
+
 ### [2.5.9](https://github.com/FCLOGO/fclogo.top/compare/v2.5.8...v2.5.9) (2024-12-18)
 
 
