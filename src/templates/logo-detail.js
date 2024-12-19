@@ -76,7 +76,7 @@ const LogoDetail = ({ data, pageContext }) => {
                   <div className="w-full h-[80px] my-3xl">
                     <ul className="flex flex-row items-start justify-center">
                       <li
-                        className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 cursor-pointer border-b-2 border-b-green  ${data.logo.isBgDark ? 'bg-dark-gray' : 'bg-gray'}`}
+                        className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 cursor-pointer border-b-4 border-b-green  ${data.logo.isBgDark ? 'bg-dark-gray' : 'bg-gray'}`}
                       >
                         <GatsbyImage
                           image={getImage(data.logo.pngPath)}
@@ -87,7 +87,7 @@ const LogoDetail = ({ data, pageContext }) => {
                       {data.logo.otherStyle.map(item => (
                         <li
                           key={item.id}
-                          className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero  ${item.isBgDark ? 'bg-dark-gray' : 'bg-gray'} hover:border-b-2 hover:border-b-green`}
+                          className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero  ${item.isBgDark ? 'bg-dark-gray' : 'bg-gray'} hover:border-b-4 hover:border-b-green`}
                         >
                           <ModalLink
                             to={item.slug}
