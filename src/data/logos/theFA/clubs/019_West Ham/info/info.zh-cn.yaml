@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-019
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.016465759719873026, 51.53866049863301]
+  timeline: false
+  info:
+    - fullName: 西汉姆联足球俱乐部
+      localName: West Ham United Football Club
+      shortName: 西汉姆联
+      founded: 1895
+      city: 伦敦
+      ground: 伦敦体育场
+      league:
+  websiteURL: 'https://www.whufc.com/'
+  twitterURL: 'https://twitter.com/westham'
+  weiboURL: 'https://weibo.com/u/5866279490'
+  wikiURL: 'https://en.wikipedia.org/wiki/West_Ham_United_F.C.'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-020
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.1315597083165, 52.5901900697632]
+  timeline: false
+  info:
+    - fullName: Wolverhampton Wanderers Football Club
+      localName: Wolverhampton Wanderers Football Club
+      shortName: Wolves
+      founded: 1877
+      city: Wolverhampton
+      ground: Molineux Stadium
+      league:
+  websiteURL: 'https://www.wolves.co.uk/'
+  twitterURL: 'https://www.instagram.com/wolves'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.'

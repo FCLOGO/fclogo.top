@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-101833-a48a4b
+  version: 2001
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FFC']
+  slug: /thefa/club/Fulham-Football-Club-v2001-mono
+  pngPath: 'png/Fulham-Football-Club-v2001-mono.png'
+  svgPath: 'svg/Fulham-Football-Club-v2001-mono.svg'
+  sourceID: thefa-club-011
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-101933-a9c627
+  version: 2001
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FFC']
+  slug: /thefa/club/Fulham-Football-Club-v2001
+  pngPath: 'png/Fulham-Football-Club-v2001.png'
+  svgPath: 'svg/Fulham-Football-Club-v2001.svg'
+  sourceID: thefa-club-011
+  style: color
+  reference: ''
+  ctrbID: ''

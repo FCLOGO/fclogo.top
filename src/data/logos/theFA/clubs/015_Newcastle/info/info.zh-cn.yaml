@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-015
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.6231038317033508, 54.9751154416682]
+  timeline: false
+  info:
+    - fullName: 纽卡斯尔联足球俱乐部
+      localName: Newcastle United Football Club
+      shortName: 纽卡斯尔联
+      founded: 1881
+      city: 纽卡斯尔
+      ground: 圣詹姆斯公园球场
+      league:
+  websiteURL: 'https://www.newcastleunited.com/'
+  twitterURL: 'https://x.com/NUFC'
+  weiboURL: 'https://weibo.com/u/6278550291'
+  wikiURL: 'https://en.wikipedia.org/wiki/Newcastle_United_F.C.'

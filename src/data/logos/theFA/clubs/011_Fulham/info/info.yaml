@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-011
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.22065153088677558, 51.474459624014074]
+  timeline: false
+  info:
+    - fullName: Fulham Football Club
+      localName: Fulham Football Club
+      shortName: Fulham
+      founded: 1879
+      city: London
+      ground: Craven Cottage
+      league:
+  websiteURL: 'https://www.fulhamfc.com/'
+  twitterURL: 'https://twitter.com/FulhamFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Fulham_F.C.'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-113737-1c2a01
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wolves']
+  slug: /thefa/club/Wolverhampton-Wanderers-FC-v2002-mono
+  pngPath: 'png/Wolverhampton-Wanderers-FC-v2002-mono.png'
+  svgPath: 'svg/Wolverhampton-Wanderers-FC-v2002-mono.svg'
+  sourceID: thefa-club-020
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-113822-b543c2
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wolves']
+  slug: /thefa/club/Wolverhampton-Wanderers-FC-v2002
+  pngPath: 'png/Wolverhampton-Wanderers-FC-v2002.png'
+  svgPath: 'svg/Wolverhampton-Wanderers-FC-v2002.svg'
+  sourceID: thefa-club-020
+  style: color
+  reference: ''
+  ctrbID: ''

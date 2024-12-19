@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-013
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.1432780258652246, 52.62065332501487]
+  timeline: false
+  info:
+    - fullName: 莱斯特城足球俱乐部
+      localName: Leicester City Football Club
+      shortName: 莱斯特城
+      founded: 1884
+      city: 莱斯特
+      ground: 皇权球场
+      league:
+  websiteURL: 'https://www.lcfc.com/'
+  twitterURL: 'https://x.com/lcfc'
+  weiboURL: 'https://m.weibo.cn/u/5897929609'
+  wikiURL: 'https://en.wikipedia.org/wiki/Leicester_City_F.C.'

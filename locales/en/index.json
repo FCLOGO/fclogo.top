@@ -189,6 +189,7 @@
   "kits": "KITS",
   "acl": "ACL",
   "minor": "MINOR",
+  "silh": "SILH",
   "type": "Type",
   "all": "All",
   "rowsPerPage": "Rows Per Page",

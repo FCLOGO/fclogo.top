@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-103206-e31cda
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Leicester']
+  slug: /thefa/club/Leicester-City-Football-Club-v2010-mono
+  pngPath: 'png/Leicester-City-Football-Club-v2010-mono.png'
+  svgPath: 'svg/Leicester-City-Football-Club-v2010-mono.svg'
+  sourceID: thefa-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-103317-96bd8b
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Leicester']
+  slug: /thefa/club/Leicester-City-Football-Club-v2010
+  pngPath: 'png/Leicester-City-Football-Club-v2010.png'
+  svgPath: 'svg/Leicester-City-Football-Club-v2010.svg'
+  sourceID: thefa-club-013
+  style: color
+  reference: ''
+  ctrbID: ''

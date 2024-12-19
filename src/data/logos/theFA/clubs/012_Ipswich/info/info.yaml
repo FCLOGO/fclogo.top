@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-012
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [1.1460055979685446, 52.05543797479851]
+  timeline: false
+  info:
+    - fullName: Ipswich Town Football Club
+      localName: Ipswich Town Football Club
+      shortName: Ipswich Town
+      founded: 1878
+      city: Ipswich
+      ground: Portman Road
+      league:
+  websiteURL: 'https://www.itfc.co.uk/'
+  twitterURL: 'https://twitter.com/IpswichTown'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Ipswich_Town_F.C.'

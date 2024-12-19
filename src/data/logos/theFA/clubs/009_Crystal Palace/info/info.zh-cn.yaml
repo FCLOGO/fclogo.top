@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-009
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.08520352481906367, 51.39821566453848]
+  timeline: false
+  info:
+    - fullName: 水晶宫足球俱乐部
+      localName: Crystal Palace Football Club
+      shortName: 水晶宫
+      founded: 1905
+      city: 伦敦
+      ground: 塞尔赫斯特公园球场
+      league:
+  websiteURL: 'https://www.cpfc.co.uk/'
+  twitterURL: 'https://twitter.com/cpfc'
+  weiboURL: 'https://weibo.com/u/5934156023'
+  wikiURL: 'https://en.wikipedia.org/wiki/Crystal_Palace_F.C.'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-020
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.1315597083165, 52.5901900697632]
+  timeline: false
+  info:
+    - fullName: 伍尔弗汉普顿流浪者足球俱乐部
+      localName: Wolverhampton Wanderers Football Club
+      shortName: 狼队
+      founded: 1877
+      city: 伍尔弗汉普顿
+      ground: 莫利纽克斯球场
+      league:
+  websiteURL: 'https://www.wolves.co.uk/'
+  twitterURL: 'https://www.instagram.com/wolves'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.'

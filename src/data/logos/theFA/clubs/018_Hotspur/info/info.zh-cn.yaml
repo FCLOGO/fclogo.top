@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-018
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.06613217478482947, 51.604148075595255]
+  timeline: false
+  info:
+    - fullName: 托特纳姆热刺足球俱乐部
+      localName: Tottenham Hotspur Football Club
+      shortName: 托特纳姆热刺
+      founded: 1882
+      city: 伦敦
+      ground: 托特纳姆热刺球场
+      league:
+  websiteURL: 'https://www.tottenhamhotspur.com/'
+  twitterURL: 'https://twitter.com/SpursOfficial'
+  weiboURL: 'https://weibo.com/u/3065243713'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.'

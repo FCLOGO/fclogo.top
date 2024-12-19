@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-105904-4bcdc4
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Southampton']
+  slug: /thefa/club/Southampton-Football-Club-v1995-mono
+  pngPath: 'png/Southampton-Football-Club-v1995-mono.png'
+  svgPath: 'svg/Southampton-Football-Club-v1995-mono.svg'
+  sourceID: thefa-club-017
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-105936-f36b8d
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Southampton']
+  slug: /thefa/club/Southampton-Football-Club-v1995
+  pngPath: 'png/Southampton-Football-Club-v1995.png'
+  svgPath: 'svg/Southampton-Football-Club-v1995.svg'
+  sourceID: thefa-club-017
+  style: color
+  reference: 'https://assets.ctfassets.net/qtmbc4zcgkle/2tnslh03Y7ZRJz284BzYvi/d7af47810916aacd061b2d2b1f7bc4e3/Grow_Your_Game_-_November_Arrival_Activities.pdf'
+  ctrbID: ''

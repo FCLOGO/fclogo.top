@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-103845-73c643
+  version: 1998
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Man United']
+  slug: /thefa/club/Manchester-United-Football-Club-v1998-mono
+  pngPath: 'png/Manchester-United-Football-Club-v1998-mono.png'
+  svgPath: 'svg/Manchester-United-Football-Club-v1998-mono.svg'
+  sourceID: thefa-club-014
+  style: mono
+  reference: 'https://ir.manutd.com/~/media/Files/M/Manutd-IR/About%20Manchester%20United/manu_presentation.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-103945-64d856
+  version: 1998
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Man United']
+  slug: /thefa/club/Manchester-United-Football-Club-v1998
+  pngPath: 'png/Manchester-United-Football-Club-v1998.png'
+  svgPath: 'svg/Manchester-United-Football-Club-v1998.svg'
+  sourceID: thefa-club-014
+  style: color
+  reference: ''
+  ctrbID: ''

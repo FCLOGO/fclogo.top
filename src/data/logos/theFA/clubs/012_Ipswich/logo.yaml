@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-102537-9a23a2
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ipswich']
+  slug: /thefa/club/Ipswich-Town-Football-Club-v1995-mono
+  pngPath: 'png/Ipswich-Town-Football-Club-v1995-mono.png'
+  svgPath: 'svg/Ipswich-Town-Football-Club-v1995-mono.svg'
+  sourceID: thefa-club-012
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-102616-a5d884
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ipswich']
+  slug: /thefa/club/Ipswich-Town-Football-Club-v1995
+  pngPath: 'png/Ipswich-Town-Football-Club-v1995.png'
+  svgPath: 'svg/Ipswich-Town-Football-Club-v1995.svg'
+  sourceID: thefa-club-012
+  style: color
+  reference: ''
+  ctrbID: ''
