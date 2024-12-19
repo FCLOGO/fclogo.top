@@ -58,6 +58,7 @@ export const query = graphql`
         id
         slug
         style
+        isBgDark
         version
         pngPath {
           childImageSharp {

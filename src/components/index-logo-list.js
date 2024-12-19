@@ -26,7 +26,7 @@ const LogoList = ({ data }) => {
           {data.allLogo.nodes.slice(0, 12).map(node => (
             <article
               key={node.id}
-              className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
+              className={`rounded-lg border border-gray-1 hover:border-gray-2 shadow-card ${node.isBgDark ? 'bg-dark-gray' : 'bg-white'} overflow-hidden`}
             >
               <ModalLink
                 to={node.slug}
@@ -50,7 +50,7 @@ const LogoList = ({ data }) => {
                     />
                   </div>
                 )}
-                <footer className="w-full h-header flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
+                <footer className="bg-white w-full h-header flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
                   <h3 className="font-medium flex-auto whitespace-nowrap overflow-hidden text-ellipsis">
                     {node.detailInfo[0].info[0].shortName}
                   </h3>

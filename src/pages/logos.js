@@ -55,6 +55,7 @@ export const query = graphql`
         slug
         version
         style
+        isBgDark
         pngPath {
           childImageSharp {
             gatsbyImageData(width: 300, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)

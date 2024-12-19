@@ -47,7 +47,9 @@ const LogoDetail = ({ data, pageContext }) => {
         {data.logo ? (
           <div className="content-inner flex flex-col items-start">
             <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap detail-wrapper overflow-hidden">
-              <section className="w-full pt-[152px] flex-grow flex flex-col overflow-hidden relative">
+              <section
+                className={`w-full pt-[152px] flex-grow flex flex-col overflow-hidden relative ${data.logo.isBgDark ? 'bg-dark-gray' : ''}`}
+              >
                 {data.logo.reference && (
                   <div className="logo-reference absolute left-xl top-[180px] group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">
                     <InfoIcon className="w-xl h-xl flex-shrink-0 cursor-pointer" />
@@ -73,7 +75,9 @@ const LogoDetail = ({ data, pageContext }) => {
                 {data.logo.otherStyle.length > 0 ? (
                   <div className="w-full h-[80px] my-3xl">
                     <ul className="flex flex-row items-start justify-center">
-                      <li className="w-[80px] h-[80px] mr-md rounded border border-gray-2 cursor-pointer border-b-2 border-b-green bg-dark-gray bg-opacity-5">
+                      <li
+                        className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 cursor-pointer border-b-2 border-b-green  ${data.logo.isBgDark ? 'bg-dark-gray' : 'bg-gray'}`}
+                      >
                         <GatsbyImage
                           image={getImage(data.logo.pngPath)}
                           alt={data.logo.detailInfo[0].info[0].fullName}
@@ -83,7 +87,7 @@ const LogoDetail = ({ data, pageContext }) => {
                       {data.logo.otherStyle.map(item => (
                         <li
                           key={item.id}
-                          className="w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero hover:bg-dark-gray hover:bg-opacity-5"
+                          className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero  ${item.isBgDark ? 'bg-dark-gray' : 'bg-gray'} hover:border-b-2 hover:border-b-green`}
                         >
                           <ModalLink
                             to={item.slug}
@@ -255,6 +259,7 @@ export const query = graphql`
       svgPath {
         publicURL
       }
+      isBgDark
       reference
       ctrbID
       detailInfo {
@@ -299,6 +304,7 @@ export const query = graphql`
       otherStyle {
         id
         slug
+        isBgDark
         detailInfo {
           info {
             fullName

@@ -74,7 +74,7 @@ const ItemList = ({ allItems }) => {
               {list.map(item => (
                 <article
                   key={item.id}
-                  className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
+                  className={`rounded-lg border border-gray-1 hover:border-gray-2 shadow-card ${item.isBgDark ? 'bg-dark-gray' : 'bg-white'} overflow-hidden`}
                 >
                   {item.internal.type === `logo` && (
                     <ModalLink
@@ -99,7 +99,7 @@ const ItemList = ({ allItems }) => {
                           />
                         </div>
                       )}
-                      <footer className="w-full h-header flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
+                      <footer className="bg-white w-full h-header flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
                         <h3 className="font-medium flex-auto whitespace-nowrap overflow-hidden text-ellipsis">
                           {item.detailInfo[0].info[0].shortName}
                         </h3>
@@ -131,7 +131,7 @@ const ItemList = ({ allItems }) => {
                           />
                         ))}
                       </div>
-                      <footer className="w-full h-[80px] flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
+                      <footer className="bg-white w-full h-[80px] flex flex-row flex-nowrap justify-between items-center content-center px-xl  border-t border-t-gray-1 border-dashed">
                         <span className="font-mono uppercase text-xs p-xs mr-xs leading-3 rounded-[3px] bg-green text-white flex-none">
                           {t(item.season)}
                         </span>
