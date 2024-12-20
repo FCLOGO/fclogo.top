@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-comp-001
+  type: comp
+  nation: DEU
+  timeline: false
+  info:
+    - fullName: Bundesliga
+      localname: Bundesliga
+      shortName: Bundesliga
+      founded: 1963
+      confederation: UEFA
+      teams: 18
+      level: Level 1
+      promotion:
+      relegation: 2. Bundesliga
+  websiteURL: 'https://www.bundesliga.com/en/bundesliga'
+  twitterURL: 'https://x.com/bundesliga_EN'
+  weiboURL: 'https://weibo.com/u/5143716103'
+  wikiURL: 'https://en.wikipedia.org/wiki/Bundesliga'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-comp-002
+  type: comp
+  nation: DEU
+  timeline: false
+  info:
+    - fullName: 德国足球乙级联赛
+      localname: 2. Bundesliga
+      shortName: 德乙联赛
+      founded: 1974
+      confederation: UEFA
+      teams: 18
+      level: 第 2 级
+      promotion: 德甲联赛
+      relegation: 德丙联赛
+  websiteURL: 'https://www.bundesliga.com/en/2bundesliga'
+  twitterURL: 'https://x.com/bundesliga_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/2._Bundesliga'
