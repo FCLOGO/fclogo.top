@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-132458-217a36
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Stuttgart']
+  slug: /dfb/club/VfB-Stuttgart-v2014-mono
+  pngPath: 'png/VfB-Stuttgart-v2014-mono.png'
+  svgPath: 'svg/VfB-Stuttgart-v2014-mono.svg'
+  sourceID: dfb-club-005
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-132535-1cab99
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Stuttgart']
+  slug: /dfb/club/VfB-Stuttgart-v2014
+  pngPath: 'png/VfB-Stuttgart-v2014.png'
+  svgPath: 'svg/VfB-Stuttgart-v2014.svg'
+  sourceID: dfb-club-005
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/vfb-stuttgart'
+  ctrbID: ''

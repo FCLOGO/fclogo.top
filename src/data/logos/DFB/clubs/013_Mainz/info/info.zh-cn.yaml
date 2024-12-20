@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-013
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.224376235582048, 49.98394075066709]
+  timeline: false
+  info:
+    - fullName: 美因茨05第一足球俱乐部
+      localName: 1. FSV Mainz 05 e.V.
+      shortName: 美因茨 05
+      founded: 1905
+      city: 美因茨
+      ground: 欧宝竞技场
+      league:
+  websiteURL: 'https://www.mainz05.de/'
+  twitterURL: 'https://x.com/mainz05en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FSV_Mainz_05'

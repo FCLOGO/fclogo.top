@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-160454-12f301
+  version: 2001
+  isDoubtful: true
+  isOutdated: false
+  verName: ['St. Pauli']
+  slug: /dfb/club/FC-St-Pauli-v2001-mono
+  pngPath: 'png/FC-St-Pauli-v2001-mono.png'
+  svgPath: 'svg/FC-St-Pauli-v2001-mono.svg'
+  sourceID: dfb-club-017
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-160535-5b1c9f
+  version: 2001
+  isDoubtful: true
+  isOutdated: false
+  verName: ['St. Pauli']
+  slug: /dfb/club/FC-St-Pauli-v2001
+  pngPath: 'png/FC-St-Pauli-v2001.png'
+  svgPath: 'svg/FC-St-Pauli-v2001.svg'
+  sourceID: dfb-club-017
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/fc-st-pauli'
+  ctrbID: ''

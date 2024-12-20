@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-006
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [12.348263535582047, 51.34581255643915]
+  timeline: false
+  info:
+    - fullName: 红牛莱比锡足球俱乐部
+      localName: RasenBallsport Leipzig GmbH
+      shortName: RB 莱比锡
+      founded: 2009
+      city: 莱比锡
+      ground: 红牛竞技场
+      league:
+  websiteURL: 'https://www.rbleipzig.com/'
+  twitterURL: 'https://x.com/RBLeipzig_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RB_Leipzig'

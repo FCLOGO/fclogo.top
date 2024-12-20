@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-142058-f1fdfb
+  version: 1981
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Werder Bremen']
+  slug: /dfb/club/SV-Werder-Bremen-v1981-mono
+  pngPath: 'png/SV-Werder-Bremen-v1981-mono.png'
+  svgPath: 'svg/SV-Werder-Bremen-v1981-mono.svg'
+  sourceID: dfb-club-010
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-142135-e2596c
+  version: 1981
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Werder Bremen']
+  slug: /dfb/club/SV-Werder-Bremen-v1981
+  pngPath: 'png/SV-Werder-Bremen-v1981.png'
+  svgPath: 'svg/SV-Werder-Bremen-v1981.svg'
+  sourceID: dfb-club-010
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/sv-werder-bremen'
+  ctrbID: ''

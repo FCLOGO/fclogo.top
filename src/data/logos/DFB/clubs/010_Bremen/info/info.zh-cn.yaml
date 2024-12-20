@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-010
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.837918669344038, 53.066822512431436]
+  timeline: false
+  info:
+    - fullName: 云达不来梅体育俱乐部
+      localName: SV Werder Bremen GmbH & Co. KG aA
+      shortName: 云达不来梅
+      founded: 1899
+      city: 不来梅
+      ground: 威悉球场
+      league:
+  websiteURL: 'https://www.werder.de/'
+  twitterURL: 'https://x.com/werderbremen_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SV_Werder_Bremen'

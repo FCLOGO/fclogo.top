@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-015
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [13.568140764417949, 52.45739133118537]
+  timeline: false
+  info:
+    - fullName: 柏林联合第一足球俱乐部
+      localName: 1. FC Union Berlin e.V.
+      shortName: FC 柏林联合
+      founded: 1966
+      city: 柏林
+      ground: 老林务所畔体育场
+      league:
+  websiteURL: 'https://www.fc-union-berlin.de/'
+  twitterURL: 'https://x.com/fcunion_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_Union_Berlin'

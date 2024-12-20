@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-145022-a95962
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FSV Mainz']
+  slug: /dfb/club/FSV-Mainz-v2018-mono
+  pngPath: 'png/FSV-Mainz-v2018-mono.png'
+  svgPath: 'svg/FSV-Mainz-v2018-mono.svg'
+  sourceID: dfb-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-145057-5487ca
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FSV Mainz']
+  slug: /dfb/club/FSV-Mainz-v2018
+  pngPath: 'png/FSV-Mainz-v2018.png'
+  svgPath: 'svg/FSV-Mainz-v2018.svg'
+  sourceID: dfb-club-013
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/1-fsv-mainz-05'
+  ctrbID: ''

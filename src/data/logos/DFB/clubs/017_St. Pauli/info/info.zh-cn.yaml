@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-017
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [9.967769993253851, 53.55457763969431]
+  timeline: false
+  info:
+    - fullName: 圣保利1910足球俱乐部
+      localName: FC St. Pauli von 1910 e.V.
+      shortName: FC 圣保利
+      founded: 1910
+      city: 汉堡
+      ground: 米勒门球场
+  websiteURL: 'https://www.fcstpauli.com/'
+  twitterURL: 'https://x.com/fcstpauli_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_St._Pauli'

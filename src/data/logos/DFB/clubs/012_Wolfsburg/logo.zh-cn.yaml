@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-143839-396825
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['VfL Wolfsburg']
+  slug: /dfb/club/VfL-Wolfsburg-v2002-mono
+  pngPath: 'png/VfL-Wolfsburg-v2002-mono.png'
+  svgPath: 'svg/VfL-Wolfsburg-v2002-mono.svg'
+  sourceID: dfb-club-012
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-143908-23b7f2
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['VfL Wolfsburg']
+  slug: /dfb/club/VfL-Wolfsburg-v2002
+  pngPath: 'png/VfL-Wolfsburg-v2002.png'
+  svgPath: 'svg/VfL-Wolfsburg-v2002.svg'
+  sourceID: dfb-club-012
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/vfl-wolfsburg'
+  ctrbID: ''

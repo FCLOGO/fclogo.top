@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-007
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.645477364417951, 50.068611689331284]
+  timeline: false
+  info:
+    - fullName: 法兰克福足球俱乐部
+      localName: Eintracht Frankfurt Fußball AG
+      shortName: 法兰克福
+      founded: 1899
+      city: 法兰克福
+      ground: 德意志银行公园
+      league:
+  websiteURL: 'https://www.eintracht.de/'
+  twitterURL: 'https://x.com/eintracht_eng'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Eintracht_Frankfurt'

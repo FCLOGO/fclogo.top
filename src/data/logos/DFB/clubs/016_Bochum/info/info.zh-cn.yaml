@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-016
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.236522648678118, 51.4899339773057]
+  timeline: false
+  info:
+    - fullName: 波鸿1848体育俱乐部
+      localName: VfL Bochum 1848 GmbH & Co. KGaA
+      shortName: 波鸿 1848
+      founded: 1848
+      city: 波鸿
+      ground: 鲁尔球场
+      league:
+  websiteURL: 'https://www.vfl-bochum.de'
+  twitterURL: 'https://x.com/VfLBochum1848EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/VfL_Bochum'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-004
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.002251235582066, 51.03818886105551]
+  timeline: false
+  info:
+    - fullName: 拜耳04勒沃库森足球俱乐部
+      localName: Bayer 04 Leverkusen Fußball GmbH
+      shortName: 拜耳04勒沃库森
+      founded: 1904
+      city: 勒沃库森
+      ground: 拜耳球场
+      league:
+  websiteURL: 'https://www.bayer04.de/'
+  twitterURL: 'https://x.com/bayer04_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Bayer_04_Leverkusen'

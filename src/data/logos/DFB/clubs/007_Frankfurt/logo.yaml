@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-134450-00352c
+  version: 1998
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Frankfurt']
+  slug: /dfb/club/Eintracht-Frankfurt-v1998-mono
+  pngPath: 'png/Eintracht-Frankfurt-v1998-mono.png'
+  svgPath: 'svg/Eintracht-Frankfurt-v1998-mono.svg'
+  sourceID: dfb-club-007
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-134509-bc73ca
+  version: 1998
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Frankfurt']
+  slug: /dfb/club/Eintracht-Frankfurt-v1998
+  pngPath: 'png/Eintracht-Frankfurt-v1998.png'
+  svgPath: 'svg/Eintracht-Frankfurt-v1998.svg'
+  sourceID: dfb-club-007
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/eintracht-frankfurt'
+  ctrbID: ''

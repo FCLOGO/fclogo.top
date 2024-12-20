@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-105826-157de6
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Leverkusen']
+  slug: /dfb/club/Bayer-04-Leverkusen-v2006-mono
+  pngPath: 'png/Bayer-04-Leverkusen-v2006-mono.png'
+  svgPath: 'svg/Bayer-04-Leverkusen-v2006-mono.svg'
+  sourceID: dfb-club-004
+  style: mono
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/bayer-04-leverkusen'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-105915-073eb1
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Leverkusen']
+  slug: /dfb/club/Bayer-04-Leverkusen-v2006
+  pngPath: 'png/Bayer-04-Leverkusen-v2006.png'
+  svgPath: 'svg/Bayer-04-Leverkusen-v2006.svg'
+  sourceID: dfb-club-004
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/bayer-04-leverkusen'
+  ctrbID: ''

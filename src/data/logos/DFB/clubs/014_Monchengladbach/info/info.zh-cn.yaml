@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-014
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [6.385500135582051, 51.17456643677994]
+  timeline: false
+  info:
+    - fullName: 门兴格拉德巴赫普鲁士体育俱乐部
+      localName: Borussia VfL 1900 Mönchengladbach GmbH
+      shortName: 门兴格拉德巴赫
+      founded: 1900
+      city: 门兴格拉德巴赫
+      ground: 普鲁士公园体育场
+      league:
+  websiteURL: 'https://www.borussia.de/'
+  twitterURL: 'https://x.com/borussia_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Borussia_M%C3%B6nchengladbach'

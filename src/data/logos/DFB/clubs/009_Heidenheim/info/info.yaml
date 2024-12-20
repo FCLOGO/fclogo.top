@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-009
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.13927976441795, 48.668466357257856]
+  timeline: false
+  info:
+    - fullName: 1. Fussballclub Heidenheim 1846 e.V.
+      localName: 1. Fussballclub Heidenheim 1846 e.V.
+      shortName: 1. FC Heidenheim 1846
+      founded: 1846
+      city: Heidenheim
+      ground: Voith-Arena
+      league:
+  websiteURL: 'https://www.fc-heidenheim.de/'
+  twitterURL: 'https://x.com/FCH1846'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_Heidenheim'

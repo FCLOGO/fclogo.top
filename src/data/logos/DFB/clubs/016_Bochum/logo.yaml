@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-153926-acf20d
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['VfL Bochum 1848']
+  slug: /dfb/club/VfL-Bochum-v2000-mono
+  pngPath: 'png/VfL-Bochum-v2000-mono.png'
+  svgPath: 'svg/VfL-Bochum-v2000-mono.svg'
+  sourceID: dfb-club-016
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-154010-1076bb
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['VfL Bochum 1848']
+  slug: /dfb/club/VfL-Bochum-v2000
+  pngPath: 'png/VfL-Bochum-v2000.png'
+  svgPath: 'svg/VfL-Bochum-v2000.svg'
+  sourceID: dfb-club-016
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/vfl-bochum-1848'
+  ctrbID: ''

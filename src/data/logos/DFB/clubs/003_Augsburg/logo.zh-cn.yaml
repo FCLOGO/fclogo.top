@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-102653-5a1109
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Augsburg']
+  slug: /dfb/club/FC-Augsburg-v2002-mono
+  pngPath: 'png/FC-Augsburg-v2002-mono.png'
+  svgPath: 'svg/FC-Augsburg-v2002-mono.svg'
+  sourceID: dfb-club-003
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-102722-6fa1d5
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Augsburg']
+  slug: /dfb/club/FC-Augsburg-v2002
+  pngPath: 'png/FC-Augsburg-v2002.png'
+  svgPath: 'svg/FC-Augsburg-v2002.svg'
+  sourceID: dfb-club-003
+  style: color
+  reference: 'https://www.bundesliga.com/de/bundesliga/clubs/fc-augsburg'
+  ctrbID: ''

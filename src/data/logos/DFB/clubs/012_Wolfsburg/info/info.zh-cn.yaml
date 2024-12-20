@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-012
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.803869082871499, 52.432665847356965]
+  timeline: false
+  info:
+    - fullName: 沃尔夫斯堡足球俱乐部
+      localName: VfL Wolfsburg-Fußball GmbH
+      shortName: VfL 沃尔夫斯堡
+      founded: 1945
+      city: 沃尔夫斯堡
+      ground: 大众汽车竞技场
+      league:
+  websiteURL: 'https://www.vfl-wolfsburg.de/'
+  twitterURL: 'https://x.com/VfLWolfsburg_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/VfL_Wolfsburg'

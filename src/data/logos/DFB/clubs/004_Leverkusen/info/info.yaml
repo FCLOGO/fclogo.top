@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-004
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.002251235582066, 51.03818886105551]
+  timeline: false
+  info:
+    - fullName: Bayer 04 Leverkusen Fußball GmbH
+      localName: Bayer 04 Leverkusen Fußball GmbH
+      shortName: Bayer 04 Leverkusen
+      founded: 1904
+      city: Leverkusen
+      ground: BayArena
+      league:
+  websiteURL: 'https://www.bayer04.de/'
+  twitterURL: 'https://x.com/bayer04_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Bayer_04_Leverkusen'
