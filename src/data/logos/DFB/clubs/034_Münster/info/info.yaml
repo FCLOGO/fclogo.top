@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-034
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.624564835582196, 51.92983149216019]
+  timeline: false
+  info:
+    - fullName: Sportclub Prussia Münster 06 GmbH & Co. KGaA
+      localName: Sportclub Preußen Münster 06 GmbH & Co. KGaA
+      shortName: SC Prussia Münster
+      founded: 1906
+      city: Münster
+      ground: Preußenstadion
+  websiteURL: 'https://www.scpreussen-muenster.de/'
+  twitterURL: 'https://x.com/Preussen06'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SC_Preu%C3%9Fen_M%C3%BCnster'

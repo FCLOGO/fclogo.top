@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-036
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.009536935582194, 48.40451198378642]
+  timeline: false
+  info:
+    - fullName: SSV Ulm 1846 Fussball GmbH & Co. KGaA
+      localName: SSV Ulm 1846 Fußball GmbH & Co. KGaA
+      shortName: SSV Ulm 1846 Fussball
+      founded: 1846
+      city: Ulm
+      ground: Donaustadion
+  websiteURL: 'https://www.ssvulm1846-fussball.de/'
+  twitterURL: 'https://x.com/ssvulm1846fb'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SSV_Ulm_1846'

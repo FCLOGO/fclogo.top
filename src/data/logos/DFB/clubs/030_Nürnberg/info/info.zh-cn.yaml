@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-030
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [11.12572379325341, 49.42625608915816]
+  timeline: false
+  info:
+    - fullName: 纽伦堡第一足球俱乐部
+      localName: 1. Fußball-Club Nürnberg e.V.
+      shortName: FC 纽伦堡
+      founded: 1900
+      city: 纽伦堡
+      ground: 马克斯·莫洛克体育场
+  websiteURL: 'https://www.fcn.de/'
+  twitterURL: 'https://x.com/1_fc_nuernberg'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_N%C3%BCrnberg'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241222-214321-93a9e2
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Darmstadt']
+  slug: /dfb/club/SV-Darmstadt-98-v2015-mono
+  pngPath: 'png/SV-Darmstadt-98-v2015-mono.png'
+  svgPath: 'svg/SV-Darmstadt-98-v2015-mono.svg'
+  sourceID: dfb-club-020
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241222-214352-af08e1
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Darmstadt']
+  slug: /dfb/club/SV-Darmstadt-98-v2015
+  pngPath: 'png/SV-Darmstadt-98-v2015.png'
+  svgPath: 'svg/SV-Darmstadt-98-v2015.svg'
+  sourceID: dfb-club-020
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/sv-darmstadt-98'
+  ctrbID: ''

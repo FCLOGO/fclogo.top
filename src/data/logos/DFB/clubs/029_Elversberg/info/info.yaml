@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-029
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.121714228363214, 49.31883714138086]
+  timeline: false
+  info:
+    - fullName: Sportvereinigung 07 Elversberg e.V.
+      localName: Sportvereinigung 07 Elversberg e.V.
+      shortName: SV Elversberg
+      founded: 1907
+      city: St. Ingbert
+      ground: URSAPHARM-Arena
+  websiteURL: 'https://www.sv07elversberg.de/'
+  twitterURL: 'https://x.com/SV07Elversberg'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SV_Elversberg'

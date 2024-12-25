@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241224-153956-3606ce
+  version: 1950
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Hamburger SV']
+  slug: /dfb/club/Hamburger-SV-v1950
+  pngPath: 'png/Hamburger-SV-v1950.png'
+  svgPath: 'svg/Hamburger-SV-v1950.svg'
+  sourceID: dfb-club-022
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-154037-9823e4
+  version: 1978
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hamburger SV']
+  slug: /dfb/club/Hamburger-SV-v1978-mono
+  pngPath: 'png/Hamburger-SV-v1978-mono.png'
+  svgPath: 'svg/Hamburger-SV-v1978-mono.svg'
+  sourceID: dfb-club-022
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-154128-be360e
+  version: 1978
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hamburger']
+  slug: /dfb/club/Hamburger-SV-v1978
+  pngPath: 'png/Hamburger-SV-v1978.png'
+  svgPath: 'svg/Hamburger-SV-v1978.svg'
+  sourceID: dfb-club-022
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/hamburger-sv'
+  ctrbID: ''

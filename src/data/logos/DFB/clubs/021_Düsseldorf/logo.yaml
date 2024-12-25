@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241224-152132-745048
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Dusseldorf']
+  slug: /dfb/club/Fortuna-Dusseldorf-v0000-mono
+  pngPath: 'png/Fortuna-Dusseldorf-v0000-mono.png'
+  svgPath: 'svg/Fortuna-Dusseldorf-v0000-mono.svg'
+  sourceID: dfb-club-021
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-152212-aadfbd
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Dusseldorf']
+  slug: /dfb/club/Fortuna-Dusseldorf-v0000
+  pngPath: 'png/Fortuna-Dusseldorf-v0000.png'
+  svgPath: 'svg/Fortuna-Dusseldorf-v0000.svg'
+  sourceID: dfb-club-021
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/fortuna-duesseldorf'
+  ctrbID: ''

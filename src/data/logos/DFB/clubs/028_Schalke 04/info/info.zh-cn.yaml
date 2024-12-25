@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-028
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.067540293253412, 51.55464767711783]
+  timeline: false
+  info:
+    - fullName: 盖尔森基兴-沙尔克04足球俱乐部
+      localName: Fußballclub Gelsenkirchen-Schalke 04 e.V.
+      shortName: 沙尔克 04
+      founded: 1904
+      city: 盖尔森基兴
+      ground: 费尔廷斯竞技场
+  websiteURL: 'https://www.schalke04.de/'
+  twitterURL: 'https://x.com/s04_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Schalke_04'

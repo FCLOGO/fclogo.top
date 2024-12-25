@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-031
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.77682299325341, 49.434181865784105]
+  timeline: false
+  info:
+    - fullName: 1. FC Kaiserslautern GmbH & Co. KGaA
+      localName: 1. FC Kaiserslautern GmbH & Co. KGaA
+      shortName: 1. FC Kaiserslautern
+      founded: 1900
+      city: Kaiserslautern
+      ground: Fritz-Walter-Stadion
+  websiteURL: 'https://www.fck.de/'
+  twitterURL: 'https://x.com/Rote_Teufel'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_Kaiserslautern'

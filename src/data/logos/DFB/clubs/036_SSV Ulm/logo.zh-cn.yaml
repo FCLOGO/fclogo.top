@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241225-110630-bab649
+  version: 1970
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Ulm 1846']
+  slug: /dfb/club/SSV-Ulm-1846-v1970
+  pngPath: 'png/SSV-Ulm-1846-v1970.png'
+  svgPath: 'svg/SSV-Ulm-1846-v1970.svg'
+  sourceID: dfb-club-036
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241225-110658-73f374
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ulm 1846']
+  slug: /dfb/club/SSV-Ulm-1846-v2012-mono
+  pngPath: 'png/SSV-Ulm-1846-v2012-mono.png'
+  svgPath: 'svg/SSV-Ulm-1846-v2012-mono.svg'
+  sourceID: dfb-club-036
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241225-110729-238cbb
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ulm 1846']
+  slug: /dfb/club/SSV-Ulm-1846-v2012
+  pngPath: 'png/SSV-Ulm-1846-v2012.png'
+  svgPath: 'svg/SSV-Ulm-1846-v2012.svg'
+  sourceID: dfb-club-036
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/ssv-ulm-1846-fussball'
+  ctrbID: ''

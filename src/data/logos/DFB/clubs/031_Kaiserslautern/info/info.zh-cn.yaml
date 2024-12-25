@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-031
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.77682299325341, 49.434181865784105]
+  timeline: false
+  info:
+    - fullName: 凯泽斯劳滕第一足球俱乐部
+      localName: 1. FC Kaiserslautern GmbH & Co. KGaA
+      shortName: 凯泽斯劳滕
+      founded: 1900
+      city: 凯泽斯劳滕
+      ground: 弗里茨-瓦尔特体育场
+  websiteURL: 'https://www.fck.de/'
+  twitterURL: 'https://x.com/Rote_Teufel'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_Kaiserslautern'

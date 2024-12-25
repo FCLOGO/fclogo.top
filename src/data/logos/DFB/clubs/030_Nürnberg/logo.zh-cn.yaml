@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241224-222848-93c062
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nürnberg']
+  slug: /dfb/club/1-FC-Nurnberg-v2011-mono
+  pngPath: 'png/1-FC-Nurnberg-v2011-mono.png'
+  svgPath: 'svg/1-FC-Nurnberg-v2011-mono.svg'
+  sourceID: dfb-club-030
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-222931-3b2fad
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nürnberg']
+  slug: /dfb/club/1-FC-Nurnberg-v2011
+  pngPath: 'png/1-FC-Nurnberg-v2011.png'
+  svgPath: 'svg/1-FC-Nurnberg-v2011.svg'
+  sourceID: dfb-club-030
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/1-fc-nuernberg'
+  ctrbID: ''

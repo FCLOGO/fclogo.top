@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241225-105347-8dd48b
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Prussia Münster']
+  slug: /dfb/club/Prussia-Munster-v2015-mono
+  pngPath: 'png/Prussia-Munster-v2015-mono.png'
+  svgPath: 'svg/Prussia-Munster-v2015-mono.svg'
+  sourceID: dfb-club-034
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241225-105502-b7cc24
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Prussia Münster']
+  slug: /dfb/club/Prussia-Munster-v2015
+  pngPath: 'png/Prussia-Munster-v2015.png'
+  svgPath: 'svg/Prussia-Munster-v2015.svg'
+  sourceID: dfb-club-034
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/sc-preu%C3%9Fen-muenster'
+  ctrbID: ''

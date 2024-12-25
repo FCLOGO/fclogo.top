@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241224-195747-4cd129
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SpVgg Greuther Fürth']
+  slug: /dfb/club/SpVgg-Greuther-Furth-v2017-mono
+  pngPath: 'png/SpVgg-Greuther-Furth-v2017-mono.png'
+  svgPath: 'svg/SpVgg-Greuther-Furth-v2017-mono.svg'
+  sourceID: dfb-club-026
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-195833-55e011
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SpVgg Greuther Fürth']
+  slug: /dfb/club/SpVgg-Greuther-Furth-v2017
+  pngPath: 'png/SpVgg-Greuther-Furth-v2017.png'
+  svgPath: 'svg/SpVgg-Greuther-Furth-v2017.svg'
+  sourceID: dfb-club-026
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/spvgg-greuther-fuerth'
+  ctrbID: ''

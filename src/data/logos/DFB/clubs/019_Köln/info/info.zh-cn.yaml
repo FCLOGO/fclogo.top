@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-019
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [6.87515986441795, 50.933457519223076]
+  timeline: false
+  info:
+    - fullName: 科隆第一足球俱乐部
+      localName: 1. FC Köln GmbH & Co. KGaA
+      shortName: FC 科隆
+      founded: 1948
+      city: 科隆
+      ground: 莱茵能源体育场
+  websiteURL: 'https://www.fc.de/'
+  twitterURL: 'https://x.com/fckoeln_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_K%C3%B6ln'

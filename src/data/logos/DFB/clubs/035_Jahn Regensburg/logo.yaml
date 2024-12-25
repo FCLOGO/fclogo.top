@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241225-105945-d2c476
+  version: 1945
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Jahn Regensburg']
+  slug: /dfb/club/SSV-Jahn-Regensburg-v1945
+  pngPath: 'png/SSV-Jahn-Regensburg-v1945.png'
+  svgPath: 'svg/SSV-Jahn-Regensburg-v1945.svg'
+  sourceID: dfb-club-035
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241225-110016-77a62e
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jahn Regensburg']
+  slug: /dfb/club/SSV-Jahn-Regensburg-v2014-mono
+  pngPath: 'png/SSV-Jahn-Regensburg-v2014-mono.png'
+  svgPath: 'svg/SSV-Jahn-Regensburg-v2014-mono.svg'
+  sourceID: dfb-club-035
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241225-110044-0f1c1a
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jahn Regensburg']
+  slug: /dfb/club/SSV-Jahn-Regensburg-v2014
+  pngPath: 'png/SSV-Jahn-Regensburg-v2014.png'
+  svgPath: 'svg/SSV-Jahn-Regensburg-v2014.svg'
+  sourceID: dfb-club-035
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/ssv-jahn-regensburg'
+  ctrbID: ''

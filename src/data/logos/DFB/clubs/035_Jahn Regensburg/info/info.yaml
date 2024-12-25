@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-035
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [12.10730409325341, 48.990802439927066]
+  timeline: false
+  info:
+    - fullName: SSV Jahn Regensburg GmbH & Co. KGaA
+      localName: SSV Jahn Regensburg GmbH & Co. KGaA
+      shortName: SSV Jahn Regensburg
+      founded: 1907
+      city: Regensburg
+      ground: Jahnstadion Regensburg
+  websiteURL: 'https://www.ssv-jahn.de/'
+  twitterURL: 'https://x.com/SSVJAHN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SSV_Jahn_Regensburg'

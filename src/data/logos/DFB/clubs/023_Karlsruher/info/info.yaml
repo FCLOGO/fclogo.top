@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-023
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.413045364417956, 49.019991974272436]
+  timeline: false
+  info:
+    - fullName: Karlsruher Sport-Club
+      localName: Karlsruher Sport-Club
+      shortName: Karlsruher SC
+      founded: 1894
+      city: Karlsruhe
+      ground: BBBank Wildpark
+  websiteURL: 'https://www.ksc.de/'
+  twitterURL: 'https://x.com/KarlsruherSC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Karlsruher_SC'

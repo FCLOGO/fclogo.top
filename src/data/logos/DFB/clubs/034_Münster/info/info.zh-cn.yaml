@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-034
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.624564835582196, 51.92983149216019]
+  timeline: false
+  info:
+    - fullName: 普鲁士明斯特06体育俱乐部
+      localName: Sportclub Preußen Münster 06 GmbH & Co. KGaA
+      shortName: 普鲁士明斯特
+      founded: 1906
+      city: 明斯特
+      ground: 普鲁士体育场
+  websiteURL: 'https://www.scpreussen-muenster.de/'
+  twitterURL: 'https://x.com/Preussen06'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SC_Preu%C3%9Fen_M%C3%BCnster'

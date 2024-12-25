@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-023
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.413045364417956, 49.019991974272436]
+  timeline: false
+  info:
+    - fullName: 卡尔斯鲁厄体育俱乐部
+      localName: Karlsruher Sport-Club
+      shortName: 卡尔斯鲁厄
+      founded: 1894
+      city: 卡尔斯鲁厄
+      ground: 苑囿体育场
+  websiteURL: 'https://www.ksc.de/'
+  twitterURL: 'https://x.com/KarlsruherSC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Karlsruher_SC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-025
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.711059835582038, 51.730784922491424]
+  timeline: false
+  info:
+    - fullName: SC Paderborn 07 GmbH & Co. KGaA
+      localName: SC Paderborn 07 GmbH & Co. KGaA
+      shortName: SC Paderborn 07
+      founded: 1907
+      city: Paderborn
+      ground: Home Deluxe Arena
+  websiteURL: 'https://www.scp07.de/'
+  twitterURL: 'https://x.com/SCPaderborn07'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SC_Paderborn_07'

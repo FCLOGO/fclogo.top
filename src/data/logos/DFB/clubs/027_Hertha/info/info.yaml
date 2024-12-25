@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-027
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [13.239498368893296, 52.51465579398873]
+  timeline: false
+  info:
+    - fullName: Hertha BSC GmbH & Co. KGaA
+      localName: Hertha BSC GmbH & Co. KGaA
+      shortName: Hertha BSC
+      founded: 1892
+      city: Berlin
+      ground: Olympiastadion
+  websiteURL: 'https://www.herthabsc.com/'
+  twitterURL: 'https://x.com/HerthaBSC_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hertha_BSC'

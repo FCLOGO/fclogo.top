@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-026
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [11.000083867429481, 49.48638610798954]
+  timeline: false
+  info:
+    - fullName: SpVgg Greuther Fürth GmbH & Co. KGaA
+      localName: SpVgg Greuther Fürth GmbH & Co. KGaA
+      shortName: SpVgg Greuther Fürth
+      founded: 1903
+      city: Fürth
+      ground: Sportpark Ronhof
+  websiteURL: 'https://www.sgf1903.de/'
+  twitterURL: 'https://x.com/kleeblattfuerth'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SpVgg_Greuther_F%C3%BCrth'
