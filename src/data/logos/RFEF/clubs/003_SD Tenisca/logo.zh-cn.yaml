@@ -1,0 +1,83 @@
+- data: logo
+  logoID: 20241226-111456-c4b3b8
+  version: 1922
+  isDoubtful: true
+  isOutdated: true
+  verName: ['SD Tenisca']
+  slug: /rfef/club/SD-Tenisca-v1922
+  pngPath: 'png/SD-Tenisca-v1922.png'
+  svgPath: 'svg/SD-Tenisca-v1922.svg'
+  sourceID: rfef-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20241226-111733-6042cf
+  version: 1930
+  isDoubtful: true
+  isOutdated: true
+  verName: ['SD Tenisca']
+  slug: /rfef/club/SD-Tenisca-v1930
+  pngPath: 'png/SD-Tenisca-v1930.png'
+  svgPath: 'svg/SD-Tenisca-v1930.svg'
+  sourceID: rfef-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20241226-111813-fe0966
+  version: 1940
+  isDoubtful: true
+  isOutdated: true
+  verName: ['SD Tenisca']
+  slug: /rfef/club/SD-Tenisca-v1940
+  pngPath: 'png/SD-Tenisca-v1940.png'
+  svgPath: 'svg/SD-Tenisca-v1940.svg'
+  sourceID: rfef-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20241226-111843-00ab32
+  version: 1970
+  isDoubtful: true
+  isOutdated: true
+  verName: ['SD Tenisca']
+  slug: /rfef/club/SD-Tenisca-v1970
+  pngPath: 'png/SD-Tenisca-v1970.png'
+  svgPath: 'svg/SD-Tenisca-v1970.svg'
+  sourceID: rfef-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20241226-111931-4a953c
+  version: 1979
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SD Tenisca']
+  slug: /rfef/club/SD-Tenisca-v1979-mono
+  pngPath: 'png/SD-Tenisca-v1979-mono.png'
+  svgPath: 'svg/SD-Tenisca-v1979-mono.svg'
+  sourceID: rfef-club-003
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20241226-112001-4ce87f
+  version: 1979
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SD Tenisca']
+  slug: /rfef/club/SD-Tenisca-v1979
+  pngPath: 'png/SD-Tenisca-v1979.png'
+  svgPath: 'svg/SD-Tenisca-v1979.svg'
+  sourceID: rfef-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
