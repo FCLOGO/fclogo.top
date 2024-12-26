@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.13](https://github.com/FCLOGO/fclogo.top/compare/v2.5.12...v2.5.13) (2024-12-26)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* *修正* 错误 ([5fe9b33](https://github.com/FCLOGO/fclogo.top/commit/5fe9b339a48ba5a725a5b65a07ef880748034c3a))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 西班牙联赛徽标 ([11fe3b3](https://github.com/FCLOGO/fclogo.top/commit/11fe3b3bbeaa29e939265da1560286c1d24fa3f1))
+* *新增* SD Tenisca 徽标 ([c8bd3b3](https://github.com/FCLOGO/fclogo.top/commit/c8bd3b311ab774268f4e5b0680ff1cd13db801dd))
+
 ### [2.5.12](https://github.com/FCLOGO/fclogo.top/compare/v2.5.11...v2.5.12) (2024-12-25)
 
 
