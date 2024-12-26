@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: rfef-comp-001
+  type: comp
+  nation: ESP
+  timeline: false
+  info:
+    - fullName: Campeonato Nacional de Liga de Primera División
+      localname: Campeonato Nacional de Liga de Primera División
+      shortName: LALIGA Primera División
+      founded: 1929
+      confederation: UEFA
+      teams: 20
+      level: Level 1
+      promotion:
+      relegation: Segunda División
+  websiteURL: 'https://www.laliga.com/en-GB'
+  twitterURL: 'https://x.com/LaLiga'
+  weiboURL: 'https://weibo.com/u/2481951041'
+  wikiURL: 'https://en.wikipedia.org/wiki/La_Liga'

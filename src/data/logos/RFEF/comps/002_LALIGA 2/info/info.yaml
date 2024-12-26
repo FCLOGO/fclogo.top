@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: rfef-comp-002
+  type: comp
+  nation: ESP
+  timeline: false
+  info:
+    - fullName: Campeonato Nacional de Liga de Segunda División
+      localname: Campeonato Nacional de Liga de Segunda División
+      shortName: LALIGA Segunda División
+      founded: 1929
+      confederation: UEFA
+      teams: 22
+      level: Level 2
+      promotion: LILIGA Primera División
+      relegation: Primera Federación
+  websiteURL: 'https://www.laliga.com/en-GB/'
+  twitterURL: 'https://x.com/LaLiga'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Segunda_Divisi%C3%B3n'

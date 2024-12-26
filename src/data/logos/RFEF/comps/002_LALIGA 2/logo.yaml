@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241226-193202-3f5a4b
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Segunda División']
+  slug: /rfef/comp/LALIGA-Segunda-Division-v2023
+  pngPath: 'png/LALIGA-Segunda-Division-v2023.png'
+  svgPath: 'svg/LALIGA-Segunda-Division-v2023.svg'
+  sourceID: rfef-comp-002
+  style: color
+  reference: 'https://www.laliga.com/en-ES/pressroom/logos-and-corporate-dossier/logos'
+  ctrbID: ''
