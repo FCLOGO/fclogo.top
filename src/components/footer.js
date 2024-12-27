@@ -32,7 +32,7 @@ const SocialMedia = [
   },
   {
     title: 'Facebook',
-    link: 'https://www.facebook.com/profile.php?id=61569819506882',
+    link: 'https://www.facebook.com/fclogo.top/',
     icon: <FacebookIcon className="h-2xl w-2xl" />
   },
   {
@@ -81,7 +81,7 @@ const Footer = () => {
             <ListLink to="/about">{t('menu.about')}</ListLink>
             <ListLink to="/sources">{t('menu.sources')}</ListLink>
             <ListLink to="/support/terms-of-use">{t('menu.terms')}</ListLink>
-            <ListLink to="/support/what-is-new">{t('menu.whatsnew')}</ListLink>
+            <ListLink to="/support/how-to-contribute-a-logo">{t('menu.contribute')}</ListLink>
             <ListLink to="/links">{t('menu.links')}</ListLink>
           </ul>
         </div>

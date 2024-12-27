@@ -9427,6 +9427,7 @@ __metadata:
     gatsby-plugin-sharp: "npm:^5.14.0"
     gatsby-plugin-sitemap: "npm:^6.14.0"
     gatsby-remark-autolink-headers: "npm:^6.14.0"
+    gatsby-remark-prismjs: "npm:^7.14.0"
     gatsby-source-filesystem: "npm:^5.14.0"
     gatsby-transformer-remark: "npm:^6.14.0"
     gatsby-transformer-sharp: "npm:^5.14.0"
@@ -9437,6 +9438,7 @@ __metadata:
     mapbox-gl: "npm:^3.8.0"
     postcss: "npm:^8.4.49"
     prettier: "npm:^3.4.1"
+    prismjs: "npm:^1.29.0"
     react: "npm:^18.3.1"
     react-adsense: "npm:^0.1.0"
     react-data-table-component: "npm:^7.6.2"
@@ -10411,6 +10413,20 @@ __metadata:
     react: ^18.0.0 || ^0.0.0
     react-dom: ^18.0.0 || ^0.0.0
   checksum: 10c0/c48b78eb2445b74616ecc7bb79acf3a804e5dc585a3fcc5cd009652510189a10c4cc693eb846a693e4c6de8d9dfcd0eeb32f5af462141dce0a078b18fb149234
+  languageName: node
+  linkType: hard
+
+"gatsby-remark-prismjs@npm:^7.14.0":
+  version: 7.14.0
+  resolution: "gatsby-remark-prismjs@npm:7.14.0"
+  dependencies:
+    "@babel/runtime": "npm:^7.20.13"
+    parse-numeric-range: "npm:^1.3.0"
+    unist-util-visit: "npm:^2.0.3"
+  peerDependencies:
+    gatsby: ^5.0.0-next
+    prismjs: ^1.15.0
+  checksum: 10c0/998335ac80c9813c97ff6ad25dc5b381d686458badaa9ac950ba0683cd7e0e207807183ee1df4caa6c9f09e8f881bef33cb8cee59fdf18fc13c2ce3b37bc2ee0
   languageName: node
   linkType: hard
 
@@ -15222,6 +15238,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"parse-numeric-range@npm:^1.3.0":
+  version: 1.3.0
+  resolution: "parse-numeric-range@npm:1.3.0"
+  checksum: 10c0/53465afaa92111e86697281b684aa4574427360889cc23a1c215488c06b72441febdbf09f47ab0bef9a0c701e059629f3eebd2fe6fb241a254ad7a7a642aebe8
+  languageName: node
+  linkType: hard
+
 "parse-passwd@npm:^1.0.0":
   version: 1.0.0
   resolution: "parse-passwd@npm:1.0.0"
@@ -16108,6 +16131,13 @@ __metadata:
     lodash: "npm:^4.17.20"
     renderkid: "npm:^2.0.4"
   checksum: 10c0/779743faf707308e5d07c53c3ec94596c0cb631c92104a2721dd5d021ade39505a9151c5a5f838dfd26b02a06752c410eb6de1769c4fe327c90bd083f61a1fa1
+  languageName: node
+  linkType: hard
+
+"prismjs@npm:^1.29.0":
+  version: 1.29.0
+  resolution: "prismjs@npm:1.29.0"
+  checksum: 10c0/d906c4c4d01b446db549b4f57f72d5d7e6ccaca04ecc670fb85cea4d4b1acc1283e945a9cbc3d81819084a699b382f970e02f9d1378e14af9808d366d9ed7ec6
   languageName: node
   linkType: hard
 

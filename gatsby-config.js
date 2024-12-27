@@ -136,7 +136,19 @@ module.exports = {
       options: {
         footnotes: true,
         gfm: true,
-        plugins: [`gatsby-remark-autolink-headers`]
+        plugins: [
+          `gatsby-remark-autolink-headers`,
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: 'language-',
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: false
+            }
+          }
+        ]
       }
     },
     {
