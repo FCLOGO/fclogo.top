@@ -190,6 +190,7 @@
   "acl": "ACL",
   "minor": "MINOR",
   "silh": "SILH",
+  "digi": "DIGI",
   "type": "Type",
   "all": "All",
   "rowsPerPage": "Rows Per Page",
