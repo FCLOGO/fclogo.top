@@ -84,7 +84,7 @@ const SupportTemplate = ({ data, pageContext }) => {
                   </ul>
                 </nav>
               </aside>
-              <div className="flex-grow max-w-[960px] m-[0_auto]">
+              <div className="flex-grow max-w-[1080px] m-[0_auto]">
                 <article className="mb-[120px]">
                   <h1 className="text-3xl mb-xl font-bold">
                     {data.markdownRemark.frontmatter.title}

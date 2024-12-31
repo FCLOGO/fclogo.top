@@ -1,7 +1,7 @@
 ---
 title: 如何编辑矢量文件
 slug: how-to-edit-vector-file
-mdxID: support-01
+mdxID: support-02
 type: 帮助
 ---
 

@@ -147,6 +147,18 @@ module.exports = {
               showLineNumbers: false,
               noInlineHighlight: false
             }
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+              linkImagesToOriginal: false,
+              quality: 100,
+              showCaptions: true,
+              withWebp: true,
+              loading: 'lazy',
+              backgroundColor: 'transparent'
+            }
           }
         ]
       }

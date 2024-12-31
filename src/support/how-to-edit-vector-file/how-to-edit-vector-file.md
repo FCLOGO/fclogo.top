@@ -1,7 +1,7 @@
 ---
 title: How to Edit Vector File
 slug: how-to-edit-vector-file
-mdxID: support-01
+mdxID: support-02
 type: support
 ---
 

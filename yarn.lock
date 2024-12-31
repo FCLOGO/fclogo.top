@@ -9427,6 +9427,7 @@ __metadata:
     gatsby-plugin-sharp: "npm:^5.14.0"
     gatsby-plugin-sitemap: "npm:^6.14.0"
     gatsby-remark-autolink-headers: "npm:^6.14.0"
+    gatsby-remark-images: "npm:^7.14.0"
     gatsby-remark-prismjs: "npm:^7.14.0"
     gatsby-source-filesystem: "npm:^5.14.0"
     gatsby-transformer-remark: "npm:^6.14.0"
@@ -10413,6 +10414,27 @@ __metadata:
     react: ^18.0.0 || ^0.0.0
     react-dom: ^18.0.0 || ^0.0.0
   checksum: 10c0/c48b78eb2445b74616ecc7bb79acf3a804e5dc585a3fcc5cd009652510189a10c4cc693eb846a693e4c6de8d9dfcd0eeb32f5af462141dce0a078b18fb149234
+  languageName: node
+  linkType: hard
+
+"gatsby-remark-images@npm:^7.14.0":
+  version: 7.14.0
+  resolution: "gatsby-remark-images@npm:7.14.0"
+  dependencies:
+    "@babel/runtime": "npm:^7.20.13"
+    chalk: "npm:^4.1.2"
+    cheerio: "npm:1.0.0-rc.12"
+    gatsby-core-utils: "npm:^4.14.0"
+    is-relative-url: "npm:^3.0.0"
+    lodash: "npm:^4.17.21"
+    mdast-util-definitions: "npm:^4.0.0"
+    query-string: "npm:^6.14.1"
+    unist-util-select: "npm:^3.0.4"
+    unist-util-visit-parents: "npm:^3.1.1"
+  peerDependencies:
+    gatsby: ^5.0.0-next
+    gatsby-plugin-sharp: ^5.0.0-next
+  checksum: 10c0/6a98a28543fe1139fafdeb79215d689d272a96d2090b008880b5e49ffadf842df0a54dcbe24e87eb44a3bfc4ffc8ba095683d6889c757c9ef7ccea29c53687dd
   languageName: node
   linkType: hard
 
@@ -19730,7 +19752,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unist-util-visit-parents@npm:^3.0.0":
+"unist-util-visit-parents@npm:^3.0.0, unist-util-visit-parents@npm:^3.1.1":
   version: 3.1.1
   resolution: "unist-util-visit-parents@npm:3.1.1"
   dependencies:
