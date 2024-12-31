@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-004
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.949361, 43.264167]
+  timeline: false
+  info:
+    - fullName: Athletic Club Bilbao
+      localName: Athletic Club de Bilbao
+      shortName: Athletic Bilbao
+      founded: 1898
+      city: Bilbao
+      ground: Estadio San Mamés
+  websiteURL: 'https://www.athletic-club.eus/en/'
+  twitterURL: 'https://twitter.com/AthleticClub'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Athletic_Bilbao'
