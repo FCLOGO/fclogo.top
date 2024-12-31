@@ -390,7 +390,7 @@ Illustrator 画布尺寸参考下图：
   wikiURL: 'https://en.wikipedia.org/wiki/Athletic_Bilbao'
 ```
 
-其他主体信息的创建与俱乐部主体信息的创建类似。协会/联盟主体信息快捷输入代码为 `asinfo`，赛事主体的快捷输入代码为：`cpinfo`。
+其他主体信息的创建与俱乐部主体信息的创建类似。协会/联盟主体信息快捷输入代码为 `asinfo`，赛事主体的快捷输入代码为：`cpinfo`，国家队主体快捷输入代码为：`ntinfo`。
 
 ### 创建徽标信息
 
