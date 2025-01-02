@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.14](https://github.com/FCLOGO/fclogo.top/compare/v2.5.13...v2.5.14) (2025-01-02)
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* *增加* 代码高亮 ([6be652c](https://github.com/FCLOGO/fclogo.top/commit/6be652c5a2fe45e9a3ca23ee1bd93a3b2d0a6852))
+
+
+### 📝 Documentation | 文档
+
+* *新增* 贡献者 ([8b5444c](https://github.com/FCLOGO/fclogo.top/commit/8b5444c02ee540009c0ce98ba456c87c02e3d6b9))
+* *新增*贡献徽标文档 ([a6a0226](https://github.com/FCLOGO/fclogo.top/commit/a6a0226773d558e05118a0d3a09010a442bc4394))
+* *新增*国家队主体信息快捷输入代码说明 ([6eee1ab](https://github.com/FCLOGO/fclogo.top/commit/6eee1ab4d4a794836cb58b70b74548f5f6b73c44))
+* *增加* 数字媒体样式 ([8572ede](https://github.com/FCLOGO/fclogo.top/commit/8572ede7c42bdf1b6de7d964f7146cb65adf69dc))
+* *add* English Version ([b731863](https://github.com/FCLOGO/fclogo.top/commit/b7318638d314493bc3afbc65d645813c6707bd1b))
+
+
+### ❇️ Chores | 其他更新
+
+* 更新AFC徽标信息，添加2025年新徽标 ([c2c6336](https://github.com/FCLOGO/fclogo.top/commit/c2c6336343edf270000b1a88ce672d2907334ef9))
+* 删除.gitkeep文件 ([95b1fb7](https://github.com/FCLOGO/fclogo.top/commit/95b1fb7eb39398210520764153e84f61e58cc7d4))
+* 添加多个俱乐部的徽标和信息 ([5dcf542](https://github.com/FCLOGO/fclogo.top/commit/5dcf5423eea63130800ac67730d943ec43cdec99))
+* 修改文件夹模板 ([2660484](https://github.com/FCLOGO/fclogo.top/commit/26604841431ce217367f28894b4d726a3c2610c2))
+* Add .gitkeep ([0097459](https://github.com/FCLOGO/fclogo.top/commit/00974594a852c98abc9963ea629f96c149cc4fb3))
+* remove unnecessary .gitkeep files from logo folder templates ([29b1584](https://github.com/FCLOGO/fclogo.top/commit/29b1584446cc3e2a7cefe2fbd47b312f1b4e6e8f))
+
 ### [2.5.13](https://github.com/FCLOGO/fclogo.top/compare/v2.5.12...v2.5.13) (2024-12-26)
 
 
