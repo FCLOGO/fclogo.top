@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-007
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-8.739694, 42.211833]
+  timeline: false
+  info:
+    - fullName: Real Club Celta de Vigo
+      localName: Real Club Celta de Vigo
+      shortName: RC Celta Vigo
+      founded: 1923
+      city: Vigo
+      ground: Balaídos
+  websiteURL: 'https://rccelta.es/'
+  twitterURL: 'https://twitter.com/rccelta'
+  weiboURL: 'https://weibo.com/u/6931899493'
+  wikiURL: 'https://en.wikipedia.org/wiki/RC_Celta_de_Vigo'

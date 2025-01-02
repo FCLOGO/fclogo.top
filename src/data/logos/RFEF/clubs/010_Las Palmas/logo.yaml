@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250102-191145-34c79d
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['UD Las Palmas']
+  slug: /rfef/club/UD-Las-Palmas-v2011-mono
+  pngPath: 'png/UD-Las-Palmas-v2011-mono.png'
+  svgPath: 'svg/UD-Las-Palmas-v2011-mono.svg'
+  sourceID: rfef-club-010
+  style: mono
+  reference: 'https://logo.udlaspalmas.es/2023/MANUAL%20DE%20MARCA.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250102-191229-60a8dc
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['UD Las Palmas']
+  slug: /rfef/club/UD-Las-Palmas-v2011-mono-2
+  pngPath: 'png/UD-Las-Palmas-v2011-mono-2.png'
+  svgPath: 'svg/UD-Las-Palmas-v2011-mono-2.svg'
+  sourceID: rfef-club-010
+  style: mono
+  reference: 'https://logo.udlaspalmas.es/2023/MANUAL%20DE%20MARCA.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250102-191306-181647
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['UD Las Palmas']
+  slug: /rfef/club/UD-Las-Palmas-v2011
+  pngPath: 'png/UD-Las-Palmas-v2011.png'
+  svgPath: 'svg/UD-Las-Palmas-v2011.svg'
+  sourceID: rfef-club-010
+  style: color
+  reference: 'https://logo.udlaspalmas.es/2023/MANUAL%20DE%20MARCA.pdf'
+  ctrbID: ''

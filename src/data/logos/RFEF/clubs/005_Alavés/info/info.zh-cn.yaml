@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-005
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.688000, 42.837111]
+  timeline: false
+  info:
+    - fullName: 阿拉维斯体育俱乐部
+      localName: Deportivo Alavés, S.A.D.
+      shortName: 阿拉维斯
+      founded: 1920
+      city: 维多利亚
+      ground: 门迪索罗萨球场
+  websiteURL: 'https://www.deportivoalaves.com/'
+  twitterURL: 'https://twitter.com/alaves'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Deportivo_Alav%C3%A9s'

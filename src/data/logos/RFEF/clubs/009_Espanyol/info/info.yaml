@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-009
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [2.074566718227276, 41.348140569180785]
+  timeline: false
+  info:
+    - fullName: Reial Club Deportiu Espanyol de Barcelona
+      localName: Reial Club Deportiu Espanyol de Barcelona
+      shortName: RCD Espanyol
+      founded: 1900
+      city: Barcelona
+      ground: RCDE Stadium
+  websiteURL: 'https://www.rcdespanyol.com/'
+  twitterURL: 'https://twitter.com/rcdespanyol'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RCD_Espanyol'

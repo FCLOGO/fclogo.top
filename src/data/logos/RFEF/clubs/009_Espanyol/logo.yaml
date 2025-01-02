@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250102-190306-9b8eac
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RCD Espanyol']
+  slug: /rfef/club/RCD-Espanyol-v2005-mono
+  pngPath: 'png/RCD-Espanyol-v2005-mono.png'
+  svgPath: 'svg/RCD-Espanyol-v2005-mono.svg'
+  sourceID: rfef-club-009
+  style: mono
+  reference: 'https://assets.laliga.com/assets/2023/09/26/originals/fd6e386d13983299adbcdce37c667cdf.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250102-190336-c4d97a
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RCD Espanyol']
+  slug: /rfef/club/RCD-Espanyol-v2005
+  pngPath: 'png/RCD-Espanyol-v2005.png'
+  svgPath: 'svg/RCD-Espanyol-v2005.svg'
+  sourceID: rfef-club-009
+  style: color
+  reference: 'https://www.rcdespanyol.com/'
+  ctrbID: ''
