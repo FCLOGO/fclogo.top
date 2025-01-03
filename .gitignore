@@ -74,6 +74,6 @@ yarn-error.log
 !.yarn/sdks
 !.yarn/versions
 
-// Favorites
+# Favorites
 .favorites.json
 *Thumbs.db
