@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-019
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.35974798322442625, 39.47479305945519]
+  timeline: false
+  info:
+    - fullName: 巴伦西亚足球俱乐部
+      localName: Valencia Club de Fútbol
+      shortName: 巴伦西亚
+      founded: 1919
+      city: 巴伦西亚
+      ground: 梅斯塔利亚球场
+  websiteURL: 'https://www.valenciacf.com/'
+  twitterURL: 'https://twitter.com/valenciacf'
+  weiboURL: 'https://www.weibo.com/u/2695119292'
+  wikiURL: 'https://en.wikipedia.org/wiki/Valencia_CF'

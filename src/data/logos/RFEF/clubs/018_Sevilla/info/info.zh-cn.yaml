@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-018
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.971517718912141, 37.38376204785003]
+  timeline: false
+  info:
+    - fullName: 塞维利亚足球俱乐部
+      localName: Sevilla Fútbol Club
+      shortName: 塞维利亚
+      founded: 1905
+      city: 塞维利亚
+      ground: 拉蒙·桑切斯·皮斯胡安球场
+  websiteURL: 'https://sevillafc.es/'
+  twitterURL: 'https://x.com/SevillaFC'
+  weiboURL: 'https://weibo.com/sevillafc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sevilla_FC'

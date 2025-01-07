@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-016
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.982912285985153, 37.3566536562503]
+  timeline: false
+  info:
+    - fullName: 皇家贝蒂斯足球俱乐部
+      localName: Real Betis Balompié
+      shortName: 皇家贝蒂斯
+      founded: 1907
+      city: 塞维利亚
+      ground: 贝尼托·比拉马林球场
+  websiteURL: 'https://www.realbetisbalompie.es/'
+  twitterURL: 'https://www.twitter.com/RealBetis'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Betis'

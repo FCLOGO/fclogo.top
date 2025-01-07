@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-015
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.658583, 40.391833]
+  timeline: false
+  info:
+    - fullName: 马德里巴列卡诺闪电
+      localName: Rayo Vallecano de Madrid
+      shortName: 巴列卡诺闪电
+      founded: 1924
+      city: 马德里
+      ground: 瓦莱卡斯球场
+  websiteURL: 'https://www.rayovallecano.es/'
+  twitterURL: 'https://twitter.com/RayoVallecano'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Rayo_Vallecano'

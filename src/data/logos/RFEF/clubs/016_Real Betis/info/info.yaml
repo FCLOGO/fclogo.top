@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-016
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.982912285985153, 37.3566536562503]
+  timeline: false
+  info:
+    - fullName: Real Betis Balompié
+      localName: Real Betis Balompié
+      shortName: Real Betis
+      founded: 1907
+      city: Seville
+      ground: Estadio Benito Villamarín
+  websiteURL: 'https://www.realbetisbalompie.es/'
+  twitterURL: 'https://www.twitter.com/RealBetis'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Betis'

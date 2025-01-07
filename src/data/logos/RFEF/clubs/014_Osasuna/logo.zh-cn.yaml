@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-153943-683381
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Osasuna']
+  slug: /rfef/club/Club-Atletico-Osasuna-v2004-mono
+  pngPath: 'png/Club-Atletico-Osasuna-v2004-mono.png'
+  svgPath: 'svg/Club-Atletico-Osasuna-v2004-mono.svg'
+  sourceID: rfef-club-014
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-154020-9f4ab3
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Osasuna']
+  slug: /rfef/club/Club-Atletico-Osasuna-v2004
+  pngPath: 'png/Club-Atletico-Osasuna-v2004.png'
+  svgPath: 'svg/Club-Atletico-Osasuna-v2004.svg'
+  sourceID: rfef-club-014
+  style: color
+  reference: ''
+  ctrbID: ''

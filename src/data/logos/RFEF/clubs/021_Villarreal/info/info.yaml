@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-021
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.10374977740774323, 39.943836438490614]
+  timeline: false
+  info:
+    - fullName: Villarreal Club de Fútbol
+      localName: Villarreal Club de Fútbol
+      shortName: Villarreal CF
+      founded: 1947
+      city: Villarreal
+      ground: Estadio de la Cerámica
+  websiteURL: 'https://villarrealcf.es/'
+  twitterURL: 'https://x.com/VillarrealCF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Villarreal_CF'

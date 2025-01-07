@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-015
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.658583, 40.391833]
+  timeline: false
+  info:
+    - fullName: Rayo Vallecano de Madrid
+      localName: Rayo Vallecano de Madrid
+      shortName: Rayo Vallecano
+      founded: 1924
+      city: Madrid
+      ground: El Campo de Fútbol de Vallecas
+  websiteURL: 'https://www.rayovallecano.es/'
+  twitterURL: 'https://twitter.com/RayoVallecano'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Rayo_Vallecano'

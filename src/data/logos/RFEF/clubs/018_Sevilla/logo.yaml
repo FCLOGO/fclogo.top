@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-162634-5d7064
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sevilla']
+  slug: /rfef/club/Sevilla-Futbol-Club-v1995-mono
+  pngPath: 'png/Sevilla-Futbol-Club-v1995-mono.png'
+  svgPath: 'svg/Sevilla-Futbol-Club-v1995-mono.svg'
+  sourceID: rfef-club-018
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-162709-a284e1
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sevilla']
+  slug: /rfef/club/Sevilla-Futbol-Club-v1995
+  pngPath: 'png/Sevilla-Futbol-Club-v1995.png'
+  svgPath: 'svg/Sevilla-Futbol-Club-v1995.svg'
+  sourceID: rfef-club-018
+  style: color
+  reference: ''
+  ctrbID: ''

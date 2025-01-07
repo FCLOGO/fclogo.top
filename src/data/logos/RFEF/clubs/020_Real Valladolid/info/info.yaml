@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-020
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-4.762051768628582, 41.644603819973725]
+  timeline: false
+  info:
+    - fullName: Real Valladolid Club de Fútbol
+      localName: Real Valladolid Club de Fútbol
+      shortName: Real Valladolid
+      founded: 1928
+      city: Valladolid
+      ground: Estadio José Zorrilla
+  websiteURL: 'https://www.realvalladolid.es/'
+  twitterURL: 'https://twitter.com/realvalladolid'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Valladolid'

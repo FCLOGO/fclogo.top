@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-160426-edef92
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ryao Vallecano']
+  slug: /rfef/club/Rayo-Vallecano-de-Madrid-v2012-mono
+  pngPath: 'png/Rayo-Vallecano-de-Madrid-v2012-mono.png'
+  svgPath: 'svg/Rayo-Vallecano-de-Madrid-v2012-mono.svg'
+  sourceID: rfef-club-015
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-160451-56a4f5
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Rayo Vallecano']
+  slug: /rfef/club/Rayo-Vallecano-de-Madrid-v2012
+  pngPath: 'png/Rayo-Vallecano-de-Madrid-v2012.png'
+  svgPath: 'svg/Rayo-Vallecano-de-Madrid-v2012.svg'
+  sourceID: rfef-club-015
+  style: color
+  reference: ''
+  ctrbID: ''

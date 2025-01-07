@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-013
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [2.630161291343837, 39.58976092730112]
+  timeline: false
+  info:
+    - fullName: 皇家马略卡体育俱乐部
+      localName: Real Club Deportivo Mallorca
+      shortName: 皇家马略卡
+      founded: 1916
+      city: 马略卡帕尔马
+      ground: 马略卡松莫什体育场
+  websiteURL: 'https://www.rcdmallorca.es/'
+  twitterURL: 'https://twitter.com/rcd_mallorca'
+  weiboURL: 'https://weibo.com/u/7054655815'
+  wikiURL: 'https://en.wikipedia.org/wiki/RCD_Mallorca'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-161022-3143b8
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Real Betis']
+  slug: /rfef/club/Real-Betis-v2022-mono
+  pngPath: 'png/Real-Betis-v2022-mono.png'
+  svgPath: 'svg/Real-Betis-v2022-mono.svg'
+  sourceID: rfef-club-016
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-161123-07b282
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Real Betis']
+  slug: /rfef/club/Real-Betis-v2022
+  pngPath: 'png/Real-Betis-v2022.png'
+  svgPath: 'svg/Real-Betis-v2022.svg'
+  sourceID: rfef-club-016
+  style: color
+  reference: ''
+  ctrbID: ''

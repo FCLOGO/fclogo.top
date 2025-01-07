@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-012
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.714924186057055, 40.32573414960855]
+  timeline: false
+  info:
+    - fullName: Getafe Club de Fútbol S.A.D.
+      localName: Getafe Club de Fútbol S.A.D.
+      shortName: Getafe CF
+      founded: 1983
+      city: Getafe
+      ground: Estadio Coliseum
+  websiteURL: 'https://www.getafecf.com/'
+  twitterURL: 'https://twitter.com/GetafeCF'
+  weiboURL: 'https://weibo.com/u/7446172762'
+  wikiURL: 'https://en.wikipedia.org/wiki/Getafe_CF'

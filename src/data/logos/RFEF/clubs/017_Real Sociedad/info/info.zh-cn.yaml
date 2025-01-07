@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-017
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-1.9747253664096438, 43.30122991110516]
+  timeline: false
+  info:
+    - fullName: 皇家社会足球俱乐部
+      localName: Real Sociedad de Fútbol
+      shortName: 皇家社会
+      founded: 1909
+      city: 圣塞瓦斯蒂安
+      ground: 阿诺埃塔球场
+  websiteURL: 'https://www.realsociedad.eus/'
+  twitterURL: 'https://x.com/RealSociedad'
+  weiboURL: 'https://www.weibo.com/realsociedad'
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Sociedad'

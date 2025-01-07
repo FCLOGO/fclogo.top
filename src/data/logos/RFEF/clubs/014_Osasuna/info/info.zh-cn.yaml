@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-014
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-1.6375078733941137, 42.79611342784046]
+  timeline: false
+  info:
+    - fullName: 奥萨苏纳竞技俱乐部
+      localName: Club Atlético Osasuna
+      shortName: 奥萨苏纳
+      founded: 1920
+      city: Pamplona
+      ground: El Sadar
+  websiteURL: 'https://www.osasuna.es/'
+  twitterURL: 'https://twitter.com/Osasuna'
+  weiboURL: 'https://www.weibo.com/u/5492120876'
+  wikiURL: 'https://en.wikipedia.org/wiki/CA_Osasuna'

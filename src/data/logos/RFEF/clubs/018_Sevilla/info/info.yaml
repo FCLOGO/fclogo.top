@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-018
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.971517718912141, 37.38376204785003]
+  timeline: false
+  info:
+    - fullName: Sevilla Fútbol Club
+      localName: Sevilla Fútbol Club
+      shortName: Sevilla FC
+      founded: 1905
+      city: Sevilla
+      ground: Estadio Ramón Sánchez-Pizjuán
+  websiteURL: 'https://sevillafc.es/'
+  twitterURL: 'https://x.com/SevillaFC'
+  weiboURL: 'https://weibo.com/sevillafc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sevilla_FC'

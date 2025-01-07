@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-164053-7715b7
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Valencia']
+  slug: /rfef/club/Valencia-Club-de-Futbol-v2012-mono
+  pngPath: 'png/Valencia-Club-de-Futbol-v2012-mono.png'
+  svgPath: 'svg/Valencia-Club-de-Futbol-v2012-mono.svg'
+  sourceID: rfef-club-019
+  style: mono
+  reference: 'https://www.valenciacf.com/public/Attachment/2024/1/brand_book.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-164133-cf25bf
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Valencia']
+  slug: /rfef/club/Valencia-Club-de-Futbol-v2012
+  pngPath: 'png/Valencia-Club-de-Futbol-v2012.png'
+  svgPath: 'svg/Valencia-Club-de-Futbol-v2012.svg'
+  sourceID: rfef-club-019
+  style: color
+  reference: 'https://www.valenciacf.com/public/Attachment/2024/1/brand_book.pdf'
+  ctrbID: ''
