@@ -5,7 +5,7 @@
   timeline: false
   info:
     - fullName: 英格兰足球超级联赛
-      localname: Premier League
+      localName: Premier League
       shortName: 英超联赛
       founded: 1995
       confederation: UEFA

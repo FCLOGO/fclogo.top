@@ -5,7 +5,7 @@
   timeline: false
   info:
     - fullName: Campeonato Nacional de Liga de Primera División
-      localname: Campeonato Nacional de Liga de Primera División
+      localName: Campeonato Nacional de Liga de Primera División
       shortName: LALIGA Primera División
       founded: 1929
       confederation: UEFA

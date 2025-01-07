@@ -5,7 +5,7 @@
   timeline: false
   info:
     - fullName: Premier League
-      localname: Premier League
+      localName: Premier League
       shortName: Premier League
       founded: 1995
       confederation: UEFA

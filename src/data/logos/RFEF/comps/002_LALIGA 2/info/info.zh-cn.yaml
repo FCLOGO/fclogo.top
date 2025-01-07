@@ -5,7 +5,7 @@
   timeline: false
   info:
     - fullName: 西班牙足球乙级联赛
-      localname: Campeonato Nacional de Liga de Segunda División
+      localName: Campeonato Nacional de Liga de Segunda División
       shortName: 西乙联赛
       founded: 1929
       confederation: UEFA

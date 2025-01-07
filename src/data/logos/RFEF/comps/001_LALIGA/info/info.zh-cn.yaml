@@ -5,7 +5,7 @@
   timeline: false
   info:
     - fullName: 西班牙足球甲级联赛
-      localname: Campeonato Nacional de Liga de Primera División
+      localName: Campeonato Nacional de Liga de Primera División
       shortName: 西甲联赛
       founded: 1929
       confederation: UEFA
