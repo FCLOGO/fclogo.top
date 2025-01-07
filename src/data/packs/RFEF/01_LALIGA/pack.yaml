@@ -1,0 +1,68 @@
+- data: logoPack
+  packID: 20250107-195357-9797da
+  name: LALIGA LALIGA Primera División
+  season: '24-25'
+  packSource: rfef-comp-001
+  logoVersion: 2023
+  slug: /pack/24-25-laliga-primera-division
+  items:
+    - id: rfef-club-001
+      version: 2002
+      style: color
+    - id: rfef-club-002
+      version: 2024
+      style: color
+    - id: rfef-club-004
+      version: 2008
+      style: color
+    - id: rfef-club-005
+      version: 2020
+      style: color
+    - id: rfef-club-006
+      version: 2002
+      style: color
+    - id: rfef-club-007
+      version: 2010
+      style: color
+    - id: rfef-club-008
+      version: 2021
+      style: color
+    - id: rfef-club-009
+      version: 2005
+      style: color
+    - id: rfef-club-010
+      version: 2011
+      style: color
+    - id: rfef-club-011
+      version: 2014
+      style: color
+    - id: rfef-club-012
+      version: 2011
+      style: color
+    - id: rfef-club-013
+      version: 1996
+      style: color
+    - id: rfef-club-014
+      version: 2004
+      style: color
+    - id: rfef-club-015
+      version: 2012
+      style: color
+    - id: rfef-club-016
+      version: 2022
+      style: color
+    - id: rfef-club-017
+      version: 1997
+      style: color
+    - id: rfef-club-018
+      version: 1995
+      style: color
+    - id: rfef-club-019
+      version: 2012
+      style: color
+    - id: rfef-club-020
+      version: 2024
+      style: color
+    - id: rfef-club-021
+      version: 2009
+      style: color
