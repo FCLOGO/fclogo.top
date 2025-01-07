@@ -141,7 +141,7 @@
 - data: flag
   nation: ESP
   center: [-3.5, 40.0]
-  zoom: 6.0
+  zoom: 5.5
   flag: 'img/spain.png'
   flag2: 'img2/spain.png'
 
