@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.15](https://github.com/FCLOGO/fclogo.top/compare/v2.5.14...v2.5.15) (2025-01-07)
+
+
+### ❇️ Chores | 其他更新
+
+* 调整西班牙地图的缩放级别 ([0b4d8d3](https://github.com/FCLOGO/fclogo.top/commit/0b4d8d383dbabdf72598d544bd14fdd6c7790539))
+* 更新.gitignore文件，修正注释格式 ([54771e7](https://github.com/FCLOGO/fclogo.top/commit/54771e704059e4c0f327b67e50c2d8cbc1349087))
+* 更新沧州雄狮、广州足球俱乐部和湖南湘涛的状态为非活跃，并调整成立年份范围 ([875e7ca](https://github.com/FCLOGO/fclogo.top/commit/875e7ca063eefc83bb354aad5e11ae6ad796de52))
+* 添加24-25赛季西甲联赛俱乐部标志包 ([62d75c0](https://github.com/FCLOGO/fclogo.top/commit/62d75c0cafcf28ce9212e3b0d267552e851711a0))
+* 添加西班牙足球俱乐部信息文件 ([b4b0292](https://github.com/FCLOGO/fclogo.top/commit/b4b02922569ee6ad7bb94a4b006e79b3b1b9e2d0))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修正多个联赛信息中的localname字段为localName ([35c0260](https://github.com/FCLOGO/fclogo.top/commit/35c0260de3fc29a4a8d7df13a425c63ab1cc9f03))
+
 ### [2.5.14](https://github.com/FCLOGO/fclogo.top/compare/v2.5.13...v2.5.14) (2025-01-02)
 
 
