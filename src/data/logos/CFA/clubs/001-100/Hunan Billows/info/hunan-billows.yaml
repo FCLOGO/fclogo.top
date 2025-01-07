@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-059
-  status: active
+  status: inactive
   type: club
   nation: CHN
   coordinates: [112.979844, 28.184188]
@@ -11,8 +11,7 @@
       localName: 湖南湘涛足球俱乐部
       founded: 2006
       city: Changsha, China
-      ground: Yiyang Olympic Stadium
-      league: China League 2
+      duration: 2006 - 2025
   weiboURL: 'https://weibo.com/u/1735537505'
   twitterURL: ''
   websiteURL: ''

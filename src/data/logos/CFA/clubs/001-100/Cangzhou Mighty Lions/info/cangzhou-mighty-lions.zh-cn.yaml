@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-016
-  status: active
+  status: inactive
   type: club
   nation: CHN
   coordinates: [116.844202, 38.323235]
@@ -11,8 +11,7 @@
       localName: 沧州雄狮足球俱乐部
       city: 沧州，中国
       founded: 2011
-      ground: 沧州体育场
-      league: 中超联赛
+      duration: 2011 - 2025
   weiboURL: 'https://weibo.com/u/3032079382'
   twitterURL: 'https://twitter.com/SJZEBFC/'
   wikiURL: 'https://zh.wikipedia.org/wiki/沧州雄狮足球俱乐部'

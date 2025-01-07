@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-004
-  status: active
+  status: inactive
   type: club
   nation: CHN
   coordinates: [113.361319, 22.961168]
@@ -11,8 +11,7 @@
       localName: 广州足球俱乐部
       city: 广州，中国
       founded: 1993
-      ground: 广州天和足球场
-      league: 中甲联赛
+      duration: 1993 - 2025
   weiboURL: 'https://weibo.com/u/1894798092'
   twitterURL: 'https://twitter.com/GZEvergrandeFC'
   websiteURL: 'https://gzfc.evergrande.com/'
