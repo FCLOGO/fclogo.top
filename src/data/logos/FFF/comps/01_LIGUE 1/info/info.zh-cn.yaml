@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fff-comp-001
+  type: comp
+  nation: FRA
+  timeline: false
+  info:
+    - fullName: 法国足球甲级联赛
+      localName: Ligue 1
+      shortName: 法甲联赛
+      founded: 1930
+      confederation: UEFA
+      teams: 18
+      level: 第 1 级
+      promotion:
+      relegation: 法乙联赛
+  websiteURL: 'https://ligue1.com/'
+  twitterURL: 'https://x.com/ligue1'
+  weiboURL: 'https://weibo.com/u/5487107037'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ligue_1'

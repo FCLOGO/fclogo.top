@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250109-105722-899d2d
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Ligue 1']
+  slug: /fff/comp/LIGUE-1-v2007
+  pngPath: 'png/LIGUE-1-v2007.png'
+  svgPath: 'svg/LIGUE-1-v2007.svg'
+  sourceID: fff-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250109-105743-4cab61
+  version: 2020
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Ligue 1']
+  slug: /fff/comp/LIGUE-1-v2020
+  pngPath: 'png/LIGUE-1-v2020.png'
+  svgPath: 'svg/LIGUE-1-v2020.svg'
+  sourceID: fff-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250109-105813-577f22
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ligue 2']
+  slug: /fff/comp/LIGUE-1-v2024
+  pngPath: 'png/LIGUE-1-v2024.png'
+  svgPath: 'svg/LIGUE-1-v2024.svg'
+  sourceID: fff-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
