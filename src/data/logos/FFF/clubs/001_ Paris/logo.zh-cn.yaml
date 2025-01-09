@@ -25,3 +25,59 @@
   style: color
   reference: ''
   ctrbID: ''
+
+- data: logo
+  logoID: 20250109-154140-5e5594
+  version: 1970
+  isDoubtful: false
+  isOutdated: true
+  verName: ['PSG']
+  slug: /fff/club/Paris-Saint-Germain-v1970
+  pngPath: 'png/Paris-Saint-Germain-v1970.png'
+  svgPath: 'svg/Paris-Saint-Germain-v1970.svg'
+  sourceID: fff-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250109-154209-ae961a
+  version: 1992
+  isDoubtful: false
+  isOutdated: true
+  verName: ['PSG']
+  slug: /fff/club/Paris-Saint-Germain-v1992
+  pngPath: 'png/Paris-Saint-Germain-v1992.png'
+  svgPath: 'svg/Paris-Saint-Germain-v1992.svg'
+  sourceID: fff-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250109-154238-1a2592
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['PSG']
+  slug: /fff/club/Paris-Saint-Germain-v1996
+  pngPath: 'png/Paris-Saint-Germain-v1996.png'
+  svgPath: 'svg/Paris-Saint-Germain-v1996.svg'
+  sourceID: fff-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250109-154259-145b6c
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['PSG']
+  slug: /fff/club/Paris-Saint-Germain-v2002
+  pngPath: 'png/Paris-Saint-Germain-v2002.png'
+  svgPath: 'svg/Paris-Saint-Germain-v2002.svg'
+  sourceID: fff-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
