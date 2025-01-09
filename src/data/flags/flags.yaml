@@ -154,8 +154,8 @@
 
 - data: flag
   nation: FRA
-  center: [1.0, 48.8]
-  zoom: 6.2
+  center: [0, 47.0]
+  zoom: 5.5
   flag: 'img/france.png'
   flag2: 'img2/france.png'
 
