@@ -44,7 +44,7 @@ const LogoList = ({ data }) => {
                 {node.detailInfo[0].nation && (
                   <div className="absolute top-lg right-xl rounded-full">
                     <GatsbyImage
-                      image={getImage(node.detailInfo[0].nationalFlag[0].flag)}
+                      image={getImage(node.detailInfo[0].nationalInfo[0].flag)}
                       alt={node.detailInfo[0].nation}
                       className="rounded-full"
                     />

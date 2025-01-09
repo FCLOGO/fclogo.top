@@ -114,7 +114,7 @@ const logomap = ({ data, pageContext }) => {
     if (club.nation) {
       accumulator[club.nation] = accumulator[club.nation] || {
         count: 0,
-        flag: club.nationalFlag
+        flag: club.nationalInfo
       }
       // 增加计数
       accumulator[club.nation].count += 1
@@ -362,7 +362,7 @@ export const query = graphql`
           fullName
         }
         nation
-        nationalFlag {
+        nationalInfo {
           center
           zoom
           flag2 {

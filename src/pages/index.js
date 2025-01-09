@@ -71,7 +71,7 @@ export const query = graphql`
             shortName
           }
           nation
-          nationalFlag {
+          nationalInfo {
             flag {
               childImageSharp {
                 gatsbyImageData(width: 24, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)

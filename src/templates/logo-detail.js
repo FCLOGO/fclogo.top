@@ -293,7 +293,7 @@ export const query = graphql`
         twitterURL
         wikiURL
         nation
-        nationalFlag {
+        nationalInfo {
           flag2 {
             childImageSharp {
               gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)

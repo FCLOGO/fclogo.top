@@ -235,8 +235,8 @@ exports.createResolvers = ({ createResolvers }) => {
       },
 
       // 添加主体国旗标志
-      nationalFlag: {
-        type: ['flag'],
+      nationalInfo: {
+        type: ['country'],
         resolve: async (source, args, context) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
@@ -244,7 +244,7 @@ exports.createResolvers = ({ createResolvers }) => {
                 nation: { eq: source.nation }
               }
             },
-            type: 'flag'
+            type: 'country'
           })
           return entries
         }

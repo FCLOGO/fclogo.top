@@ -93,7 +93,7 @@ const ItemList = ({ allItems }) => {
                       {item.detailInfo[0].nation && (
                         <div className="absolute top-lg right-xl rounded-full">
                           <GatsbyImage
-                            image={getImage(item.detailInfo[0].nationalFlag[0].flag)}
+                            image={getImage(item.detailInfo[0].nationalInfo[0].flag)}
                             alt={item.detailInfo[0].nation}
                             className="rounded-full"
                           />

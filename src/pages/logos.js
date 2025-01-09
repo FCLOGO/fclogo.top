@@ -67,7 +67,7 @@ export const query = graphql`
             shortName
           }
           nation
-          nationalFlag {
+          nationalInfo {
             id
             flag {
               childImageSharp {

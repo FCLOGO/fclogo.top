@@ -79,7 +79,7 @@ const DetailSidebar = props => {
         <section className="flex flex-row justify-start items-center">
           {props.detailInfo.nation && (
             <GatsbyImage
-              image={getImage(props.detailInfo.nationalFlag[0].flag2)}
+              image={getImage(props.detailInfo.nationalInfo[0].flag2)}
               alt={props.detailInfo.nation}
               className="mr-sm"
             />
