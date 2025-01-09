@@ -14,10 +14,10 @@ const IndexPack = ({ data }) => {
         <h2 className="flex-auto">{t(`index.logoPacks`)}</h2>
         <Link
           to="/packs"
-          className="flex-initial py-xs px-sm rounded inline-flex items-center justify-center text-green hover:bg-green hover:bg-opacity-20"
+          className="flex-initial py-xs px-sm rounded inline-flex items-center justify-center text-white bg-green hover:bg-light-green"
         >
-          {t(`index.viewMore`)}
-          <ArrowIcon className="stroke-green h-xl w-xl ml-xs" />
+          {t(`pack.allPacks`)}
+          <ArrowIcon className="stroke-white h-xl w-xl ml-xs" />
         </Link>
       </div>
       <div className="w-full overflow-hidden grid justify-between items-stretch gap-3xl grid-cols-[repeat(auto-fill,_minmax(300px,_1fr))]">

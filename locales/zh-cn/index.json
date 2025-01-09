@@ -42,7 +42,7 @@
   "index.logoPacks": "徽标集",
   "index.randomTitle": "随机徽标",
   "index.noLogo": "努力更新中...过几天再来看看吧！🤪",
-  "index.viewMore": "发现更多",
+  "index.allLogos": "所有徽标",
   "index.loading": "加载中...",
   "index.noMore": "念念不忘 必有回响",
 
@@ -84,6 +84,8 @@
 
   "news.title": "足球徽标新闻",
   "news.slogan": "足球徽标新闻",
+
+  "pack.allPacks": "所有徽标集",
 
   "statisticstitle": "徽标统计",
   "statistics.subtitle": "建设中.....",

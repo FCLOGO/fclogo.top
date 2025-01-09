@@ -42,7 +42,7 @@
   "index.logoPacks": "Logo Packs",
   "index.randomTitle": "Rabdom Logos",
   "index.noLogo": "Working hard to update... Check back in a few days! 🤪",
-  "index.viewMore": "View More",
+  "index.allLogos": "All Logos",
   "index.loading": "Loading...",
   "index.noMore": "No more results",
 
@@ -84,6 +84,8 @@
 
   "news.title": "Football Logo News",
   "news.slogan": "Football Logo News",
+
+  "pack.allPacks": "All Packs",
 
   "statisticstitle": "Logo Statistics",
   "statistics.subtitle": "under construction.....",
