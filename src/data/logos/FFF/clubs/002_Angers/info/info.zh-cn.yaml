@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-002
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-0.5689739594383597, 47.45964000135825]
+  timeline: true
+  info:
+    - fullName: 昂热体育俱乐部
+      localName: Angers Sporting Club de l'Ouest
+      shortName: 昂热
+      founded: 1919
+      city: 昂热
+      ground: 雷蒙·科帕球场
+  websiteURL: 'https://angers-sco.fr/'
+  twitterURL: 'https://twitter.com/angerssco'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Angers_SCO'
