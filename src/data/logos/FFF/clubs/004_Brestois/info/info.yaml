@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-004
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-4.455408364639818, 48.4078427215196]
+  timeline: true
+  info:
+    - fullName: Stade Brestois 29
+      localName: Stade brestois 29
+      shortName: Stade Brestois
+      founded: 1903
+      city: Brest
+      ground: Stade Francis-Le Blé
+  websiteURL: 'https://www.sb29.bzh/'
+  twitterURL: 'https://twitter.com/SB29'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Stade_Brestois_29'
