@@ -402,7 +402,7 @@ The naming of logo files follows these principles, and the **`svg` file name and
 
 - File name composition: `ClubEnglishName-vLogoVersionNumber-StyleName-OtherDistinguishingName`
 - Club English Name (required): Capitalize the first letter of each word, and use hyphens `-` to connect words
-- Logo Version Number (required): Generally the year the logo was adopted
+- Logo Version Number (required): Generally, it is the year the logo was activated. If the year of logo activation cannot be confirmed, use the default value `0000`.
 - Style Name (not required): Logo styles include color `color`, monochrome `mono`, etc. The color style is the default style and can be omitted from the file name. Other style names cannot be omitted.
 - Other Distinguishing Name (not required): If there are multiple versions of the same logo version and style, you can add another field to the file name to distinguish them.
 
