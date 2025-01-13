@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-006
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [2.8150971624161873, 50.43225622066529]
+  timeline: true
+  info:
+    - fullName: 朗斯竞技俱乐部
+      localName: Racing Club de Lens
+      shortName: 朗斯
+      founded: 1906
+      city: 朗斯
+      ground: 博拉尔特-德勒利球场
+  websiteURL: 'https://www.rclens.fr/'
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RC_Lens'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-007
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [3.130467906396232, 50.61193253382548]
+  timeline: true
+  info:
+    - fullName: Lille Olympique Sporting Club
+      localName: Lille Olympique Sporting Club
+      shortName: LOSC Lille
+      founded: 1944
+      city: Lille
+      ground: Stade Pierre-Mauroy
+  websiteURL: 'https://www.losc.fr/en/'
+  twitterURL: 'https://twitter.com/losclive'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Lille_OSC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-009
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [5.395880040391207, 43.26988240719097]
+  timeline: false
+  info:
+    - fullName: Olympique de Marseille
+      localName: Olympique de Marseille
+      shortName: Marseille
+      founded: 1899
+      city: Marseille
+      ground: Stade Vélodrome
+  websiteURL: 'https://www.om.fr/en'
+  twitterURL: 'https://x.com/OM_Officiel'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Olympique_de_Marseille'

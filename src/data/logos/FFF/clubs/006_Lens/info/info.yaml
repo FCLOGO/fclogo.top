@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-006
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [2.8150971624161873, 50.43225622066529]
+  timeline: true
+  info:
+    - fullName: Racing Club de Lens
+      localName: Racing Club de Lens
+      shortName: RC Lens
+      founded: 1906
+      city: Lens
+      ground: Stade Bollaert-Delelis
+  websiteURL: 'https://www.rclens.fr/'
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RC_Lens'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-005
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [0.16928662244327897, 49.4993573346886]
+  timeline: false
+  info:
+    - fullName: Le Havre Athletic Club
+      localName: Le Havre Athletic Club
+      shortName: Le Havre AC
+      founded: 1872
+      city: Le Havre
+      ground: Stade Océane
+  websiteURL: 'http://www.hac-foot.com/'
+  twitterURL: 'https://x.com/HAC_Foot'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Le_Havre_AC'

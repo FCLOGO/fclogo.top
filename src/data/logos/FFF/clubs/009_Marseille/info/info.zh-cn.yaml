@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-009
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [5.395880040391207, 43.26988240719097]
+  timeline: false
+  info:
+    - fullName: 马赛奥林匹克
+      localName: Olympique de Marseille
+      shortName: 马赛
+      founded: 1899
+      city: 马赛
+      ground: 韦洛德罗姆球场
+  websiteURL: 'https://www.om.fr/en'
+  twitterURL: 'https://x.com/OM_Officiel'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Olympique_de_Marseille'
