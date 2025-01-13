@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20250113-113033-b12eb7
+  version: 1948
+  isDoubtful: false
+  isOutdated: true
+  verName: ['OGC Nice']
+  slug: /fff/club/OGC-Nice-v1948
+  pngPath: 'png/OGC-Nice-v1948.png'
+  svgPath: 'svg/OGC-Nice-v1948.svg'
+  sourceID: fff-club-013
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250113-113059-14b094
+  version: 1992
+  isDoubtful: false
+  isOutdated: true
+  verName: ['OGC Nice']
+  slug: /fff/club/OGC-Nice-v1992
+  pngPath: 'png/OGC-Nice-v1992.png'
+  svgPath: 'svg/OGC-Nice-v1992.svg'
+  sourceID: fff-club-013
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250113-113139-a32369
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['OGC Nice']
+  slug: /fff/club/OGC-Nice-v2013-mono
+  pngPath: 'png/OGC-Nice-v2013-mono.png'
+  svgPath: 'svg/OGC-Nice-v2013-mono.svg'
+  sourceID: fff-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250113-113201-de7b41
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['OGC Nice']
+  slug: /fff/club/OGC-Nice-v2013
+  pngPath: 'png/OGC-Nice-v2013.png'
+  svgPath: 'svg/OGC-Nice-v2013.svg'
+  sourceID: fff-club-013
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-niu'

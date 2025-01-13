@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-012
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-1.541898156861338, 47.260914857397864]
+  timeline: false
+  info:
+    - fullName: Football Club de Nantes
+      localName: Football Club de Nantes
+      shortName: FC Nantes
+      founded: 1943
+      city: Nantes
+      ground: Stade de la Beaujoire
+  websiteURL: 'https://www.fcnantes.com/'
+  twitterURL: 'https://twitter.com/FCNantes'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Nantes'

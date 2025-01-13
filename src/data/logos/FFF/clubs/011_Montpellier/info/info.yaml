@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-011
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [3.8120537508946075, 43.62214675115401]
+  timeline: false
+  info:
+    - fullName: Montpellier Hérault Sport Club
+      localName: Montpellier Hérault Sport Club
+      shortName: Montpellier HSC
+      founded: 1919
+      city: Montpellier
+      ground: Stade de la Mosson
+  websiteURL: 'https://mhscfoot.com/'
+  twitterURL: 'https://x.com/montpellierhsc'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Montpellier_HSC'
