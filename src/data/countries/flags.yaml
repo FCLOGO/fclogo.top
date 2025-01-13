@@ -179,3 +179,10 @@
   zoom: 6.0
   flag: 'img/austria.png'
   flag2: 'img2/austria.png'
+
+- data: country
+  nation: MCO
+  center: [6.5, 43.5]
+  zoom: 5.5
+  flag: 'img/monaco.png'
+  flag2: 'img2/monaco.png'
