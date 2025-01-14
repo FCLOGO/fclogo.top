@@ -2,6 +2,42 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/FCLOGO/fclogo.top/compare/v2.5.15...v2.6.0) (2025-01-14)
+
+
+### ✨ Features | 新功能
+
+* 添加新贡献者 Niuchak 的信息 ([096668a](https://github.com/FCLOGO/fclogo.top/commit/096668a8396f0a775ffe7b7f2edcaec588e9ccd2))
+
+
+### ❇️ Chores | 其他更新
+
+* 更新法国地图的中心坐标和缩放级别 ([22da198](https://github.com/FCLOGO/fclogo.top/commit/22da198cc401c12c819674b85133b21f022ab10e))
+
+
+### ♻ Code Refactoring | 代码重构
+
+* 将 nationalFlag 重命名为 nationalInfo，并更新相关引用 ([dae8b67](https://github.com/FCLOGO/fclogo.top/commit/dae8b67dc493a61677b6d8761012470baa2f21ec))
+
+
+### 📝 Documentation | 文档
+
+* 更新徽标版本号说明，增加默认值处理 ([59da944](https://github.com/FCLOGO/fclogo.top/commit/59da94441310212a70a0ea20e2960db329dde502))
+* 添加巴黎圣日耳曼历史logo数据 ([b70771a](https://github.com/FCLOGO/fclogo.top/commit/b70771a64cbe8e00deda5537d059bb6ce64ad120))
+* 添加布雷斯特足球俱乐部信息及徽标 ([14e4d48](https://github.com/FCLOGO/fclogo.top/commit/14e4d48c829570e9d8146eb4b1bb5151d8310963))
+* 添加法国足球甲级联赛和乙级联赛的详细信息及logo ([118aa45](https://github.com/FCLOGO/fclogo.top/commit/118aa45480ac52bcf8d6184168f06fa3d0d95329))
+* 添加法甲联赛及其俱乐部徽标信息 ([6a3e73c](https://github.com/FCLOGO/fclogo.top/commit/6a3e73c38315c0d883d38c5d8d27a8e9a29b77b1))
+* 添加朗斯、里昂、里尔、马赛和勒阿弗尔足球俱乐部的信息及徽标 ([a7e9fe2](https://github.com/FCLOGO/fclogo.top/commit/a7e9fe28dc0e556eefd90c691c1fa5e39462ef2d))
+* 添加摩纳哥国家信息及其国旗 ([ae65839](https://github.com/FCLOGO/fclogo.top/commit/ae658397dafbe34a1dd2654eef984a72e1610c5e))
+* 添加南特、尼斯、蒙彼利埃和摩纳哥足球俱乐部的信息及徽标 ([a368a5f](https://github.com/FCLOGO/fclogo.top/commit/a368a5fd3472d64f98fca0ecc645f3ae65ec8538))
+* 添加图卢兹、兰斯、雷恩、斯特拉斯堡和圣艾蒂安足球俱乐部的信息及徽标 ([13b7bbf](https://github.com/FCLOGO/fclogo.top/commit/13b7bbf599468794e70f1c64d3b9d8c50df8d50e))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 更新界面文本，修改 `More` 按钮样式 ([ac38304](https://github.com/FCLOGO/fclogo.top/commit/ac3830405274816a43ac5ddec5f0f8343e35dc0e))
+* 修正武里南联和莱昂足球俱乐部的坐标信息 ([e47f937](https://github.com/FCLOGO/fclogo.top/commit/e47f937a28ff667590272d5db126ea6e0f2d7ae1))
+
 ### [2.5.15](https://github.com/FCLOGO/fclogo.top/compare/v2.5.14...v2.5.15) (2025-01-07)
 
 
