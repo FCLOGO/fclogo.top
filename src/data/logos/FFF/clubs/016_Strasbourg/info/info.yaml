@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-016
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [7.753398328065502, 48.560544751808926]
+  timeline: false
+  info:
+    - fullName: Racing Club de Strasbourg Alsace
+      localName: Racing Club de Strasbourg Alsace
+      shortName: RC Strasbourg
+      founded: 1906
+      city: Strasbourg
+      ground: Stade de la Meinau
+  websiteURL: 'https://www.rcstrasbourgalsace.fr/'
+  twitterURL: 'https://twitter.com/RCSA'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace'

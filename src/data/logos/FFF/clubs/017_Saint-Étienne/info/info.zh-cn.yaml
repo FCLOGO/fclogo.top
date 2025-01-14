@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-017
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [4.389431716738736, 45.46054637027926]
+  timeline: true
+  info:
+    - fullName: 圣艾蒂安竞技俱乐部
+      localName: Association Sportive de Saint-Étienne Loire
+      shortName: 圣艾蒂安
+      founded: 1919
+      city: 圣艾蒂安
+      ground: 若弗鲁瓦·吉夏尔球场
+  websiteURL: 'https://www.asse.fr/'
+  twitterURL: 'https://twitter.com/asseofficiel'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AS_Saint-%C3%89tienne'

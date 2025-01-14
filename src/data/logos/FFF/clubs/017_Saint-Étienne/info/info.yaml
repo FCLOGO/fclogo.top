@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-017
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [4.389431716738736, 45.46054637027926]
+  timeline: true
+  info:
+    - fullName: Association Sportive de Saint-Étienne Loire
+      localName: Association Sportive de Saint-Étienne Loire
+      shortName: AS Saint-Étienne
+      founded: 1919
+      city: Saint-Étienne
+      ground: Stade Geoffroy-Guichard
+  websiteURL: 'https://www.asse.fr/'
+  twitterURL: 'https://twitter.com/asseofficiel'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AS_Saint-%C3%89tienne'

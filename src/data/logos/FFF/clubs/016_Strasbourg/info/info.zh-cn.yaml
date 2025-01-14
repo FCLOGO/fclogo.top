@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-016
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [7.753398328065502, 48.560544751808926]
+  timeline: false
+  info:
+    - fullName: 斯特拉斯堡竞赛俱乐部
+      localName: Racing Club de Strasbourg Alsace
+      shortName: 斯特拉斯堡
+      founded: 1906
+      city: 斯特拉斯堡
+      ground: 梅瑙球场
+  websiteURL: 'https://www.rcstrasbourgalsace.fr/'
+  twitterURL: 'https://twitter.com/RCSA'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-015
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-1.7131500201756373, 48.10750174464343]
+  timeline: true
+  info:
+    - fullName: 雷恩足球俱乐部
+      localName: Stade rennais Football Club
+      shortName: 雷恩
+      founded: 1902
+      city: 雷恩
+      ground: 雷恩公园球场
+  websiteURL: 'https://www.staderennais.com/'
+  twitterURL: 'https://twitter.com/staderennais'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Stade_Rennais_FC'
