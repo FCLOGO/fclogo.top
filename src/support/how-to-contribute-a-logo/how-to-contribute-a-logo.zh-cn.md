@@ -151,8 +151,8 @@ git remote add upstream git@github.com:FCLOGO/fclogo.top.git
 
 ```shell
 $ git remote -v                                               
-origin	git@xlgit.com:xl2ryan/fclogo.git (fetch)
-origin	git@xlgit.com:xl2ryan/fclogo.git (push)
+origin	git@github.com:xl2ryan/fclogo.git (fetch)
+origin	git@github.com:xl2ryan/fclogo.git (push)
 upstream	git@github.com:FCLOGO/fclogo.top.git (fetch)
 upstream	git@github.com:FCLOGO/fclogo.top.git (push)
 ```
