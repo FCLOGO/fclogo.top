@@ -13,7 +13,7 @@
   ctrbID: ''
 
 - data: logo
-  logoID: 20250112-204624-f5aab2
+  logoID: 20250116-114901-410a26
   version: 2012
   isDoubtful: false
   isOutdated: false
@@ -27,7 +27,7 @@
   ctrbID: ''
 
 - data: logo
-  logoID: 20250112-204659-2ffeaa
+  logoID: 20250116-114920-102fe6
   version: 2012
   isDoubtful: false
   isOutdated: false
@@ -38,4 +38,4 @@
   sourceID: fff-club-005
   style: color
   reference: ''
-  ctrbID: 'ctrb-niu'
+  ctrbID: 'ctrb-dani'
