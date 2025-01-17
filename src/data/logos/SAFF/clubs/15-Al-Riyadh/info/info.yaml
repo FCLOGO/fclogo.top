@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-015
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [46.55119537504918, 24.65074690060046]
+  timeline: false
+  info:
+    - fullName: Al Riyadh Saudi Club
+      shortName: Al Riyadh SC
+      localName: نادي الرياض السعودي
+      founded: 1953
+      city: Riyadh
+      ground: Prince Turki bin Abdul Aziz Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://riyadhclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Riyadh_SC'

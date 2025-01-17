@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-017
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-86.77313889062437, 36.15891569062676]
+  timeline: true
+  info:
+    - fullName: Nashville Soccer Club
+      shortName: Nashville SC
+      localName: Nashville Soccer Club
+      founded: 2016
+      city: Nashville, Tennessee
+      ground: Geodis Park
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/nashvillesc'
+  websiteURL: 'https://www.nashvillesc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Nashville_SC'

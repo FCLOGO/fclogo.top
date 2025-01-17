@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-004
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.961857586284124, 53.43173632268432]
+  timeline: false
+  info:
+    - fullName: Liverpool Football Club
+      localName: Liverpool Football Club
+      shortName: Liverpool
+      founded: 1892
+      city: Liverpool
+      ground: Anfield
+      league:
+  websiteURL: 'https://www.liverpoolfc.com/'
+  twitterURL: 'https://twitter.com/lfc'
+  weiboURL: 'https://weibo.com/u/2218894100'
+  wikiURL: 'https://en.wikipedia.org/wiki/Liverpool_F.C.'

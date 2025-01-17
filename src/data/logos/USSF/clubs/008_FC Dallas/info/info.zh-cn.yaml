@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-008
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-96.83597349909437, 33.15421357826674]
+  timeline: false
+  info:
+    - fullName: 达拉斯足球俱乐部
+      shortName: FC 达拉斯
+      localName: Football Club Dallas
+      founded: 1995
+      city: 弗里斯科, 德克萨斯州
+      ground: 丰田体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/FCDallas'
+  websiteURL: 'https://www.fcdallas.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Dallas'

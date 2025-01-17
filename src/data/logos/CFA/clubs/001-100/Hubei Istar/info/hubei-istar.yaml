@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-044
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [114.243415, 30.635068]
+  timeline: true
+  info:
+    - fullName: Hubei Istar Football Club
+      shortName: Hubei Istar
+      localName: 湖北青年星足球俱乐部
+      city: Wuhan, China
+      founded: 2016
+      ground: Wuhan Xinhua Road Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7016190400'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

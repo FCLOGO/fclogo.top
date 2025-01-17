@@ -1,24 +1,34 @@
 - data: contributor
+  ctrbID: ctrb-fclogo
+  name: FCLOGO
+  link: https://weibo.com/u/7578670869
+
+- data: contributor
+  ctrbID: ctrb-waimaer
+  name: 外马尔
+  link: https://weibo.com/u/2438756991
+
+- data: contributor
+  ctrbID: ctrb-cuida
+  name: 崔大本事__
+  link: https://weibo.com/u/7400881820
+
+- data: contributor
+  ctrbID: ctrb-ramr
+  name: Ramr LaPalma
+  link: https://www.facebook.com/RamrPalma/
+
+- data: contributor
+  ctrbID: ctrb-ryan
   name: iiiRyan
-  avatar: https://wx1.sinaimg.cn/mw200/6278c00cly8gpvxpqon1fj20ng0ng75s.jpg
   link: https://weibo.com/u/1652080652
 
 - data: contributor
-  name: 风林火山_12
-  avatar: https://wx1.sinaimg.cn/mw200/0020PCvply8gu9ljo7jx8j60e80e8mxv02.jpg
-  link: https://weibo.com/u/1844568411
+  ctrbID: ctrb-niu
+  name: Niuchak
+  link: https://weibo.com/u/1735831840
 
 - data: contributor
-  name: 欧阳云阙
-  avatar: https://wx4.sinaimg.cn/mw200/7325751aly8gitfjac9n5j20ro0ro40c.jpg
-  link: https://weibo.com/u/1931834650
-
-- data: contributor
-  name: Bi77y
-  avatar: https://ww2.sinaimg.cn/mw200/7d9e1260gw1ek74eq32ptj2050050mx9.jpg
-  link: https://weibo.com/u/2107511392
-
-- data: contributor
-  name: 外马尔
-  avatar: https://ww1.sinaimg.cn/mw200/915c7a7fjw8f9g4j8yqa9j21kw1kw0y8.jpg
-  link: https://weibo.com/u/2438756991
+  ctrbID: ctrb-dani
+  name: danisalach
+  link: https://bibliotecaescudos.blogspot.com/

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-004
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.06376430051887, 35.895943312182226]
+  timeline: false
+  info:
+    - fullName: 全北现代汽车足球俱乐部
+      shortName: 全北现代汽车
+      localName: 전북 현대 모터스 축구단
+      founded: 1994
+      city: 韩国，全州
+      ground: 全州世界杯体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://hyundai-motorsfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jeonbuk_Hyundai_Motors'

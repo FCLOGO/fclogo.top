@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-200538-d02bb4
+  version: 1994
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ventforet Kofu']
+  slug: /jfa/club/ventforet-kofu-v1994-mono
+  pngPath: 'png/ventforet-kofu-v1994-mono.png'
+  svgPath: 'svg/ventforet-kofu-v1994-mono.svg'
+  sourceID: jfa-club-028
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Ventforet-Kofu/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-200613-1a743d
+  version: 1994
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ventforet Kofu']
+  slug: /jfa/club/ventforet-kofu-v1994
+  pngPath: 'png/ventforet-kofu-v1994.png'
+  svgPath: 'svg/ventforet-kofu-v1994.svg'
+  sourceID: jfa-club-028
+  style: color
+  reference: 'https://www.jleague.co/clubs/Ventforet-Kofu/'
+  ctrbID: ''

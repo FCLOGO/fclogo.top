@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-027
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [116.421223, 39.876794]
+  timeline: true
+  info:
+    - fullName: Beijing Sport University Football Club
+      shortName: Beijing BSU
+      localName: 北京北体大足球俱乐部
+      city: Beijing, China
+      founded: 2004
+      duration: 2004 - 2023
+  weiboURL: 'https://weibo.com/u/2123392247'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Sport_University_F.C.'

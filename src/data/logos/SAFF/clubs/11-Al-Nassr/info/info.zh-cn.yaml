@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-011
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [46.57330950213698, 24.67366626818512]
+  timeline: false
+  info:
+    - fullName: 利雅得胜利足球俱乐部
+      shortName: 利雅得胜利
+      localName: نادي النصر لكرة القدم
+      founded: 1955
+      city: 利雅得
+      ground: 沙特国王大学体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AlNassrFC'
+  websiteURL: 'https://alnassr.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Nassr_FC'

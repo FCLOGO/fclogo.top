@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-231243-2260f8
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['新疆丝路雄鹰']
+  slug: /cfa/club/Xinjiang-Silk-Road-Eagles-v2024-mono
+  pngPath: 'png/Xinjiang-Silk-Road-Eagles-v2024-mono.png'
+  svgPath: 'svg/Xinjiang-Silk-Road-Eagles-v2024-mono.svg'
+  sourceID: cfa-club-119
+  style: mono
+  reference: 'https://weibo.com/ttarticle/p/show?id=2309405002018480849111'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-231348-2146c7
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['新疆丝路雄鹰']
+  slug: /cfa/club/Xinjiang-Silk-Road-Eagles-v2024
+  pngPath: 'png/Xinjiang-Silk-Road-Eagles-v2024.png'
+  svgPath: 'svg/Xinjiang-Silk-Road-Eagles-v2024.svg'
+  sourceID: cfa-club-119
+  style: color
+  reference: 'https://weibo.com/ttarticle/p/show?id=2309405002018480849111'
+  ctrbID: ''

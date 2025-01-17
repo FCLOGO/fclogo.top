@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-026
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [118.061095, 36.842327]
+  timeline: true
+  info:
+    - fullName: 淄博蹴鞠足球俱乐部
+      shortName: 淄博蹴鞠
+      localName: 淄博蹴鞠足球俱乐部
+      city: 淄博，中国
+      founded: 1982
+      duration: 1982 - 2023
+  weiboURL: 'https://weibo.com/u/6467934803'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/淄博蹴鞠足球俱乐部'

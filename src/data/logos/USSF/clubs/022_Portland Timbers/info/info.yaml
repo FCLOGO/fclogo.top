@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-022
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-122.69240065169095, 45.52243409253976]
+  timeline: false
+  info:
+    - fullName: Portland Timbers Soccer Club
+      shortName: Portland Timbers
+      localName: Portland Timbers Soccer Club
+      founded: 1985
+      city: Portland, Oregon
+      ground: Providence Park
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/TimbersFC'
+  websiteURL: 'https://www.timbers.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Portland_Timbers'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241017-103254-3ca011
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Giravanz Kitakyushu']
+  slug: /jfa/club/giravanz-kitakyushu-v2010-mono
+  pngPath: 'png/giravanz-kitakyushu-v2010-mono.png'
+  svgPath: 'svg/giravanz-kitakyushu-v2010-mono.svg'
+  sourceID: jfa-club-047
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Giravanz-Kitakyushu/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241017-103350-df7c59
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Giravanz Kitakyushu']
+  slug: /jfa/club/giravanz-kitakyushu-v2010
+  pngPath: 'png/giravanz-kitakyushu-v2010.png'
+  svgPath: 'svg/giravanz-kitakyushu-v2010.svg'
+  sourceID: jfa-club-047
+  style: color
+  reference: 'https://www.jleague.co/clubs/Giravanz-Kitakyushu/'
+  ctrbID: ''

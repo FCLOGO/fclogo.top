@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-007
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-83.01587349634433, 39.96804440948167]
+  timeline: true
+  info:
+    - fullName: 哥伦布机员足球俱乐部
+      shortName: 哥伦布机员
+      localName: Columbus Crew Soccer Club
+      founded: 1994
+      city: 哥伦布, 俄亥俄州
+      ground: Lower.com 球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/columbuscrew'
+  websiteURL: 'https://www.columbuscrew.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Columbus_Crew'

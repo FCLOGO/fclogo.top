@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-006
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [12.348263535582047, 51.34581255643915]
+  timeline: false
+  info:
+    - fullName: RasenBallsport Leipzig GmbH
+      localName: RasenBallsport Leipzig GmbH
+      shortName: RB Leipzig
+      founded: 2009
+      city: Leipzig
+      ground: Red Bull Arena
+      league:
+  websiteURL: 'https://www.rbleipzig.com/'
+  twitterURL: 'https://x.com/RBLeipzig_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RB_Leipzig'

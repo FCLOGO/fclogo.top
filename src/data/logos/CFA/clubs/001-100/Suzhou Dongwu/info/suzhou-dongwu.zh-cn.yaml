@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-025
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.788586, 31.276048]
+  timeline: true
+  info:
+    - fullName: 苏州东吴足球俱乐部
+      shortName: 苏州东吴
+      localName: 苏州东吴足球俱乐部
+      city: 苏州，中国
+      founded: 2008
+      ground: 苏州体育中心
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/5804172181'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/苏州东吴足球俱乐部'

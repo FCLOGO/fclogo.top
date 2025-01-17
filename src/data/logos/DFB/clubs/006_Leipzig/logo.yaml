@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-133617-e3b4b4
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RB Leipzig']
+  slug: /dfb/club/RB-Leipzig-v2020-mono
+  pngPath: 'png/RB-Leipzig-v2020-mono.png'
+  svgPath: 'svg/RB-Leipzig-v2020-mono.svg'
+  sourceID: dfb-club-006
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-133650-7b4235
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RB Leipzig']
+  slug: /dfb/club/RB-Leipzig-v2020
+  pngPath: 'png/RB-Leipzig-v2020.png'
+  svgPath: 'svg/RB-Leipzig-v2020.svg'
+  sourceID: dfb-club-006
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/rb-leipzig'
+  ctrbID: ''

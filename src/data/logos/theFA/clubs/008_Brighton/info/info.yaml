@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-008
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.08476365865228572, 50.86197515029972]
+  timeline: false
+  info:
+    - fullName: Brighton & Hove Albion Football Club
+      localName: Brighton & Hove Albion Football Club
+      shortName: Brighton
+      founded: 1901
+      city: Brighton and Hove
+      ground: Falmer Stadium
+      league:
+  websiteURL: 'https://www.brightonandhovealbion.com/pages/en/home'
+  twitterURL: 'https://x.com/OfficialBHAFC'
+  weiboURL: 'https://weibo.com/u/7375046466'
+  wikiURL: 'wikiURL'

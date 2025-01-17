@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-203034-6b2625
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['水户蜀葵']
+  slug: /jfa/club/mito-hollyhock-v2000-mono
+  pngPath: 'png/mito-hollyhock-v2000-mono.png'
+  svgPath: 'svg/mito-hollyhock-v2000-mono.svg'
+  sourceID: jfa-club-030
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Mito-Hollyhock/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-203129-979962
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['水户蜀葵']
+  slug: /jfa/club/mito-hollyhock-v2000
+  pngPath: 'png/mito-hollyhock-v2000.png'
+  svgPath: 'svg/mito-hollyhock-v2000.svg'
+  sourceID: jfa-club-030
+  style: color
+  reference: 'https://www.jleague.co/clubs/Mito-Hollyhock/'
+  ctrbID: ''

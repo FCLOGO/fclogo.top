@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-014
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [4.023942169009886, 49.24705775239708]
+  timeline: false
+  info:
+    - fullName: 兰斯体育俱乐部
+      localName: Stade de Reims
+      shortName: 兰斯
+      founded: 1931
+      city: 兰斯
+      ground: 奥古斯特德洛纳体育场
+  websiteURL: 'https://www.stade-de-reims.com/'
+  twitterURL: 'https://twitter.com/StadedeReims'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Stade_de_Reims'

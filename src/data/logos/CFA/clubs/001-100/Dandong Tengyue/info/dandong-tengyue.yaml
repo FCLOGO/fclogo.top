@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-051
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [124.350498, 40.03018]
+  timeline: true
+  info:
+    - fullName: Dandong Tengyue Football Club
+      shortName: Dandong Tengyue
+      localName: 丹东腾跃足球俱乐部
+      founded: 2017
+      city: Dandong, China
+      duration: 2017 - 2024
+  weiboURL: 'https://weibo.com/u/7304280780'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

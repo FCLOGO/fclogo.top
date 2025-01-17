@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-012
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [113.72398, 34.753075]
+  timeline: true
+  info:
+    - fullName: Henan Football Club
+      shortName: Henan FC
+      localName: 河南足球俱乐部
+      city: Zhengzhou, China
+      founded: 1994
+      ground: Zhengzhou Hanghai Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/henanjianye1994'
+  websiteURL: 'http://www.jianyefc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Henan_Songshan_Longmen_F.C.'

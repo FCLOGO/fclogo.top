@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-038
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [111.652405, 40.851097]
+  timeline: true
+  info:
+    - fullName: 内蒙古中优足球俱乐部
+      shortName: 内蒙古中优
+      localName: 内蒙古中优足球俱乐部
+      city: 呼和浩特，中国
+      founded: 2011
+      duration: 2011 - 2021
+      ground: 呼和浩特体育场
+  wikiURL: 'https://zh.wikipedia.org/wiki/内蒙古中优足球俱乐部'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-103330-3b46b1
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ansan Greeners']
+  slug: /kfa/club/ansan-greeners-v2017-mono
+  pngPath: 'png/ansan-greeners-v2017-mono.png'
+  svgPath: 'svg/ansan-greeners-v2017-mono.svg'
+  sourceID: kfa-club-023
+  style: mono
+  reference: 'https://www.greenersfc.com/fc/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-103359-21b0db
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ansan Greeners']
+  slug: /kfa/club/ansan-greeners-v2017
+  pngPath: 'png/ansan-greeners-v2017.png'
+  svgPath: 'svg/ansan-greeners-v2017.svg'
+  sourceID: kfa-club-023
+  style: color
+  reference: 'https://www.greenersfc.com/fc/emblem.php'
+  ctrbID: ''

@@ -2,16 +2,16 @@
 - data: sourceInfo
   sourceID: afc-assn-002
   type: assn
-  nation: China HK
+  nation: HKG
   timeline: false
   info:
-    - fullName: The Hong Kong Football Association Limited
+    - fullName: The Football Association of Hong Kong, China
       shortName: HKFA
-      localName: 香港足球總會
+      localName: 中國香港足球總會
       founded: 1914
       headquarter: Kowloon, Hong Kong
       affiliations: EAFF  ▸  AFC  ▸  FIFA
   weiboURL: ''
   twitterURL: ''
   websiteURL: 'https://www.hkfa.com/'
-  wikiURL: 'https://en.wikipedia.org/wiki/Hong_Kong_Football_Association/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Football_Association_of_Hong_Kong,_China'

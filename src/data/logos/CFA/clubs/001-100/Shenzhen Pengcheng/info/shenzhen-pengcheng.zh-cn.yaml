@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-077
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [113.888503, 22.669326]
+  timeline: true
+  info:
+    - fullName: 深圳鹏城足球俱乐部
+      shortName: 深圳鹏城
+      localName: 深圳鹏城足球俱乐部
+      city: 深圳，中国
+      founded: 2016
+      duration: 2016 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/深圳鹏城足球俱乐部'

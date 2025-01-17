@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-006
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [121.531281, 31.223065]
+  timeline: true
+  info:
+    - fullName: 上海海港足球俱乐部
+      shortName: 上海海港
+      localName: 上海海港足球俱乐部
+      city: 上海，中国
+      founded: 2005
+      ground: 上海浦东足球场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/3593916900'
+  twitterURL: ''
+  websiteURL: 'https://www.fcshanghaiport.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海海港足球俱乐部'

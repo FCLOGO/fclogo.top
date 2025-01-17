@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-033
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.521572764417805, 52.29012935634775]
+  timeline: false
+  info:
+    - fullName: Eintracht Braunschweig GmbH & Co. KGaA
+      localName: Eintracht Braunschweig GmbH & Co. KGaA
+      shortName: Eintracht Braunschweig
+      founded: 1895
+      city: Braunschweig
+      ground: EINTRACHT-STADION
+  websiteURL: 'https://www.eintracht.com/'
+  twitterURL: 'https://x.com/EintrachtBSNews'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Eintracht_Braunschweig'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-comp-001
+  type: comp
+  nation: USA
+  timeline: false
+  info:
+    - fullName: Major League Soccer
+      shortName: MLS
+      localName: Major League Soccer
+      founded: 1996
+      confederation: CONCACAF
+      teams: 30
+      level: Level 1
+      promotion:
+      relegation:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/mls'
+  websiteURL: 'https://www.mlssoccer.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Major_League_Soccer'

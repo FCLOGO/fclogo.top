@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-002
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.613584141662, 35.50837124223532]
+  timeline: false
+  info:
+    - fullName: Yokohama F·Marinos Football Club
+      shortName: Yokohama F. Marinos
+      localName: 横浜F・マリノス
+      founded: 1972
+      city: Yokohama, Japan
+      ground: Nissan Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/prompt_fmarinos'
+  websiteURL: 'https://www.f-marinos.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Yokohama_F._Marinos'

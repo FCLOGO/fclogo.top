@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241216-102056-82adf9
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Benfica']
+  slug: /fpf/club/Sport-Lisboa-e-Benfica-v1999-mono
+  pngPath: 'png/Sport-Lisboa-e-Benfica-v1999-mono.png'
+  svgPath: 'svg/Sport-Lisboa-e-Benfica-v1999-mono.svg'
+  sourceID: fpf-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-102137-4ee143
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Benfica']
+  slug: /fpf/club/Sport-Lisboa-e-Benfica-v1999
+  pngPath: 'png/Sport-Lisboa-e-Benfica-v1999.png'
+  svgPath: 'svg/Sport-Lisboa-e-Benfica-v1999.svg'
+  sourceID: fpf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-019
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-74.14961076970623, 40.7366718618402]
+  timeline: true
+  info:
+    - fullName: 纽约红牛
+      shortName: 纽约红牛
+      localName: New York Red Bulls
+      founded: 1994
+      city: 哈里森, 新泽西州
+      ground: 红牛竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/newyorkredbulls'
+  websiteURL: 'https://www.newyorkredbulls.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/New_York_Red_Bulls'

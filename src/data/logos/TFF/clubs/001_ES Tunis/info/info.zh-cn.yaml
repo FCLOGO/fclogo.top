@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: tff-club-001
+  status: active
+  type: club
+  nation: TUN
+  coordinates: [10.187418507093021, 36.81313770126428]
+  timeline: false
+  info:
+    - fullName: 突尼斯希望体育俱乐部
+      shortName: 突尼斯希望
+      localName: الترجي الرياضي التونسي
+      founded: 1919
+      city: 突尼斯
+      ground: 拉迪斯奥林匹克体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://e-s-tunis.com/en'
+  wikiURL: 'https://en.wikipedia.org/wiki/Esp%C3%A9rance_Sportive_de_Tunis'

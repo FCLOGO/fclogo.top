@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241208-115056-ad50bf
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['SKC', '肯萨斯体育会']
+  slug: /ussf/club/Sporting-Kansas-City-v2006
+  pngPath: 'png/Sporting-Kansas-City-v2006.png'
+  svgPath: 'svg/Sporting-Kansas-City-v2006.svg'
+  sourceID: ussf-club-026
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241208-115221-57e9bc
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SKC', '肯萨斯体育会']
+  slug: /ussf/club/Sporting-Kansas-City-v2010-mono
+  pngPath: 'png/Sporting-Kansas-City-v2010-mono.png'
+  svgPath: 'svg/Sporting-Kansas-City-v2010-mono.svg'
+  sourceID: ussf-club-026
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241208-115249-80ed39
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SKC', '肯萨斯体育会']
+  slug: /ussf/club/Sporting-Kansas-City-v2010
+  pngPath: 'png/Sporting-Kansas-City-v2010.png'
+  svgPath: 'svg/Sporting-Kansas-City-v2010.svg'
+  sourceID: ussf-club-026
+  style: color
+  reference: ''
+  ctrbID: ''

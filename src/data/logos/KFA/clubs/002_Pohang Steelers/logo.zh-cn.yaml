@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240916-184839-f3b004
+  version: 2003
+  isDoubtful: false
+  isOutdated: false
+  verName: ['浦项铁人']
+  slug: /kfa/club/fc-pohang-steelers-v2003-mono
+  pngPath: 'png/fc-pohang-steelers-v2003-mono.png'
+  svgPath: 'svg/fc-pohang-steelers-v2003-mono.svg'
+  sourceID: kfa-club-002
+  style: mono
+  reference: 'https://www.steelers.co.kr/club/emblem'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240916-184947-544378
+  version: 2003
+  isDoubtful: false
+  isOutdated: false
+  verName: ['浦项铁人']
+  slug: /kfa/club/fc-pohang-steelers-v2003
+  pngPath: 'png/fc-pohang-steelers-v2003.png'
+  svgPath: 'svg/fc-pohang-steelers-v2003.svg'
+  sourceID: kfa-club-002
+  style: color
+  reference: 'https://www.steelers.co.kr/club/emblem'
+  ctrbID: ''

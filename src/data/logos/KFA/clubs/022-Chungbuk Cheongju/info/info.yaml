@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-022
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.47918746298129, 36.7011061708191]
+  timeline: false
+  info:
+    - fullName: Chungbuk Cheongju Football Club
+      shortName: Chungbuk Cheongju
+      localName: 충북청주프로축구단
+      founded: 2002
+      city: Cheongju, Korea
+      ground: Cheongju Sports Complex
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://chfc.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chungbuk_Cheongju_FC'

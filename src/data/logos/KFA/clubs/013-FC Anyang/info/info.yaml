@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-013
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [126.94642030294507, 37.40535442054145]
+  timeline: false
+  info:
+    - fullName: Football Club Anyang
+      shortName: FC Anyang
+      localName: 안양시민프로축구단
+      founded: 2013
+      city: Anyang, Korea
+      ground: Anyang Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.fc-anyang.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Anyang'

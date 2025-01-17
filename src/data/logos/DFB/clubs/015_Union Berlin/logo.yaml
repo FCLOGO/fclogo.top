@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-152449-313ade
+  version: 1966
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Union Berlin']
+  slug: /dfb/club/FC-Union-Berlin-v1966-mono
+  pngPath: 'png/FC-Union-Berlin-v1966-mono.png'
+  svgPath: 'svg/FC-Union-Berlin-v1966-mono.svg'
+  sourceID: dfb-club-015
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-152515-8dfa49
+  version: 1966
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Union Berlin']
+  slug: /dfb/club/FC-Union-Berlin-v1966
+  pngPath: 'png/FC-Union-Berlin-v1966.png'
+  svgPath: 'svg/FC-Union-Berlin-v1966.svg'
+  sourceID: dfb-club-015
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/1-fc-union-berlin'
+  ctrbID: ''

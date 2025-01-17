@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-018
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [1.434167, 43.583056]
+  timeline: true
+  info:
+    - fullName: Toulouse Football Club
+      localName: Toulouse Football Club
+      shortName: Toulouse FC
+      founded: 1937
+      city: Toulouse
+      ground: Stadium de Toulouse
+  websiteURL: 'https://www.toulousefc.com/'
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Toulouse_FC'

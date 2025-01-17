@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-140238-c80d82
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['昆明城市']
+  slug: /cfa/club/Kunming-City-v2024-mono
+  pngPath: 'png/Kunming-City-v2024-mono.png'
+  svgPath: 'svg/Kunming-City-v2024-mono.svg'
+  sourceID: cfa-club-110
+  style: mono
+  reference: 'https://weibo.com/6269639115/ObWfSaH6i'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-140300-09cb9f
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['昆明城市']
+  slug: /cfa/club/Kunming-City-v2024
+  pngPath: 'png/Kunming-City-v2024.png'
+  svgPath: 'svg/Kunming-City-v2024.svg'
+  sourceID: cfa-club-110
+  style: color
+  reference: 'https://weibo.com/6269639115/ObWfSaH6i'
+  ctrbID: ''

@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-014
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [114.282629, 30.711605]
+  timeline: true
+  info:
+    - fullName: 武汉长江足球俱乐部
+      shortName: 武汉长江
+      localName: 武汉长江足球俱乐部
+      city: 武汉，中国
+      founded: 2009
+      duration: 2009 - 2023
+  weiboURL: 'https://weibo.com/whzallfc'
+  wikiURL: 'https://zh.wikipedia.org/wiki/武汉长江足球俱乐部'

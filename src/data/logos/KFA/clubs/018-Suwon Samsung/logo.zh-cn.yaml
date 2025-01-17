@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241023-161909-a4a2e8
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['水原三星蓝翼']
+  slug: /kfa/club/suwon-samsung-bluewings-v0000-mono
+  pngPath: 'png/suwon-samsung-bluewings-v0000-mono.png'
+  svgPath: 'svg/suwon-samsung-bluewings-v0000-mono.svg'
+  sourceID: kfa-club-018
+  style: mono
+  reference: 'http://www.bluewings.kr/emblem'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241023-161947-ed2131
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['水原三星蓝翼']
+  slug: /kfa/club/suwon-samsung-bluewings-v0000
+  pngPath: 'png/suwon-samsung-bluewings-v0000.png'
+  svgPath: 'svg/suwon-samsung-bluewings-v0000.svg'
+  sourceID: kfa-club-018
+  style: color
+  reference: 'http://www.bluewings.kr/emblem'
+  ctrbID: ''

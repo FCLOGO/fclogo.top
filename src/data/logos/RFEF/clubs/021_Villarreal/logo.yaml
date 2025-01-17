@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-171329-3f5751
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Villarreal']
+  slug: /rfef/club/Villarreal-Club-de-Futbol-v2009-mono
+  pngPath: 'png/Villarreal-Club-de-Futbol-v2009-mono.png'
+  svgPath: 'svg/Villarreal-Club-de-Futbol-v2009-mono.svg'
+  sourceID: rfef-club-021
+  style: mono
+  reference: 'https://villarrealcf.es/wp-content/uploads/2024/05/MANUAL-IDENTIDAD_ING.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-171421-b17df3
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Villarreal']
+  slug: /rfef/club/Villarreal-Club-de-Futbol-v2009
+  pngPath: 'png/Villarreal-Club-de-Futbol-v2009.png'
+  svgPath: 'svg/Villarreal-Club-de-Futbol-v2009.svg'
+  sourceID: rfef-club-021
+  style: color
+  reference: 'https://villarrealcf.es/wp-content/uploads/2024/05/MANUAL-IDENTIDAD_ING.pdf'
+  ctrbID: ''

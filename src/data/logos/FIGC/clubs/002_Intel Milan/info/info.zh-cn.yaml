@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: figc-club-002
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.195085381889385, 45.482523864252784]
+  timeline: false
+  info:
+    - fullName: 国际米兰足球俱乐部
+      localName: Football Club Internazionale Milano
+      shortName: 国际米兰
+      founded: 1908
+      city: 米兰
+      ground: 梅阿查球场
+      league:
+  websiteURL: 'https://www.inter.it/en'
+  twitterURL: 'https://twitter.com/Inter_en'
+  weiboURL: 'https://weibo.com/fcinternazionale'
+  wikiURL: 'https://en.wikipedia.org/wiki/Inter_Milan'

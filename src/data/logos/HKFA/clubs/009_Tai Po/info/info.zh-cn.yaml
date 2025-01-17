@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-club-009
+  status: active
+  type: club
+  nation: HKG
+  coordinates: [114.16218291192408, 22.456002470815967]
+  timeline: true
+  info:
+    - fullName: 大埔足球会
+      shortName: 大埔
+      localName: 大埔足球會
+      founded: 2002
+      city: 中国，香港
+      ground: 大埔运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.taipofootballclub.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/大埔足球會'

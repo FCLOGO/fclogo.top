@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241207-143151-27295d
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Philadelphia Union', '费城联']
+  slug: /ussf/club/Philadelphia-Union-v2010
+  pngPath: 'png/Philadelphia-Union-v2010.png'
+  svgPath: 'svg/Philadelphia-Union-v2010.svg'
+  sourceID: ussf-club-021
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-143259-bbee83
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Philadelphia Union', '费城联']
+  slug: /ussf/club/Philadelphia-Union-v2018-mono
+  pngPath: 'png/Philadelphia-Union-v2018-mono.png'
+  svgPath: 'svg/Philadelphia-Union-v2018-mono.svg'
+  sourceID: ussf-club-021
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-143336-2a12f8
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Philadelphia Union', '费城联']
+  slug: /ussf/club/Philadelphia-Union-v2018
+  pngPath: 'png/Philadelphia-Union-v2018.png'
+  svgPath: 'svg/Philadelphia-Union-v2018.svg'
+  sourceID: ussf-club-021
+  style: color
+  reference: ''
+  ctrbID: ''

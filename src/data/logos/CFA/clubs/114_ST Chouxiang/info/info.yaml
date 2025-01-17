@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-114
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [116.76, 23.36]
+  timeline: true
+  info:
+    - fullName: Shantou Chouxiang Football Club
+      shortName: Shantou Chouxiang
+      localName: 汕头抽象足球俱乐部
+      founded: 2023
+      city: Shantou, Guangdong
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

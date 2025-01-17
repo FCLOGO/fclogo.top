@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-021
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.14785298716968, 36.82735197939175]
+  timeline: false
+  info:
+    - fullName: Cheonan City Football Club
+      shortName: Cheonan City
+      localName: 천안시민프로축구단
+      founded: 2008
+      city: Cheonan, Korea
+      ground: Cheonan Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://cheonancityfc.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Cheonan_City_FC'

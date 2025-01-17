@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-013
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [144.74515645081658, -37.83407422111976]
+  timeline: true
+  info:
+    - fullName: Western United Football Club
+      shortName: Western United
+      localName: Western United Football Club
+      founded: 2018
+      city: Melbourne, Australia
+      ground: Wyndham City Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/wufcofficial'
+  websiteURL: 'https://wufc.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Western_United_FC'

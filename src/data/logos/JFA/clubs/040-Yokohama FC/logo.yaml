@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-231048-83deb4
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Yokohama FC']
+  slug: /jfa/club/yokohama-fc-v1999-mono
+  pngPath: 'png/yokohama-fc-v1999-mono.png'
+  svgPath: 'svg/yokohama-fc-v1999-mono.svg'
+  sourceID: jfa-club-040
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Yokohama-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-231127-3918fb
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Yokohama FC']
+  slug: /jfa/club/yokohama-fc-v1999
+  pngPath: 'png/yokohama-fc-v1999.png'
+  svgPath: 'svg/yokohama-fc-v1999.svg'
+  sourceID: jfa-club-040
+  style: color
+  reference: 'https://www.jleague.co/clubs/Yokohama-FC/'
+  ctrbID: ''

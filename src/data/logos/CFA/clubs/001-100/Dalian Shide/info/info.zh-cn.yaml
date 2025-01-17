@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-094
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [121.619169, 38.908893]
+  timeline: true
+  info:
+    - fullName: 大连实德足球俱乐部
+      shortName: 大连实德
+      localName: 大连实德足球俱乐部
+      city: 大连，中国
+      founded: 1983
+      duration: 1983 - 2012
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/大连实德足球俱乐部'

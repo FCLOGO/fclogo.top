@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-011
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.22065153088677558, 51.474459624014074]
+  timeline: false
+  info:
+    - fullName: 富勒姆足球俱乐部
+      localName: Fulham Football Club
+      shortName: 富勒姆
+      founded: 1879
+      city: 伦敦
+      ground: 克拉文农场球场
+      league:
+  websiteURL: 'https://www.fulhamfc.com/'
+  twitterURL: 'https://twitter.com/FulhamFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Fulham_F.C.'

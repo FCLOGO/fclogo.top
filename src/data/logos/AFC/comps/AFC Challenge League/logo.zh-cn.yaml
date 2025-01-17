@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240910-103331-d69e3c
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['亚足联挑战联赛']
+  slug: /afc/comp/afc-challenge-league-v2024-mono
+  pngPath: 'png/afc-challenge-league-v2024-mono.png'
+  svgPath: 'svg/afc-challenge-league-v2024-mono.svg'
+  sourceID: afc-comp-004
+  style: mono
+  reference: 'https://assets.the-afc.com/downloads/tournament-regulations/AFC-Challenge-League-2024_25-Competition-Regulations.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-103426-3cf554
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['亚足联挑战联赛']
+  slug: /afc/comp/afc-challenge-league-v2024
+  pngPath: 'png/afc-challenge-league-v2024.png'
+  svgPath: 'svg/afc-challenge-league-v2024.svg'
+  sourceID: afc-comp-004
+  style: color
+  reference: 'https://assets.the-afc.com/downloads/tournament-regulations/AFC-Challenge-League-2024_25-Competition-Regulations.pdf'
+  ctrbID: ''

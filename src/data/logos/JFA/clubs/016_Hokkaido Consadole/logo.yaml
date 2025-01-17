@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240926-084420-76b2d9
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hokkaido Consadole Sapporo']
+  slug: /jfa/club/hokkaido-consadole-v2016-mono
+  pngPath: 'png/hokkaido-consadole-v2016-mono.png'
+  svgPath: 'svg/hokkaido-consadole-v2016-mono.svg'
+  sourceID: jfa-club-016
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240926-084519-e56221
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hokkaido Consadole Sapporo']
+  slug: /jfa/club/hokkaido-consadole-v2016
+  pngPath: 'png/hokkaido-consadole-v2016.png'
+  svgPath: 'svg/hokkaido-consadole-v2016.svg'
+  sourceID: jfa-club-016
+  style: color
+  reference: 'https://www.jleague.co/clubs/Hokkaido-Consadole-Sapporo/'
+  ctrbID: ''

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-110607-80c141
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangdong Mingtu']
+  slug: /cfa/club/Guangdong-Mingtu-v2024-mono
+  pngPath: 'png/Guangdong-Mingtu-v2024-mono.png'
+  svgPath: 'svg/Guangdong-Mingtu-v2024-mono.svg'
+  sourceID: cfa-club-105
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-110634-da8983
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangdong Mingtu']
+  slug: /cfa/club/Guangdong-Mingtu-v2024
+  pngPath: 'png/Guangdong-Mingtu-v2024.png'
+  svgPath: 'svg/Guangdong-Mingtu-v2024.svg'
+  sourceID: cfa-club-105
+  style: color
+  reference: ''
+  ctrbID: ''

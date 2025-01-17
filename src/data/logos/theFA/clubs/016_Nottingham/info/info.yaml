@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-016
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.132841888261191, 52.939855492368615]
+  timeline: false
+  info:
+    - fullName: Nottingham Forest Football Club
+      localName: Nottingham Forest Football Club
+      shortName: Nottingham Forest
+      founded: 1865
+      city: West Bridgford
+      ground: City Ground
+      league:
+  websiteURL: 'https://www.nottinghamforest.co.uk/'
+  twitterURL: 'https://twitter.com/nffc'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.'

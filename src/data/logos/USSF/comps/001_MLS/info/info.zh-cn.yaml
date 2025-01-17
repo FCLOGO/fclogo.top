@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-comp-001
+  type: comp
+  nation: USA
+  timeline: false
+  info:
+    - fullName: 美国职业足球大联盟
+      shortName: 美职联
+      localName: Major League Soccer
+      founded: 1996
+      confederation: 中北美洲及加勒比海足球协会
+      teams: 30
+      level: 第 1 级别
+      promotion:
+      relegation:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/mls'
+  websiteURL: 'https://www.mlssoccer.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Major_League_Soccer'

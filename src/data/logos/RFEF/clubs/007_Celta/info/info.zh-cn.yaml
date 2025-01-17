@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-007
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-8.739694, 42.211833]
+  timeline: false
+  info:
+    - fullName: 皇家维戈塞尔塔俱乐部
+      localName: Real Club Celta de Vigo
+      shortName: 维戈塞尔塔
+      founded: 1923
+      city: 维戈
+      ground: 巴拉伊多斯球场
+  websiteURL: 'https://rccelta.es/'
+  twitterURL: 'https://twitter.com/rccelta'
+  weiboURL: 'https://weibo.com/u/6931899493'
+  wikiURL: 'https://en.wikipedia.org/wiki/RC_Celta_de_Vigo'

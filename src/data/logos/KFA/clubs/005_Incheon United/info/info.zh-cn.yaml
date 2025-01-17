@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-005
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [126.64330391454834, 37.46839084031833]
+  timeline: true
+  info:
+    - fullName: 仁川联足球俱乐部
+      shortName: 仁川联
+      localName: 인천 유나이티드 프로축구단
+      founded: 2003
+      city: 韩国，仁川
+      ground: 仁川祟义足球场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.incheonutd.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Incheon_United_FC'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-001
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [151.4234149557023, -33.31205545556832]
+  timeline: true
+  info:
+    - fullName: 中央海岸水手足球俱乐部
+      shortName: 中央海岸水手
+      localName: Central Coast Mariners Football Club
+      founded: 2004
+      city: 澳大利亚，戈斯福德
+      ground: 中央海岸球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/CCMariners'
+  websiteURL: 'https://ccmariners.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Central_Coast_Mariners_FC'

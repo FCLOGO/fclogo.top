@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-223722-74e3c3
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['陕西西北青年人']
+  slug: /cfa/club/Shaanxi-Northwest-Youth-v2023-mono
+  pngPath: 'png/Shaanxi-Northwest-Youth-v2023-mono.png'
+  svgPath: 'svg/Shaanxi-Northwest-Youth-v2023-mono.svg'
+  sourceID: cfa-club-115
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-223800-d1c40f
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['陕西西北青年人']
+  slug: /cfa/club/Shaanxi-Northwest-Youth-v2023
+  pngPath: 'png/Shaanxi-Northwest-Youth-v2023.png'
+  svgPath: 'svg/Shaanxi-Northwest-Youth-v2023.svg'
+  sourceID: cfa-club-115
+  style: color
+  reference: ''
+  ctrbID: ''

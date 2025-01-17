@@ -1,0 +1,78 @@
+- data: logo
+  logoID: 20231113-151709-902013
+  version: 1994
+  isDoubtful: true
+  isOutdated: true
+  verName: ['大连万达', '大连万达实德']
+  slug: /cfa/club/dalian-wanda-v1994-kits
+  pngPath: 'png/dalian-wanda-v1994-kits.png'
+  svgPath: 'svg/dalian-wanda-v1994-kits.svg'
+  sourceID: cfa-club-094
+  style: kits
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//dalian-wanda-1996-1997-home-kits.png'
+
+- data: logo
+  logoID: 20231113-151806-fb321c
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连实德']
+  slug: /cfa/club/dalian-shide-v2000
+  pngPath: 'png/dalian-shide-v2000.png'
+  svgPath: 'svg/dalian-shide-v2000.svg'
+  sourceID: cfa-club-094
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231113-151919-8605a5
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['大连实德']
+  slug: /cfa/club/dalian-shide-v2002
+  pngPath: 'png/dalian-shide-v2002.png'
+  svgPath: 'svg/dalian-shide-v2002.svg'
+  sourceID: cfa-club-094
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231113-151955-b072d1
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大连实德']
+  slug: /cfa/club/dalian-shide-v2006-mono
+  pngPath: 'png/dalian-shide-v2006-mono.png'
+  svgPath: 'svg/dalian-shide-v2006-mono.svg'
+  sourceID: cfa-club-094
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231113-152023-448b6a
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大连实德']
+  slug: /cfa/club/dalian-shide-v2006
+  pngPath: 'png/dalian-shide-v2006.png'
+  svgPath: 'svg/dalian-shide-v2006.svg'
+  sourceID: cfa-club-094
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231215-090404-8f0b48
+  version: 1994
+  isDoubtful: true
+  isOutdated: true
+  verName: ['大连万达', '大连万达实德']
+  slug: /cfa/club/dalian-wanda-v1994
+  pngPath: 'png/dalian-wanda-v1994.png'
+  svgPath: 'svg/dalian-wanda-v1994.svg'
+  sourceID: cfa-club-094
+  style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference@latest/1999-jia-a-qiuxing-ka.jpg'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-025
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.788586, 31.276048]
+  timeline: true
+  info:
+    - fullName: Suzhou Dongwu Football Club
+      shortName: Suzhou Dongwu
+      localName: 苏州东吴足球俱乐部
+      city: Suzhou, China
+      founded: 2008
+      ground: Suzhou Sports Center
+      league: China League
+  weiboURL: 'https://weibo.com/u/5804172181'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Suzhou_Dongwu_F.C.'

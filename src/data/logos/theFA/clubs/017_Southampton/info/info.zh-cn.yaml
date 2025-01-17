@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-017
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.3900804194785963, 50.90581700367803]
+  timeline: false
+  info:
+    - fullName: 南安普敦足球俱乐部
+      localName: Southampton Football Club
+      shortName: 南安普敦
+      founded: 1885
+      city: 南安普敦
+      ground: 圣玛丽球场
+      league:
+  websiteURL: 'https://www.southamptonfc.com/'
+  twitterURL: 'https://twitter.com/SouthamptonFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Southampton_F.C.'

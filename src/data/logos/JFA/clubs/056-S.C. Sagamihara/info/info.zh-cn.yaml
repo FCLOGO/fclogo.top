@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-056
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.43541083593132, 35.53285790702868]
+  timeline: true
+  info:
+    - fullName: 相模原体育俱乐部
+      shortName: SC 相模原
+      localName: スポーツクラブ相模原
+      founded: 2008
+      city: 日本，相模原
+      ground: 相模原麻沟公园竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/sc_sagamihara/'
+  websiteURL: 'http://www.scsagamihara.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/SC_Sagamihara'

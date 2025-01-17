@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-223723-d07aad
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Tochigi SC']
+  slug: /jfa/club/tochigi-sc-v2000-mono
+  pngPath: 'png/tochigi-sc-v2000-mono.png'
+  svgPath: 'svg/tochigi-sc-v2000-mono.svg'
+  sourceID: jfa-club-036
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Tochigi-SC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-223758-6d4c02
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Tochigi SC']
+  slug: /jfa/club/tochigi-sc-v2000
+  pngPath: 'png/tochigi-sc-v2000.png'
+  svgPath: 'svg/tochigi-sc-v2000.svg'
+  sourceID: jfa-club-036
+  style: color
+  reference: 'https://www.jleague.co/clubs/Tochigi-SC/'
+  ctrbID: ''

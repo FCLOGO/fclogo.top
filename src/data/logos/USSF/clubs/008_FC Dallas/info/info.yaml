@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-008
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-96.83597349909437, 33.15421357826674]
+  timeline: false
+  info:
+    - fullName: Football Club Dallas
+      shortName: FC Dallas
+      localName: Football Club Dallas
+      founded: 1995
+      city: Frisco, Texas
+      ground: Toyota Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/FCDallas'
+  websiteURL: 'https://www.fcdallas.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Dallas'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250102-191724-dd4ac7
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CD Leganés']
+  slug: /rfef/club/Club-Deportivo-Leganes-v2014-mono
+  pngPath: 'png/Club-Deportivo-Leganes-v2014-mono.png'
+  svgPath: 'svg/Club-Deportivo-Leganes-v2014-mono.svg'
+  sourceID: rfef-club-011
+  style: mono
+  reference: 'https://www.cdleganes.com/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250102-191813-3d6985
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CD Leganés']
+  slug: /rfef/club/Club-Deportivo-Leganes-v2014
+  pngPath: 'png/Club-Deportivo-Leganes-v2014.png'
+  svgPath: 'svg/Club-Deportivo-Leganes-v2014.svg'
+  sourceID: rfef-club-011
+  style: color
+  reference: 'https://parcelas.cdleganes.com'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-111
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [118.84, 31.94]
+  timeline: false
+  info:
+    - fullName: Nanjing Tiehu Football Club
+      shortName: Nanjing Tiehu
+      localName: 南京铁虎足球俱乐部
+      founded: 1997
+      city: Nanjing, Jiangsu
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E9%93%81%E8%99%8E%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/53654385'

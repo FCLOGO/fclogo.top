@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-191418-a515b5
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['YSCC横滨', 'Y.S.C.C.', '横滨SCC', '横滨体育']
+  slug: /jfa/club/yokohama-soccer-culture-club-v0000-mono
+  pngPath: 'png/yokohama-soccer-culture-club-v0000-mono.png'
+  svgPath: 'svg/yokohama-soccer-culture-club-v0000-mono.svg'
+  sourceID: jfa-club-060
+  style: mono
+  reference: 'https://www.jleague.co/clubs/YSCC-Yokohama/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-191553-2cf218
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['YSCC横滨', 'Y.S.C.C.', '横滨SCC', '横滨体育']
+  slug: /jfa/club/yokohama-soccer-culture-club-v0000
+  pngPath: 'png/yokohama-soccer-culture-club-v0000.png'
+  svgPath: 'svg/yokohama-soccer-culture-club-v0000.svg'
+  sourceID: jfa-club-060
+  style: color
+  reference: 'https://www.jleague.co/clubs/YSCC-Yokohama/'
+  ctrbID: ''

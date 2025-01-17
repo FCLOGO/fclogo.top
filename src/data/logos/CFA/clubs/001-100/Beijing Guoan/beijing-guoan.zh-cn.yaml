@@ -1,0 +1,123 @@
+- data: logo
+  logoID: 20211012-001
+  version: 2002
+  isOutdated: true
+  verName: ['北京国安', '北京中赫国安']
+  pngPath: 'png/beijing-guoan-v2002.png'
+  svgPath: 'svg/beijing-guoan-v2002.svg'
+  sourceID: cfa-club-002
+  style: color
+  slug: /cfa/club/beijing-guoan-v2002
+
+- data: logo
+  logoID: 20211012-002
+  version: 2002
+  isOutdated: true
+  verName: ['北京国安', '北京中赫国安']
+  pngPath: 'png/beijing-guoan-v2002-mono.png'
+  svgPath: 'svg/beijing-guoan-v2002-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
+  slug: /cfa/club/beijing-guoan-v2002-mono
+
+- data: logo
+  logoID: 20211012-003
+  version: 1992
+  isOutdated: true
+  verName: ['北京国安']
+  pngPath: 'png/beijing-guoan-v1992.png'
+  svgPath: 'svg/beijing-guoan-v1992.svg'
+  sourceID: cfa-club-002
+  style: color
+  slug: /cfa/club/beijing-guoan-v1992
+
+- data: logo
+  logoID: 20211012-004
+  version: 1992
+  isOutdated: true
+  verName: ['北京国安']
+  pngPath: 'png/beijing-guoan-v1992-mono.png'
+  svgPath: 'svg/beijing-guoan-v1992-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
+  slug: /cfa/club/beijing-guoan-v1992-mono
+
+- data: logo
+  logoID: 20211012-005
+  version: 1995
+  isOutdated: true
+  verName: ['北京国安']
+  pngPath: 'png/beijing-guoan-v1995.png'
+  svgPath: 'svg/beijing-guoan-v1995.svg'
+  sourceID: cfa-club-002
+  style: color
+  slug: /cfa/club/beijing-guoan-v1995
+
+- data: logo
+  logoID: 20211012-006
+  version: 1995
+  isOutdated: true
+  verName: ['北京国安']
+  pngPath: 'png/beijing-guoan-v1995-mono.png'
+  svgPath: 'svg/beijing-guoan-v1995-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
+  slug: /cfa/club/beijing-guoan-v1995-mono
+
+- data: logo
+  logoID: 20211012-007
+  version: 1996
+  isOutdated: true
+  verName: ['北京国安']
+  pngPath: 'png/beijing-guoan-v1996.png'
+  svgPath: 'svg/beijing-guoan-v1996.svg'
+  sourceID: cfa-club-002
+  style: color
+  slug: /cfa/club/beijing-guoan-v1996
+
+- data: logo
+  logoID: 20211012-008
+  version: 1996
+  isOutdated: true
+  verName: ['北京国安']
+  pngPath: 'png/beijing-guoan-v1996-mono.png'
+  svgPath: 'svg/beijing-guoan-v1996-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
+  slug: /cfa/club/beijing-guoan-v1996-mono
+
+- data: logo
+  logoID: 20211024-001
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京国安']
+  slug: /cfa/club/beijing-guoan-v2022
+  pngPath: 'png/beijing-guoan-v2022.png'
+  svgPath: 'svg/beijing-guoan-v2022.svg'
+  sourceID: cfa-club-002
+  style: color
+
+- data: logo
+  logoID: 20211024-002
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京国安']
+  slug: /cfa/club/beijing-guoan-v2022-mono
+  pngPath: 'png/beijing-guoan-v2022-mono.png'
+  svgPath: 'svg/beijing-guoan-v2022-mono.svg'
+  sourceID: cfa-club-002
+  style: mono
+
+- data: logo
+  logoID: 20220427-131837
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['北京国安']
+  slug: /cfa/club/beijing-guoan-v2022-official-mono
+  pngPath: 'png/beijing-guoan-v2022-official-mono.png'
+  svgPath: 'svg/beijing-guoan-v2022-official-mono.svg'
+  sourceID: cfa-club-002
+  style: mono

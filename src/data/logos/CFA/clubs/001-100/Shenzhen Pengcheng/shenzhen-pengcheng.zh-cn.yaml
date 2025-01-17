@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-155545
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['深圳鹏城']
+  slug: /cfa/club/shenzhen-pengcheng-v2016-mono
+  pngPath: 'png/shenzhen-pengcheng-v2016-mono.png'
+  svgPath: 'svg/shenzhen-pengcheng-v2016-mono.svg'
+  sourceID: cfa-club-077
+  style: mono
+
+- data: logo
+  logoID: 20211208-155617
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['深圳鹏城']
+  slug: /cfa/club/shenzhen-pengcheng-v2016
+  pngPath: 'png/shenzhen-pengcheng-v2016.png'
+  svgPath: 'svg/shenzhen-pengcheng-v2016.svg'
+  sourceID: cfa-club-077
+  style: color

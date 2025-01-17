@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-020
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-81.38998081963474, 28.54115753669293]
+  timeline: true
+  info:
+    - fullName: Orlando City Soccer Club
+      shortName: Orlando City SC
+      localName: Orlando City Soccer Club
+      founded: 2010
+      city: Orlando, Florida
+      ground: Inter&Co Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/orlandocitysc'
+  websiteURL: 'https://www.orlandocitysc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Orlando_City_SC'

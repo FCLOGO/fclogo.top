@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241002-092203-e291e6
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gangwon FC']
+  slug: /kfa/club/gangwon-fc-v2009-mono
+  pngPath: 'png/gangwon-fc-v2009-mono.png'
+  svgPath: 'svg/gangwon-fc-v2009-mono.svg'
+  sourceID: kfa-club-010
+  style: mono
+  reference: 'https://www.gangwon-fc.com/club/emblem'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241002-092301-70d582
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gangwon FC']
+  slug: /kfa/club/gangwon-fc-v2009
+  pngPath: 'png/gangwon-fc-v2009.png'
+  svgPath: 'svg/gangwon-fc-v2009.svg'
+  sourceID: kfa-club-010
+  style: color
+  reference: 'https://www.gangwon-fc.com/club/emblem'
+  ctrbID: ''

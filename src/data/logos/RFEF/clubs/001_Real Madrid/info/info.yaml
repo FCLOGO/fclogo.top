@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: rfef-club-001
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.6883617210096338, 40.45305646873621]
+  timeline: false
+  info:
+    - fullName: Real Madrid Club de Fútbol
+      localName: Real Madrid Club de Fútbol
+      shortName: Real Madrid
+      founded: 1902
+      city: Madrid
+      ground: Estadio Santiago Bernabéu
+      league:
+  weiboURL: 'https://weibo.com/u/3855731810'
+  twitterURL: 'https://twitter.com/realmadrid'
+  websiteURL: 'https://www.realmadrid.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Madrid_CF'

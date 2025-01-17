@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241023-160225-e02add
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jeonnam Dragons']
+  slug: /kfa/club/jeonnam-dragons-v2022-mono
+  pngPath: 'png/jeonnam-dragons-v2022-mono.png'
+  svgPath: 'svg/jeonnam-dragons-v2022-mono.svg'
+  sourceID: kfa-club-017
+  style: mono
+  reference: 'https://www.dragons.co.kr/club/emblem'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241023-160309-911a8b
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jeonnam Dragons']
+  slug: /kfa/club/jeonnam-dragons-v2022
+  pngPath: 'png/jeonnam-dragons-v2022.png'
+  svgPath: 'svg/jeonnam-dragons-v2022.svg'
+  sourceID: kfa-club-017
+  style: color
+  reference: 'https://www.dragons.co.kr/club/emblem'
+  ctrbID: ''

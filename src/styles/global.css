@@ -1,0 +1,327 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fonts: metropolis */
+@font-face {
+  font-family: metropolis;
+  font-style: normal;
+  font-weight: 100;
+  src: url('./fonts/Metropolis/eot/Metropolis-Thin.eot');
+  src:
+    local('Metropolis Thin'),
+    url('./fonts/Metropolis/eot/Metropolis-Thin.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Thin.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: metropolis;
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/Metropolis/eot/Metropolis-Regular.eot');
+  src:
+    local('Metropolis Regular'),
+    url('./fonts/Metropolis/eot/Metropolis-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Regular.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: metropolis;
+  font-style: normal;
+  font-weight: 500;
+  src: url('./fonts/Metropolis/eot/Metropolis-Medium.eot');
+  src:
+    local('Metropolis Medium'),
+    url('./fonts/Metropolis/eot/Metropolis-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Medium.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: metropolis;
+  font-style: normal;
+  font-weight: 600;
+  src: url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot');
+  src:
+    local('Metropolis SemiBold'),
+    url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-SemiBold.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: metropolis;
+  font-style: normal;
+  font-weight: 700;
+  src: url('./fonts/Metropolis/eot/Metropolis-Bold.eot');
+  src:
+    local('Metropolis Bold'),
+    url('./fonts/Metropolis/eot/Metropolis-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Metropolis/woff/Metropolis-Bold.woff') format('woff'),
+    url('./fonts/Metropolis/TrueType/Metropolis-Bold.ttf') format('truetype');
+}
+
+/* Font JetBrainsMono */
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url('./fonts/JetBrainsMono/JetBrainsMono-Regular.ttf');
+  src:
+    local('JetBrainsMono Regular'),
+    url('./fonts/JetBrainsMono/JetBrainsMono-Regular.ttf') format('truetype'),
+    url('./fonts/JetBrainsMono/JetBrainsMono-Regular.woff2') format('woff');
+}
+
+::selection {
+  background-color: rgba(46, 232, 149, 0.5);
+}
+
+@layer base {
+  body {
+    @apply bg-gray;
+    @apply text-sm;
+  }
+
+  /* 移除默认搜索框的取消按钮 */
+  input[type='search']::-webkit-search-cancel-button,
+  input[type='search']::-webkit-search-decoration {
+    display: none;
+  }
+
+  /* 移除 input mark 背景色 */
+  input,
+  mark {
+    background: none;
+    appearance: none;
+    outline: none;
+  }
+}
+
+/* Text Links */
+.text-link {
+  padding-bottom: 1px;
+  text-decoration: none;
+  border-bottom: 1px dotted;
+  transition: border-bottom 0.2s ease-out;
+}
+
+.text-link:hover {
+  border-bottom: 1px solid;
+}
+
+/* Info Table */
+.info-table {
+  font-size: small;
+  overflow: auto;
+  width: 100%;
+  border-collapse: collapse;
+  word-wrap: normal;
+  word-break: normal;
+  margin: 0 0 1.5em;
+}
+
+.info-table th {
+  font-weight: 500;
+  padding: 0.4em;
+  text-align: left;
+}
+
+.info-table td {
+  padding: 0.4em;
+}
+
+.info-table th:first-child,
+.info-table td:first-child {
+  padding-left: 0;
+}
+
+.info-table th:last-child,
+.info-table td:last-child {
+  padding-right: 0;
+}
+
+/* Sidebar Social Links */
+.sidebar-socail a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.sidebar-socail a:hover {
+  background-color: rgba(14, 42, 71, 0.1);
+}
+
+.sidebar-socail svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* 文档目录标题跳转滚动偏移修正 */
+.support-content h2[id],
+.support-content h3[id] {
+  scroll-margin-top: 200px;
+}
+
+/* support 文档目录 */
+.support-toc ul {
+  margin-top: 12px;
+}
+
+.support-toc li {
+  margin-bottom: 12px;
+}
+
+.support-toc > ul > li {
+  font-weight: 600;
+}
+
+.support-toc li ul {
+  margin-left: 12px;
+  font-weight: 400;
+}
+
+/* 修正标题锚点位置 */
+.anchor.before {
+  top: 5px;
+}
+
+/* 索引表格样式 */
+.complete span {
+  background: #66cc66;
+}
+
+.not-complete span {
+  background: #ff6666;
+}
+
+.rdt_TableCell[data-column-id='1'],
+.rdt_TableCell[data-column-id='5'],
+.rdt_TableCell[data-column-id='7'],
+.rdt_TableCell[data-column-id='8'] {
+  font-family: 'JetBrainsMono', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas',
+    'Liberation Mono', 'Courier New', 'monospace';
+  text-transform: uppercase;
+}
+
+/* Modal Routing Styles */
+.ReactModal__Body--open {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.modal_overlay {
+  position: fixed;
+  z-index: 100;
+  inset: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(14, 42, 71, 0.8);
+}
+
+.modal_content {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.modal_content .main-content {
+  padding: 0 120px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.modal_content .content-inner {
+  background: #f6f8fa;
+  border-radius: 10px;
+  margin: 30px auto;
+  overflow: hidden;
+  min-height: calc(100vh - 60px);
+}
+
+.modal_content .detail-wrapper > section {
+  padding-top: 0;
+}
+
+.modal_content .detail-wrapper > aside {
+  padding-top: 30px;
+}
+
+.modal_content .logo-reference {
+  top: 20px;
+}
+
+.modal_content .ad-overlay {
+  padding-top: 20px;
+}
+
+.modal_content .detail-nav {
+  border: none;
+  position: fixed;
+  z-index: 1;
+  top: 45%;
+  left: 0;
+  padding: 0 40px;
+}
+
+.modal_content .detail-nav svg {
+  stroke: #f6f8fa;
+}
+
+.modal_content .nav-link {
+  border-radius: 50%;
+}
+
+/* MapBox Popup 圆角 */
+.mapboxgl-popup-content {
+  border-radius: 5px !important;
+}
+
+/* Ad 加载不成功时，容器隐藏 */
+.ad-container:has(ins.adsbygoogle[data-ad-status='unfilled']) {
+  display: none;
+}
+
+/* remark-images 图片样式 */
+.gatsby-resp-image-wrapper {
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.06);
+}
+
+.gatsby-resp-image-figcaption {
+  font-size: 0.8rem;
+  color: #bababa;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* Code Line highlighting */
+.gatsby-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.5);
+  display: block;
+  margin-right: -1em;
+  margin-left: -1em;
+  padding-right: 1em;
+  padding-left: 0.75em;
+  border-left: 0.25em solid #2ee895;
+}
+
+/* Support 页面 table 样式 */
+.support-content table {
+  border-top: 2px solid #24292f;
+  border-bottom: 2px solid #24292f;
+}
+
+.support-content table thead th {
+  padding-top: 0.5714286em;
+}

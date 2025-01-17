@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-comp-002
+  type: comp
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 日本 J2 联赛
+      shortName: J2 联赛
+      localName: J2リーグ
+      founded: 1999
+      confederation: AFC
+      teams: 20
+      level: 第 2 级别
+      promotion: J1 联赛
+      relegation: J3 联赛
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/J_League'
+  websiteURL: 'https://www.jleague.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/J2_League'

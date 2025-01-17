@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-051
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [124.350498, 40.03018]
+  timeline: true
+  info:
+    - fullName: 丹东腾跃足球俱乐部
+      shortName: 丹东腾跃
+      localName: 丹东腾跃足球俱乐部
+      founded: 2017
+      city: 丹东，中国
+      duration: 2017 - 2024赛
+  weiboURL: 'https://weibo.com/u/7304280780'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/丹东腾跃足球俱乐部/56402635'

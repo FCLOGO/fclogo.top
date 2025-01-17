@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-089
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [106.080614, 29.82483]
+  timeline: true
+  info:
+    - fullName: 重庆铜梁龙足球俱乐部
+      shortName: 重庆铜梁龙
+      localName: 重庆铜梁龙足球俱乐部
+      founded: 2021
+      city: 重庆，中国
+      ground: 重庆铜梁龙体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/1833967471'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/重庆铜梁龙足球俱乐部/61302944'

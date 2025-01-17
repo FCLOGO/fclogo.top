@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240922-165809-5661c3
+  version: 2017
+  isDoubtful: true
+  isOutdated: false
+  verName: ['理文']
+  slug: /hkfa/club/lee-man-v2017-mono
+  pngPath: 'png/lee-man-v2017-mono.png'
+  svgPath: 'svg/lee-man-v2017-mono.svg'
+  sourceID: hkfa-club-008
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-165857-debac4
+  version: 2017
+  isDoubtful: true
+  isOutdated: false
+  verName: ['理文']
+  slug: /hkfa/club/lee-man-v2017
+  pngPath: 'png/lee-man-v2017.png'
+  svgPath: 'svg/lee-man-v2017.svg'
+  sourceID: hkfa-club-008
+  style: color
+  reference: ''
+  ctrbID: ''

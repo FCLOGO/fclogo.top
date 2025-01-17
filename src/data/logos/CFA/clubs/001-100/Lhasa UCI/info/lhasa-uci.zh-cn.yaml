@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-076
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [91.141502, 29.657796]
+  timeline: true
+  info:
+    - fullName: 拉萨城投足球俱乐部
+      shortName: 拉萨城投
+      localName: 拉萨城投足球俱乐部
+      city: 拉萨，中国
+      founded: 2017
+      duration: 2017 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/拉萨城投足球俱乐部'

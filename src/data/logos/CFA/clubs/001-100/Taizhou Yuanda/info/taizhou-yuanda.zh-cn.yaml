@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-072
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [120.072508, 32.184754]
+  info:
+    - fullName: 泰州远大足球俱乐部
+      shortName: 泰州远大
+      localName: 泰州远大足球俱乐部
+      city: 泰州，中国
+      founded: 2017
+      duration: 2017 - 2021
+      ground: 泰州体育中心
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/泰州远大足球俱乐部'

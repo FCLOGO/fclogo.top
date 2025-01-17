@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-010
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.967061006956771, 53.438914533656984]
+  timeline: false
+  info:
+    - fullName: 埃弗顿足球俱乐部
+      localName: Everton Football Club
+      shortName: 埃弗顿
+      founded: 1878
+      city: 利物浦
+      ground: 埃弗顿球场
+      league:
+  websiteURL: 'https://www.evertonfc.com/'
+  twitterURL: 'https://x.com/everton'
+  weiboURL: 'https://weibo.com/evertonfccn'
+  wikiURL: 'https://en.wikipedia.org/wiki/Everton_F.C.'

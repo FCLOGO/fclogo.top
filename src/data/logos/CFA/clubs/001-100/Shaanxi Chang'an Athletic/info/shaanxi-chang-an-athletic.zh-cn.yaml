@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-021
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [108.884972, 34.202181]
+  timeline: true
+  info:
+    - fullName: 陕西长安竞技足球俱乐部
+      shortName: 陕西长安竞技
+      localName: 陕西长安竞技足球俱乐部
+      city: 西安，中国
+      founded: 2016
+      duration: 2016 - 2023
+  weiboURL: 'https://weibo.com/u/5893966904'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/zh-cn/陕西长安竞技足球俱乐部'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-011
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.829690464417952, 48.02164211593711]
+  timeline: false
+  info:
+    - fullName: 弗赖堡体育俱乐部
+      localName: Sport-Club Freiburg e.V.
+      shortName: SC 弗赖堡
+      founded: 1904
+      city: 弗赖堡
+      ground: 欧洲公园体育场
+      league:
+  websiteURL: 'https://www.scfreiburg.com/'
+  twitterURL: 'https://x.com/scfreiburg'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SC_Freiburg'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-030
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [140.47449023558207, 36.369630580673245]
+  timeline: false
+  info:
+    - fullName: 茨城水户蜀葵足球俱乐部
+      shortName: 水户蜀葵
+      localName: 水戸ホーリーホック
+      founded: 1994
+      city: 日本，水户
+      ground: 水户市立竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/hollyhock_staff/'
+  websiteURL: 'http://www.mito-hollyhock.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Mito_HollyHock'

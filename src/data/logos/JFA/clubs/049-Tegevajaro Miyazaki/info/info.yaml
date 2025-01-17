@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-049
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [131.41548744541643, 31.935680043038364]
+  timeline: false
+  info:
+    - fullName: Tegevajaro Miyazaki Football Club
+      shortName: Tegevajaro Miyazaki
+      localName: テゲバジャーロ宮崎
+      founded: 1965
+      city: Miyazaki, Japan
+      ground: Ichigo Miyazaki Shintomi Football Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/55tegevajaro/'
+  websiteURL: 'https://www.tegevajaro.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tegevajaro_Miyazaki'

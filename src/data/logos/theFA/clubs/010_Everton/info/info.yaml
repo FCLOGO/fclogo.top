@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-010
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.967061006956771, 53.438914533656984]
+  timeline: false
+  info:
+    - fullName: Everton Football Club
+      localName: Everton Football Club
+      shortName: Everton
+      founded: 1878
+      city: Liverpool
+      ground: Everton Stadium
+      league:
+  websiteURL: 'https://www.evertonfc.com/'
+  twitterURL: 'https://x.com/everton'
+  weiboURL: 'https://weibo.com/evertonfccn'
+  wikiURL: 'https://en.wikipedia.org/wiki/Everton_F.C.'

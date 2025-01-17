@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240929-203300-9cc057
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['西悉尼流浪者']
+  slug: /fa/club/western-sydney-v2012-mono
+  pngPath: 'png/western-sydney-v2012-mono.png'
+  svgPath: 'svg/western-sydney-v2012-mono.svg'
+  sourceID: fa-club-012
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-203357-30052d
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['西悉尼流浪者']
+  slug: /fa/club/western-sydney-v2012
+  pngPath: 'png/western-sydney-v2012.png'
+  svgPath: 'svg/western-sydney-v2012.svg'
+  sourceID: fa-club-012
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-008
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [130.42286268562452, 33.65799228950665]
+  timeline: false
+  info:
+    - fullName: Avispa Fukuoka Football Club
+      shortName: Avispa Fukuoka
+      localName: アビスパ福岡
+      founded: 1982
+      city: Fukuoka, Japan
+      ground: Best Denki Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/AvispaF/'
+  websiteURL: 'http://www.avispa.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Avispa_Fukuoka'

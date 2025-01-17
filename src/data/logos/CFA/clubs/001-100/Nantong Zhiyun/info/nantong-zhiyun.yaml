@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-022
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.589261, 32.375547]
+  timeline: true
+  info:
+    - fullName: Nantong Zhiyun Football Club
+      shortName: Nantong Zhiyun
+      localName: 南通支云足球俱乐部
+      city: Nantong, China
+      founded: 2016
+      ground: Rugao Olympic Sports Center
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/5800740152'
+  twitterURL: ''
+  websiteURL: 'http://www.nantongzhiyunfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Nantong_Zhiyun_F.C.'

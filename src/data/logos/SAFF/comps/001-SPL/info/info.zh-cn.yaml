@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-comp-001
+  type: comp
+  nation: SAU
+  timeline: false
+  info:
+    - fullName: 沙特职业足球联赛
+      shortName: 沙特职业联赛
+      localName: دوري المحترفين السعودي
+      founded: 1976
+      confederation: AFC
+      teams: 18
+      level: 第 1 级
+      promotion:
+      relegation: 沙特甲级联赛
+  weiboURL: 'https://weibo.com/u/7871916813'
+  twitterURL: 'https://twitter.com/SPL_EN'
+  websiteURL: 'https://www.spl.com.sa/en'
+  wikiURL: 'https://en.wikipedia.org/wiki/Saudi_Pro_League'

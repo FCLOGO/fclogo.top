@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-033
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.521572764417805, 52.29012935634775]
+  timeline: false
+  info:
+    - fullName: 不伦瑞克足球俱乐部
+      localName: Eintracht Braunschweig GmbH & Co. KGaA
+      shortName: 不伦瑞克
+      founded: 1895
+      city: 不伦瑞克
+      ground: 和睦体育场
+  websiteURL: 'https://www.eintracht.com/'
+  twitterURL: 'https://x.com/EintrachtBSNews'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Eintracht_Braunschweig'

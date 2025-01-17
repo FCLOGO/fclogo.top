@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-011
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [3.8120537508946075, 43.62214675115401]
+  timeline: false
+  info:
+    - fullName: 蒙彼利埃足球俱乐部
+      localName: Montpellier Hérault Sport Club
+      shortName: 蒙彼利埃
+      founded: 1919
+      city: 蒙彼利埃
+      ground: 莫桑球场
+  websiteURL: 'https://mhscfoot.com/'
+  twitterURL: 'https://x.com/montpellierhsc'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Montpellier_HSC'

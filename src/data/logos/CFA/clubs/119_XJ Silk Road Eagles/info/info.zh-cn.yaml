@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-119
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [87.61, 43.79]
+  timeline: true
+  info:
+    - fullName: 新疆丝路雄鹰足球俱乐部
+      shortName: 新疆丝路雄鹰
+      localName: 新疆丝路雄鹰足球俱乐部
+      founded: 2024
+      city: 新疆，乌鲁木齐
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/7901449348'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-030
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [11.12572379325341, 49.42625608915816]
+  timeline: false
+  info:
+    - fullName: 1. Fußball-Club Nürnberg e.V.
+      localName: 1. Fußball-Club Nürnberg e.V.
+      shortName: 1. FC Nürnberg
+      founded: 1900
+      city: Nürnberg
+      ground: Max-Morlock-Stadion
+  websiteURL: 'https://www.fcn.de/'
+  twitterURL: 'https://x.com/1_fc_nuernberg'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/1._FC_N%C3%BCrnberg'

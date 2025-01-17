@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-008
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.88797473558205, 49.23803499747543]
+  timeline: false
+  info:
+    - fullName: TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH
+      localName: TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH
+      shortName: TSG Hoffenheim
+      founded: 1899
+      city: Sinsheim
+      ground: PreZero Arena
+      league:
+  websiteURL: 'https://www.tsg-hoffenheim.de/'
+  twitterURL: 'https://x.com/tsghoffenheimEN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/TSG_1899_Hoffenheim'

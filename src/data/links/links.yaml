@@ -1,0 +1,23 @@
+- data: link
+  title: Biblioteca de Escudos de Fútbol
+  url: https://bibliotecaescudos.blogspot.com/
+  description: Biblioteca de Escudos de Fútbol
+  logoPath: 'logo/Bibliotecario-del-fútbol.png'
+
+- data: link
+  title: football emblem
+  url: https://football-emblem.com/
+  description: サッカークラブのエンブレムを徹底解説！
+  logoPath: 'logo/cropped-football-emblem-logo2.webp'
+
+- data: link
+  title: Football Kit Archive
+  url: https://www.footballkitarchive.com/
+  description: Football Kit Archive
+  logoPath: 'logo/Football-Kit-Archive.jpg'
+
+- data: link
+  title: Ramr LaPalma
+  url: https://www.facebook.com/RamrPalma/
+  description: Diseños de uniformes de futbol de todos los tiempos y países
+  logoPath: 'logo/ramr-lapalma.jpg'

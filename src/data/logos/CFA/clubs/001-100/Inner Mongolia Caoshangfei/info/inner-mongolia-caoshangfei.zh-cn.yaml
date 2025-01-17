@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-048
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [109.837175, 40.644504]
+  info:
+    - fullName: 内蒙古草上飞足球俱乐部
+      shortName: 内蒙古草上飞
+      localName: 内蒙古草上飞足球俱乐部
+      founded: 1998
+      city: 包头，中国
+      ground: 包头奥林匹克体育中心体育场
+      league: 中冠联赛
+  weiboURL: 'https://weibo.com/u/5461024268'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/内蒙古草上飞足球俱乐部'

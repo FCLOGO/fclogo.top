@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20240922-155134-df13b8
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['HKFC']
+  slug: /hkfa/club/hongkong-football-club-v0000
+  pngPath: 'png/hongkong-football-club-v0000.png'
+  svgPath: 'svg/hongkong-football-club-v0000.svg'
+  sourceID: hkfa-club-004
+  style: color
+  reference: https://www.hkfa.com/hkpl/squad?clubid=15'
+  ctrbID: ''

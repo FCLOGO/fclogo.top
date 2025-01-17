@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-056
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [112.999378, 23.120387]
+  timeline: true
+  info:
+    - fullName: 佛山南狮足球俱乐部
+      shortName: 佛山南狮
+      localName: 佛山南狮足球俱乐部
+      founded: 2016
+      city: 佛山，中国
+      ground: 佛山南海体育中心
+      league: 中甲联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/佛山南狮足球俱乐部'

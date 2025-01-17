@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-003
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-43.184849057258056, -22.936318607484527]
+  timeline: false
+  info:
+    - fullName: 弗鲁米嫩塞足球俱乐部
+      shortName: 弗鲁米嫩塞
+      localName: Fluminense Football Club
+      founded: 1902
+      city: 里约热内卢
+      ground: 马拉卡纳球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fluminensefc'
+  websiteURL: 'https://www.fluminense.com.br/site/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fluminense_FC'

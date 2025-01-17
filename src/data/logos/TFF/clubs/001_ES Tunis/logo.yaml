@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241211-154621-107f94
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['ES Tunis']
+  slug: /tff/club/Esperance-Sportive-de-Tunis-v2012-mono
+  pngPath: 'png/Esperance-Sportive-de-Tunis-v2012-mono.png'
+  svgPath: 'svg/Esperance-Sportive-de-Tunis-v2012-mono.svg'
+  sourceID: tff-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241211-154708-715616
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['ES Tunis']
+  slug: /tff/club/Esperance-Sportive-de-Tunis-v2012
+  pngPath: 'png/Esperance-Sportive-de-Tunis-v2012.png'
+  svgPath: 'svg/Esperance-Sportive-de-Tunis-v2012.svg'
+  sourceID: tff-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

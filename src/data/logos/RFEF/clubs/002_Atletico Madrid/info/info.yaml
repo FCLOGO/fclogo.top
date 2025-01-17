@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: rfef-club-002
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.599473731801909, 40.435552656921736]
+  timeline: false
+  info:
+    - fullName: Club Atlético de Madrid
+      localName: Club Atlético de Madrid
+      shortName: Atlético Madrid
+      founded: 1903
+      city: Madrid
+      ground: Riyadh Air Metropolitano
+      league:
+  weiboURL: 'https://weibo.com/u/3992610596'
+  twitterURL: 'https://twitter.com/atletienglish'
+  websiteURL: 'https://en.atleticodemadrid.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid'

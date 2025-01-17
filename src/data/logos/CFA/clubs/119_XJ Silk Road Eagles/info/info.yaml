@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-119
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [87.61, 43.79]
+  timeline: true
+  info:
+    - fullName: Xinjiang Silk Road Eagles Football Club
+      shortName: XJ Silk Road Eagles
+      localName: 新疆丝路雄鹰足球俱乐部
+      founded: 2024
+      city: Urumqi, Xinjiang
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/7901449348'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

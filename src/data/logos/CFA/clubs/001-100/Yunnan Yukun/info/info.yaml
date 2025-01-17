@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-088
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [102.58373, 24.386225]
+  timeline: true
+  info:
+    - fullName: Yunnan Yukun Football club
+      shortName: Yunan Yukun
+      localName: 云南玉昆足球俱乐部
+      founded: 2021
+      city: Yuxi, china
+      ground: Yuxi Plateau Sports Center Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7765448322'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

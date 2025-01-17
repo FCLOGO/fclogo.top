@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-213710-6290f7
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['柏太阳神']
+  slug: /jfa/club/kashiwa-reysol-v0000-mono
+  pngPath: 'png/kashiwa-reysol-v0000-mono.png'
+  svgPath: 'svg/kashiwa-reysol-v0000-mono.svg'
+  sourceID: jfa-club-011
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-213743-2dcb58
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['柏太阳神']
+  slug: /jfa/club/kashiwa-reysol-v0000
+  pngPath: 'png/kashiwa-reysol-v0000.png'
+  svgPath: 'svg/kashiwa-reysol-v0000.svg'
+  sourceID: jfa-club-011
+  style: color
+  reference: 'https://www.jleague.co/clubs/Kashiwa-Reysol/'
+  ctrbID: ''

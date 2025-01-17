@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-040
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [121.328721, 30.784849]
+  timeline: true
+  info:
+    - fullName: Shanghai Shenxin Football Club
+      shortName: Shanghai Shenxin
+      localName: 上海申鑫足球俱乐部
+      city: Shanghai, China
+      founded: 2003
+      duration: 2003 - 2020
+      ground: Shanghai Jinshan Football Stadium
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Shenxin_F.C.'

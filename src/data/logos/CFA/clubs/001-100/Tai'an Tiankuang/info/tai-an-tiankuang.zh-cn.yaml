@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-081
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [117.144984, 36.182651]
+  timeline: true
+  info:
+    - fullName: 泰安天贶足球俱乐部
+      shortName: 泰安天贶
+      localName: 泰安天贶足球俱乐部
+      founded: 2010
+      city: 泰安，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7624005834'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/泰安天贶足球俱乐部'

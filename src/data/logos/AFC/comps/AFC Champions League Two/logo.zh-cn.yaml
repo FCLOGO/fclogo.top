@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240910-102340-ba15ad
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['亚冠联赛二级联赛']
+  slug: /afc/comp/acl-league-two-v2024-mono
+  pngPath: 'png/acl-league-two-v2024-mono.png'
+  svgPath: 'svg/acl-league-two-v2024-mono.svg'
+  sourceID: afc-comp-003
+  style: mono
+  reference: 'https://assets.the-afc.com/downloads/tournament-regulations/AFC-Champions-League-Two-2024_25-Competition-Regulations.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-102456-b4cedc
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['亚冠联赛二级联赛']
+  slug: /afc/comp/acl-league-two-v2024
+  pngPath: 'png/acl-league-two-v2024.png'
+  svgPath: 'svg/acl-league-two-v2024.svg'
+  sourceID: afc-comp-003
+  style: color
+  reference: 'https://assets.the-afc.com/downloads/tournament-regulations/AFC-Champions-League-Two-2024_25-Competition-Regulations.pdf'
+  ctrbID: ''

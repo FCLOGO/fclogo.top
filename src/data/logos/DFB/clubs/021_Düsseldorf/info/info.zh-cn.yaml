@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-021
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [6.732427471164021, 51.26123764310566]
+  timeline: false
+  info:
+    - fullName: 杜塞尔多夫体操和体育俱乐部
+      localName: Düsseldorfer Turn- und Sportverein Fortuna 1895 e.V.
+      shortName: 福尔图娜杜塞尔多夫
+      founded: 1895
+      city: 杜塞尔多夫
+      ground: 水星娱乐竞技场
+  websiteURL: 'https://www.f95.de/'
+  twitterURL: 'https://x.com/f95'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Fortuna_D%C3%BCsseldorf'

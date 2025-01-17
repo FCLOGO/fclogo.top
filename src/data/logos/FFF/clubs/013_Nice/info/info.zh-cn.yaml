@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-013
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [7.192588040262216, 43.70513995076954]
+  timeline: true
+  info:
+    - fullName: 尼斯奥林匹克体操俱乐部
+      localName: Olympique Gymnaste Club de Nice
+      shortName: OGC 尼斯
+      founded: 1904
+      city: 尼斯
+      ground: 安联里维耶拉球场
+  websiteURL: 'https://www.ogcnice.com/'
+  twitterURL: 'https://twitter.com/ogcnice'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/OGC_Nice'

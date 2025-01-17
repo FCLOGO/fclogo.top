@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-001
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-0.1909262026026165, 51.48156410493589]
+  timeline: false
+  info:
+    - fullName: 切尔西足球俱乐部
+      localName: Chelsea Football Club
+      shortName: 切尔西
+      founded: 1905
+      city: 伦敦
+      ground: 斯坦福桥球场
+      league:
+  weiboURL: 'https://weibo.com/u/2728406503'
+  twitterURL: 'https://twitter.com/chelseafc'
+  websiteURL: 'https://www.chelseafc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chelsea_F.C.'

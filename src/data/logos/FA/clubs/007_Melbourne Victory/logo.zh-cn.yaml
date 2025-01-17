@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240929-145248-738e44
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['墨尔本胜利']
+  slug: /fa/club/melbourne-victory-v2005-mono
+  pngPath: 'png/melbourne-victory-v2005-mono.png'
+  svgPath: 'svg/melbourne-victory-v2005-mono.svg'
+  sourceID: fa-club-007
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-145325-ed48da
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['墨尔本胜利']
+  slug: /fa/club/melbourne-victory-v2005
+  pngPath: 'png/melbourne-victory-v2005.png'
+  svgPath: 'svg/melbourne-victory-v2005.svg'
+  sourceID: fa-club-007
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

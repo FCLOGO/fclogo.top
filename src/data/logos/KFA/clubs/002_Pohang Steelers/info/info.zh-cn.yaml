@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-002
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [129.35832795727418, 36.02486316031967]
+  timeline: false
+  info:
+    - fullName: 浦项铁人足球俱乐部
+      shortName: 浦项铁人
+      localName: 포항 스틸러스 프로축구단
+      founded: 1973
+      city: 韩国，浦项
+      ground: 浦项钢园球场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.steelers.co.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Pohang_Steelers'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240928-215553-4ed707
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['麦克阿瑟 FC']
+  slug: /fa/club/macarthur-fc-v2019-mono
+  pngPath: 'png/macarthur-fc-v2019-mono.png'
+  svgPath: 'svg/macarthur-fc-v2019-mono.svg'
+  sourceID: fa-club-005
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240928-215632-76a558
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['麦克阿瑟 FC']
+  slug: /fa/club/macarthur-fc-v2019
+  pngPath: 'png/macarthur-fc-v2019.png'
+  svgPath: 'svg/macarthur-fc-v2019.svg'
+  sourceID: fa-club-005
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

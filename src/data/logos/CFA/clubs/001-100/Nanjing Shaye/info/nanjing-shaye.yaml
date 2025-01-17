@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-078
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [118.781179, 32.020124]
+  timeline: true
+  info:
+    - fullName: Nanjing Shaye Football Club
+      shortName: Nanjing Shaye
+      localName: 南京沙叶足球俱乐部
+      city: Nanjing, China
+      founded: 2014
+      duration: 2014 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Nanjing_Shaye_F.C.'

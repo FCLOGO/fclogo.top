@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-004
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [49.5798164095732, 25.43543361384731]
+  timeline: false
+  info:
+    - fullName: 哈萨征服足球俱乐部
+      shortName: 哈萨征服
+      localName: نادي الفتح الرياضي
+      founded: 1958
+      city: 阿尔·穆巴拉克
+      ground: 阿尔法特赫体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fatehclub?s=21&t=EXITmEvofJJJZ-ZqRx8Mnw'
+  websiteURL: 'https://www.fatehclub.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Fateh_SC'

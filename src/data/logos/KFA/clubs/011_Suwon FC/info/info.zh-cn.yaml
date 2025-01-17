@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-011
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.01132202846603, 37.29806937489414]
+  timeline: false
+  info:
+    - fullName: 水原足球俱乐部
+      shortName: 水原 FC
+      localName: 수원시민프로축구단
+      founded: 2003
+      city: 韩国，水原
+      ground: 水原足球俱乐部
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.suwonfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Suwon_FC'

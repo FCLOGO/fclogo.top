@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-002
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-43.219183991539104, -22.978614920425173]
+  timeline: false
+  info:
+    - fullName: 弗拉门戈体育俱乐部
+      shortName: 弗拉门戈
+      localName: Clube de Regatas do Flamengo
+      founded: 1895
+      city: 里约热内卢
+      ground: 马拉卡纳
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/flamengo'
+  websiteURL: 'https://www.flamengo.com.br/'
+  wikiURL: 'https://en.wikipedia.org/wiki/CR_Flamengo'

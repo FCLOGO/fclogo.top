@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-019
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-74.14961076970623, 40.7366718618402]
+  timeline: true
+  info:
+    - fullName: New York Red Bulls
+      shortName: New York Red Bulls
+      localName: New York Red Bulls
+      founded: 1994
+      city: Harrison, New Jersey
+      ground: Red Bull Arena
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/newyorkredbulls'
+  websiteURL: 'https://www.newyorkredbulls.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/New_York_Red_Bulls'

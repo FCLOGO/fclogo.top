@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-049
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [131.41548744541643, 31.935680043038364]
+  timeline: false
+  info:
+    - fullName: 宫崎棒牛鸟足球俱乐部
+      shortName: 宫崎棒牛鸟
+      localName: テゲバジャーロ宮崎
+      founded: 1965
+      city: 日本，宫崎
+      ground: 联合利华新富体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/55tegevajaro/'
+  websiteURL: 'https://www.tegevajaro.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tegevajaro_Miyazaki'

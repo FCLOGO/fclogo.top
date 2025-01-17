@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241016-101357-e71c18
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Osaka']
+  slug: /jfa/club/fc-osaka-v2022-mono
+  pngPath: 'png/fc-osaka-v2022-mono.png'
+  svgPath: 'svg/fc-osaka-v2022-mono.svg'
+  sourceID: jfa-club-041
+  style: mono
+  reference: 'https://www.jleague.co/clubs/FC-Osaka/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241016-101444-e19eef
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Osaka']
+  slug: /jfa/club/fc-osaka-v2022
+  pngPath: 'png/fc-osaka-v2022.png'
+  svgPath: 'svg/fc-osaka-v2022.svg'
+  sourceID: jfa-club-041
+  style: color
+  reference: 'https://www.jleague.co/clubs/FC-Osaka/'
+  ctrbID: ''

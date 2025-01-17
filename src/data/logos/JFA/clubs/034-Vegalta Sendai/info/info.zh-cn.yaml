@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-034
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [140.86006123012393, 38.3338360684873]
+  timeline: false
+  info:
+    - fullName: 仙台七夕足球俱乐部
+      shortName: 仙台七夕
+      localName: ベガルタ仙台
+      founded: 1988
+      city: Sendai, Japan
+      ground: Yurtec Stadium Sendai
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/vega_official_/'
+  websiteURL: 'https://www.vegalta.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vegalta_Sendai'

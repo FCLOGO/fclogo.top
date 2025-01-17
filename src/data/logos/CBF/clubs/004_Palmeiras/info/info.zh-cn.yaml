@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cbf-club-004
+  status: active
+  type: club
+  nation: BRA
+  coordinates: [-46.678503581281724, -23.527501404730142]
+  timeline: false
+  info:
+    - fullName: 帕尔梅拉斯体育俱乐部
+      shortName: 帕尔梅拉斯
+      localName: Sociedade Esportiva Palmeiras
+      founded: 1914
+      city: 圣保罗
+      ground: 安联公园球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Palmeiras/'
+  websiteURL: 'https://www.palmeiras.com.br/'
+  wikiURL: 'https://en.wikipedia.org/wiki/SE_Palmeiras'

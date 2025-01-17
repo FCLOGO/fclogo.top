@@ -1,0 +1,125 @@
+- data: logo
+  logoID: 20250110-233711-c1f694
+  version: 1960
+  isDoubtful: true
+  isOutdated: true
+  verName: ['Stade brestois']
+  slug: /fff/club/Stade-Brestois-29-v1960
+  pngPath: 'png/Stade-Brestois-29-v1960.png'
+  svgPath: 'svg/Stade-Brestois-29-v1960.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-233828-8100d8
+  version: 1980
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Stade Brestois']
+  slug: /fff/club/Stade-Brestois-29-v1980
+  pngPath: 'png/Stade-Brestois-29-v1980.png'
+  svgPath: 'svg/Stade-Brestois-29-v1980.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-233921-89eab1
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Brest Armorique FC']
+  slug: /fff/club/Stade-Brestois-29-v1984
+  pngPath: 'png/Stade-Brestois-29-v1984.png'
+  svgPath: 'svg/Stade-Brestois-29-v1984.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-234058-28fe96
+  version: 1992
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Stade brestois 29']
+  slug: /fff/club/Stade-Brestois-29-v1992
+  pngPath: 'png/Stade-Brestois-29-v1992.png'
+  svgPath: 'svg/Stade-Brestois-29-v1992.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-234130-26f0be
+  version: 2004
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Stade brestois 29']
+  slug: /fff/club/Stade-Brestois-29-v2004
+  pngPath: 'png/Stade-Brestois-29-v2004.png'
+  svgPath: 'svg/Stade-Brestois-29-v2004.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-234203-8756d5
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Stade brestois 29']
+  slug: /fff/club/Stade-Brestois-29-v2008
+  pngPath: 'png/Stade-Brestois-29-v2008.png'
+  svgPath: 'svg/Stade-Brestois-29-v2008.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-234229-778e2c
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Stade brestois 29']
+  slug: /fff/club/Stade-Brestois-29-v2010-flat
+  pngPath: 'png/Stade-Brestois-29-v2010-flat.png'
+  svgPath: 'svg/Stade-Brestois-29-v2010-flat.svg'
+  sourceID: fff-club-004
+  style: flat
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-234310-b88557
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Stade brestois 29']
+  slug: /fff/club/Stade-Brestois-29-v2010-mono
+  pngPath: 'png/Stade-Brestois-29-v2010-mono.png'
+  svgPath: 'svg/Stade-Brestois-29-v2010-mono.svg'
+  sourceID: fff-club-004
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250110-234334-833973
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Stade brestois 29']
+  slug: /fff/club/Stade-Brestois-29-v2010
+  pngPath: 'png/Stade-Brestois-29-v2010.png'
+  svgPath: 'svg/Stade-Brestois-29-v2010.svg'
+  sourceID: fff-club-004
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-niu'

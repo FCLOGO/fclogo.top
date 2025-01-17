@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-036
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.009536935582194, 48.40451198378642]
+  timeline: false
+  info:
+    - fullName: 乌尔姆1846足球俱乐部
+      localName: SSV Ulm 1846 Fußball GmbH & Co. KGaA
+      shortName: 乌尔姆 1846
+      founded: 1846
+      city: 乌尔姆
+      ground: 多瑙河体育场
+  websiteURL: 'https://www.ssvulm1846-fussball.de/'
+  twitterURL: 'https://x.com/ssvulm1846fb'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SSV_Ulm_1846'

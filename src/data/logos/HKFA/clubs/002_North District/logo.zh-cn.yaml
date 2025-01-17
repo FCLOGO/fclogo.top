@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240922-151957-eefd24
+  version: 2002
+  isDoubtful: true
+  isOutdated: false
+  verName: ['均业北区']
+  slug: /hkfa/club/north-district-v2002-mono
+  pngPath: 'png/north-district-v2002-mono.png'
+  svgPath: 'svg/north-district-v2002-mono.svg'
+  sourceID: hkfa-club-002
+  style: mono
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=47'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240922-152058-9ad3ef
+  version: 2002
+  isDoubtful: true
+  isOutdated: false
+  verName: ['均业北区']
+  slug: /hkfa/club/north-district-v2002
+  pngPath: 'png/north-district-v2002.png'
+  svgPath: 'svg/north-district-v2002.svg'
+  sourceID: hkfa-club-002
+  style: color
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=47'
+  ctrbID: ''

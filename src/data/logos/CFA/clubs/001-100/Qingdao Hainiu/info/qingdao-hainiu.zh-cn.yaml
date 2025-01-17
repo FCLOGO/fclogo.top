@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-052
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.402955, 36.319529]
+  timeline: true
+  info:
+    - fullName: 青岛海牛足球俱乐部
+      shortName: 青岛海牛
+      localName: 青岛海牛足球俱乐部
+      founded: 1993
+      city: 青岛，中国
+      ground: 青岛青春足球场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/1919205277'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/青岛海牛足球俱乐部'

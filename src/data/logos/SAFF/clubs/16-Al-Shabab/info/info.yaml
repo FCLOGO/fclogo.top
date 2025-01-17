@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-016
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [46.62720970225861, 24.80312634773773]
+  timeline: false
+  info:
+    - fullName: Al Shabab Football Club
+      shortName: Al Shabab FC
+      localName: نادي الشباب لكرة القدم
+      founded: 1947
+      city: Riyadh
+      ground: Al-Shabab Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.alshabab-sc.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Shabab_FC_(Riyadh)'

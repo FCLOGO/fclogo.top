@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-151431-f02e18
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Mönchengladbach']
+  slug: /dfb/club/Borussia-Monchengladbach-v1999-mono
+  pngPath: 'png/Borussia-Monchengladbach-v1999-mono.png'
+  svgPath: 'svg/Borussia-Monchengladbach-v1999-mono.svg'
+  sourceID: dfb-club-014
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-151546-d49e3a
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Mönchengladbach']
+  slug: /dfb/club/Borussia-Monchengladbach-v1999
+  pngPath: 'png/Borussia-Monchengladbach-v1999.png'
+  svgPath: 'svg/Borussia-Monchengladbach-v1999.svg'
+  sourceID: dfb-club-014
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/borussia-moenchengladbach'
+  ctrbID: ''

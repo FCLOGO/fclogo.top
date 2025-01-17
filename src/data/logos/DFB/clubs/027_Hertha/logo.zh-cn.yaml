@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241224-201646-5beb3e
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hertha BSC']
+  slug: /dfb/club/Hertha-BSC-v2012-mono
+  pngPath: 'png/Hertha-BSC-v2012-mono.png'
+  svgPath: 'svg/Hertha-BSC-v2012-mono.svg'
+  sourceID: dfb-club-027
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-201711-5aad5e
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hertha BSC']
+  slug: /dfb/club/Hertha-BSC-v2012
+  pngPath: 'png/Hertha-BSC-v2012.png'
+  svgPath: 'svg/Hertha-BSC-v2012.svg'
+  sourceID: dfb-club-027
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/hertha-bsc'
+  ctrbID: ''

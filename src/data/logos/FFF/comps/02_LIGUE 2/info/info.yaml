@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fff-comp-002
+  type: comp
+  nation: FRA
+  timeline: false
+  info:
+    - fullName: Ligue 2
+      localName: Ligue 2
+      shortName: Ligue 2
+      founded: 1933
+      confederation: UEFA
+      teams: 18
+      level: Level 2
+      promotion: Ligue 1
+      relegation: Championnat National
+  websiteURL: 'https://ligue1.fr/'
+  twitterURL: 'https://x.com/ligue1'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Ligue_2'

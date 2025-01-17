@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241216-102826-39a73c
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FCP']
+  slug: /fpf/club/Futebol-Clube-do-Porto-v2002-mono
+  pngPath: 'png/Futebol-Clube-do-Porto-v2002-mono.png'
+  svgPath: 'svg/Futebol-Clube-do-Porto-v2002-mono.svg'
+  sourceID: fpf-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-102917-40955c
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FCP']
+  slug: /fpf/club/Futebol-Clube-do-Porto-v2002
+  pngPath: 'png/Futebol-Clube-do-Porto-v2002.png'
+  svgPath: 'svg/Futebol-Clube-do-Porto-v2002.svg'
+  sourceID: fpf-club-002
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fff-comp-001
+  type: comp
+  nation: FRA
+  timeline: false
+  info:
+    - fullName: Ligue 1
+      localName: Ligue 1
+      shortName: Ligue 1
+      founded: 1930
+      confederation: UEFA
+      teams: 18
+      level: Level 1
+      promotion:
+      relegation: Ligue 2
+  websiteURL: 'https://ligue1.com/'
+  twitterURL: 'https://x.com/ligue1'
+  weiboURL: 'https://weibo.com/u/5487107037'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ligue_1'

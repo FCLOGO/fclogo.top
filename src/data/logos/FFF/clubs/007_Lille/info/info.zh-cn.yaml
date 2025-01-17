@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-007
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [3.130467906396232, 50.61193253382548]
+  timeline: true
+  info:
+    - fullName: 里尔奥林匹克体育俱乐部
+      localName: Lille Olympique Sporting Club
+      shortName: 里尔
+      founded: 1944
+      city: 里尔
+      ground: 皮埃尔·莫鲁瓦球场
+  websiteURL: 'https://www.losc.fr/en/'
+  twitterURL: 'https://twitter.com/losclive'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Lille_OSC'

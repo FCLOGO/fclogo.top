@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-066
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [115.031633, 24.790541]
+  timeline: true
+  info:
+    - fullName: Jiangxi Dark Horse Junior Football Club
+      shortName: Jiangxi Dark Horse Junior
+      localName: 江西黑马青年足球俱乐部
+      founded: 2018
+      city: Yichun, China
+      ground:
+      league: China League 2
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-003
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-17.762396046916113, 28.707304748615012]
+  timeline: true
+  info:
+    - fullName: Sociedad Deportiva Tenisca
+      localName: Sociedad Deportiva Tenisca
+      shortName: SD Tenisca
+      founded: 1922
+      city: Santa Cruz de La Palma
+      ground: Virgen de Las Nieves
+  websiteURL: 'https://sdtenisca.clupik.app/es'
+  twitterURL: 'https://x.com/SDTenisca'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SD_Tenisca'

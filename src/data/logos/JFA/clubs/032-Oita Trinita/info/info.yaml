@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-032
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [131.6478465066974, 33.206869141951216]
+  timeline: false
+  info:
+    - fullName: Oita Trinita Football Club
+      shortName: Oita Trinita
+      localName: 大分トリニータ
+      founded: 1994
+      city: Oita, Japan
+      ground: Resonac Dome Oita
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/TRINITAofficial/'
+  websiteURL: 'https://www.oita-trinita.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Oita_Trinita'

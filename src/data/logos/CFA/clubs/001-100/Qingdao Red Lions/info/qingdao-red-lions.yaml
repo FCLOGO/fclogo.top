@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-060
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.127425, 36.017139]
+  timeline: true
+  info:
+    - fullName: Qingdao Red Lions Football Club
+      shortName: Qingdao Red Lions
+      localName: 青岛红狮足球俱乐部
+      founded: 2016
+      city: Qingdao, China
+      ground: Qingdao Tiantai Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/6016494731'
+  twitterURL: 'https://twitter.com/qingdaoredlions'
+  websiteURL:
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Red_Lions_F.C.'

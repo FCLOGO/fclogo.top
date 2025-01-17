@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241205-211734-f487c9
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['FC 辛辛那提']
+  slug: /ussf/club/FC-Cincinnati-v2015
+  pngPath: 'png/FC-Cincinnati-v2015.png'
+  svgPath: 'svg/FC-Cincinnati-v2015.svg'
+  sourceID: ussf-club-005
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-211951-795bd3
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 辛辛那提']
+  slug: /ussf/club/FC-Cincinnati-v2019-mono
+  pngPath: 'png/FC-Cincinnati-v2019-mono.png'
+  svgPath: 'svg/FC-Cincinnati-v2019-mono.svg'
+  sourceID: ussf-club-005
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-212029-b788cd
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC 辛辛那提']
+  slug: /ussf/club/FC-Cincinnati-v2019
+  pngPath: 'png/FC-Cincinnati-v2019.png'
+  svgPath: 'svg/FC-Cincinnati-v2019.svg'
+  sourceID: ussf-club-005
+  style: color
+  reference: 'https://images.mlssoccer.com/image/upload/v1708118659/assets/cin/Documents/2024-FCC_Record_Book.pdf'
+  ctrbID: ''

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241023-154706-965c94
+  version: 2014
+  isDoubtful: true
+  isOutdated: false
+  verName: ['首尔衣恋']
+  slug: /kfa/club/seoul-eland-v2014-mono
+  pngPath: 'png/seoul-eland-v2014-mono.png'
+  svgPath: 'svg/seoul-eland-v2014-mono.svg'
+  sourceID: kfa-club-016
+  style: mono
+  reference: 'https://www.seoulelandfc.com/club/emblem'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241023-154737-cdce08
+  version: 2014
+  isDoubtful: true
+  isOutdated: false
+  verName: ['首尔衣恋']
+  slug: /kfa/club/seoul-eland-v2014
+  pngPath: 'png/seoul-eland-v2014.png'
+  svgPath: 'svg/seoul-eland-v2014.svg'
+  sourceID: kfa-club-016
+  style: color
+  reference: 'https://www.seoulelandfc.com/club/emblem'
+  ctrbID: ''

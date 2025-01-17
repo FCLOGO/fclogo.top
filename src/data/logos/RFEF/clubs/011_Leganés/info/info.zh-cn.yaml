@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-011
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.7600587158114656, 40.34040997133631]
+  timeline: false
+  info:
+    - fullName: 莱加内斯体育俱乐部
+      localName: Club Deportivo Leganés
+      shortName: 莱加内斯
+      founded: 1928
+      city: 莱加内斯
+      ground: 布塔克尔市政球场
+  websiteURL: 'https://www.cdleganes.com/'
+  twitterURL: 'https://twitter.com/CDLeganes'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Legan%C3%A9s'

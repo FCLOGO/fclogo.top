@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-003
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [42.5925225496093, 18.375984278593396]
+  timeline: false
+  info:
+    - fullName: 达马克足球俱乐部
+      shortName: 达马克
+      localName: نادي ضمك
+      founded: 1972
+      city: 海米斯穆谢特
+      ground: 达马克俱乐部球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.twitter.com/damac_club'
+  websiteURL: 'https://damac.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Damac_FC'

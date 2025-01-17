@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-026
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [140.82946470674707, 36.99926757042973]
+  timeline: false
+  info:
+    - fullName: 磐城足球俱乐部
+      shortName: 磐城 FC
+      localName: いわきFC
+      founded: 2012
+      city: 日本，磐城
+      ground: 磐城夏威夷人体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/IwakiFcOfficial'
+  websiteURL: 'https://iwakifc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Iwaki_FC'

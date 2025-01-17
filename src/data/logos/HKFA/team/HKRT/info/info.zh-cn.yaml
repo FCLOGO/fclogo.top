@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: hkfa-team-001
+  type: team
+  nation: HKG
+  timeline: true
+  info:
+    - fullName: 香港足球代表队
+      shortName: 香港足球代表队
+      localName: 香港足球代表隊
+      assn: CFA
+      conf: AFC
+      code: HKG
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.hkfa.com/hkrt/men-senior'
+  wikiURL: 'https://zh.wikipedia.org/zh-cn/香港足球代表隊'

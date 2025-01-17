@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-097
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [114.041679, 22.657907]
+  timeline: true
+  info:
+    - fullName: 深圳青年人足球俱乐部
+      shortName: 深圳青年人
+      localName: 深圳青年人足球俱乐部
+      founded: 2022
+      city: 深圳，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7826105285'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

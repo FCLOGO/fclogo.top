@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-club-006
+  status: active
+  type: club
+  nation: HKG
+  coordinates: [114.19337268377785, 22.321010246976112]
+  timeline: false
+  info:
+    - fullName: Kowloon City District Sports Association
+      shortName: Kowloon City
+      localName: 九龍城區體育會
+      founded: 2002
+      city: Hong Kong, China
+      ground: Sham Shui Po Sports Ground
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.hkkcdsa.org.hk/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kowloon_City_District_SA'

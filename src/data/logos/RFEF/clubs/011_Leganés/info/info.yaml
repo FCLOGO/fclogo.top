@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-011
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.7600587158114656, 40.34040997133631]
+  timeline: false
+  info:
+    - fullName: Club Deportivo Leganés
+      localName: Club Deportivo Leganés
+      shortName: CD Leganés
+      founded: 1928
+      city: Leganés
+      ground: Estadio Municipal Butarque
+  websiteURL: 'https://www.cdleganes.com/'
+  twitterURL: 'https://twitter.com/CDLeganes'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Legan%C3%A9s'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240917-105015-161832
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['横滨F水手']
+  slug: /jfa/club/yokohama-marinos-v1999-mono
+  pngPath: 'png/yokohama-marinos-v1999-mono.png'
+  svgPath: 'svg/yokohama-marinos-v1999-mono.svg'
+  sourceID: jfa-club-002
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Yokohama-F-Marinos/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240917-105104-e7dc75
+  version: 1999
+  isDoubtful: false
+  isOutdated: false
+  verName: ['横滨F水手']
+  slug: /jfa/club/yokohama-marinos-v1999
+  pngPath: 'png/yokohama-marinos-v1999.png'
+  svgPath: 'svg/yokohama-marinos-v1999.svg'
+  sourceID: jfa-club-002
+  style: color
+  reference: 'https://www.jleague.co/clubs/Yokohama-F-Marinos/'
+  ctrbID: ''

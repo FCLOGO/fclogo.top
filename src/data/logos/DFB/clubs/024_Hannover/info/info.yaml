@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-024
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [9.731220835582036, 52.36000637188241]
+  timeline: false
+  info:
+    - fullName: Hannover 96 GmbH & Co. KGaA
+      localName: Hannover 96 GmbH & Co. KGaA
+      shortName: Hannover 96
+      founded: 1896
+      city: Hannover
+      ground: Heinz von Heiden Arena
+  websiteURL: 'https://www.hannover96.de/'
+  twitterURL: 'https://x.com/hannover96'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hannover_96'

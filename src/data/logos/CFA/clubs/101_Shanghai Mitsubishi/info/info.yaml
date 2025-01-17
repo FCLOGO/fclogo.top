@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-101
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [121.40, 31.20]
+  timeline: true
+  info:
+    - fullName: Shanghai Mitsubishi Heavy Industries Flying Lion Football Club
+      shortName: Shanghai Mitsubishi Heavy Industries
+      localName: 上海长宁三菱重工飞狮足球俱乐部
+      founded: 2012
+      city: Shanghai, China
+      ground:
+      league: CMCL
+  weiboURL: 'https://weibo.com/7681446671'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

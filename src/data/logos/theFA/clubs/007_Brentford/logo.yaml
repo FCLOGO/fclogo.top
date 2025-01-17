@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241218-091030-ae5c49
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Brentford']
+  slug: /thefa/club/Brentford-Football-Club-v2017-mono
+  pngPath: 'png/Brentford-Football-Club-v2017-mono.png'
+  svgPath: 'svg/Brentford-Football-Club-v2017-mono.svg'
+  sourceID: thefa-club-007
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241218-091107-506304
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Brentford']
+  slug: /thefa/club/Brentford-Football-Club-v2017
+  pngPath: 'png/Brentford-Football-Club-v2017.png'
+  svgPath: 'svg/Brentford-Football-Club-v2017.svg'
+  sourceID: thefa-club-007
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-012
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-118.25958598350915, 34.0490162705994]
+  timeline: true
+  info:
+    - fullName: 洛杉矶足球俱乐部
+      shortName: 洛杉矶 FC
+      localName: Los Angeles Football Club
+      founded: 2014
+      city: 洛杉矶, 加利福尼亚州
+      ground: BMO 体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/LAFC'
+  websiteURL: 'https://www.lafc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Los_Angeles_FC'

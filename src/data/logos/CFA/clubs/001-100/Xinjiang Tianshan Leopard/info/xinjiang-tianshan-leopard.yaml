@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-035
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [87.560084, 43.880814]
+  timeline: true
+  info:
+    - fullName: Xinjiang Tianshan Leopard Football Club
+      shortName: Xinjiang Tianshan Leopard
+      localName: 新疆天山雪豹足球俱乐部
+      city: Urumqi, China
+      founded: 2011
+      duration: 2011 - 2023
+  weiboURL: 'https://weibo.com/u/3501306747/'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Xinjiang_Tianshan_Leopard_F.C./'

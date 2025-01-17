@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-106
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [109.45, 23.12]
+  timeline: false
+  info:
+    - fullName: Guangxi Bushan Football Club
+      shortName: Guangxi Bushan
+      localName: 广西布山足球俱乐部
+      founded: 2022
+      city: Guigang, Guangxi
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/7795226492'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

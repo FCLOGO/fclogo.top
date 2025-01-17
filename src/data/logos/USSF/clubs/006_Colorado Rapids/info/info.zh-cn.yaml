@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-006
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-104.89284178216407, 39.805885857029246]
+  timeline: false
+  info:
+    - fullName: 科罗拉多急流足球俱乐部
+      shortName: 科罗拉多急流
+      localName: Colorado Rapids Soccer Club
+      founded: 1995
+      city: 商贸城, 科罗拉多州
+      ground: 迪克体育用品公园
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/ColoradoRapids'
+  websiteURL: 'https://www.coloradorapids.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Colorado_Rapids'

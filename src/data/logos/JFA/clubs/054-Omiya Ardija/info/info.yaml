@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-054
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.5765930636183, 35.93154524658762]
+  timeline: false
+  info:
+    - fullName: Omiya Ardija Football Club
+      shortName: Omiya Ardija
+      localName: 大宮アルディージャ
+      founded: 1969
+      city: Omiya, Japan
+      ground: NACK5 Stadium Ōmiya
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Ardija_Official/'
+  websiteURL: 'https://www.ardija.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Omiya_Ardija'

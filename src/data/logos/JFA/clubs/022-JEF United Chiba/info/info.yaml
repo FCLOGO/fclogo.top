@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-022
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [140.12518108864464, 35.575426519786]
+  timeline: false
+  info:
+    - fullName: JEF United Ichihara Chiba
+      shortName: JEF United Chiba
+      localName: ジェフユナイテッド市原・千葉
+      founded: 1946
+      city: Chiba, Japan
+      ground: Fukuda Denshi Arena
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/jef_united/'
+  websiteURL: 'https://jefunited.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/JEF_United_Chiba'

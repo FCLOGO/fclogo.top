@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-028
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [115.66611, 29.67628]
+  timeline: true
+  info:
+    - fullName: Jiangxi Lushan Football Club
+      shortName: Jiangxi Lushan
+      localName: 江西庐山足球俱乐部
+      city: Ruichang, China
+      founded: 2002
+      ground: Ruichang Sports Park
+      league: China League
+  weiboURL: 'https://weibo.com/u/3194836594'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Jiangxi_Lushan_F.C.'

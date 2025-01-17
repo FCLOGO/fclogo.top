@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-052
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.402955, 36.319529]
+  timeline: true
+  info:
+    - fullName: Qingdao Hainiu Football Club
+      shortName: Qingdao Hainiu
+      localName: 青岛海牛足球俱乐部
+      founded: 1993
+      city: Qingdao, China
+      ground: Qingdao Youth Football Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/1919205277'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_Hainiu_F.C._(1990)'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-045
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [120.484349, 30.092451]
+  info:
+    - fullName: Shaoxing Keqiao Yuejia Football Club
+      shortName: Shaoxing Keqiao Yuejia
+      localName: 绍兴柯桥越甲足球俱乐部
+      founded: 1994
+      city: Shaoxing, China
+      ground: China Textile City Sports Center
+      duration: 1994 - 2022
+  weiboURL: 'https://weibo.com/u/1411642757'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaoxing_Keqiao_Yuejia_F.C.'

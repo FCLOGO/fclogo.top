@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fff-club-001
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [2.253083, 48.841361]
+  timeline: false
+  info:
+    - fullName: 巴黎圣日耳曼足球俱乐部
+      localName: Paris Saint-Germain Football Club
+      shortName: 巴黎圣日耳曼
+      founded: 1970
+      city: 巴黎
+      ground: 王子公园体育场
+      league:
+  websiteURL: 'https://en.psg.fr/'
+  twitterURL: 'https://twitter.com/PSG_English'
+  weiboURL: 'https://weibo.com/u/3183412640'
+  wikiURL: 'https://en.wikipedia.org/wiki/Paris_Saint-Germain_FC'

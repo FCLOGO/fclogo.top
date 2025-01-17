@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240925-163344-df7a33
+  version: 1999
+  isDoubtful: false
+  isOutdated: true
+  verName: ['FC Tokyo']
+  slug: /jfa/club/fc-tokyo-v1999
+  pngPath: 'png/fc-tokyo-v1999.png'
+  svgPath: 'svg/fc-tokyo-v1999.svg'
+  sourceID: jfa-club-005
+  style: color
+  reference: 'https://www.jleague.co/static/images/clubs/emblems/ftokyo.svg'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-163437-b33309
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Tokyo']
+  slug: /jfa/club/fc-tokyo-v2024-mono
+  pngPath: 'png/fc-tokyo-v2024-mono.png'
+  svgPath: 'svg/fc-tokyo-v2024-mono.svg'
+  sourceID: jfa-club-005
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-163509-264ef1
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Tokyo']
+  slug: /jfa/club/fc-tokyo-v2024
+  pngPath: 'png/fc-tokyo-v2024.png'
+  svgPath: 'svg/fc-tokyo-v2024.svg'
+  sourceID: jfa-club-005
+  style: color
+  reference: 'https://www.jleague.co/clubs/FC-TOKYO/'
+  ctrbID: ''

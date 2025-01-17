@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-112041-ed25bc
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['West Ham']
+  slug: /thefa/club/West-Ham-United-Football-Club-v2016-mono
+  pngPath: 'png/West-Ham-United-Football-Club-v2016-mono.png'
+  svgPath: 'svg/West-Ham-United-Football-Club-v2016-mono.svg'
+  sourceID: thefa-club-019
+  style: mono
+  reference: 'https://www.whufc.com/sites/default/files/2022-02/Visiting%20Supporters%20Guide%2021-22_0.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-112350-70a086
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['West Ham']
+  slug: /thefa/club/West-Ham-United-Football-Club-v2016
+  pngPath: 'png/West-Ham-United-Football-Club-v2016.png'
+  svgPath: 'svg/West-Ham-United-Football-Club-v2016.svg'
+  sourceID: thefa-club-019
+  style: color
+  reference: 'https://cdn.whufc.com/sites/default/files/2024-10/EY%20REPORT.pdf'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-003
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [3.5885523993632416, 47.78679886623942]
+  timeline: true
+  info:
+    - fullName: Association de la Jeunesse Auxerroise
+      localName: Association de la Jeunesse Auxerroise
+      shortName: AJ Auxerre
+      founded: 1905
+      city: Auxerre
+      ground: Stade de l'Abbé-Deschamps
+  websiteURL: 'https://www.aja.fr/'
+  twitterURL: 'https://twitter.com/AJA'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AJ_Auxerre'

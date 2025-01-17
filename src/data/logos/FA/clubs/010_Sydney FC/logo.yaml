@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240929-152419-5dbe7c
+  version: 2004
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sydney FC']
+  slug: /fa/club/sydney-fc-v2004
+  pngPath: 'png/sydney-fc-v2004.png'
+  svgPath: 'svg/sydney-fc-v2004.svg'
+  sourceID: fa-club-010
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-152503-459b2e
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sydney FC']
+  slug: /fa/club/sydney-fc-v2018-mono
+  pngPath: 'png/sydney-fc-v2018-mono.png'
+  svgPath: 'svg/sydney-fc-v2018-mono.svg'
+  sourceID: fa-club-010
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-152533-14b89b
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sydney FC']
+  slug: /fa/club/sydney-fc-v2018
+  pngPath: 'png/sydney-fc-v2018.png'
+  svgPath: 'svg/sydney-fc-v2018.svg'
+  sourceID: fa-club-010
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

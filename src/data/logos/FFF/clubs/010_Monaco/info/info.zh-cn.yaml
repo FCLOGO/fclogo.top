@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-010
+  status: active
+  type: club
+  nation: MCO
+  coordinates: [7.415582340321816, 43.727597177149995]
+  timeline: true
+  info:
+    - fullName: 摩纳哥体育协会足球俱乐部
+      localName: Association sportive de Monaco Football Club
+      shortName: 摩纳哥
+      founded: 19224
+      city: 摩纳哥
+      ground: 路易二世体育场
+  websiteURL: 'https://www.asmonaco.com/en/'
+  twitterURL: 'https://www.twitter.com/as_monaco'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AS_Monaco_FC'

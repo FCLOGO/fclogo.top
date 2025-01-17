@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-club-001
+  status: active
+  type: club
+  nation: HKG
+  coordinates: [114.14849430244006, 22.339528178348132]
+  timeline: false
+  info:
+    - fullName: 香港流浪足球会
+      shortName: 流浪
+      localName: 香港流浪足球會
+      founded: 1958
+      city: 中国，香港
+      ground: 青衣体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.facebook.com/hkrangers/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/香港流浪足球會'

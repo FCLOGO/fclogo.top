@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-065
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [129.437514, 42.815429]
+  info:
+    - fullName: 延边龙鼎足球俱乐部
+      shortName: 延边龙鼎
+      localName: 延边龙鼎足球俱乐部
+      founded: 2017
+      city: 延吉，中国
+      ground: 延吉市人民体育场
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/6272800667'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/延边龙鼎足球俱乐部'

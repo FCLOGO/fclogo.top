@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-013
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YanBian BeiGuo']
+  slug: /cfa/club/yanbian-beiguo-v2019-mono
+  pngPath: 'png/yanbian-beiguo-v2019-mono.png'
+  svgPath: 'svg/yanbian-beiguo-v2019-mono.svg'
+  sourceID: cfa-club-073
+  style: mono
+
+- data: logo
+  logoID: 20211208-014
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YanBian BeiGuo']
+  slug: /cfa/club/yanbian-beiguo-v2019
+  pngPath: 'png/yanbian-beiguo-v2019.png'
+  svgPath: 'svg/yanbian-beiguo-v2019.svg'
+  sourceID: cfa-club-073
+  style: color

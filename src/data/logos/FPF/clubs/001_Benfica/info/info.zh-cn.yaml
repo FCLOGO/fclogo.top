@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fpf-club-001
+  status: active
+  type: club
+  nation: PRT
+  coordinates: [-9.183053906678143, 38.75229208335825]
+  timeline: false
+  info:
+    - fullName: 里斯本与本菲卡体育
+      localName: Sport Lisboa e Benfica
+      shortName: 本菲卡
+      founded: 1904
+      city: 里斯本
+      ground: 卢斯球场
+      league:
+  websiteURL: 'https://www.slbenfica.pt/'
+  twitterURL: 'https://x.com/slbenfica_en'
+  weiboURL: 'https://weibo.com/u/5974285221'
+  wikiURL: 'https://en.wikipedia.org/wiki/S.L._Benfica'

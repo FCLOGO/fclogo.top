@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241218-091829-5d5814
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Brighton & Hove']
+  slug: /thefa/club/Brighton-Hove-Albion-v2011-mono
+  pngPath: 'png/Brighton-Hove-Albion-v2011-mono.png'
+  svgPath: 'svg/Brighton-Hove-Albion-v2011-mono.svg'
+  sourceID: thefa-club-008
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241218-091918-9aaecf
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Brighton & Hove']
+  slug: /thefa/club/Brighton-Hove-Albion-v2011
+  pngPath: 'png/Brighton-Hove-Albion-v2011.png'
+  svgPath: 'svg/Brighton-Hove-Albion-v2011.svg'
+  sourceID: thefa-club-008
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-012
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [40.211508576966445, 30.004779870835904]
+  timeline: false
+  info:
+    - fullName: Al-Orobah Football Club
+      shortName: Al-Orobah FC
+      localName: نادي العروبة لكرة القدم
+      founded: 1975
+      city: Sakakah
+      ground: Al-Orobah Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://orobahfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Orobah_FC'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-002
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [129.35832795727418, 36.02486316031967]
+  timeline: false
+  info:
+    - fullName: Football Club Pohang Steelers
+      shortName: FC Pohang Steelers
+      localName: 포항 스틸러스 프로축구단
+      founded: 1973
+      city: Pohang, South Korea
+      ground: Pohang Steel Yard
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.steelers.co.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Pohang_Steelers'

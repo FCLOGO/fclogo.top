@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241023-151111-4dcfd4
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Busan IPark']
+  slug: /kfa/club/busan-ipark-v2012-mono
+  pngPath: 'png/busan-ipark-v2012-mono.png'
+  svgPath: 'svg/busan-ipark-v2012-mono.svg'
+  sourceID: kfa-club-015
+  style: mono
+  reference: 'https://www.busanipark.com/club/ci.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241023-151151-c43b29
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Busan IPark']
+  slug: /kfa/club/busan-ipark-v2012
+  pngPath: 'png/busan-ipark-v2012.png'
+  svgPath: 'svg/busan-ipark-v2012.svg'
+  sourceID: kfa-club-015
+  style: color
+  reference: 'https://www.busanipark.com/club/ci.php'
+  ctrbID: ''

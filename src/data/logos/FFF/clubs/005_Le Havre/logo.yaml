@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250112-204537-d8b381
+  version: 2005
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Le Havre']
+  slug: /fff/club/Le-Havre-AC-v2005
+  pngPath: 'png/Le-Havre-AC-v2005.png'
+  svgPath: 'svg/Le-Havre-AC-v2005.svg'
+  sourceID: fff-club-005
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250116-114901-410a26
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Le Havre']
+  slug: /fff/club/Le-Havre-AC-v2012-mono
+  pngPath: 'png/Le-Havre-AC-v2012-mono.png'
+  svgPath: 'svg/Le-Havre-AC-v2012-mono.svg'
+  sourceID: fff-club-005
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250116-114920-102fe6
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Le Havre']
+  slug: /fff/club/Le-Havre-AC-v2012
+  pngPath: 'png/Le-Havre-AC-v2012.png'
+  svgPath: 'svg/Le-Havre-AC-v2012.svg'
+  sourceID: fff-club-005
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-dani'

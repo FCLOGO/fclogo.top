@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20220603-235116
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wuhan Jiangcheng']
+  slug: /cfa/club/wuhan-jiangcheng-v2022-mono
+  pngPath: 'png/wuhan-jiangcheng-v2022-mono.png'
+  svgPath: 'svg/wuhan-jiangcheng-v2022-mono.svg'
+  sourceID: cfa-club-084
+  style: mono
+
+- data: logo
+  logoID: 20220603-235149
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wuhan Jiangcheng']
+  slug: /cfa/club/wuhan-jiangcheng-v2022
+  pngPath: 'png/wuhan-jiangcheng-v2022.png'
+  svgPath: 'svg/wuhan-jiangcheng-v2022.svg'
+  sourceID: cfa-club-084
+  style: color

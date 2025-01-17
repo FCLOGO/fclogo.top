@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-031
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [104.212307, 30.743847]
+  timeline: true
+  info:
+    - fullName: 成都蓉城足球俱乐部
+      shortName: 成都蓉城
+      localName: 成都蓉城足球俱乐部
+      city: 成都，中国
+      founded: 2018
+      ground: 成都龙泉驿足球场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/6487273451'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/成都蓉城足球俱乐部/'

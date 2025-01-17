@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-053
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [102.699617, 25.073306]
+  timeline: true
+  info:
+    - fullName: Kunming Zheng He Shipman Football Club
+      shortName: Kunming Zheng He Shipman
+      localName: 昆明郑和船工足球俱乐部
+      founded: 2017
+      city: Kunming, China
+      ground: Hongta Sports Center
+      duration: 2017 - 2022
+  weiboURL: 'https://weibo.com/u/6154234408'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Kunming_Zheng_He_Shipman_F.C.'

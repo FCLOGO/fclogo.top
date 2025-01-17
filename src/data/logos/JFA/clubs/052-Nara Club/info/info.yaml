@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-052
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [135.82022136737436, 34.659115298228244]
+  timeline: false
+  info:
+    - fullName: Nara Club
+      shortName: Nara Club
+      localName: 奈良クラブ
+      founded: 1991
+      city: Nara, Japan
+      ground: Rohto Field Nara
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/naraclub_info'
+  websiteURL: 'https://naraclub.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Nara_Club'

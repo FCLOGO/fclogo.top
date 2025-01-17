@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-020
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.672331863351769, 49.857684744512284]
+  timeline: false
+  info:
+    - fullName: Sportverein Darmstadt 1898 e.V.
+      localName: Sportverein Darmstadt 1898 e.V.
+      shortName: SV Darmstadt 98
+      founded: 1898
+      city: Darmstadt
+      ground: Merck-Stadion am Böllenfalltor
+  websiteURL: 'https://www.sv98.de/'
+  twitterURL: 'https://x.com/sv98'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SV_Darmstadt_98'

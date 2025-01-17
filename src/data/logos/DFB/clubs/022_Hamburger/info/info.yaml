@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-022
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [9.89861930674669, 53.5871607]
+  timeline: false
+  info:
+    - fullName: Hamburger Sport-Verein e.V.
+      localName: Hamburger Sport-Verein e.V.
+      shortName: Hamburger SV
+      founded: 1887
+      city: Hamburg
+      ground: Volksparkstadion
+  websiteURL: 'https://www.hsv.de/'
+  twitterURL: 'https://x.com/HSV_English'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hamburger_SV'

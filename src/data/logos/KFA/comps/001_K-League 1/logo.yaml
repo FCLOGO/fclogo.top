@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240930-144035-bdd6da
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['K-League 1']
+  slug: /kfa/comp/k-league-1-v2021-mono
+  pngPath: 'png/k-league-1-v2021-mono.png'
+  svgPath: 'svg/k-league-1-v2021-mono.svg'
+  sourceID: kfa-comp-001
+  style: mono
+  reference: 'https://www.kleague.com/about/ci.do'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240930-144114-88c882
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['K-League 1']
+  slug: /kfa/comp/k-league-1-v2021
+  pngPath: 'png/k-league-1-v2021.png'
+  svgPath: 'svg/k-league-1-v2021.svg'
+  sourceID: kfa-comp-001
+  style: color
+  reference: 'https://www.kleague.com/about/ci.do'
+  ctrbID: ''

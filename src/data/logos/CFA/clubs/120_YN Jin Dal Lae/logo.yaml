@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-232126-823eec
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YN JinDalLae']
+  slug: /cfa/club/Yunnan-Jin-Dal-Lae-v2019-mono
+  pngPath: 'png/Yunnan-Jin-Dal-Lae-v2019-mono.png'
+  svgPath: 'svg/Yunnan-Jin-Dal-Lae-v2019-mono.svg'
+  sourceID: cfa-club-120
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-232206-98267d
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YN JinDalLae']
+  slug: /cfa/club/Yunnan-Jin-Dal-Lae-v2019
+  pngPath: 'png/Yunnan-Jin-Dal-Lae-v2019.png'
+  svgPath: 'svg/Yunnan-Jin-Dal-Lae-v2019.svg'
+  sourceID: cfa-club-120
+  style: color
+  reference: ''
+  ctrbID: ''

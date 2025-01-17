@@ -1,0 +1,97 @@
+- data: logo
+  logoID: 20241207-153952-725924
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2001
+  pngPath: 'png/Portland-Timbers-v2001.png'
+  svgPath: 'svg/Portland-Timbers-v2001.svg'
+  sourceID: ussf-club-022
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-154034-66b7b3
+  version: 2005
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2005
+  pngPath: 'png/Portland-Timbers-v2005.png'
+  svgPath: 'svg/Portland-Timbers-v2005.svg'
+  sourceID: ussf-club-022
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-154142-765bd9
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2010
+  pngPath: 'png/Portland-Timbers-v2010.png'
+  svgPath: 'svg/Portland-Timbers-v2010.svg'
+  sourceID: ussf-club-022
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-154210-0fa0a9
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2011
+  pngPath: 'png/Portland-Timbers-v2011.png'
+  svgPath: 'svg/Portland-Timbers-v2011.svg'
+  sourceID: ussf-club-022
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-154239-e6da9a
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2016
+  pngPath: 'png/Portland-Timbers-v2016.png'
+  svgPath: 'svg/Portland-Timbers-v2016.svg'
+  sourceID: ussf-club-022
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-154304-1e0afd
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2018-mono
+  pngPath: 'png/Portland-Timbers-v2018-mono.png'
+  svgPath: 'svg/Portland-Timbers-v2018-mono.svg'
+  sourceID: ussf-club-022
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-154329-c3f987
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Portland Timbers']
+  slug: /ussf/club/Portland-Timbers-v2018
+  pngPath: 'png/Portland-Timbers-v2018.png'
+  svgPath: 'svg/Portland-Timbers-v2018.svg'
+  sourceID: ussf-club-022
+  style: color
+  reference: ''
+  ctrbID: ''

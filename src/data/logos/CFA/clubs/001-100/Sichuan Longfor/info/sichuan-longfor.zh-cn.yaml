@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: cfa-club-041
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [103.655748, 30.970051]
+  info:
+    - fullName: 四川隆发足球俱乐部
+      shortName: 四川隆发
+      localName: 四川隆发足球俱乐部
+      city: 成都，中国
+      founded: 2013
+      duration: 2013 - 2020
+      ground: 都江堰凤凰体育场
+  wikiURL: 'https://baike.baidu.com/item/四川隆发足球俱乐部/'

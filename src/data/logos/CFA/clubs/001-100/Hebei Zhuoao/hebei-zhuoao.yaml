@@ -1,0 +1,47 @@
+- data: logo
+  logoID: 20211114-001
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hebei Zhuoao']
+  slug: /cfa/club/hebei-zhuoao-v2021-mono
+  pngPath: 'png/hebei-zhuoao-v2021-mono.png'
+  svgPath: 'svg/hebei-zhuoao-v2021-mono.svg'
+  sourceID: cfa-club-055
+  style: mono
+
+- data: logo
+  logoID: 20211114-002
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hebei Zhuoao']
+  slug: /cfa/club/hebei-zhuoao-v2021
+  pngPath: 'png/hebei-zhuoao-v2021.png'
+  svgPath: 'svg/hebei-zhuoao-v2021.svg'
+  sourceID: cfa-club-055
+  style: color
+
+- data: logo
+  logoID: 20211215-182604
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Hebei Jingying', 'Hebei Elite', 'Hebei Aoli Jingying']
+  slug: /cfa/club/hebei-zhuoao-v2012-mono
+  pngPath: 'png/hebei-zhuoao-v2012-mono.png'
+  svgPath: 'svg/hebei-zhuoao-v2012-mono.svg'
+  sourceID: cfa-club-055
+  style: mono
+
+- data: logo
+  logoID: 20211215-182625
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Hebei Jingying', 'Hebei Elite', 'Hebei Aoli Jingying']
+  slug: /cfa/club/hebei-zhuoao-v2012
+  pngPath: 'png/hebei-zhuoao-v2012.png'
+  svgPath: 'svg/hebei-zhuoao-v2012.svg'
+  sourceID: cfa-club-055
+  style: color

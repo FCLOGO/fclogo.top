@@ -1,0 +1,51 @@
+- data: logo
+  logoID: 20211027-008
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sichuan Jiuniu']
+  slug: /cfa/club/sichuan-jiuniu-v2017-mono
+  pngPath: 'png/sichuan-jiuniu-v2017-mono.png'
+  svgPath: 'svg/sichuan-jiuniu-v2017-mono.svg'
+  sourceID: cfa-club-023
+  style: mono
+
+- data: logo
+  logoID: 20211027-009
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sichuan Jiuniu']
+  slug: /cfa/club/sichuan-jiuniu-v2017
+  pngPath: 'png/sichuan-jiuniu-v2017.png'
+  svgPath: 'svg/sichuan-jiuniu-v2017.svg'
+  sourceID: cfa-club-023
+  style: color
+
+- data: logo
+  logoID: 20240301-100439-576c63
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shenzhen Pneng City']
+  slug: /cfa/club/shenzhen-peng-city-v2024-mono
+  pngPath: 'png/shenzhen-peng-city-v2024-mono.png'
+  svgPath: 'svg/shenzhen-peng-city-v2024-mono.svg'
+  sourceID: cfa-club-023
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-cuida'
+
+- data: logo
+  logoID: 20240301-100635-103737
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shenzhen Pneng City']
+  slug: /cfa/club/shenzhen-peng-city-v2024
+  pngPath: 'png/shenzhen-peng-city-v2024.png'
+  svgPath: 'svg/shenzhen-peng-city-v2024.svg'
+  sourceID: cfa-club-023
+  style: color
+  reference: 'https://weibo.com/7834613563/O2xlqdMxB'
+  ctrbID: ''

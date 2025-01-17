@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241217-101034-df74e4
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Intercontinental Cup']
+  slug: /fifa/comp/FIFA-Intercontinental-Cup-v2024-mono
+  pngPath: 'png/FIFA-Intercontinental-Cup-v2024-mono.png'
+  svgPath: 'svg/FIFA-Intercontinental-Cup-v2024-mono.svg'
+  sourceID: fifa-comp-002
+  style: mono
+  reference: 'https://digitalhub.fifa.com/m/1803bf17da9559ad/original/FIFA-Intercontinental-Cup-Qatar-2024-Match-Schedule.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241217-101203-2428e4
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Intercontinental Cup']
+  slug: /fifa/comp/FIFA-Intercontinental-Cup-v2024
+  pngPath: 'png/FIFA-Intercontinental-Cup-v2024.png'
+  svgPath: 'svg/FIFA-Intercontinental-Cup-v2024.svg'
+  sourceID: fifa-comp-002
+  style: color
+  reference: 'https://digitalhub.fifa.com/m/1803bf17da9559ad/original/FIFA-Intercontinental-Cup-Qatar-2024-Match-Schedule.pdf'
+  ctrbID: ''

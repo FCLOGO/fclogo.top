@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-047
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [130.8823316375212, 33.89233628627435]
+  timeline: false
+  info:
+    - fullName: Giravanz Kitakyushu Football Club
+      shortName: Giravanz Kitakyushu
+      localName: ギラヴァンツ北九州
+      founded: 1947
+      city: Kitakyushu
+      ground: Mikuni World Stadium Kitakyushu
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/giravanz_staff/'
+  websiteURL: 'https://www.giravanz.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Giravanz_Kitakyushu'

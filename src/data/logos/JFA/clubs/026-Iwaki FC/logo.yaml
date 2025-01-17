@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-191840-fcff63
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Iwaki FC']
+  slug: /jfa/club/iwaki-fc-v2015-mono
+  pngPath: 'png/iwaki-fc-v2015-mono.png'
+  svgPath: 'svg/iwaki-fc-v2015-mono.svg'
+  sourceID: jfa-club-026
+  style: mono
+  reference: 'https://www.jleague.co/clubs/IWAKI-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-191926-98d7c7
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Iwaki FC']
+  slug: /jfa/club/iwaki-fc-v2015
+  pngPath: 'png/iwaki-fc-v2015.png'
+  svgPath: 'svg/iwaki-fc-v2015.svg'
+  sourceID: jfa-club-026
+  style: color
+  reference: 'https://www.jleague.co/clubs/IWAKI-FC/#stadiums'
+  ctrbID: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-002
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-0.5689739594383597, 47.45964000135825]
+  timeline: true
+  info:
+    - fullName: Angers Sporting Club de l'Ouest
+      localName: Angers Sporting Club de l'Ouest
+      shortName: Angers SCO
+      founded: 1919
+      city: Angers
+      ground: Stade Raymond Kopa
+  websiteURL: 'https://angers-sco.fr/'
+  twitterURL: 'https://twitter.com/angerssco'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Angers_SCO'

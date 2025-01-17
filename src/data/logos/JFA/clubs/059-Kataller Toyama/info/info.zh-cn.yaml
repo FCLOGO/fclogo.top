@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-059
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [137.19520291159907, 36.626292631496085]
+  timeline: true
+  info:
+    - fullName: 富山胜利足球俱乐部
+      shortName: 富山胜利
+      localName: カターレ富山
+      founded: 2007
+      city: 日本，富山
+      ground: 富山县总合运动公园陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/katallertoyama/'
+  websiteURL: 'http://www.kataller.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kataller_Toyama'

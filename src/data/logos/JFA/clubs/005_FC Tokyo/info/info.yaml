@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-005
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.53376010011675, 35.6711664841997]
+  timeline: false
+  info:
+    - fullName: Football Club Tokyo
+      shortName: FC Tokyo
+      localName: フットボールクラブ東京
+      founded: 1935
+      city: Tokyo, Japan
+      ground: Ajinomoto Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fctokyoofficial/'
+  websiteURL: 'https://www.fctokyo.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Tokyo'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-013
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [50.20541388942308, 26.499586022324717]
+  timeline: false
+  info:
+    - fullName: 卡迪西亚足球俱乐部
+      shortName: 卡迪西亚
+      localName: نادي القادسية لكرة القدم
+      founded: 1967
+      city: 科巴尔
+      ground: 沙特·本·贾拉维王子体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.alqadsiah.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Qadsiah_FC'

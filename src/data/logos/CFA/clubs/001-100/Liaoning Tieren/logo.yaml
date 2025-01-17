@@ -1,0 +1,131 @@
+- data: logo
+  logoID: 20211102-003
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenyang Urban']
+  slug: /cfa/club/liaoning-shenyang-urban-v2019-mono
+  pngPath: 'png/liaoning-shenyang-urban-v2019-mono.png'
+  svgPath: 'svg/liaoning-shenyang-urban-v2019-mono.svg'
+  sourceID: cfa-club-034
+  style: mono
+
+- data: logo
+  logoID: 20211102-004
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenyang Urban']
+  slug: /cfa/club/liaoning-shenyang-urban-v2019
+  pngPath: 'png/liaoning-shenyang-urban-v2019.png'
+  svgPath: 'svg/liaoning-shenyang-urban-v2019.svg'
+  sourceID: cfa-club-034
+  style: color
+
+- data: logo
+  logoID: 20211102-005
+  version: 2020
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Liaoning Shenyang Urban']
+  slug: /cfa/club/liaoning-shenyang-urban-v2020-mono
+  pngPath: 'png/liaoning-shenyang-urban-v2020-mono.png'
+  svgPath: 'svg/liaoning-shenyang-urban-v2020-mono.svg'
+  sourceID: cfa-club-034
+  style: mono
+
+- data: logo
+  logoID: 20211102-006
+  version: 2020
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Liaoning Shenyang Urban']
+  slug: /cfa/club/liaoning-shenyang-urban-v2020
+  pngPath: 'png/liaoning-shenyang-urban-v2020.png'
+  svgPath: 'svg/liaoning-shenyang-urban-v2020.svg'
+  sourceID: cfa-club-034
+  style: color
+
+- data: logo
+  logoID: 20231117-143026-f4da0f
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenyang Urban']
+  slug: /cfa/club/shenyang-urban-v2018
+  pngPath: 'png/shenyang-urban-v2018.png'
+  svgPath: 'svg/shenyang-urban-v2018.svg'
+  sourceID: cfa-club-034
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231117-143059-ca3d0f
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenyang Urban']
+  slug: /cfa/club/shenyang-urban-v2017
+  pngPath: 'png/shenyang-urban-v2017.png'
+  svgPath: 'svg/shenyang-urban-v2017.svg'
+  sourceID: cfa-club-034
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231117-143122-a1dec8
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenyang Urban']
+  slug: /cfa/club/shenyang-urban-v2016-mono
+  pngPath: 'png/shenyang-urban-v2016-mono.png'
+  svgPath: 'svg/shenyang-urban-v2016-mono.svg'
+  sourceID: cfa-club-034
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20231117-143149-b7c7af
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenyang Urban']
+  slug: /cfa/club/shenyang-urban-v2016
+  pngPath: 'png/shenyang-urban-v2016.png'
+  svgPath: 'svg/shenyang-urban-v2016.svg'
+  sourceID: cfa-club-034
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-081244-146c6d
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liaoning Tieren']
+  slug: /cfa/club/liaoning-tieren-v2024-mono
+  pngPath: 'png/liaoning-tieren-v2024-mono.png'
+  svgPath: 'svg/liaoning-tieren-v2024-mono.svg'
+  sourceID: cfa-club-034
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-081333-360b8d
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liaoning Tieren']
+  slug: /cfa/club/liaoning-tieren-v2024
+  pngPath: 'png/liaoning-tieren-v2024.png'
+  svgPath: 'svg/liaoning-tieren-v2024.svg'
+  sourceID: cfa-club-034
+  style: color
+  reference: 'https://weibo.com/ttarticle/p/show?id=2309405003209939746973'
+  ctrbID: ''

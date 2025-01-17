@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-105
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [113.28, 23.08]
+  timeline: true
+  info:
+    - fullName: Guangdong Mingtu Football Club
+      shortName: Guangdong Mingtu
+      localName: 广东铭途足球俱乐部
+      founded: 2018
+      city: Guangzhou, Guangdong
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

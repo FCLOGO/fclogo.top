@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-094
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [121.619169, 38.908893]
+  timeline: true
+  info:
+    - fullName: Dalian Shide Football Club
+      shortName: Dalian Shide
+      localName: 大连实德足球俱乐部
+      city: Dalian, China
+      founded: 1983
+      duration: 1983 - 2012
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Dalian_Shide_F.C.'

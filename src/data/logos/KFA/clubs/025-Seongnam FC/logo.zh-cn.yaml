@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-104512-4aa664
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['城南 FC']
+  slug: /kfa/club/seongnam-fc-v2014-mono
+  pngPath: 'png/seongnam-fc-v2014-mono.png'
+  svgPath: 'svg/seongnam-fc-v2014-mono.svg'
+  sourceID: kfa-club-025
+  style: mono
+  reference: 'https://seongnamfc.com/aboutSFC/mascot'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-104541-c9b60a
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['城南 FC']
+  slug: /kfa/club/seongnam-fc-v2014
+  pngPath: 'png/seongnam-fc-v2014.png'
+  svgPath: 'svg/seongnam-fc-v2014.svg'
+  sourceID: kfa-club-025
+  style: color
+  reference: 'https://seongnamfc.com/aboutSFC/mascot'
+  ctrbID: ''

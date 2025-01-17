@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20241207-220808-04f769
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['San Jose Earthquakes']
+  slug: /ussf/club/San-Jose-Earthquakes-v2000
+  pngPath: 'png/San-Jose-Earthquakes-v2000.png'
+  svgPath: 'svg/San-Jose-Earthquakes-v2000.svg'
+  sourceID: ussf-club-024
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-220833-6e0805
+  version: 2008
+  isDoubtful: false
+  isOutdated: true
+  verName: ['San Jose Earthquakes']
+  slug: /ussf/club/San-Jose-Earthquakes-v2008
+  pngPath: 'png/San-Jose-Earthquakes-v2008.png'
+  svgPath: 'svg/San-Jose-Earthquakes-v2008.svg'
+  sourceID: ussf-club-024
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-220859-abc04a
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Jose Earthquakes']
+  slug: /ussf/club/San-Jose-Earthquakes-v2014-mono
+  pngPath: 'png/San-Jose-Earthquakes-v2014-mono.png'
+  svgPath: 'svg/San-Jose-Earthquakes-v2014-mono.svg'
+  sourceID: ussf-club-024
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-220934-7a8e9f
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Jose Earthquakes']
+  slug: /ussf/club/San-Jose-Earthquakes-v2014
+  pngPath: 'png/San-Jose-Earthquakes-v2014.png'
+  svgPath: 'svg/San-Jose-Earthquakes-v2014.svg'
+  sourceID: ussf-club-024
+  style: color
+  reference: ''
+  ctrbID: ''

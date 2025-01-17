@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-155105
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Lhasa UCI']
+  slug: /cfa/club/lhasa-uci-v2017-mono
+  pngPath: 'png/lhasa-uci-v2017-mono.png'
+  svgPath: 'svg/lhasa-uci-v2017-mono.svg'
+  sourceID: cfa-club-076
+  style: mono
+
+- data: logo
+  logoID: 20211208-155134
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Lhasa UCI']
+  slug: /cfa/club/lhasa-uci-v2017
+  pngPath: 'png/lhasa-uci-v2017.png'
+  svgPath: 'svg/lhasa-uci-v2017.svg'
+  sourceID: cfa-club-076
+  style: color

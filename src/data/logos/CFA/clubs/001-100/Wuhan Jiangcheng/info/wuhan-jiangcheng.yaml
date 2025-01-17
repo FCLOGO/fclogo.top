@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-084
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [114.359861, 30.594675]
+  timeline: false
+  info:
+    - fullName: Wuhan Jiangcheng Football Club
+      shortName: Wuhan Jiangcheng
+      localName: 武汉江城足球俱乐部
+      founded: 2000
+      city: Wuhan, China
+      duration: 2000 - 2024
+  weiboURL: 'https://weibo.com/u/3334028152'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

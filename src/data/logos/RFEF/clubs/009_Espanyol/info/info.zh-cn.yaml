@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-009
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [2.074566718227276, 41.348140569180785]
+  timeline: false
+  info:
+    - fullName: 皇家西班牙人体育俱乐部
+      localName: Reial Club Deportiu Espanyol de Barcelona
+      shortName: 皇家西班牙人
+      founded: 1900
+      city: 巴塞罗那
+      ground: 科尔内拉-埃尔普拉特球场
+  websiteURL: 'https://www.rcdespanyol.com/'
+  twitterURL: 'https://twitter.com/rcdespanyol'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/RCD_Espanyol'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-comp-003
+  type: comp
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: 日本 J3 联赛
+      shortName: J3 联赛
+      localName: J3リーグ
+      founded: 2013
+      confederation: AFC
+      teams: 20
+      level: 第 3 级别
+      promotion: J2 联赛
+      relegation: 日本足球联赛
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/J_League'
+  websiteURL: 'https://www.jleague.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/J3_League'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-070
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [120.466676, 33.16803]
+  info:
+    - fullName: 盐城鹿之瀛足球俱乐部
+      shortName: 盐城鹿之瀛
+      localName: 盐城鹿之瀛足球俱乐部
+      city: 盐城，中国
+      founded: 2013
+      duration: 2013 - 2021
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/盐城鹿之瀛足球俱乐部'

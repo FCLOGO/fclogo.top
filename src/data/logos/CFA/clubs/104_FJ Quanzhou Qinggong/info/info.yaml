@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-104
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [118.61, 24.91]
+  timeline: false
+  info:
+    - fullName: Fujian Quanzhou Qinggong Football Club
+      shortName: FJ Quanzhou Qinggong
+      localName: 福建泉州青工足球俱乐部
+      founded: 2012
+      city: Quanzhou, Fujian
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/%E7%A6%8F%E5%BB%BA%E6%B3%89%E5%B7%9E%E9%9D%92%E5%B7%A5%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/54764820'

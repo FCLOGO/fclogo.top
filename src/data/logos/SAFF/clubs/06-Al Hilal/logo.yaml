@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241026-232235-150874
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al Hilal']
+  slug: /saff/club/al-hilal-saudi-v2022
+  pngPath: 'png/al-hilal-saudi-v2022.png'
+  svgPath: 'svg/al-hilal-saudi-v2022.svg'
+  sourceID: saff-club-006
+  style: color
+  reference: 'https://alhilal.sa/imgs/gallery/7677834365.pdf'
+  ctrbID: ''

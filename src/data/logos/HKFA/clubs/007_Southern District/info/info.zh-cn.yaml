@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-club-007
+  status: active
+  type: club
+  nation: HKG
+  coordinates: [114.17149181081945, 22.250333598609622]
+  timeline: true
+  info:
+    - fullName: 南区足球会
+      shortName: 南区
+      localName: 南區足球會
+      founded: 2002
+      city: 中国，香港
+      ground: 香港仔运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.sdfc.org.hk/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/南區足球會'

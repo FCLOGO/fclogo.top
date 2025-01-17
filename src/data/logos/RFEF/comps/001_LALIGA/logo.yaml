@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20241226-192806-6d9aa9
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['La Liga']
+  slug: /rfef/comp/La-Liga-v2016
+  pngPath: 'png/La-Liga-v2016.png'
+  svgPath: 'svg/La-Liga-v2016.svg'
+  sourceID: rfef-comp-001
+  style: color
+  reference: 'https://assets.laliga.com/assets/downloads/sala-de-prensa/reglamento-retransmision-1_en.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241226-192837-fceeac
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['LALIGA']
+  slug: /rfef/comp/LALIGA-Primera-Division-v2023-text
+  pngPath: 'png/LALIGA-Primera-Division-v2023-text.png'
+  svgPath: 'svg/LALIGA-Primera-Division-v2023-text.svg'
+  sourceID: rfef-comp-001
+  style: text
+  reference: 'https://www.laliga.com/en-ES/pressroom/logos-and-corporate-dossier/logos'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241226-192952-8994a2
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['LALIGA']
+  slug: /rfef/comp/LALIGA-Primera-Division-v2023-graph
+  pngPath: 'png/LALIGA-Primera-Division-v2023-graph.png'
+  svgPath: 'svg/LALIGA-Primera-Division-v2023-graph.svg'
+  sourceID: rfef-comp-001
+  style: graph
+  reference: 'https://www.laliga.com/en-ES/pressroom/logos-and-corporate-dossier/logos'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241226-193024-833eca
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['LALIGA']
+  slug: /rfef/comp/LALIGA-Primera-Division-v2023
+  pngPath: 'png/LALIGA-Primera-Division-v2023.png'
+  svgPath: 'svg/LALIGA-Primera-Division-v2023.svg'
+  sourceID: rfef-comp-001
+  style: color
+  reference: 'https://www.laliga.com/en-ES/pressroom/logos-and-corporate-dossier/logos'
+  ctrbID: ''

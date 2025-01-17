@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-048
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [109.837175, 40.644504]
+  info:
+    - fullName: Inner Mongolia Caoshangfei Football Club
+      shortName: Inner Mongolia Caoshangfei
+      localName: 内蒙古草上飞足球俱乐部
+      founded: 1998
+      city: Baotou, China
+      ground: Baotou Olympic Sports Centre Stadium
+      league: CMCL
+  weiboURL: 'https://weibo.com/u/5461024268'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Inner_Mongolia_Caoshangfei_F.C.'

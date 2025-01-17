@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241025-112604-040641
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SPL', 'RSL']
+  slug: /saff/comp/saudi-pro-league-v2022
+  pngPath: 'png/saudi-pro-league-v2022.png'
+  svgPath: 'svg/saudi-pro-league-v2022.svg'
+  sourceID: saff-comp-001
+  style: color
+  reference: 'https://www.roshn.sa/ar/sponsorships'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-001
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [39.25067426435155, 21.991567154692262]
+  timeline: false
+  info:
+    - fullName: Al-Ahli Saudi Football Club
+      shortName: Al-Ahli Saudi
+      localName: النادي الأهلي السعودي
+      founded: 1937
+      city: Jeddah
+      ground: King Abdullah Sports City
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.alahlifc.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Ahli_Saudi_FC'

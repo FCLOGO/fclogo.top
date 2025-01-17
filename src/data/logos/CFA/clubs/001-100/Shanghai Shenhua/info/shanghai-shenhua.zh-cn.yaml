@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-003
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [121.566294, 31.142534]
+  timeline: true
+  info:
+    - fullName: 上海申花足球俱乐部
+      shortName: 上海申花
+      localName: 上海申花足球俱乐部
+      city: 上海，中国
+      founded: 1993
+      ground: 上海体育场
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/1650107735'
+  twitterURL: 'https://twitter.com/shanghaishenhua'
+  websiteURL: 'http://www.shenhuafc.com.cn'
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海申花足球俱乐部'

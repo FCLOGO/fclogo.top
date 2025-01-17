@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-045
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [132.95922651306125, 34.0408131605871]
+  timeline: false
+  info:
+    - fullName: 今治足球俱乐部
+      shortName: FC 今治
+      localName: FC今治
+      founded: 1978
+      city: 日本，今治
+      ground: 樱井海滨交流广场足球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/FCimabari'
+  websiteURL: 'http://www.fcimabari.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Imabari'

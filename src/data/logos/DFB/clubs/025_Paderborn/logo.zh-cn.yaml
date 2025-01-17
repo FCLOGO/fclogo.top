@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241224-172151-0c462d
+  version: 1997
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Paderborn 07']
+  slug: /dfb/club/SC-Paderborn-07-v1997-mono
+  pngPath: 'png/SC-Paderborn-07-v1997-mono.png'
+  svgPath: 'svg/SC-Paderborn-07-v1997-mono.svg'
+  sourceID: dfb-club-025
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-172222-175cd6
+  version: 1997
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Paderborn 07']
+  slug: /dfb/club/SC-Paderborn-07-v1997
+  pngPath: 'png/SC-Paderborn-07-v1997.png'
+  svgPath: 'svg/SC-Paderborn-07-v1997.svg'
+  sourceID: dfb-club-025
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/sc-paderborn-07'
+  ctrbID: ''

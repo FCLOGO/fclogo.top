@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241205-163440-d66cfd
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['MLS']
+  slug: /ussf/comp/Major-League-Soccer-v2015-mono
+  pngPath: 'png/Major-League-Soccer-v2015-mono.png'
+  svgPath: 'svg/Major-League-Soccer-v2015-mono.svg'
+  sourceID: ussf-comp-001
+  style: mono
+  reference: 'https://mlssoccer.app.box.com/v/media/folder/49804944370'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-163539-7b2eea
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['MLS']
+  slug: /ussf/comp/Major-League-Soccer-v2015
+  pngPath: 'png/Major-League-Soccer-v2015.png'
+  svgPath: 'svg/Major-League-Soccer-v2015.svg'
+  sourceID: ussf-comp-001
+  style: color
+  reference: 'https://mlssoccer.app.box.com/v/media/folder/49804944370'
+  ctrbID: ''

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241001-231358-ad4706
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jeju United']
+  slug: /kfa/club/jeju-united-v2009-mono
+  pngPath: 'png/jeju-united-v2009-mono.png'
+  svgPath: 'svg/jeju-united-v2009-mono.svg'
+  sourceID: kfa-club-009
+  style: mono
+  reference: 'https://www.jeju-utd.com/club/introduction/mascot'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241001-231457-b276bb
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jeju United']
+  slug: /kfa/club/jeju-united-v2009
+  pngPath: 'png/jeju-united-v2009.png'
+  svgPath: 'svg/jeju-united-v2009.svg'
+  sourceID: kfa-club-009
+  style: color
+  reference: 'https://www.jeju-utd.com/club/introduction/mascot'
+  ctrbID: ''

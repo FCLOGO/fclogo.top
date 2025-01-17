@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-007
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [144.98416661349808, -37.824084454504124]
+  timeline: true
+  info:
+    - fullName: 墨尔本胜利足球俱乐部
+      shortName: 墨尔本胜利
+      localName: Melbourne Victory Football Club
+      founded: 2004
+      city: 澳大利亚，墨尔本
+      ground: AAMI公园球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/gomvfc'
+  websiteURL: 'https://melbournevictory.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Melbourne_Victory_FC'

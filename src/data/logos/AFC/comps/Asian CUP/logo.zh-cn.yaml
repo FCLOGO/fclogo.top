@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20231215-130854-c50df6
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['2023 卡塔尔亚洲杯']
+  slug: /afc/comp/qatar-2023-afc-asian-cup
+  pngPath: 'png/qatar-2023-afc-asian-cup.png'
+  svgPath: 'svg/qatar-2023-afc-asian-cup.svg'
+  sourceID: afc-comp-001
+  style: color
+  reference: 'https://assets.the-afc.com/2023_AFC_Asian_Cup/Downloads/AFC-Asian-Cup-Qatar-2023%E2%84%A2%EF%B8%8F-Official-Match-Schedule.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240301-095743-d27fa6
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['2023 卡塔尔亚洲杯']
+  slug: /afc/comp/qatar-2023-afc-asian-cup-mono
+  pngPath: 'png/qatar-2023-afc-asian-cup-mono.png'
+  svgPath: 'svg/qatar-2023-afc-asian-cup-mono.svg'
+  sourceID: afc-comp-001
+  style: mono
+  reference: 'https://assets.the-afc.com/2023_AFC_Asian_Cup/Downloads/AFC-Asian-Cup-Qatar-2023%E2%84%A2%EF%B8%8F-Official-Match-Schedule.pdf'
+  ctrbID: ''

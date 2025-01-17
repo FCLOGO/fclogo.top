@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-006
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [121.531281, 31.223065]
+  timeline: true
+  info:
+    - fullName: Shanghai Port Football Club
+      shortName: Shanghai Port FC
+      localName: 上海海港足球俱乐部
+      city: Shanghai, China
+      founded: 2005
+      ground: Shanghai Pudong Football Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/3593916900'
+  twitterURL: ''
+  websiteURL: 'https://www.fcshanghaiport.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanghai_Port_F.C.'

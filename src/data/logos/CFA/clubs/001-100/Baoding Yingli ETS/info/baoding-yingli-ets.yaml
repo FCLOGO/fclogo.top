@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-067
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [115.42, 38.88]
+  info:
+    - fullName: Baoding Yingli ETS Football Club
+      shortName: Baoding Yingli ETS
+      localName: 保定英利易通足球俱乐部
+      city: Baoding, China
+      founded: 2015
+      duration: 2015 - 2020
+      ground: Hebei University Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Baoding_Yingli_ETS_F.C.'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-024
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [132.70654264907643, 33.87562799054459]
+  timeline: false
+  info:
+    - fullName: 爱媛足球俱乐部
+      shortName: 爱媛 FC
+      localName: 愛媛フットボールクラブ
+      founded: 1970
+      city: 日本，松山
+      ground: 爱媛县综合运动公园竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ehime_fc/'
+  websiteURL: 'http://www.ehimefc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ehime_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-075
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [119.552693, 26.659268]
+  info:
+    - fullName: Fujian Ningde Funing Football Club
+      shortName: Fujian Ningde Funing
+      localName: 福建宁德福宁足球俱乐部
+      city: Ningde, China
+      founded: 2005
+      duration: 2005 - 2020
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Fujian_Ningde_Funing_F.C.'

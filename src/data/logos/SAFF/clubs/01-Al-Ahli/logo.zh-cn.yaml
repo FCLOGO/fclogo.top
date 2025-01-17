@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241025-154638-5fb8ee
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['吉达国民', '沙特国民']
+  slug: /saff/club/al-ahli-saudi-v2008-mono
+  pngPath: 'png/al-ahli-saudi-v2008-mono.png'
+  svgPath: 'svg/al-ahli-saudi-v2008-mono.svg'
+  sourceID: saff-club-001
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3097/al-ahli/fixtures?compSeason=858'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241025-154730-75750b
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['吉达国民', '沙特国民']
+  slug: /saff/club/al-ahli-saudi-v2008
+  pngPath: 'png/al-ahli-saudi-v2008.png'
+  svgPath: 'svg/al-ahli-saudi-v2008.svg'
+  sourceID: saff-club-001
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3097/al-ahli/fixtures?compSeason=858'
+  ctrbID: ''

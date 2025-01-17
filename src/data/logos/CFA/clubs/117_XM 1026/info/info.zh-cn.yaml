@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-117
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [118.09, 24.51]
+  timeline: false
+  info:
+    - fullName: 厦门壹零贰陆足球俱乐部
+      shortName: 厦门壹零贰陆
+      localName: 厦门壹零贰陆足球俱乐部
+      founded: 2011
+      city: 福建，厦门
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

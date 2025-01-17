@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20220106-201320
+  version: 1998
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广州白云山']
+  slug: /cfa/club/guangzhou-baiyunshan-v1998-mono
+  pngPath: 'png/guangzhou-baiyunshan-v1998-mono.png'
+  svgPath: 'svg/guangzhou-baiyunshan-v1998-mono.svg'
+  sourceID: cfa-club-079
+  style: mono
+
+- data: logo
+  logoID: 20220106-201429
+  version: 1998
+  isDoubtful: false
+  isOutdated: false
+  verName: ['广州白云山']
+  slug: /cfa/club/guangzhou-baiyunshan-v1998
+  pngPath: 'png/guangzhou-baiyunshan-v1998.png'
+  svgPath: 'svg/guangzhou-baiyunshan-v1998.svg'
+  sourceID: cfa-club-079
+  style: color

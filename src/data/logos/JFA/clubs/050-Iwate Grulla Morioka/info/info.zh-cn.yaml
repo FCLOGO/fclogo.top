@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-050
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [141.1555455286374, 39.66146631650256]
+  timeline: false
+  info:
+    - fullName: 岩手盛冈仙鹤足球俱乐部
+      shortName: 岩手盛冈仙鹤
+      localName: いわてグルージャ盛岡
+      founded: 2003
+      city: 日本，盛冈
+      ground: 盛冈南公园球技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/IwateGrulla/'
+  websiteURL: 'http://grulla-morioka.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Iwate_Grulla_Morioka'

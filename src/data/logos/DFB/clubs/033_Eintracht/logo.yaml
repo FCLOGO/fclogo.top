@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20241224-233034-b06658
+  version: 1986
+  isDoubtful: true
+  isOutdated: true
+  verName: ['Eintracht Braunschweig']
+  slug: /dfb/club/Eintracht-Braunschweig-v1986
+  pngPath: 'png/Eintracht-Braunschweig-v1986.png'
+  svgPath: 'svg/Eintracht-Braunschweig-v1986.svg'
+  sourceID: dfb-club-033
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-233156-8894ab
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Eintracht Braunschweig']
+  slug: /dfb/club/Eintracht-Braunschweig-v2016-comm
+  pngPath: 'png/Eintracht-Braunschweig-v2016-comm.png'
+  svgPath: 'svg/Eintracht-Braunschweig-v2016-comm.svg'
+  sourceID: dfb-club-033
+  style: comm
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-233254-afb8f8
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Eintracht Braunschweig']
+  slug: /dfb/club/Eintracht-Braunschweig-v2012-mono
+  pngPath: 'png/Eintracht-Braunschweig-v2012-mono.png'
+  svgPath: 'svg/Eintracht-Braunschweig-v2012-mono.svg'
+  sourceID: dfb-club-033
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-233334-c79e43
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Eintracht Braunschweig']
+  slug: /dfb/club/Eintracht-Braunschweig-v2012
+  pngPath: 'png/Eintracht-Braunschweig-v2012.png'
+  svgPath: 'svg/Eintracht-Braunschweig-v2012.svg'
+  sourceID: dfb-club-033
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/eintracht-braunschweig'
+  ctrbID: ''

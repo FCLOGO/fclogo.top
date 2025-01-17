@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241024-103842-b52b63
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['庆南 FC']
+  slug: /kfa/club/gyeongnam-fc-v2010-mono
+  pngPath: 'png/gyeongnam-fc-v2010-mono.png'
+  svgPath: 'svg/gyeongnam-fc-v2010-mono.svg'
+  sourceID: kfa-club-024
+  style: mono
+  reference: 'https://www.gyeongnamfc.com/fc/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241024-103922-47cab2
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['庆南 FC']
+  slug: /kfa/club/gyeongnam-fc-v2010
+  pngPath: 'png/gyeongnam-fc-v2010.png'
+  svgPath: 'svg/gyeongnam-fc-v2010.svg'
+  sourceID: kfa-club-024
+  style: color
+  reference: 'https://www.gyeongnamfc.com/fc/emblem.php'
+  ctrbID: ''

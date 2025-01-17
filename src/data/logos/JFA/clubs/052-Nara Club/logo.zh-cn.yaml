@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-164110-e18dfd
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['奈良俱乐部']
+  slug: /jfa/club/nara-club-v2008-mono
+  pngPath: 'png/nara-club-v2008-mono.png'
+  svgPath: 'svg/nara-club-v2008-mono.svg'
+  sourceID: jfa-club-052
+  style: mono
+  reference: 'https://naraclub.jp/club/about-club'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-164209-3670fc
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['奈良俱乐部']
+  slug: /jfa/club/nara-club-v2008
+  pngPath: 'png/nara-club-v2008.png'
+  svgPath: 'svg/nara-club-v2008.svg'
+  sourceID: jfa-club-052
+  style: color
+  reference: 'https://naraclub.jp/club/about-club'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: frmf-club-001
+  status: active
+  type: club
+  nation: MAR
+  coordinates: [-7.608761132867384, 33.59536891909321]
+  timeline: false
+  info:
+    - fullName: 韦达体育俱乐部
+      shortName: 韦达体育
+      localName: نادي الوداد الرياضي
+      founded: 1937
+      city: 卡萨布兰卡
+      ground: Stade Mohammed V
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/WACofficiel'
+  websiteURL: 'https://wacofficiel.ma/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Wydad_AC'

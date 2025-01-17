@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-003
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [153.00292498438193, -27.474713963274134]
+  timeline: false
+  info:
+    - fullName: 布里斯班狮吼足球俱乐部
+      shortName: 布里斯班狮吼
+      localName: Brisbane Roar Football Club
+      founded: 1957
+      city: 澳大利亚，布里斯班
+      ground: 布里斯班体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/brisbaneroar'
+  websiteURL: 'https://brisbaneroar.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Brisbane_Roar_FC'

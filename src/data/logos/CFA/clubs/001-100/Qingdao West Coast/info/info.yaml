@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-061
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.122769, 36.069245]
+  timeline: true
+  info:
+    - fullName: Qingdao West Coast Football Club
+      shortName: Qingdao West Coast
+      localName: 青岛西海岸足球俱乐部
+      founded: 2007
+      city: Qingdao, China
+      ground: Qingdao WestCoast University Town Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/6603410430'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_West_Coast_F.C.'

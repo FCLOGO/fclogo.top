@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-063
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [104.082159, 30.670887]
+  timeline: true
+  info:
+    - fullName: Sichuan Minzu Football Club
+      shortName: Sichuan Minzu
+      localName: 四川民足足球俱乐部
+      founded: 2020
+      city: Chengdu, China
+      ground:
+      duration: 2020 - 2022
+  weiboURL: 'https://weibo.com/u/7551645729'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

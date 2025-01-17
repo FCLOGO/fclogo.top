@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-043
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [117.249591, 39.073991]
+  timeline: true
+  info:
+    - fullName: Tianjin Tianhai Footbal Club
+      shortName: Tianjin Tianhai
+      localName: 天津天海足球俱乐部
+      city: Tianjin, China
+      founded: 2006
+      duration: 2006 - 2020
+      ground: Tianjin Olympic Center Stadium
+  wikiURL: 'https://en.wikipedia.org/wiki/Tianjin_Tianhai_F.C.'

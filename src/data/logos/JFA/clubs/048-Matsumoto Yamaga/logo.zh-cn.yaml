@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241017-103904-7cea71
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['松本山雅']
+  slug: /jfa/club/matsumoto-yamaga-v2011-mono
+  pngPath: 'png/matsumoto-yamaga-v2011-mono.png'
+  svgPath: 'svg/matsumoto-yamaga-v2011-mono.svg'
+  sourceID: jfa-club-048
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Matsumoto-Yamaga-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241017-103939-76ac15
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['松本山雅']
+  slug: /jfa/club/matsumoto-yamaga-v2011
+  pngPath: 'png/matsumoto-yamaga-v2011.png'
+  svgPath: 'svg/matsumoto-yamaga-v2011.svg'
+  sourceID: jfa-club-048
+  style: color
+  reference: 'https://www.jleague.co/clubs/Matsumoto-Yamaga-FC/'
+  ctrbID: ''

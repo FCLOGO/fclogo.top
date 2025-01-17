@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-040
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.56988693625914, 35.478329107442]
+  timeline: true
+  info:
+    - fullName: Yokohama Football Club
+      shortName: Yokohama FC
+      localName: 横浜FC
+      founded: 1998
+      city: Yokohama, Japan
+      ground: Mitsuzawa Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/yokohama_fc/'
+  websiteURL: 'https://www.yokohamafc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Yokohama_FC'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-215057-6bf90f
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['1. Bundesliga']
+  slug: /dfb/comp/Bundesliga-v2017-mono
+  pngPath: 'png/Bundesliga-v2017-mono.png'
+  svgPath: 'svg/Bundesliga-v2017-mono.svg'
+  sourceID: dfb-comp-001
+  style: mono
+  reference: 'https://www.bundesliga.com/en/bundesliga'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-215145-b38cbe
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['1. Bundesliga']
+  slug: /dfb/comp/Bundesliga-v2017
+  pngPath: 'png/Bundesliga-v2017.png'
+  svgPath: 'svg/Bundesliga-v2017.svg'
+  sourceID: dfb-comp-001
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga'
+  ctrbID: ''

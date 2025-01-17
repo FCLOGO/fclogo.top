@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-003
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.62224055371024, 35.59137477617232]
+  timeline: false
+  info:
+    - fullName: 川崎前锋足球俱乐部
+      shortName: 川崎前锋
+      localName: 川崎フロンターレ
+      founded: 1955
+      city: 日本，川崎
+      ground: 川崎等等力陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/frontale_staff'
+  websiteURL: 'https://www.frontale.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kawasaki_Frontale'

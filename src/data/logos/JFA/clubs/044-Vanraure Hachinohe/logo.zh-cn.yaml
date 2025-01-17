@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241016-103453-d8685b
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['八户于南乡']
+  slug: /jfa/club/vanraure-hachinohe-v2006-mono
+  pngPath: 'png/vanraure-hachinohe-v2006-mono.png'
+  svgPath: 'svg/vanraure-hachinohe-v2006-mono.svg'
+  sourceID: jfa-club-044
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Vanraure-Hachinohe/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241016-103535-c3e38c
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['八户于南乡']
+  slug: /jfa/club/vanraure-hachinohe-v2006
+  pngPath: 'png/vanraure-hachinohe-v2006.png'
+  svgPath: 'svg/vanraure-hachinohe-v2006.svg'
+  sourceID: jfa-club-044
+  style: color
+  reference: 'https://www.jleague.co/clubs/Vanraure-Hachinohe/'
+  ctrbID: ''

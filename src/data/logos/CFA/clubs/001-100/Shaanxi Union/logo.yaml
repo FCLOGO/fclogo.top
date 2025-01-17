@@ -1,0 +1,64 @@
+- data: logo
+  logoID: 20231102-095224-78f179
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ["Xi'an Huilong"]
+  slug: /cfa/club/xian-huilong-v2013
+  pngPath: 'png/xian-huilong-v2013.png'
+  svgPath: 'svg/xian-huilong-v2013.svg'
+  sourceID: cfa-club-092
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231102-095320-40da3a
+  version: 2020
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Binzhou Huilong']
+  slug: /cfa/club/binzhou-huilong-v2020
+  pngPath: 'png/binzhou-huilong-v2020.png'
+  svgPath: 'svg/binzhou-huilong-v2020.svg'
+  sourceID: cfa-club-092
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231102-095344-e9db9f
+  version: 2023.05
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Binzhou Huilong', "Shaanxi Chang'an Union"]
+  slug: /cfa/club/shaanxi-changan-union-v202305
+  pngPath: 'png/shaanxi-changan-union-v202305.png'
+  svgPath: 'svg/shaanxi-changan-union-v202305.svg'
+  sourceID: cfa-club-092
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20231102-095524-081499
+  version: 2023.07
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Binzhou Huilong', "Shaanxi Chang'an Union"]
+  slug: /cfa/club/shaanxi-changan-union-v202307-mono
+  pngPath: 'png/shaanxi-changan-union-v202307-mono.png'
+  svgPath: 'svg/shaanxi-changan-union-v202307-mono.svg'
+  sourceID: cfa-club-092
+  style: mono
+  reference: 'https://mp.weixin.qq.com/s/YJdOCXTTiqakslh3KHb8cQ'
+
+- data: logo
+  logoID: 20231102-095622-cc1d8f
+  version: 2023.07
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Binzhou Huilong', "Shaanxi Chang'an Union"]
+  slug: /cfa/club/shaanxi-changan-union-v202307
+  pngPath: 'png/shaanxi-changan-union-v202307.png'
+  svgPath: 'svg/shaanxi-changan-union-v202307.svg'
+  sourceID: cfa-club-092
+  style: color
+  reference: 'https://mp.weixin.qq.com/s/YJdOCXTTiqakslh3KHb8cQ'

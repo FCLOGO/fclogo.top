@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-040
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [121.328721, 30.784849]
+  timeline: true
+  info:
+    - fullName: 上海申鑫足球俱乐部
+      shortName: 上海申鑫
+      localName: 上海申鑫足球俱乐部
+      city: 上海，中国
+      founded: 2003
+      duration: 2003 - 2020
+      ground: 上海金山足球场
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海申鑫足球俱乐部'

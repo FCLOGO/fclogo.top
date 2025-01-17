@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-comp-002
+  type: comp
+  nation: DEU
+  timeline: false
+  info:
+    - fullName: 2. Bundesliga
+      localName: 2. Bundesliga
+      shortName: 2. Bundesliga
+      founded: 1974
+      confederation: UEFA
+      teams: 18
+      level: Level 2
+      promotion: Bundesliga
+      relegation: 3. Liga
+  websiteURL: 'https://www.bundesliga.com/en/2bundesliga'
+  twitterURL: 'https://x.com/bundesliga_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/2._Bundesliga'

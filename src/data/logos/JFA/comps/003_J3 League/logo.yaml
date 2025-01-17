@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20240926-110605-b0f444
+  version: 2019
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Meiji Yasuda J3 League']
+  slug: /jfa/comp/j3-league-v2019
+  pngPath: 'png/j3-league-v2019.png'
+  svgPath: 'svg/j3-league-v2019.svg'
+  sourceID: jfa-comp-003
+  style: color
+  reference: 'https://www.jleague.co/clubs/#j3'
+  ctrbID: ''

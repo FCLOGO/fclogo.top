@@ -1,0 +1,69 @@
+- data: logoPack
+  packID: 20231113-162859-64a164
+  name: CMCL(Partial)
+  season: '2023'
+  packSource: cfa-comp-006
+  logoVersion: 2018
+  slug: /pack/2023-cmcl
+  items:
+    - id: cfa-club-092
+      version: 2023.07
+    - id: cfa-club-093
+      version: 2023
+    - id: cfa-club-095
+      version: 2022
+    - id: cfa-club-096
+      version: 2019
+    - id: cfa-club-097
+      version: 2022
+
+- data: logoPack
+  packID: 20241130-195744-0df2fa
+  name: CMCL(Partial)
+  season: '2024'
+  packSource: cfa-comp-006
+  logoVersion: 2018
+  slug: /pack/2024-cmcl
+  items:
+    - id: cfa-club-048
+      version: 2019
+    - id: cfa-club-101
+      version: 2020
+    - id: cfa-club-102
+      version: 2024
+    - id: cfa-club-103
+      version: 2024
+    - id: cfa-club-104
+      version: 2020
+    - id: cfa-club-105
+      version: 2024
+    - id: cfa-club-106
+      version: 2024
+    - id: cfa-club-107
+      version: 2023
+    - id: cfa-club-108
+      version: 2023
+    - id: cfa-club-109
+      version: 2023
+    - id: cfa-club-110
+      version: 2024
+    - id: cfa-club-111
+      version: 2022
+    - id: cfa-club-112
+      version: 2022
+    - id: cfa-club-113
+      version: 2022
+    - id: cfa-club-114
+      version: 2023
+    - id: cfa-club-115
+      version: 2023
+    - id: cfa-club-116
+      version: 2023
+    - id: cfa-club-117
+      version: 2019
+    - id: cfa-club-118
+      version: 2022
+    - id: cfa-club-119
+      version: 2024
+    - id: cfa-club-120
+      version: 2019

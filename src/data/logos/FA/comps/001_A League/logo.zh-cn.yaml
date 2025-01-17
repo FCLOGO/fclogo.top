@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20240928-195448-a541d9
+  version: 0000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['A 联赛']
+  slug: /fa/comp/australia-a-league-v0000
+  pngPath: 'png/australia-a-league-v0000.png'
+  svgPath: 'svg/australia-a-league-v0000.svg'
+  sourceID: fa-comp-001
+  style: color
+  reference: 'https://aleagues.com.au/'
+  ctrbID: ''

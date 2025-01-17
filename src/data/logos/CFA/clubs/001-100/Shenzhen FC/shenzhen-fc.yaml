@@ -1,0 +1,204 @@
+- data: logo
+  logoID: 20211014-003
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shenzhen FC']
+  pngPath: 'png/shenzhenfc-v2017.png'
+  svgPath: 'svg/shenzhenfc-v2017.svg'
+  sourceID: cfa-club-005
+  style: color
+  slug: /cfa/club/shenzhenfc-v2017
+
+- data: logo
+  logoID: 20211014-004
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shenzhen FC']
+  pngPath: 'png/shenzhenfc-v2017-mono.png'
+  svgPath: 'svg/shenzhenfc-v2017-mono.svg'
+  sourceID: cfa-club-005
+  style: mono
+  slug: /cfa/club/shenzhenfc-v2017-mono
+
+- data: logo
+  logoID: 20211014-005
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shenzhen FC']
+  pngPath: 'png/shenzhenfc-v2017-mono-2.png'
+  svgPath: 'svg/shenzhenfc-v2017-mono-2.svg'
+  sourceID: cfa-club-005
+  style: mono
+  slug: /cfa/club/shenzhenfc-v2017-mono-2
+
+- data: logo
+  logoID: 20211016-001
+  version: 2015
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  pngPath: 'png/shenzhenfc-v2015.png'
+  svgPath: 'svg/shenzhenfc-v2015.svg'
+  sourceID: cfa-club-005
+  style: color
+  slug: /cfa/club/shenzhenfc-v2015
+
+- data: logo
+  logoID: 20211016-002
+  version: 2016
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  pngPath: 'png/shenzhenfc-v2016.png'
+  svgPath: 'svg/shenzhenfc-v2016.svg'
+  sourceID: cfa-club-005
+  style: color
+  slug: /cfa/club/shenzhenfc-v2016
+
+- data: logo
+  logoID: 20231024-163227-127c0f
+  version: 1994
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v1994
+  pngPath: 'png/shenzhen-v1994.png'
+  svgPath: 'svg/shenzhen-v1994.svg'
+  sourceID: cfa-club-005
+  style: color
+
+- data: logo
+  logoID: 20231024-163336-820777
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v1996
+  pngPath: 'png/shenzhen-v1996.png'
+  svgPath: 'svg/shenzhen-v1996.svg'
+  sourceID: cfa-club-005
+  style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//shenzhen-fc-v1996.png'
+
+- data: logo
+  logoID: 20231024-163413-6cecb1
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v1997-mono
+  pngPath: 'png/shenzhen-v1997-mono.png'
+  svgPath: 'svg/shenzhen-v1997-mono.svg'
+  sourceID: cfa-club-005
+  style: mono
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//1999-jia-a-qiuxing-ka.jpg'
+
+- data: logo
+  logoID: 20231024-163448-13382e
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v1997
+  pngPath: 'png/shenzhen-v1997.png'
+  svgPath: 'svg/shenzhen-v1997.svg'
+  sourceID: cfa-club-005
+  style: color
+  reference: 'https://cdn.jsdelivr.net/gh/FCLOGO/reference//1999-jia-a-qiuxing-ka.jpg'
+
+- data: logo
+  logoID: 20231024-163515-9c6a1e
+  version: 2000
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v2000
+  pngPath: 'png/shenzhen-v2000.png'
+  svgPath: 'svg/shenzhen-v2000.svg'
+  sourceID: cfa-club-005
+  style: color
+
+- data: logo
+  logoID: 20231024-163559-af3123
+  version: 2003
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen Jianlibao']
+  slug: /cfa/club/shenzhen-v2003-mono
+  pngPath: 'png/shenzhen-v2003-mono.png'
+  svgPath: 'svg/shenzhen-v2003-mono.svg'
+  sourceID: cfa-club-005
+  style: mono
+
+- data: logo
+  logoID: 20231024-163634-450131
+  version: 2003
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen Jianlibao']
+  slug: /cfa/club/shenzhen-v2003
+  pngPath: 'png/shenzhen-v2003.png'
+  svgPath: 'svg/shenzhen-v2003.svg'
+  sourceID: cfa-club-005
+  style: color
+
+- data: logo
+  logoID: 20231024-164353-2e4e08
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v2006
+  pngPath: 'png/shenzhen-v2006.png'
+  svgPath: 'svg/shenzhen-v2006.svg'
+  sourceID: cfa-club-005
+  style: color
+
+- data: logo
+  logoID: 20231024-164413-be5e51
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen Xiangxue EISITI']
+  slug: /cfa/club/shenzhen-v2007
+  pngPath: 'png/shenzhen-v2007.png'
+  svgPath: 'svg/shenzhen-v2007.svg'
+  sourceID: cfa-club-005
+  style: color
+
+- data: logo
+  logoID: 20231024-164526-b3cab1
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen FC']
+  slug: /cfa/club/shenzhen-v2009
+  pngPath: 'png/shenzhen-v2009.png'
+  svgPath: 'svg/shenzhen-v2009.svg'
+  sourceID: cfa-club-005
+  style: color
+
+- data: logo
+  logoID: 20231024-164613-95ec82
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen Ruby']
+  slug: /cfa/club/shenzhen-v2010-mono
+  pngPath: 'png/shenzhen-v2010-mono.png'
+  svgPath: 'svg/shenzhen-v2010-mono.svg'
+  sourceID: cfa-club-005
+  style: mono
+
+- data: logo
+  logoID: 20231024-164703-06c364
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Shenzhen Ruby']
+  slug: /cfa/club/shenzhen-v2010
+  pngPath: 'png/shenzhen-v2010.png'
+  svgPath: 'svg/shenzhen-v2010.svg'
+  sourceID: cfa-club-005
+  style: color

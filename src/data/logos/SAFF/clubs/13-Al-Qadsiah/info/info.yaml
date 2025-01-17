@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-013
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [50.20541388942308, 26.499586022324717]
+  timeline: false
+  info:
+    - fullName: Al Qadsiah Football Club
+      shortName: Al Qadsiah FC
+      localName: نادي القادسية لكرة القدم
+      founded: 1967
+      city: Khobar
+      ground: Prince Saud bin Jalawi Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.alqadsiah.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Qadsiah_FC'

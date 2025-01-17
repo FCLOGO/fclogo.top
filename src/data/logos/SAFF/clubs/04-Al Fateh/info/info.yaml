@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-004
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [49.5798164095732, 25.43543361384731]
+  timeline: false
+  info:
+    - fullName: Al Fateh Sports Club
+      shortName: Al Fateh SC
+      localName: نادي الفتح الرياضي
+      founded: 1958
+      city: Al-Mubarraz
+      ground: Al-Fateh Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fatehclub?s=21&t=EXITmEvofJJJZ-ZqRx8Mnw'
+  websiteURL: 'https://www.fatehclub.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Fateh_SC'

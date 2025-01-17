@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-009
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [50.03141181493065, 26.47837625003447]
+  timeline: false
+  info:
+    - fullName: 赛哈特海湾足球俱乐部
+      shortName: 赛哈特海湾
+      localName: نادي الخليج بسيهات
+      founded: 1945
+      city: 赛哈特
+      ground: 纳伊夫·本·阿卜杜勒阿齐兹王子体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/khaleejclub?lang=en'
+  websiteURL: 'https://khaleejclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Khaleej_FC'

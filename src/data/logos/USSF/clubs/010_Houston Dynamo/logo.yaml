@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20241206-100735-ca371b
+  version: 2006
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Houston Dynamo']
+  slug: /ussf/club/Houston-Dynamo-v2006
+  pngPath: 'png/Houston-Dynamo-v2006.png'
+  svgPath: 'svg/Houston-Dynamo-v2006.svg'
+  sourceID: ussf-club-010
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-100811-14ed9d
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Houston Dynamo']
+  slug: /ussf/club/Houston-Dynamo-v2020-mono
+  pngPath: 'png/Houston-Dynamo-v2020-mono.png'
+  svgPath: 'svg/Houston-Dynamo-v2020-mono.svg'
+  sourceID: ussf-club-010
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241206-100836-82b88f
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Houston Dynamo']
+  slug: /ussf/club/Houston-Dynamo-v2020
+  pngPath: 'png/Houston-Dynamo-v2020.png'
+  svgPath: 'svg/Houston-Dynamo-v2020.svg'
+  sourceID: ussf-club-010
+  style: color
+  reference: ''
+  ctrbID: ''

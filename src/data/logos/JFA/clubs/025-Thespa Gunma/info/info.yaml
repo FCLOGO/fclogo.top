@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-025
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.14139404907644, 36.40178082629418]
+  timeline: false
+  info:
+    - fullName: Thespa Gunma Football Club
+      shortName: Thespa Gunma
+      localName: ザスパクサツ群馬
+      founded: 1995
+      city: Maebashi, Japan
+      ground: Shoda Shoyu Stadium Gunma
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/OfficialThespa/'
+  websiteURL: 'http://www.thespa.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Thespa_Gunma'

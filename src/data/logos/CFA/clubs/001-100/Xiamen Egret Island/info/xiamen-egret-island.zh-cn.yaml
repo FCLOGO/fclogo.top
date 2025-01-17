@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-062
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [118.160812, 24.660323]
+  timeline: true
+  info:
+    - fullName: 厦门鹭岛足球俱乐部
+      shortName: 厦门鹭岛
+      localName: 厦门鹭岛足球俱乐部
+      founded: 2019
+      city: 厦门，中国
+      ground: 厦门白鹭体育场
+      duration: 2019 - 2020
+  weiboURL: 'https://weibo.com/u/7431792554'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/廈門鷺島足球俱樂部'

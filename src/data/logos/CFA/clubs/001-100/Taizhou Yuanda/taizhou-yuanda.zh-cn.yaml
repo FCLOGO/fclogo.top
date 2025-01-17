@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-011
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['泰州远大']
+  slug: /cfa/club/taizhou-yuanda-v2019-mono
+  pngPath: 'png/taizhou-yuanda-v2019-mono.png'
+  svgPath: 'svg/taizhou-yuanda-v2019-mono.svg'
+  sourceID: cfa-club-072
+  style: mono
+
+- data: logo
+  logoID: 20211208-012
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['泰州远大']
+  slug: /cfa/club/taizhou-yuanda-v2019
+  pngPath: 'png/taizhou-yuanda-v2019.png'
+  svgPath: 'svg/taizhou-yuanda-v2019.svg'
+  sourceID: cfa-club-072
+  style: color

@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20240925-221119-a2f79f
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Nagoya Grampus', 'Nagoya Grampus Eight']
+  slug: /jfa/club/nagoya-grampus-v1996
+  pngPath: 'png/nagoya-grampus-v1996.png'
+  svgPath: 'svg/nagoya-grampus-v1996.svg'
+  sourceID: jfa-club-013
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-221236-7cfb0b
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nagoya Grampus']
+  slug: /jfa/club/nagoya-grampus-v2024-mono
+  pngPath: 'png/nagoya-grampus-v2024-mono.png'
+  svgPath: 'svg/nagoya-grampus-v2024-mono.svg'
+  sourceID: jfa-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-221301-719ec3
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Nagoya Grampus']
+  slug: /jfa/club/nagoya-grampus-v2024
+  pngPath: 'png/nagoya-grampus-v2024.png'
+  svgPath: 'svg/nagoya-grampus-v2024.svg'
+  sourceID: jfa-club-013
+  style: color
+  reference: 'https://www.jleague.co/clubs/Nagoya-Grampus/'
+  ctrbID: ''

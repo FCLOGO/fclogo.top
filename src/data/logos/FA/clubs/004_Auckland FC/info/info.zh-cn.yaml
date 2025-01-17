@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-004
+  status: active
+  type: club
+  nation: NZL
+  coordinates: [174.765, -36.8402]
+  timeline: true
+  info:
+    - fullName: 奥克兰足球俱乐部
+      shortName: 奥克兰 FC
+      localName: Auckland Football Club
+      founded: 2024
+      city: 新西兰，奥克兰
+      ground: 斯马特山球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fc_auckland'
+  websiteURL: 'https://aucklandfc.co.nz/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Auckland_FC'

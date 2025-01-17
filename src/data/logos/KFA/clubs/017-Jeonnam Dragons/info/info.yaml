@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-017
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.7245648827239, 34.937575558928714]
+  timeline: false
+  info:
+    - fullName: Jeonnam Dragons Football Club
+      shortName: Jeonnam Dragons
+      localName: 전남 드래곤즈
+      founded: 1994
+      city: Gwangyang, Korea
+      ground: Gwangyang Football Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.dragons.co.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jeonnam_Dragons'

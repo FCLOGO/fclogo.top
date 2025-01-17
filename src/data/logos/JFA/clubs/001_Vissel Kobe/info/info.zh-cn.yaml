@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-001
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [135.18963444767607, 34.686868596318725]
+  timeline: false
+  info:
+    - fullName: 神户胜利船足球俱乐部
+      shortName: 神户胜利船
+      localName: ヴィッセル神戸
+      founded: 1966
+      city: 日本，神户
+      ground: 御崎公园球技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/visselkobe'
+  websiteURL: 'https://www.vissel-kobe.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vissel_Kobe'

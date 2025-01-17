@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-018
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.124354735582042, 54.34877188956499]
+  timeline: false
+  info:
+    - fullName: 基尔荷尔斯泰因1900体育俱乐部
+      localName: Kieler Sportvereinigung Holstein von 1900 e.V.
+      shortName: 基尔荷尔斯泰因
+      founded: 1900
+      city: 基尔
+      ground: 荷尔斯泰因体育场
+  websiteURL: 'https://www.holstein-kiel.de/'
+  twitterURL: 'https://x.com/Holstein_Kiel'
+  weiboURL: ''
+  wikiURL: 'https://de.wikipedia.org/wiki/Holstein_Kiel'

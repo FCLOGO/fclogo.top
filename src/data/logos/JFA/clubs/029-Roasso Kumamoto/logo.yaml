@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-201738-601a3e
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Roasso Kumamoto']
+  slug: /jfa/club/roasso-kumamoto-v2005-mono
+  pngPath: 'png/roasso-kumamoto-v2005-mono.png'
+  svgPath: 'svg/roasso-kumamoto-v2005-mono.svg'
+  sourceID: jfa-club-029
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Roasso-Kumamoto/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-201821-a77ead
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Roasso Kumamoto']
+  slug: /jfa/club/roasso-kumamoto-v2005
+  pngPath: 'png/roasso-kumamoto-v2005.png'
+  svgPath: 'svg/roasso-kumamoto-v2005.svg'
+  sourceID: jfa-club-029
+  style: color
+  reference: 'https://www.jleague.co/clubs/Roasso-Kumamoto/'
+  ctrbID: ''

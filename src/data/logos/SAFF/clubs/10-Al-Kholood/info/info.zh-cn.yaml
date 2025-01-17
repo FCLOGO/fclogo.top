@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-010
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [43.49557124905501, 25.887810231588894]
+  timeline: false
+  info:
+    - fullName: 拉斯永恒足球俱乐部
+      shortName: 拉斯永恒
+      localName: نادي الخلود
+      founded: 1970
+      city: Ar Rass
+      ground: Al-Hazem Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Kholood_Club'

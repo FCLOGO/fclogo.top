@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20240922-163155-d2dba8
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['九龙城']
+  slug: /hkfa/club/kowloon-city-v2023
+  pngPath: 'png/kowloon-city-v2023.png'
+  svgPath: 'svg/kowloon-city-v2023.svg'
+  sourceID: hkfa-club-006
+  style: color
+  reference: 'https://www.hkfa.com/hkpl/squad?clubid=45'
+  ctrbID: ''

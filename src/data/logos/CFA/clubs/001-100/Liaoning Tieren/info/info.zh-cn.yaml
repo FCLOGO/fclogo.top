@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-034
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [123.382185, 41.654399]
+  timeline: true
+  info:
+    - fullName: 辽宁铁人足球俱乐部
+      shortName: 辽宁铁人
+      localName: 辽宁铁人足球俱乐部
+      city: 沈阳，中国
+      founded: 2015
+      ground: 沈阳奥林匹克体育中心
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/3972643388'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/辽宁铁人足球俱乐部'

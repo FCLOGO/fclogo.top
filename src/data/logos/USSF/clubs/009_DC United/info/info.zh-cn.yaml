@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-009
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-77.01225528312224, 38.86845481223898]
+  timeline: false
+  info:
+    - fullName: 华盛顿特区联
+      shortName: 华盛顿特区联
+      localName: D.C. United
+      founded: 1994
+      city: 华盛顿哥伦比亚特区
+      ground: 奥迪球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/dcunited'
+  websiteURL: 'https://www.dcunited.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/D.C._United'

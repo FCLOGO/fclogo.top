@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-011
+  status: active
+  type: club
+  nation: NZL
+  coordinates: [175.02691546104742, -41.14290675810841]
+  timeline: true
+  info:
+    - fullName: Wellington Phoenix Football Club
+      shortName: Wellington Phoenix
+      localName: Wellington Phoenix Football Club
+      founded: 2007
+      city: Wellington, New Zealand
+      ground: Wellington Regional Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/WgtnPhoenixFC'
+  websiteURL: 'https://wellingtonphoenix.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Wellington_Phoenix_FC'

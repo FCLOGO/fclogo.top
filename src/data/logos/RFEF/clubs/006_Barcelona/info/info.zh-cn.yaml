@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-006
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [2.155639, 41.364722]
+  timeline: false
+  info:
+    - fullName: 巴塞罗那足球俱乐部
+      localName: Futbol Club Barcelona
+      shortName: 巴塞罗那
+      founded: 1899
+      city: 巴塞罗那
+      ground: 孔帕尼斯奥林匹克体育场
+  websiteURL: 'https://www.fcbarcelona.com/'
+  twitterURL: 'https://twitter.com/FCBarcelona'
+  weiboURL: 'https://weibo.com/u/3296530723'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Barcelona'

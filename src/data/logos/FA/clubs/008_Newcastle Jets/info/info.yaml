@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-008
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [151.61901769801466, -32.959253141894656]
+  timeline: false
+  info:
+    - fullName: Newcastle United Jets Football Club
+      shortName: Newcastle Jets
+      localName: Newcastle United Jets Football Club
+      founded: 1999
+      city: Newcastle, Australia
+      ground: McDonald Jones Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/newcastlejetsfc'
+  websiteURL: 'https://newcastlejetsfc.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Newcastle_Jets_FC'

@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20241207-135538-998a74
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Orlando City']
+  slug: /ussf/club/Orlando-City-v2010
+  pngPath: 'png/Orlando-City-v2010.png'
+  svgPath: 'svg/Orlando-City-v2010.svg'
+  sourceID: ussf-club-020
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-135640-412658
+  version: 2012
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Orlando City']
+  slug: /ussf/club/Orlando-City-v2012
+  pngPath: 'png/Orlando-City-v2012.png'
+  svgPath: 'svg/Orlando-City-v2012.svg'
+  sourceID: ussf-club-020
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-135750-08ee71
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Orlando City']
+  slug: /ussf/club/Orlando-City-v2014-mono
+  pngPath: 'png/Orlando-City-v2014-mono.png'
+  svgPath: 'svg/Orlando-City-v2014-mono.svg'
+  sourceID: ussf-club-020
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-135824-240b53
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Orlando City']
+  slug: /ussf/club/Orlando-City-v2014
+  pngPath: 'png/Orlando-City-v2014.png'
+  svgPath: 'svg/Orlando-City-v2014.svg'
+  sourceID: ussf-club-020
+  style: color
+  reference: ''
+  ctrbID: ''

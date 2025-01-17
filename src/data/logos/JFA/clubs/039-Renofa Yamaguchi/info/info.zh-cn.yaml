@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-039
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [131.44905889652517, 34.18270833231749]
+  timeline: false
+  info:
+    - fullName: 山口雷法足球俱乐部
+      shortName: 山口雷法
+      localName: レノファ山口FC
+      founded: 1949
+      city: 日本，山口
+      ground: 维新百年记念公园陆上竞技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/renofayamaguchi/'
+  websiteURL: 'http://www.renofa.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Renofa_Yamaguchi_FC'

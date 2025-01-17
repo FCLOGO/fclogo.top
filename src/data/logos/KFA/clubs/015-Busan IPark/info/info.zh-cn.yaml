@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-015
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [128.96965937108848, 35.210184820775076]
+  timeline: false
+  info:
+    - fullName: 釜山 IPark 足球俱乐部
+      shortName: 釜山 IPark
+      localName: 부산 아이파크 축구단
+      founded: 1979
+      city: 韩国，釜山
+      ground: 釜山九德运动场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.busanipark.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Busan_IPark'

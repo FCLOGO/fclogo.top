@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-club-005
+  status: active
+  type: club
+  nation: HKG
+  coordinates: [114.2074803264164, 22.387573447928066]
+  timeline: false
+  info:
+    - fullName: Kitchee Sports Club
+      shortName: Kitchee SC
+      localName: 傑志體育會
+      founded: 1931
+      city: Hong Kong, China
+      ground: Mong Kok Stadium
+      league:
+  weiboURL: 'https://weibo.com/u/2133584932'
+  twitterURL: ''
+  websiteURL: 'https://www.kitchee.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kitchee_SC'

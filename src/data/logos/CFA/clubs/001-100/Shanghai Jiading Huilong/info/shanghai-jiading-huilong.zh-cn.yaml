@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-058
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [121.280344, 31.416356]
+  info:
+    - fullName: 上海嘉定汇龙足球俱乐部
+      shortName: 上海嘉定汇龙
+      localName: 上海嘉定汇龙足球俱乐部
+      founded: 2009
+      city: 上海，中国
+      ground: 嘉定体育中心
+      league: 中甲联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/上海嘉定汇龙足球俱乐部'

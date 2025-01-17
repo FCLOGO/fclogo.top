@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-018
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [135.76060162753507, 35.00944571228859]
+  timeline: false
+  info:
+    - fullName: 京都不死鸟足球俱乐部
+      shortName: 京都不死鸟
+      localName: 京都サンガ
+      founded: 1922
+      city: 日本，京都
+      ground: 京都体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/sangafc/'
+  websiteURL: 'http://www.sanga-fc.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/京都不死鳥'

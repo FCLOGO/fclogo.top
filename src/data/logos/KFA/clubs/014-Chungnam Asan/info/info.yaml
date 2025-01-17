@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-014
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.02088995578205, 36.7680450623027]
+  timeline: true
+  info:
+    - fullName: Chungnam Asan Football Club
+      shortName: Chungnam Asan FC
+      localName: 충남 아산 프로축구단
+      founded: 2020
+      city: Asan, Korea
+      ground: Yi Sun-sin Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.asanfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Chungnam_Asan_FC'

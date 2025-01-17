@@ -1,0 +1,25 @@
+- data: logo
+  logoID: 20231113-153842-403ebe
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['廊坊荣耀之城']
+  slug: /cfa/club/langfang-city-of-glory-v2022-mono
+  pngPath: 'png/langfang-city-of-glory-v2022-mono.png'
+  svgPath: 'svg/langfang-city-of-glory-v2022-mono.svg'
+  sourceID: cfa-club-095
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231113-153926-ef3ea6
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['廊坊荣耀之城']
+  slug: /cfa/club/langfang-city-of-glory-v2022
+  pngPath: 'png/langfang-city-of-glory-v2022.png'
+  svgPath: 'svg/langfang-city-of-glory-v2022.svg'
+  sourceID: cfa-club-095
+  style: color
+  reference: ''

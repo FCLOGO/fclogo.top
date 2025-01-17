@@ -4,4 +4,5 @@
  * See: https://www.gatsbyjs.com/docs/browser-apis/
  */
 
-import './src/styles/global.styl'
+import './src/styles/global.css'
+require('./src/styles/prism-okaidia.css')

@@ -1,7 +1,7 @@
 - data: sourceInfo
   sourceID: afc-assn-001
   type: assn
-  nation: China
+  nation: CHN
   info:
     - fullName: 中国足球协会
       shortName: 中国足协

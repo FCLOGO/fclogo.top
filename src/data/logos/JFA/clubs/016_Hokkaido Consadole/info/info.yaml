@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-016
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [141.2707215891008, 43.08928998490028]
+  timeline: false
+  info:
+    - fullName: Hokkaido Consadole Sapporo Football Club
+      shortName: Hokkaido Consadole Sapporo
+      localName: 北海道コンサドーレ札幌
+      founded: 1935
+      city: Sapporo, Japan
+      ground: Daiwa House Premist Dome
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/consaofficial/'
+  websiteURL: 'https://www.consadole-sapporo.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Hokkaido_Consadole_Sapporo'

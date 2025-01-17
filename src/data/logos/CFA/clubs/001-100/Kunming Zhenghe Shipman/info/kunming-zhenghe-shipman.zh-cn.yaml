@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-053
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [102.699617, 25.073306]
+  timeline: true
+  info:
+    - fullName: 昆明郑和船工足球俱乐部
+      shortName: 昆明郑和船工
+      localName: 昆明郑和船工足球俱乐部
+      founded: 2017
+      city: 昆明，中国
+      ground: 红塔体育中心
+      duration: 2017 - 2022
+  weiboURL: 'https://weibo.com/u/6154234408'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/昆明郑和船工足球俱乐部'

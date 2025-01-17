@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: cfa-club-039
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [123.413259, 41.790901]
+  info:
+    - fullName: 辽宁足球俱乐部
+      shortName: 辽宁 FC
+      localName: 辽宁足球俱乐部
+      city: 沈阳，中国
+      founded: 1995
+      duration: 1995 - 2020
+      ground: 沈阳铁西体育场
+  wikiURL: 'https://zh.wikipedia.org/wiki/辽宁宏运足球俱乐部'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-142935-10fe54
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SC Freiburg']
+  slug: /dfb/club/SC-Freiburg-v2008-mono
+  pngPath: 'png/SC-Freiburg-v2008-mono.png'
+  svgPath: 'svg/SC-Freiburg-v2008-mono.svg'
+  sourceID: dfb-club-011
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-143029-b90b55
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SC Freiburg']
+  slug: /dfb/club/SC-Freiburg-v2008
+  pngPath: 'png/SC-Freiburg-v2008.png'
+  svgPath: 'svg/SC-Freiburg-v2008.svg'
+  sourceID: dfb-club-011
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/sc-freiburg'
+  ctrbID: ''

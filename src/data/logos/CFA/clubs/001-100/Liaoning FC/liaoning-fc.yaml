@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211103-013
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liaoning', 'Liaoning Hongyun']
+  slug: /cfa/club/liaoningfc-v2013-mono
+  pngPath: 'png/liaoningfc-v2013-mono.png'
+  svgPath: 'svg/liaoningfc-v2013-mono.svg'
+  sourceID: cfa-club-039
+  style: mono
+
+- data: logo
+  logoID: 20211103-014
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liaoning', 'Liaoning Hongyun']
+  slug: /cfa/club/liaoningfc-v2013
+  pngPath: 'png/liaoningfc-v2013.png'
+  svgPath: 'svg/liaoningfc-v2013.svg'
+  sourceID: cfa-club-039
+  style: color

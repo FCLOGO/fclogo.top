@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-096
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [108.348064, 22.776203]
+  timeline: true
+  info:
+    - fullName: 广西恒宸足球俱乐部
+      shortName: 广西恒宸
+      localName: 广西恒宸足球俱乐部
+      founded: 2019
+      city: 南宁，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7844349787'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

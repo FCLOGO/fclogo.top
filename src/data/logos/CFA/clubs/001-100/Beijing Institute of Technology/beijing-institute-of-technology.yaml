@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211028-013
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['BIT FC']
+  slug: /cfa/club/beijing-institute-of-technology-v2000-mono
+  pngPath: 'png/beijing-institute-of-technology-v2000-mono.png'
+  svgPath: 'svg/beijing-institute-of-technology-v2000-mono.svg'
+  sourceID: cfa-club-029
+  style: mono
+
+- data: logo
+  logoID: 20211028-014
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['BIT FC']
+  slug: /cfa/club/beijing-institute-of-technology-v2000
+  pngPath: 'png/beijing-institute-of-technology-v2000.png'
+  svgPath: 'svg/beijing-institute-of-technology-v2000.svg'
+  sourceID: cfa-club-029
+  style: color

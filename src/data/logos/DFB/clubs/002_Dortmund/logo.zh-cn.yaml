@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241216-112304-400b7e
+  version: 1993
+  isDoubtful: false
+  isOutdated: false
+  verName: ['BVB']
+  slug: /dfb/club/Borussia-Dortmund-v1993-mono
+  pngPath: 'png/Borussia-Dortmund-v1993-mono.png'
+  svgPath: 'svg/Borussia-Dortmund-v1993-mono.svg'
+  sourceID: dfb-club-002
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241216-112341-5302df
+  version: 1993
+  isDoubtful: false
+  isOutdated: false
+  verName: ['BVB']
+  slug: /dfb/club/Borussia-Dortmund-v1993
+  pngPath: 'png/Borussia-Dortmund-v1993.png'
+  svgPath: 'svg/Borussia-Dortmund-v1993.svg'
+  sourceID: dfb-club-002
+  style: color
+  reference: ''
+  ctrbID: ''

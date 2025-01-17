@@ -1,151 +1,62 @@
+const { type, version } = require('os')
 const path = require(`path`)
-const { execSync } = require('child_process')
 
-exports.onCreateNode = ({ node, getNodesByType, getNode, actions }) => {
+// 为数据文件添加'locale'节点
+exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
+
+  // 默认语言设置为英语
+  const defaultLang = 'en'
 
   if (
     node.internal.type === 'logo' ||
     node.internal.type === 'sourceInfo' ||
     node.internal.type === 'logoPack' ||
-    node.internal.type === 'statistics'
+    node.internal.type === 'MarkdownRemark'
   ) {
-    const i18nNodes = getNodesByType(`SiteI18n`)
-    const defaultLang = i18nNodes[0].defaultLang
+    // 通过父节点获取文件名
+    const name = getNode(node.parent).name
 
-    const fileNode = getNode(node.parent)
-    const name = fileNode.name
+    // 判断是否为默认语言
     const isDefault = name === name.split(`.`)[0]
+
+    // 获取语言类型，如果是默认语言则为'en'，否则从文件名中获取
     const lang = isDefault ? defaultLang : name.split(`.`)[1]
 
+    // 创建节点字段并设置'locale'字段值
     createNodeField({ node, name: `locale`, value: lang })
     createNodeField({ node, name: `isDefault`, value: isDefault })
-  }
 
-  if (node.internal.type === 'Mdx') {
-    const gitAuthorTime = execSync(
-      `git log -1 --pretty=format:%ad --date=format:"%Y-%m-%d @%H:%M:%S" ${node.fileAbsolutePath}`
-    ).toString()
+    // 为 logo 添加 `logoID` 字段
+    if (node.internal.type === 'logo') {
+      // 获取 `logoID`
+      const logoID = node.logoID
+      // 创建唯一ID字段
+      const uniqueID = `${lang}-${logoID}`
 
-    createNodeField({ node, name: `gitAuthorTime`, value: gitAuthorTime })
+      // 创建节点字段并设置'uniqueID'字段值
+      createNodeField({ node, name: `uniqueID`, value: uniqueID })
+    }
   }
 }
 
-exports.createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage } = actions
-  const detail = await graphql(`
-    query {
-      allLogo(sort: { fields: uniqueID }, filter: { fields: { locale: { eq: "en" } } }) {
-        edges {
-          node {
-            slug
-          }
-          next {
-            slug
-          }
-          previous {
-            slug
-          }
-        }
-      }
-    }
-  `)
-  const support = await graphql(`
-    {
-      support: allFile(filter: { sourceInstanceName: { eq: "support" } }) {
-        nodes {
-          childMdx {
-            frontmatter {
-              slug
-            }
-          }
-        }
-      }
-    }
-  `)
-  const packs = await graphql(`
-    query {
-      allLogoPack(sort: { fields: uniqueID }, filter: { fields: { locale: { eq: "en" } } }) {
-        edges {
-          node {
-            slug
-          }
-          next {
-            slug
-          }
-          previous {
-            slug
-          }
-        }
-      }
-    }
-  `)
-
-  if (detail.errors) {
-    reporter.panicOnBuild(detail.errors)
-    return
-  }
-
-  if (support.errors) {
-    reporter.panicOnBuild(support.errors)
-    return
-  }
-
-  if (packs.errors) {
-    reporter.panicOnBuild(support.errors)
-    return
-  }
-
-  detail.data.allLogo.edges.forEach(({ node, next, previous }) => {
-    createPage({
-      path: node.slug,
-      component: path.resolve(`./src/templates/logo-detail.js`),
-      context: {
-        slug: node.slug,
-        next,
-        previous
-      }
-    })
-  })
-
-  packs.data.allLogoPack.edges.forEach(({ node, next, previous }) => {
-    createPage({
-      path: node.slug,
-      component: path.resolve(`./src/templates/pack-detail.js`),
-      context: {
-        slug: node.slug,
-        next,
-        previous
-      }
-    })
-  })
-
-  support.data.support.nodes.forEach(({ childMdx: node }) => {
-    createPage({
-      path: `/support/${node.frontmatter.slug}`,
-      component: path.resolve(`./src/templates/support.js`),
-      context: {
-        slug: node.frontmatter.slug
-      }
-    })
-  })
-}
-
+// 为字段添加自定义解析器
 exports.createResolvers = ({ createResolvers }) => {
   const resolvers = {
     logo: {
-      styleMode: {
+      // LOGO的其他样式类型
+      otherStyle: {
         type: ['logo'],
         resolve: async (source, args, context, info) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
-                id: { ne: source.id },
+                id: { ne: source.id }, // 排除当前 LOGO
                 fields: {
-                  locale: { eq: source.fields.locale }
+                  locale: { eq: source.fields.locale } // 匹配页面语言
                 },
-                sourceID: { eq: source.sourceID },
-                version: { eq: source.version }
+                sourceID: { eq: source.sourceID }, // 匹配主体 ID
+                version: { eq: source.version } // LOGO 版本相同
               }
             },
             type: 'logo'
@@ -153,20 +64,19 @@ exports.createResolvers = ({ createResolvers }) => {
           return entries
         }
       },
-      logoHistory: {
+
+      // LOGO 时间线（历史）
+      logoTimeline: {
         type: ['logo'],
         resolve: async (source, args, context, info) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
-                // version: {
-                //   ne: source.version
-                // },
                 fields: {
-                  locale: { eq: source.fields.locale }
+                  locale: { eq: source.fields.locale } // 匹配页面语言
                 },
-                sourceID: { eq: source.sourceID },
-                style: { eq: 'color' }
+                sourceID: { eq: source.sourceID }, // 匹配主体ID
+                style: { in: ['color', 'minor', 'comm'] } // 匹配'color', 'minor', 或者`comm`样式
               }
             },
             type: 'logo'
@@ -174,25 +84,98 @@ exports.createResolvers = ({ createResolvers }) => {
           return entries
         }
       },
+
+      // LOGO 主体详细信息
       detailInfo: {
-        type: [`sourceInfo`],
+        type: ['sourceInfo'],
         resolve: async (source, args, context, info) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
-                sourceID: { eq: source.sourceID },
+                sourceID: { eq: source.sourceID }, // 匹配主体ID
                 fields: {
-                  locale: { eq: source.fields.locale }
+                  locale: { eq: source.fields.locale } // 匹配页面语言
                 }
               }
             },
-            type: `sourceInfo`
+            type: 'sourceInfo'
+          })
+          return entries
+        }
+      },
+
+      // LOGO 贡献者
+      contributorInfo: {
+        type: ['contributor'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                ctrbID: { eq: source.ctrbID } // 匹配贡献都ID
+              }
+            },
+            type: 'contributor'
           })
           return entries
         }
       }
     },
+
+    logoPack: {
+      // 徽标集合信息
+      packInfo: {
+        type: ['logo'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                fields: {
+                  locale: { eq: source.fields.locale } // 匹配页面语言
+                },
+                sourceID: { eq: source.packSource }, // 匹配主体ID
+                style: { eq: 'color' }, // 仅匹配 color 样式
+                version: { eq: source.logoVersion } // 匹配 logo 版本
+              }
+            },
+            type: 'logo'
+          })
+          return entries
+        }
+      },
+
+      // 集合包含的项目信息
+      itemsInfo: {
+        type: ['logo'],
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                fields: {
+                  locale: { eq: source.fields.locale } // 匹配页面语言
+                },
+                style: { in: ['color', 'minor', 'comm'] }
+              }
+            },
+            type: `logo`
+          })
+          const items = entries.filter(item => {
+            // 根据主体 ID 与徽标 version 匹配徽标，同时检查 style
+            return source.items.some(i => {
+              return (
+                i.id === item.sourceID &&
+                i.version === item.version &&
+                (i.style || 'color') === item.style
+              )
+            })
+          })
+          return items
+        }
+      }
+    },
+
+    // 为徽标主体信息添加 徽标数量 与 最新版本 字段
     sourceInfo: {
+      // 添加主体包含 徽标数量 字段
       logoCount: {
         type: `Int`,
         resolve: async (source, args, context, info) => {
@@ -210,6 +193,7 @@ exports.createResolvers = ({ createResolvers }) => {
           return Array.from(entries).length
         }
       },
+      // 添加主体最新徽标版本字段
       latestVersion: {
         type: `Float`,
         resolve: async (source, args, context, info) => {
@@ -227,20 +211,21 @@ exports.createResolvers = ({ createResolvers }) => {
           const versions = Array.from(entries).map(({ version }) => version)
           return Math.max(...versions)
         }
-      }
-    },
-    logoPack: {
-      packInfo: {
+      },
+
+      // 添加主体最新版本徽标
+      latestLogo: {
         type: ['logo'],
         resolve: async (source, args, context, info) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
+                sourceID: { eq: source.sourceID },
                 fields: {
                   locale: { eq: source.fields.locale }
                 },
-                sourceID: { eq: source.packSource },
-                style: { eq: `color` }
+                style: { eq: 'color' },
+                isOutdated: { eq: false }
               }
             },
             type: `logo`
@@ -248,27 +233,131 @@ exports.createResolvers = ({ createResolvers }) => {
           return entries
         }
       },
-      itemsInfo: {
-        type: ['logo'],
-        resolve: async (source, args, context, info) => {
+
+      // 添加主体国旗标志
+      nationalInfo: {
+        type: ['country'],
+        resolve: async (source, args, context) => {
           const { entries } = await context.nodeModel.findAll({
             query: {
               filter: {
-                fields: {
-                  locale: { eq: source.fields.locale }
-                },
-                style: { eq: `color` }
+                nation: { eq: source.nation }
               }
             },
-            type: `logo`
+            type: 'country'
           })
-          const items = entries.filter(item => {
-            return source.items.some(i => i.id === item.sourceID && i.version === item.version)
-          })
-          return items
+          return entries
         }
       }
     }
   }
+
   createResolvers(resolvers)
+}
+
+// 创建 LOGO && PACK 详情页面
+exports.createPages = async ({ graphql, actions, reporter }) => {
+  const { createPage } = actions
+  // 创建 LOGO 详情页
+  const logoDetail = await graphql(`
+    query {
+      allLogo(filter: { fields: { locale: { eq: "en" } } }, sort: { logoID: ASC }) {
+        edges {
+          node {
+            slug
+          }
+          next {
+            slug
+          }
+          previous {
+            slug
+          }
+        }
+      }
+    }
+  `)
+
+  // 创建 LOGO PACKS 页面
+  const logoPacks = await graphql(`
+    query {
+      allLogoPack(sort: { packID: ASC }, filter: { fields: { locale: { eq: "en" } } }) {
+        edges {
+          node {
+            slug
+          }
+          next {
+            slug
+          }
+          previous {
+            slug
+          }
+        }
+      }
+    }
+  `)
+
+  // 创建 Documents 页面
+  const support = await graphql(`
+    query {
+      allMarkdownRemark {
+        nodes {
+          frontmatter {
+            slug
+          }
+        }
+      }
+    }
+  `)
+
+  if (logoDetail.errors) {
+    reporter.panicOnBuild(logoDetail.errors)
+    return
+  }
+
+  if (logoPacks.errors) {
+    reporter.panicOnBuild(logoPacks.errors)
+    return
+  }
+
+  if (support.errors) {
+    reporter.panicOnBuild(support.errors)
+    return
+  }
+
+  // 创建 LOGO 详情页
+  logoDetail.data.allLogo.edges.forEach(({ node, next, previous }) => {
+    createPage({
+      path: node.slug,
+      component: path.resolve(`./src/templates/logo-detail.js`),
+      context: {
+        slug: node.slug,
+        next,
+        previous
+      }
+    })
+  })
+
+  // 创建 LOGO PACKS 页面
+  logoPacks.data.allLogoPack.edges.forEach(({ node, next, previous }) => {
+    createPage({
+      path: node.slug,
+      component: path.resolve(`./src/templates/pack-detail.js`),
+      context: {
+        slug: node.slug,
+        next,
+        previous
+      }
+    })
+  })
+
+  // 创建 Documents 页面
+  support.data.allMarkdownRemark.nodes.forEach(node => {
+    createPage({
+      path: `/support/${node.frontmatter.slug}`,
+      component: path.resolve(`./src/templates/support.js`),
+      context: {
+        slug: node.frontmatter.slug
+      }
+    })
+  })
 }

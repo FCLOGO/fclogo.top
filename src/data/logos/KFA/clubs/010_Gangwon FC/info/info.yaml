@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-010
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [128.90768409047013, 37.747182863431156]
+  timeline: true
+  info:
+    - fullName: Gangwon Football Club
+      shortName: Gangwon FC
+      localName: 강원도민프로축구단
+      founded: 2008
+      city: Chuncheon, Korea
+      ground: Chuncheon Songam Sports Town
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.gangwon-fc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gangwon_FC'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-015
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [46.55119537504918, 24.65074690060046]
+  timeline: false
+  info:
+    - fullName: 利雅得体育俱乐部
+      shortName: 利雅得体育
+      localName: نادي الرياض السعودي
+      founded: 1953
+      city: 利雅得
+      ground: 图尔基·本·阿卜杜勒·阿齐兹王子体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://riyadhclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Riyadh_SC'

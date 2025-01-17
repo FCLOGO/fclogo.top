@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-046
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [108.885998, 34.226196]
+  timeline: true
+  info:
+    - fullName: Xi'an Wolves Football Club
+      shortName: Xi'an Wolves
+      localName: 西安骏狼足球俱乐部
+      founded: 2018
+      city: Xi'an, China
+      ground: Northwest University Chang'an Campus Stadium
+      duration: 2018 - 2022
+  weiboURL: 'https://weibo.com/u/6714252256'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Xi%27an_Wolves_F.C.'

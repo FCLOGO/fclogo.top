@@ -1,0 +1,51 @@
+- data: logo
+  logoID: 20211103-017
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sichuan Longfor']
+  slug: /cfa/club/sichuan-longfor-v2019-mono
+  pngPath: 'png/sichuan-longfor-v2019-mono.png'
+  svgPath: 'svg/sichuan-longfor-v2019-mono.svg'
+  sourceID: cfa-club-041
+  style: mono
+
+- data: logo
+  logoID: 20211103-018
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Sichuan Longfor']
+  slug: /cfa/club/sichuan-longfor-v2019
+  pngPath: 'png/sichuan-longfor-v2019.png'
+  svgPath: 'svg/sichuan-longfor-v2019.svg'
+  sourceID: cfa-club-041
+  style: color
+
+- data: logo
+  logoID: 20240914-221103-475a5e
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sichuan Xindahai']
+  slug: /cfa/club/sichuan-longfor-v2015
+  pngPath: 'png/sichuan-longfor-v2015.png'
+  svgPath: 'svg/sichuan-longfor-v2015.svg'
+  sourceID: cfa-club-041
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-221236-404ffa
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Sichuan Annapurna']
+  slug: /cfa/club/sichuan-longfor-v2016
+  pngPath: 'png/sichuan-longfor-v2016.png'
+  svgPath: 'svg/sichuan-longfor-v2016.svg'
+  sourceID: cfa-club-041
+  style: color
+  reference: ''
+  ctrbID: ''

@@ -1,9 +1,10 @@
 - data: logoPack
-  uniqueID: 20220502-232345
+  packID: 20220502-232345
   name: 中甲联赛
-  season: 2022's
+  season: '2022'
   packSource: cfa-comp-002
-  slug: /pack/cfa/china-league-1
+  logoVersion: 2004
+  slug: /pack/cfa/2022-china-league-1
   items:
     - id: cfa-club-022
       version: 2018
@@ -41,3 +42,85 @@
       version: 2020
     - id: cfa-club-058
       version: 2021
+
+- data: logoPack
+  packID: 20230928-211848
+  name: 中甲联赛
+  season: '2023'
+  packSource: cfa-comp-002
+  logoVersion: 2004
+  slug: /pack/2023-china-league-1
+  items:
+    - id: cfa-club-004
+      version: 2015
+    - id: cfa-club-050
+      version: 2022.04
+    - id: cfa-club-025
+      version: 2018
+    - id: cfa-club-023
+      version: 2017
+    - id: cfa-club-033
+      version: 2022
+    - id: cfa-club-032
+      version: 2021
+    - id: cfa-club-047
+      version: 2018
+    - id: cfa-club-034
+      version: 2020
+    - id: cfa-club-058
+      version: 2021
+    - id: cfa-club-080
+      version: 2022
+    - id: cfa-club-051
+      version: 2021
+    - id: cfa-club-065
+      version: 2019
+    - id: cfa-club-056
+      version: 2021
+    - id: cfa-club-057
+      version: 2023
+    - id: cfa-club-061
+      version: 2023
+    - id: cfa-club-028
+      version: 2023
+
+- data: logoPack
+  packID: 20240904-151628-4d64cb
+  name: 中甲联赛
+  season: '2024'
+  packSource: cfa-comp-002
+  logoVersion: 2004
+  slug: /pack/2024-china-league-1
+  items:
+    - id: cfa-club-088
+      version: 2023
+    - id: cfa-club-090
+      version: 2024
+    - id: cfa-club-004
+      version: 2015
+    - id: cfa-club-089
+      version: 2023
+    - id: cfa-club-047
+      version: 2018
+    - id: cfa-club-025
+      version: 2018
+    - id: cfa-club-050
+      version: 2022.04
+    - id: cfa-club-034
+      version: 2024
+    - id: cfa-club-033
+      version: 2022
+    - id: cfa-club-058
+      version: 2021
+    - id: cfa-club-065
+      version: 2024
+    - id: cfa-club-032
+      version: 2021
+    - id: cfa-club-060
+      version: 2024
+    - id: cfa-club-056
+      version: 2024
+    - id: cfa-club-057
+      version: 2024
+    - id: cfa-club-028
+      version: 2023

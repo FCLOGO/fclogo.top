@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-011
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [125.390069, 43.765536]
+  timeline: true
+  info:
+    - fullName: Changchun Yatai Football Club
+      shortName: Changchun Yatai FC
+      localName: 长春亚泰足球俱乐部
+      city: Changchun, China
+      founded: 1996
+      ground: Changchun Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/yataifc'
+  websiteURL: 'http://www.yataifc.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Changchun_Yatai_F.C.'

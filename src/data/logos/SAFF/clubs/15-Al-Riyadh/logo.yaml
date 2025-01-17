@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241030-115255-f7a63e
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Al-Riyadh']
+  slug: /saff/club/Al-Riyadh-v0000-mono
+  pngPath: 'png/Al-Riyadh-v0000-mono.png'
+  svgPath: 'svg/Al-Riyadh-v0000-mono.svg'
+  sourceID: saff-club-015
+  style: mono
+  reference: 'https://drive.google.com/file/d/1LbuxOkG29W_0ecLcr0GkSowJasKLPWmH/view'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241030-115339-c46c1f
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Al-Riyadh']
+  slug: /saff/club/Al-Riyadh-v0000
+  pngPath: 'png/Al-Riyadh-v0000.png'
+  svgPath: 'svg/Al-Riyadh-v0000.svg'
+  sourceID: saff-club-015
+  style: color
+  reference: 'https://drive.google.com/file/d/1LbuxOkG29W_0ecLcr0GkSowJasKLPWmH/view'
+  ctrbID: ''

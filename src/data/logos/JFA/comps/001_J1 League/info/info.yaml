@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: jfa-comp-001
+  type: comp
+  nation: JPN
+  timeline: false
+  info:
+    - fullName: J1 League
+      shortName: J1 League
+      localName: J1リーグ
+      founded: 1992
+      confederation: AFC
+      teams: 20
+      level: Level 1
+      relegation: J2 League
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/J_League'
+  websiteURL: 'https://www.jleague.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/J1_League'

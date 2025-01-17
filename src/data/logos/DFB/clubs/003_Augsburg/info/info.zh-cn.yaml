@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-003
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [10.886434593253803, 48.323192067810396]
+  timeline: false
+  info:
+    - fullName: 奥格斯堡足球俱乐部
+      localName: FC Augsburg 1907 GmbH & Co. KGaA
+      shortName: FC 奥格斯堡
+      founded: 1907
+      city: 奥格斯堡
+      ground: 西格里竞技场
+      league:
+  websiteURL: 'https://www.fcaugsburg.de/'
+  twitterURL: 'https://twitter.com/FCAugsburg'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Augsburg'

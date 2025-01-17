@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-152059-63a764
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Getafe']
+  slug: /rfef/club/Getafe-Club-de-Futbol-v2011-mono
+  pngPath: 'png/Getafe-Club-de-Futbol-v2011-mono.png'
+  svgPath: 'svg/Getafe-Club-de-Futbol-v2011-mono.svg'
+  sourceID: rfef-club-012
+  style: mono
+  reference: 'https://www.getafecf.com/imagen-corporativa'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-152222-81ac64
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Getafe']
+  slug: /rfef/club/Getafe-Club-de-Futbol-v2011
+  pngPath: 'png/Getafe-Club-de-Futbol-v2011.png'
+  svgPath: 'svg/Getafe-Club-de-Futbol-v2011.svg'
+  sourceID: rfef-club-012
+  style: color
+  reference: 'https://www.getafecf.com/imagen-corporativa'
+  ctrbID: ''

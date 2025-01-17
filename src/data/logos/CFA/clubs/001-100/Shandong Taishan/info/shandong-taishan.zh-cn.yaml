@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-001
+  status: active
+  type: club
+  timeline: true
+  nation: CHN
+  coordinates: [117.025906, 36.5989]
+  info:
+    - fullName: 山东泰山足球俱乐部
+      shortName: 山东泰山
+      localName: 山东泰山足球俱乐部
+      city: 济南，中国
+      founded: 1993
+      ground: 济南奥体中心
+      league: 中超联赛
+  weiboURL: 'https://weibo.com/u/1911180293'
+  twitterURL: 'https://twitter.com/LoveLNTS'
+  websiteURL: 'http://www.lnts.com.cn'
+  wikiURL: 'https://zh.wikipedia.org/wiki/山东泰山足球俱乐部'

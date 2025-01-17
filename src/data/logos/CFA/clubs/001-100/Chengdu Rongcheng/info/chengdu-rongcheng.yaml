@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-031
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [104.212307, 30.743847]
+  timeline: true
+  info:
+    - fullName: Chengdu Rongcheng Football Club
+      shortName: Chengdu Rongcheng
+      localName: 成都蓉城足球俱乐部
+      city: Chengdu, China
+      founded: 2018
+      ground: Chengdu Longquanyi Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/6487273451'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

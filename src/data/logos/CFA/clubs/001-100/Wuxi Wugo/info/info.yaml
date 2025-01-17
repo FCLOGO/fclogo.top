@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-057
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.246123, 31.545248]
+  info:
+    - fullName: Wuxi Wugo Football Club
+      shortName: Wuxi Wugo
+      localName: 无锡吴钩足球俱乐部
+      founded: 2019
+      city: Wuxi, China
+      ground: Wuxi Sports Center Stadium
+      league: China League
+  weiboURL: 'https://weibo.com/u/7009630709'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

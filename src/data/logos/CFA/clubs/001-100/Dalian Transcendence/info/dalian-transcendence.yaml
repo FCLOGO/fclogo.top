@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-069
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [121.593805, 38.87604]
+  info:
+    - fullName: Dalian Transcendence Football Club
+      shortName: Dalian Transcendence
+      localName: 大连超越足球俱乐部
+      city: Dalian, China
+      founded: 2013
+      duration: 2013 - 2019
+      ground: Jinzhou Stadium
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Dalian_Transcendence_F.C.'

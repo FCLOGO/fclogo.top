@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-015
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [120.3522, 36.266793]
+  timeline: true
+  info:
+    - fullName: Qingdao Football Club
+      shortName: Qingdao FC
+      localName: 青岛足球俱乐部
+      city: Qingdao, China
+      founded: 2013
+      ground: Qingdao Conson Stadium
+      duration: 2013 - 2022
+  weiboURL: 'https://weibo.com/whzallfc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Qingdao_F.C.'

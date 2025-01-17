@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-021
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [6.732427471164021, 51.26123764310566]
+  timeline: false
+  info:
+    - fullName: Düsseldorfer Turn- und Sportverein Fortuna 1895 e.V.
+      localName: Düsseldorfer Turn- und Sportverein Fortuna 1895 e.V.
+      shortName: Fortuna Düsseldorf
+      founded: 1895
+      city: Düsseldorf
+      ground: Merkur Spielarena
+  websiteURL: 'https://www.f95.de/'
+  twitterURL: 'https://x.com/f95'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Fortuna_D%C3%BCsseldorf'

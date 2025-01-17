@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-028
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [138.43656684024708, 35.728696280276104]
+  timeline: false
+  info:
+    - fullName: Ventforet Kofu Football Club
+      shortName: Ventforet Kofu
+      localName: ヴァンフォーレ甲府
+      founded: 1965
+      city: Kofu, Japan
+      ground: JIT Recycle Ink Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/vfk_official/'
+  websiteURL: 'http://www.ventforet.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ventforet_Kofu'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-083
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [110.283729, 19.871112]
+  timeline: true
+  info:
+    - fullName: Haikou Mingcheng Football Club
+      shortName: Haikou Mingcheng
+      localName: 海口名城足球俱乐部
+      founded: 2019
+      city: Haikou, China
+      ground: Guanlanhu Football Training Base
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7746920606'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/海口名城足球俱乐部/64036792'

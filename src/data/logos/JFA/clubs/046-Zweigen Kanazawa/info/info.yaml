@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-046
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [136.60900072694147, 36.57818005553426]
+  timeline: false
+  info:
+    - fullName: Zweigen Kanazawa Football Club
+      shortName: Zweigen Kanazawa
+      localName: ツエーゲン金沢
+      founded: 1956
+      city: Kanazawa, Japan
+      ground: Go Go Curry Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/zweigen_staff/'
+  websiteURL: 'http://www.zweigen-kanazawa.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Zweigen_Kanazawa'

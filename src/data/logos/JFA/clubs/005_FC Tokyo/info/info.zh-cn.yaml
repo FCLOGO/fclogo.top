@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-005
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.53376010011675, 35.6711664841997]
+  timeline: false
+  info:
+    - fullName: 东京足球俱乐部
+      shortName: FC 东京
+      localName: フットボールクラブ東京
+      founded: 1935
+      city: 日本，东京
+      ground: 味之素球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fctokyoofficial/'
+  websiteURL: 'https://www.fctokyo.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/東京足球會'

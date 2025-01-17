@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-038
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [140.37632106898124, 38.33553144669562]
+  timeline: false
+  info:
+    - fullName: Montedio Yamagata Football Club
+      shortName: Montedio Yamagata
+      localName: モンテディオ山形
+      founded: 1984
+      city: Yamagata, Japan
+      ground: ND Soft Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/monte_prstaff/'
+  websiteURL: 'https://www.montedioyamagata.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Montedio_Yamagata'

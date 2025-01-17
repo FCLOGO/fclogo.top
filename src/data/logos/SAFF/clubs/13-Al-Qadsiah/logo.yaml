@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241030-113458-345184
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Qadsiah']
+  slug: /saff/club/Al-Qadsiah-v2024
+  pngPath: 'png/Al-Qadsiah-v2024.png'
+  svgPath: 'svg/Al-Qadsiah-v2024.svg'
+  sourceID: saff-club-013
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3103/al-qadsiah'
+  ctrbID: ''

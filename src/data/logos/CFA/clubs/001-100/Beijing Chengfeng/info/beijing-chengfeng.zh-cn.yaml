@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-036
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [116.55, 39.90]
+  timeline: true
+  info:
+    - fullName: 北京橙丰足球俱乐部
+      shortName: 北京橙丰
+      localName: 北京橙丰足球俱乐部
+      city: 北京，中国
+      founded: 1995
+      duration: 1995 - 2021
+      ground: 丰台体育中心体育场
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京橙丰足球俱乐部'

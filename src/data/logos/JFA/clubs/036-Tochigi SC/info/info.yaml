@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-036
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.88926225684872, 36.559011855190896]
+  timeline: false
+  info:
+    - fullName: Tochigi Soccer Club
+      shortName: Tochigi SC
+      localName: 栃木サッカークラブ
+      founded: 1953
+      city: Utsunomiya, Japan
+      ground: Kanseki Stadium Tochigi
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/tochigisc/'
+  websiteURL: 'http://www.tochigisc.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Tochigi_SC'

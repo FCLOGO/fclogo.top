@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-008
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [127.32471228275728, 36.36497440121176]
+  timeline: true
+  info:
+    - fullName: 大田韩亚市民足球俱乐部
+      shortName: 大田韩亚市民
+      localName: 대전 하나 시티즌 축구단
+      founded: 1997
+      city: 韩国，大田
+      ground: 大田世界杯足球场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.dhcfc.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Daejeon_Hana_Citizen'

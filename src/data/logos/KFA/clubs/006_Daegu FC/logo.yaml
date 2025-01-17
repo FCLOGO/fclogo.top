@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241001-224859-43d996
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Daegu FC']
+  slug: /kfa/club/daegu-fc-v2013-mono
+  pngPath: 'png/daegu-fc-v2013-mono.png'
+  svgPath: 'svg/daegu-fc-v2013-mono.svg'
+  sourceID: kfa-club-006
+  style: mono
+  reference: 'https://www.daegufc.co.kr/club/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241001-224935-c80f42
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Daegu FC']
+  slug: /kfa/club/daegu-fc-v2013
+  pngPath: 'png/daegu-fc-v2013.png'
+  svgPath: 'svg/daegu-fc-v2013.svg'
+  sourceID: kfa-club-006
+  style: color
+  reference: 'https://www.daegufc.co.kr/club/emblem.php'
+  ctrbID: ''

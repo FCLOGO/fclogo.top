@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-020
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [120.957748, 31.376679]
+  timeline: true
+  info:
+    - fullName: Kunshan Football Club
+      shortName: Kunshan FC
+      localName: 昆山足球俱乐部
+      city: Kunshan, China
+      founded: 2014
+      duration: 2014 - 2023
+  weiboURL: 'https://weibo.com/u/6609527736'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Kunshan_F.C.'

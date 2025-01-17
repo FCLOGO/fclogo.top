@@ -1,42 +1,36 @@
 import React from 'react'
-import { useIntl } from 'react-intl'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { LocalizedLink } from 'gatsby-plugin-usei18n'
-import ModalLink from './modal-link'
+import { Link, useTranslation } from 'gatsby-plugin-react-i18next'
 
-import {
-  cardsWrapper,
-  cardsHeader,
-  cardsTitle,
-  cardsContainer,
-  logoCard,
-  cardLink
-} from './index-random.module.styl'
+import ModalLink from '../helpers/modal-link'
 
 const RandomLogo = ({ data }) => {
-  const intl = useIntl()
+  const { t } = useTranslation()
   const newLogos = Array.from(data.allLogo.nodes)
   return (
-    <section className={cardsWrapper}>
-      <div className={cardsHeader}>
-        <h2 className={cardsTitle}>{intl.formatMessage({ id: `index.randomTitle` })}</h2>
+    <section className="flex-auto flex flex-col flex-nowrap mb-[40px]">
+      <div className="h-header flex flex-row flex-nowrap items-center justify-between w-full font-semibold uppercase leading-none">
+        <h2 className="flex-auto">{t(`index.randomTitle`)}</h2>
       </div>
-      <div className={cardsContainer}>
+      <div className="w-full overflow-hidden grid justify-between gap-xl grid-cols-[repeat(auto-fill,_minmax(110px,_1fr))]">
         {newLogos
           .sort(() => {
             return Math.random() - 0.5
           })
           .slice(0, 10)
           .map(node => (
-            <article key={node.id} className={logoCard}>
+            <article
+              key={node.id}
+              className="bg-white rounded-lg border border-gray-1 hover:border-gray-2 shadow-card"
+            >
               <div>
                 <ModalLink
-                  className={cardLink}
                   to={node.slug}
                   state={{
                     modal: true,
                     noScroll: true
                   }}
+                  className="flex p-[1vw] flex-col flex-wrap items-center"
                 >
                   <GatsbyImage
                     image={getImage(node.pngPath)}
@@ -50,5 +44,4 @@ const RandomLogo = ({ data }) => {
     </section>
   )
 }
-
 export default RandomLogo

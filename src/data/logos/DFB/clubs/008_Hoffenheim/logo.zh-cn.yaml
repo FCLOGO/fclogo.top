@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-135438-8be096
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['TSG Hoffenheim']
+  slug: /dfb/club/TSG-Hoffenheim-v2014-mono
+  pngPath: 'png/TSG-Hoffenheim-v2014-mono.png'
+  svgPath: 'svg/TSG-Hoffenheim-v2014-mono.svg'
+  sourceID: dfb-club-008
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-135536-a7a7a4
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['TSG Hoffenheim']
+  slug: /dfb/club/TSG-Hoffenheim-v2014
+  pngPath: 'png/TSG-Hoffenheim-v2014.png'
+  svgPath: 'svg/TSG-Hoffenheim-v2014.svg'
+  sourceID: dfb-club-008
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/tsg-hoffenheim'
+  ctrbID: ''

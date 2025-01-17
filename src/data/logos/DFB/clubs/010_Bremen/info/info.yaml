@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: dfb-club-010
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.837918669344038, 53.066822512431436]
+  timeline: false
+  info:
+    - fullName: SV Werder Bremen GmbH & Co. KG aA
+      localName: SV Werder Bremen GmbH & Co. KG aA
+      shortName: SV Werder Bremen
+      founded: 1899
+      city: Bremen
+      ground: Weserstadion
+      league:
+  websiteURL: 'https://www.werder.de/'
+  twitterURL: 'https://x.com/werderbremen_EN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SV_Werder_Bremen'

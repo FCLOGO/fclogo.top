@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-103
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [106.60, 29.68]
+  timeline: false
+  info:
+    - fullName: 重庆润麒足球俱乐部
+      shortName: 重庆润麒
+      localName: 重庆润麒足球俱乐部
+      founded: 2010
+      city: 中国，重庆
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/%E9%87%8D%E5%BA%86%E6%B6%A6%E9%BA%92%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/23279911'

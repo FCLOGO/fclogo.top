@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-110
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [102.66, 25.11]
+  timeline: true
+  info:
+    - fullName: Kunming City Football Club
+      shortName: Kunming City
+      localName: 昆明城市足球俱乐部
+      founded: 2024
+      city: Kunming, Yunnan
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/6269639115'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

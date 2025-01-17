@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-001
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-84.4009282356692, 33.75650697033178]
+  timeline: true
+  info:
+    - fullName: 亚特兰大联足球俱乐部
+      shortName: 亚特兰大联
+      localName: Atlanta United FC
+      founded: 2014
+      city: 亚特兰大
+      ground: 梅赛德斯-奔驰体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/atlutd'
+  websiteURL: 'https://www.atlutd.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Atlanta_United_FC'

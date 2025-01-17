@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-045
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [120.484349, 30.092451]
+  info:
+    - fullName: 绍兴柯桥越甲足球俱乐部
+      shortName: 绍兴柯桥越甲
+      localName: 绍兴柯桥越甲足球俱乐部
+      founded: 1994
+      city: 绍兴，中国
+      ground: 中国轻纺城体育中心
+      duration: 1994 - 2022
+  weiboURL: 'https://weibo.com/u/1411642757'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/绍兴柯桥越甲足球俱乐部'

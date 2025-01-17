@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-065
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [129.437514, 42.815429]
+  info:
+    - fullName: Yanbian Longding Football Club
+      shortName: Yanbian Longding
+      localName: 延边龙鼎足球俱乐部
+      founded: 2017
+      city: Yanji, China
+      ground: Yanji People's Stadium
+      league: China League
+  weiboURL: 'https://weibo.com/u/6272800667'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Yanbian_Longding_F.C.'

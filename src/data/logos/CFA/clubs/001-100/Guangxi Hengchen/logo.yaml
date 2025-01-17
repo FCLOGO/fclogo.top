@@ -1,0 +1,25 @@
+- data: logo
+  logoID: 20231113-161949-91f576
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangxi Hengchen']
+  slug: /cfa/club/guangxi-hengchen-v2019-mono
+  pngPath: 'png/guangxi-hengchen-v2019-mono.png'
+  svgPath: 'svg/guangxi-hengchen-v2019-mono.svg'
+  sourceID: cfa-club-096
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231113-162018-a31da3
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangxi Hengchen']
+  slug: /cfa/club/guangxi-hengchen-v2019
+  pngPath: 'png/guangxi-hengchen-v2019.png'
+  svgPath: 'svg/guangxi-hengchen-v2019.svg'
+  sourceID: cfa-club-096
+  style: color
+  reference: ''

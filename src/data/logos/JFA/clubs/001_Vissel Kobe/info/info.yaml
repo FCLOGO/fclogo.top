@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-001
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [135.18963444767607, 34.686868596318725]
+  timeline: false
+  info:
+    - fullName: Vissel Kobe Football Club
+      shortName: Vissel Kobe
+      localName: ヴィッセル神戸
+      founded: 1966
+      city: Kobe, Japan
+      ground: Misaki Park Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/visselkobe'
+  websiteURL: 'https://www.vissel-kobe.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vissel_Kobe'

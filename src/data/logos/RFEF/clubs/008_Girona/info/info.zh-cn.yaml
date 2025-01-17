@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-008
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [2.827642707927343, 41.96099854596082]
+  timeline: false
+  info:
+    - fullName: 赫罗纳足球俱乐部
+      localName: Girona Futbol Club
+      shortName: 赫罗纳
+      founded: 1930
+      city: 赫罗纳
+      ground: 蒙蒂利维球场
+  websiteURL: 'https://www.gironafc.cat/'
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Girona_FC'

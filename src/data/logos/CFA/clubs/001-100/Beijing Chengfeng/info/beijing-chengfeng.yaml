@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: cfa-club-036
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [116.55, 39.90]
+  timeline: true
+  info:
+    - fullName: Beijing Chengfeng Football Club
+      shortName: Beijing Chengfeng
+      localName: 北京橙丰足球俱乐部
+      city: Beijing, China
+      founded: 1995
+      duration: 1995 - 2021
+      ground: Beijing Fengtai Stadium
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Renhe_F.C.'

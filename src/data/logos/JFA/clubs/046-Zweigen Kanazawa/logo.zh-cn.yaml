@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241017-102504-1559f7
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['金泽共进']
+  slug: /jfa/club/zweigen-kanazawa-v2006-mono
+  pngPath: 'png/zweigen-kanazawa-v2006-mono.png'
+  svgPath: 'svg/zweigen-kanazawa-v2006-mono.svg'
+  sourceID: jfa-club-046
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Zweigen-Kanazawa/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241017-102543-6510ef
+  version: 2006
+  isDoubtful: false
+  isOutdated: false
+  verName: ['金泽共进']
+  slug: /jfa/club/zweigen-kanazawa-v2006
+  pngPath: 'png/zweigen-kanazawa-v2006.png'
+  svgPath: 'svg/zweigen-kanazawa-v2006.svg'
+  sourceID: jfa-club-046
+  style: color
+  reference: 'https://www.jleague.co/clubs/Zweigen-Kanazawa/'
+  ctrbID: ''

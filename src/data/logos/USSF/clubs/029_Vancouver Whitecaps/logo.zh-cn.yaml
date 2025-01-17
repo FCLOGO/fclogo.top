@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241208-140318-78168a
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Vancouver Whitecaps']
+  slug: /ussf/club/Vancouver-Whitecaps-v2009-mono
+  pngPath: 'png/Vancouver-Whitecaps-v2009-mono.png'
+  svgPath: 'svg/Vancouver-Whitecaps-v2009-mono.svg'
+  sourceID: ussf-club-029
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241208-140410-8e83c9
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Vancouver Whitecaps']
+  slug: /ussf/club/Vancouver-Whitecaps-v2009
+  pngPath: 'png/Vancouver-Whitecaps-v2009.png'
+  svgPath: 'svg/Vancouver-Whitecaps-v2009.svg'
+  sourceID: ussf-club-029
+  style: color
+  reference: ''
+  ctrbID: ''

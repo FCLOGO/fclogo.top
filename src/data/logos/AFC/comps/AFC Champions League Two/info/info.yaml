@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: afc-comp-003
+  type: comp
+  continent: Asia
+  timeline: false
+  info:
+    - fullName: AFC Champions League Two
+      shortName: AFC Champions League Two
+      localName: AFC Champions League Two
+      founded: 2004
+      confederation: AFC
+      teams: 32
+  weiboURL: 'https://weibo.com/u/3390570594'
+  twitterURL: ''
+  websiteURL: 'https://www.the-afc.com/en/club/afc_champions_league_two/home.html'
+  wikiURL: 'https://en.wikipedia.org/wiki/AFC_Champions_League_Two'

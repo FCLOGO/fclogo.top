@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-013
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [137.11205643996863, 35.13711493421076]
+  timeline: false
+  info:
+    - fullName: Nagoya Grampus Football Club
+      shortName: Nagoya Grampus
+      localName: 名古屋グランパス
+      founded: 1939
+      city: Nagoya, Japan
+      ground: Toyota Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/nge_official/'
+  websiteURL: 'http://nagoya-grampus.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Nagoya_Grampus'

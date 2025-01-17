@@ -1,0 +1,16 @@
+- data: sourceInfo
+  sourceID: afc-comp-004
+  type: comp
+  continent: Asia
+  timeline: false
+  info:
+    - fullName: 亚足联挑战联赛
+      shortName: 亚足联挑战联赛
+      localName: AFC Challenge League
+      founded: 2023
+      confederation: AFC
+      teams: 20
+  weiboURL: 'https://weibo.com/u/3390570594'
+  twitterURL: ''
+  websiteURL: 'https://www.the-afc.com/en/club/afc_challenge_league.html'
+  wikiURL: 'https://zh.wikipedia.org/wiki/亞足聯挑戰聯賽'

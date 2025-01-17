@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-049
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [112.537781, 37.754899]
+  timeline: true
+  info:
+    - fullName: Shanxi Longjin Football Club
+      shortName: Shanxi Longjin
+      localName: 山西龙晋足球俱乐部
+      founded: 2015
+      city: Taiyuan, China
+      ground: Shanxi Sports Centre Stadium
+      duration: 2015 - 2022
+  weiboURL: 'https://weibo.com/u/7514226543'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shanxi_Longjin_F.C.'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-064
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [118.582266, 24.862685]
+  timeline: true
+  info:
+    - fullName: 泉州亚新足球俱乐部
+      shortName: 泉州亚新
+      localName: 泉州亚新足球俱乐部
+      founded: 2019
+      city: 中国，泉州
+      ground: 晋江足球训练中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7835119489'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/泉州亚新足球俱乐部/56381244'

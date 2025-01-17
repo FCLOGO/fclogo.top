@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241030-120621-dbe06f
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Wehda']
+  slug: /saff/club/Al-Wehda-v2018-mono
+  pngPath: 'png/Al-Wehda-v2018-mono.png'
+  svgPath: 'svg/Al-Wehda-v2018-mono.svg'
+  sourceID: saff-club-018
+  style: mono
+  reference: 'https://www.spl.com.sa/en/teams/3092/al-wehda'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241030-120655-ecefda
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Wehda']
+  slug: /saff/club/Al-Wehda-v2018
+  pngPath: 'png/Al-Wehda-v2018.png'
+  svgPath: 'svg/Al-Wehda-v2018.svg'
+  sourceID: saff-club-018
+  style: color
+  reference: 'https://www.spl.com.sa/en/teams/3092/al-wehda'
+  ctrbID: ''

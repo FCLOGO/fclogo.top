@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-021
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-75.38338258532961, 39.82854199276126]
+  timeline: true
+  info:
+    - fullName: 费城联合足球俱乐部
+      shortName: 费城联合
+      localName: Philadelphia Union Soccer Club
+      founded: 2008
+      city: 切斯特, 宾夕法尼亚州
+      ground: 斯巴鲁公园
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/philaunion'
+  websiteURL: 'https://www.philadelphiaunion.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Philadelphia_Union'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-025
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-122.23430721743868, 47.462239311029954]
+  timeline: true
+  info:
+    - fullName: 西雅图海湾人足球俱乐部
+      shortName: 西雅图海湾人
+      localName: Seattle Sounders Football Club
+      founded: 1974
+      city: 西雅图, 华盛顿州
+      ground: 流明球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/SoundersFC'
+  websiteURL: 'https://www.soundersfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Seattle_Sounders_FC'

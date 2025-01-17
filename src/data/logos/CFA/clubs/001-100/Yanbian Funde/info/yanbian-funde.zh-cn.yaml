@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: cfa-club-042
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [129.487296, 42.892663]
+  info:
+    - fullName: 延边富德足球俱乐部
+      shortName: 延边富德
+      localName: 延边富德足球俱乐部
+      city: 延边朝鲜族自治州，中国
+      founded: 1994
+      duration: 1994 - 2019
+      ground: 延吉市人民体育场
+  wikiURL: 'https://zh.wikipedia.org/wiki/延边富德足球俱乐部'

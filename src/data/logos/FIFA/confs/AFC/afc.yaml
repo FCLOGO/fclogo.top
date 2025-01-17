@@ -1,8 +1,8 @@
 - data: logo
-  uniqueID: 20220402-234322
+  logoID: 20220402-234322
   version: 2001
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['AFC']
   slug: /fifa/conf/asian-football-confederation-v2001
   pngPath: 'png/asian-football-confederation-v2001.png'
@@ -11,7 +11,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20220426-202703
+  logoID: 20220426-202703
   version: 1954
   isDoubtful: false
   isOutdated: true
@@ -23,7 +23,7 @@
   style: mono
 
 - data: logo
-  uniqueID: 20220426-203011
+  logoID: 20220426-203011
   version: 1954
   isDoubtful: false
   isOutdated: true
@@ -33,3 +33,17 @@
   svgPath: 'svg/asian-football-confederation-v1954.svg'
   sourceID: fifa-conf-001
   style: color
+
+- data: logo
+  logoID: 20250102-195214-7dabeb
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AFC']
+  slug: /fifa/conf/Asian-Football-Confederation-v2025
+  pngPath: 'png/Asian-Football-Confederation-v2025.png'
+  svgPath: 'svg/Asian-Football-Confederation-v2025.svg'
+  sourceID: fifa-conf-001
+  style: color
+  reference: 'https://www.the-afc.com/en/more/afc_news.html/news/afc-ushers-in-2025-with-unveiling-of-new-brand-identity'
+  ctrbID: ''

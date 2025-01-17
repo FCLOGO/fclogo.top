@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241219-104635-720776
+  version: 1988
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Newcastle']
+  slug: /thefa/club/Newcastle-United-Football-Club-v1988-mono
+  pngPath: 'png/Newcastle-United-Football-Club-v1988-mono.png'
+  svgPath: 'svg/Newcastle-United-Football-Club-v1988-mono.svg'
+  sourceID: thefa-club-015
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241219-104711-2f4254
+  version: 1988
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Newcastle']
+  slug: /thefa/club/Newcastle-United-Football-Club-v1988
+  pngPath: 'png/Newcastle-United-Football-Club-v1988.png'
+  svgPath: 'svg/Newcastle-United-Football-Club-v1988.svg'
+  sourceID: thefa-club-015
+  style: color
+  reference: ''
+  ctrbID: ''

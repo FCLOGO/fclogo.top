@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-024
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [106.622988, 26.680906]
+  timeline: true
+  info:
+    - fullName: Guizhou Football Club
+      shortName: Guizhou FC
+      localName: 贵州足球俱乐部
+      city: Guiyang, China
+      founded: 2005
+      ground: Guiyang Olympic Sports Center
+      duration: 2005 - 2022
+  weiboURL: 'https://weibo.com/u/2611553927'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Guizhou_F.C.'

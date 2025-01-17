@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241016-101949-3909a1
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fukushima United']
+  slug: /jfa/club/fukushima-united-v2008-mono
+  pngPath: 'png/fukushima-united-v2008-mono.png'
+  svgPath: 'svg/fukushima-united-v2008-mono.svg'
+  sourceID: jfa-club-042
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Fukushima-United-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241016-102028-ee8e44
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fukushima United']
+  slug: /jfa/club/fukushima-united-v2008
+  pngPath: 'png/fukushima-united-v2008.png'
+  svgPath: 'svg/fukushima-united-v2008.svg'
+  sourceID: jfa-club-042
+  style: color
+  reference: 'https://www.jleague.co/clubs/Fukushima-United-FC/'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: efa-club-001
+  status: active
+  type: club
+  nation: EGY
+  coordinates: [31.221205872300136, 30.044581935372058]
+  timeline: false
+  info:
+    - fullName: 开罗国民体育俱乐部
+      shortName: 开罗国民
+      localName: النادي الأهلى للرياضة البدنية
+      founded: 1907
+      city: 埃及，开罗
+      ground: 开罗国际体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/AlAhlyEnglish'
+  websiteURL: 'https://www.alahlyegypt.com/en'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Ahly_SC'

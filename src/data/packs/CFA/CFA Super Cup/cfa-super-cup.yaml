@@ -1,0 +1,12 @@
+- data: logoPack
+  packID: 20240914-235720-088f08
+  name: CFA Super Cup
+  season: '2024'
+  packSource: cfa-comp-005
+  logoVersion: 2024
+  slug: /pack/2024-cfa-super-cup
+  items:
+    - id: cfa-club-003
+      version: 2022
+    - id: cfa-club-006
+      version: 2021

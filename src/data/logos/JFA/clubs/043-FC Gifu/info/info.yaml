@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-043
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [136.76603971918925, 35.45669481767271]
+  timeline: false
+  info:
+    - fullName: Football Club Gifu
+      shortName: FC Gifu
+      localName: フットボールクラブ岐阜
+      founded: 2002
+      city: Gifu, Japan
+      ground: Gifu Nagaragawa Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fcgifudream/'
+  websiteURL: 'http://www.fc-gifu.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Gifu'

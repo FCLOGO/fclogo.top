@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250102-165014-6611d5
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Barça']
+  slug: /rfef/club/FC-Barcelona-v2002-mono
+  pngPath: 'png/FC-Barcelona-v2002-mono.png'
+  svgPath: 'svg/FC-Barcelona-v2002-mono.svg'
+  sourceID: rfef-club-006
+  style: mono
+  reference: 'https://www.fcbarcelona.com/en/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250102-165059-0f2c14
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Barça']
+  slug: /rfef/club/FC-Barcelona-v2002
+  pngPath: 'png/FC-Barcelona-v2002.png'
+  svgPath: 'svg/FC-Barcelona-v2002.svg'
+  sourceID: rfef-club-006
+  style: color
+  reference: 'https://www.fcbarcelona.com/en/'
+  ctrbID: ''

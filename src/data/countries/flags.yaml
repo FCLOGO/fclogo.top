@@ -1,0 +1,188 @@
+- data: country
+  nation: CHN
+  center: [100, 35]
+  zoom: 4
+  flag: 'img/china.png'
+  flag2: 'img2/china.png'
+
+- data: country
+  nation: HKG
+  center: [114.18510966572981, 22.352641245975696]
+  zoom: 10.5
+  flag: 'img/hong-kong.png'
+  flag2: 'img2/hong-kong.png'
+
+- data: country
+  nation: JPN
+  center: [136.15, 37.45]
+  zoom: 5
+  flag: 'img/japan.png'
+  flag2: 'img2/japan.png'
+
+- data: country
+  nation: KOR
+  center: [126.8500, 36.0055]
+  zoom: 6.5
+  flag: 'img/south-korea.png'
+  flag2: 'img2/south-korea.png'
+
+- data: country
+  nation: AUS
+  center: [130, -29]
+  zoom: 4
+  flag: 'img/australia.png'
+  flag2: 'img2/australia.png'
+
+- data: country
+  nation: NZL
+  center: [170.00, -41.50]
+  zoom: 5
+  flag: 'img/new-zealand.png'
+  flag2: 'img2/new-zealand.png'
+
+- data: country
+  nation: THA
+  center: [100.65585, 13.90812]
+  zoom: 7
+  flag: 'img/thailand.png'
+  flag2: 'img2/thailand.png'
+
+- data: country
+  nation: MYS
+  center: [103.7515, 1.4976]
+  zoom: 7
+  flag: 'img/malaysia.png'
+  flag2: 'img2/malaysia.png'
+
+- data: country
+  nation: SAU
+  center: [41.5, 23.0]
+  zoom: 4.5
+  flag: 'img/saudi-arabia.png'
+  flag2: 'img2/saudi-arabia.png'
+
+- data: country
+  nation: USA
+  center: [-97.5, 39.0]
+  zoom: 4
+  flag: 'img/united-states.png'
+  flag2: 'img2/united-states.png'
+
+- data: country
+  nation: CAN
+  center: [-95.5, 55.0]
+  zoom: 3.5
+  flag: 'img/canada.png'
+  flag2: 'img2/canada.png'
+
+- data: country
+  nation: ARE
+  center: [53.5, 24.5]
+  zoom: 7.0
+  flag: 'img/united-arab-emirates.png'
+  flag2: 'img2/united-arab-emirates.png'
+
+- data: country
+  nation: EGY
+  center: [30.0, 29.0]
+  zoom: 6.0
+  flag: 'img/egypt.png'
+  flag2: 'img2/egypt.png'
+
+- data: country
+  nation: MAR
+  center: [-10.0, 32.0]
+  zoom: 5.5
+  flag: 'img/morocco.png'
+  flag2: 'img2/morocco.png'
+
+- data: country
+  nation: TUN
+  center: [10.0, 35.0]
+  zoom: 6.0
+  flag: 'img/tunisia.png'
+  flag2: 'img2/tunisia.png'
+
+- data: country
+  nation: ZAF
+  center: [28.0, -26.0]
+  zoom: 5.5
+  flag: 'img/south-africa.png'
+  flag2: 'img2/south-africa.png'
+
+- data: country
+  nation: MEX
+  center: [-102.0, 23.0]
+  zoom: 5.5
+  flag: 'img/mexico.png'
+  flag2: 'img2/mexico.png'
+
+- data: country
+  nation: BRA
+  center: [-50.0, -16.5]
+  zoom: 3.5
+  flag: 'img/brazil.png'
+  flag2: 'img2/brazil.png'
+
+- data: country
+  nation: ARG
+  center: [-66.0, -39.0]
+  zoom: 3.5
+  flag: 'img/argentina.png'
+  flag2: 'img2/argentina.png'
+
+- data: country
+  nation: ENG
+  center: [-3.0, 52.8]
+  zoom: 6.0
+  flag: 'img/england.png'
+  flag2: 'img2/england.png'
+
+- data: country
+  nation: ESP
+  center: [-3.5, 40.0]
+  zoom: 5.5
+  flag: 'img/spain.png'
+  flag2: 'img2/spain.png'
+
+- data: country
+  nation: PRT
+  center: [-8.0, 39.8]
+  zoom: 6.5
+  flag: 'img/portugal.png'
+  flag2: 'img2/portugal.png'
+
+- data: country
+  nation: FRA
+  center: [0, 47.0]
+  zoom: 5.5
+  flag: 'img/france.png'
+  flag2: 'img2/france.png'
+
+- data: country
+  nation: ITA
+  center: [10.0, 42.0]
+  zoom: 5.5
+  flag: 'img/italy.png'
+  flag2: 'img2/italy.png'
+
+- data: country
+  nation: DEU
+  center: [9.0, 51.0]
+  zoom: 5.5
+  flag: 'img/germany.png'
+  flag2: 'img2/germany.png'
+
+- data: country
+  nation: AUT
+  center: [13.0, 48.0]
+  zoom: 6.0
+  flag: 'img/austria.png'
+  flag2: 'img2/austria.png'
+
+- data: country
+  nation: MCO
+  center: [6.5, 43.5]
+  zoom: 5.5
+  flag: 'img/monaco.png'
+  flag2: 'img2/monaco.png'

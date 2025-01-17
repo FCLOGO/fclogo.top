@@ -19,6 +19,8 @@ function replaceSvgCommet() {
     return src(fileName, { base: 'src/data/logos/' })
       .pipe(replace(/<!--.*-->/g, copyrightString))
       .pipe(replace('id="图层_1" ', ''))
+      .pipe(replace('id="_图层_1" ', ''))
+      .pipe(replace('data-name="图层 1" ', ''))
       .pipe(dest('src/data/logos/'))
   })
 }

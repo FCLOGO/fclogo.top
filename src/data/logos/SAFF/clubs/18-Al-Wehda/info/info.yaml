@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-018
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [39.80249379727753, 21.498125295054972]
+  timeline: false
+  info:
+    - fullName: Al Wehda Football Club
+      shortName: Al Wehda FC
+      localName: نادي الوحدة لكرة القدم
+      founded: 1945
+      city: Mecca
+      ground: King Abdul Aziz Stadium
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://alwehdaclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Wehda_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-008
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [4.982029242069857, 45.765229179725736]
+  timeline: true
+  info:
+    - fullName: 奥林匹克里昂
+      localName: Olympique lyonnais
+      shortName: 里昂
+      founded: 1950
+      city: 里昂
+      ground: 卢米埃尔球场
+  websiteURL: 'https://www.ol.fr/en'
+  twitterURL: 'https://twitter.com/OL'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Olympique_Lyonnais'

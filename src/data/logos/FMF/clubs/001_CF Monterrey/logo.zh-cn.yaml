@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241212-113619-715fb6
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Rayados']
+  slug: /fmf/club/Club-de-Futbol-Monterrey-v2011-mono
+  pngPath: 'png/Club-de-Futbol-Monterrey-v2011-mono.png'
+  svgPath: 'svg/Club-de-Futbol-Monterrey-v2011-mono.svg'
+  sourceID: fmf-club-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241212-113659-3198f2
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Rayados']
+  slug: /fmf/club/Club-de-Futbol-Monterrey-v2011
+  pngPath: 'png/Club-de-Futbol-Monterrey-v2011.png'
+  svgPath: 'svg/Club-de-Futbol-Monterrey-v2011.svg'
+  sourceID: fmf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''

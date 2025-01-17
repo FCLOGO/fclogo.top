@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-161944-797db9
+  version: 1997
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Real Sociedad']
+  slug: /rfef/club/Real-Sociedad-de-Futbol-v1997-mono
+  pngPath: 'png/Real-Sociedad-de-Futbol-v1997-mono.png'
+  svgPath: 'svg/Real-Sociedad-de-Futbol-v1997-mono.svg'
+  sourceID: rfef-club-017
+  style: mono
+  reference: 'https://www.realsociedad.eus/cdn/Uploads/editor/Image/Castellano_1.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-162049-bc397a
+  version: 1997
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Real Sociedad']
+  slug: /rfef/club/Real-Sociedad-de-Futbol-v1997
+  pngPath: 'png/Real-Sociedad-de-Futbol-v1997.png'
+  svgPath: 'svg/Real-Sociedad-de-Futbol-v1997.svg'
+  sourceID: rfef-club-017
+  style: color
+  reference: 'https://www.realsociedad.eus/cdn/Uploads/editor/Image/Castellano_1.pdf'
+  ctrbID: ''

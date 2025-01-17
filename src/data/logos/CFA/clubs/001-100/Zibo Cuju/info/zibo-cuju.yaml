@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-026
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [118.061095, 36.842327]
+  timeline: true
+  info:
+    - fullName: Zibo Cuju Football Club
+      shortName: Zibo Cuju
+      localName: 淄博蹴鞠足球俱乐部
+      city: Zibo, China
+      founded: 1982
+      duration: 1982 - 2023
+  weiboURL: 'https://weibo.com/u/6467934803'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Zibo_Cuju_F.C.'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-014
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.2912603024499103, 53.46310425044112]
+  timeline: false
+  info:
+    - fullName: Manchester United Football Club
+      localName: Manchester United Football Club
+      shortName: Manchester United
+      founded: 1878
+      city: Manchester
+      ground: Old Trafford
+      league:
+  websiteURL: 'https://www.manutd.com/'
+  twitterURL: 'https://twitter.com/ManUtd'
+  weiboURL: 'https://weibo.com/u/3204839810'
+  wikiURL: 'https://en.wikipedia.org/wiki/Manchester_United_F.C.'

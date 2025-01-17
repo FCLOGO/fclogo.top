@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-023
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [126.81867179812336, 37.31964704375145]
+  timeline: true
+  info:
+    - fullName: 安山绿人足球俱乐部
+      shortName: 安山绿人
+      localName: 안산 그리너스 축구단
+      founded: 2017
+      city: 韩国，安山
+      ground: 安山体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.greenersfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Ansan_Greeners_FC'

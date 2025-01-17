@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240925-222025-6dc395
+  version: 1997
+  isDoubtful: false
+  isOutdated: false
+  verName: ['新潟天鹅']
+  slug: /jfa/club/albirex-niigata-v1997-mono
+  pngPath: 'png/albirex-niigata-v1997-mono.png'
+  svgPath: 'svg/albirex-niigata-v1997-mono.svg'
+  sourceID: jfa-club-014
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240925-222114-0c2566
+  version: 1997
+  isDoubtful: false
+  isOutdated: false
+  verName: ['新潟天鹅']
+  slug: /jfa/club/albirex-niigata-v1997
+  pngPath: 'png/albirex-niigata-v1997.png'
+  svgPath: 'svg/albirex-niigata-v1997.svg'
+  sourceID: jfa-club-014
+  style: color
+  reference: 'https://www.jleague.co/clubs/Albirex-Niigata/'
+  ctrbID: ''

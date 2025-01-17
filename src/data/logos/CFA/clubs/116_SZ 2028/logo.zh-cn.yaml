@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20241129-225408-1554c3
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['深圳二零二八']
+  slug: /cfa/club/Shenzhen-2028-v2023
+  pngPath: 'png/Shenzhen-2028-v2023.png'
+  svgPath: 'svg/Shenzhen-2028-v2023.svg'
+  sourceID: cfa-club-116
+  style: color
+  reference: ''
+  ctrbID: ''

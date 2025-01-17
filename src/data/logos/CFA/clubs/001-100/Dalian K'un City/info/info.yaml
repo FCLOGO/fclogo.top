@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-098
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [121.825607, 39.049467]
+  timeline: true
+  info:
+    - fullName: Dalian K'UN City Football Club
+      shortName: Dalian K'UN City
+      localName: 大连鲲城足球俱乐部
+      founded: 2022
+      city: Dalian, China
+      ground: Dalian Jinzhou Stadium
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7764099020'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/大连鲲城足球俱乐部/64042924'

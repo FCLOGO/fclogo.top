@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241017-105049-5a7fc4
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Iwate Grulla Morioka']
+  slug: /jfa/club/iwate-grulla-morioka-v2019-mono
+  pngPath: 'png/iwate-grulla-morioka-v2019-mono.png'
+  svgPath: 'svg/iwate-grulla-morioka-v2019-mono.svg'
+  sourceID: jfa-club-050
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Iwate-Grulla-Morioka/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241017-105154-1c3954
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Iwate Grulla Morioka']
+  slug: /jfa/club/iwate-grulla-morioka-v2019
+  pngPath: 'png/iwate-grulla-morioka-v2019.png'
+  svgPath: 'svg/iwate-grulla-morioka-v2019.svg'
+  sourceID: jfa-club-050
+  style: color
+  reference: 'https://www.jleague.co/clubs/Iwate-Grulla-Morioka/'
+  ctrbID: ''

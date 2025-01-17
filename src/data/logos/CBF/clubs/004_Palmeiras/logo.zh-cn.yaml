@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241212-194858-7f275e
+  version: 1989
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Palmeiras']
+  slug: /cbf/club/Sociedade-Esportiva-Palmeiras-v1989-mono
+  pngPath: 'png/Sociedade-Esportiva-Palmeiras-v1989-mono.png'
+  svgPath: 'svg/Sociedade-Esportiva-Palmeiras-v1989-mono.svg'
+  sourceID: cbf-club-004
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241212-194947-955336
+  version: 1989
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Palmeiras']
+  slug: /cbf/club/Sociedade-Esportiva-Palmeiras-v1989
+  pngPath: 'png/Sociedade-Esportiva-Palmeiras-v1989.png'
+  svgPath: 'svg/Sociedade-Esportiva-Palmeiras-v1989.svg'
+  sourceID: cbf-club-004
+  style: color
+  reference: ''
+  ctrbID: ''

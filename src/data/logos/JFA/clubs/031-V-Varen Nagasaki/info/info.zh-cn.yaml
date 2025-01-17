@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-031
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [129.98267971695986, 32.83516206740638]
+  timeline: true
+  info:
+    - fullName: 长崎航海足球俱乐部
+      shortName: 长崎航海
+      localName: V・ファーレン長崎
+      founded: 2005
+      city: 日本，长崎
+      ground: 长崎体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/v_varenstaff/'
+  websiteURL: 'https://www.v-varen.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/V-Varen_Nagasaki'

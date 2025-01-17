@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-220452-76ba7c
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['青岛五月的风']
+  slug: /cfa/club/Qingdao-May-Wind-v2022-mono
+  pngPath: 'png/Qingdao-May-Wind-v2022-mono.png'
+  svgPath: 'svg/Qingdao-May-Wind-v2022-mono.svg'
+  sourceID: cfa-club-113
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-220519-e7ba94
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['青岛五月的风']
+  slug: /cfa/club/Qingdao-May-Wind-v2022
+  pngPath: 'png/Qingdao-May-Wind-v2022.png'
+  svgPath: 'svg/Qingdao-May-Wind-v2022.svg'
+  sourceID: cfa-club-113
+  style: color
+  reference: ''
+  ctrbID: ''

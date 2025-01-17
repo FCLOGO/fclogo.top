@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: oefb-club-001
+  status: active
+  type: club
+  nation: AUT
+  coordinates: [12.999399798107088, 47.81588158494406]
+  timeline: false
+  info:
+    - fullName: Football Club Red Bull Salzburg
+      localName: Fußballclub Red Bull Salzburg
+      shortName: Red Bull Salzburg
+      founded: 1933
+      city: Salzburg
+      ground: Red Bull Arena
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fcrbs_en'
+  websiteURL: 'https://www.redbullsalzburg.at/en'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Red_Bull_Salzburg'

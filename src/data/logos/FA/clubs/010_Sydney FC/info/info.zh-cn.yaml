@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-010
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [151.11321725188398, -33.739382938044706]
+  timeline: true
+  info:
+    - fullName: 悉尼足球俱乐部
+      shortName: 悉尼 FC
+      localName: Sydney Football Club
+      founded: 2004
+      city: 澳大利亚，悉尼
+      ground: 悉尼安联足球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/SydneyFC'
+  websiteURL: 'https://sydneyfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sydney_FC'

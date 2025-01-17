@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fmf-club-003
+  status: active
+  type: club
+  nation: MEX
+  coordinates: [-98.75583330225261, 20.105843356334812]
+  timeline: false
+  info:
+    - fullName: 帕丘卡足球俱乐部
+      shortName: C.F. 帕丘卡
+      localName: Club de Fútbol Pachuca
+      founded: 1892
+      city: 伊达尔戈州, 帕丘卡
+      ground: 伊达尔戈体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Tuzos'
+  websiteURL: 'https://tuzos.com.mx/'
+  wikiURL: 'https://en.wikipedia.org/wiki/C.F._Pachuca'

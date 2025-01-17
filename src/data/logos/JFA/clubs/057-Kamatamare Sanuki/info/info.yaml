@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-057
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [134.02730364765878, 34.3235844873426]
+  timeline: false
+  info:
+    - fullName: Kamatamare Sanuki Football Club
+      shortName: Kamatamare Sanuki
+      localName: カマタマーレ讃岐
+      founded: 1956
+      city: Takamatsu, Japan
+      ground: Pikara Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/kamatama_kouhou/'
+  websiteURL: 'https://www.kamatamare.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Kamatamare_Sanuki'

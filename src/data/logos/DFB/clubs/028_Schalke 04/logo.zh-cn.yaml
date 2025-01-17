@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241224-202527-e5f70d
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Schalke 04']
+  slug: /dfb/club/FC-Schalke-04-v1995-mono
+  pngPath: 'png/FC-Schalke-04-v1995-mono.png'
+  svgPath: 'svg/FC-Schalke-04-v1995-mono.svg'
+  sourceID: dfb-club-028
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241224-202549-103d13
+  version: 1995
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Schalke 04']
+  slug: /dfb/club/FC-Schalke-04-v1995
+  pngPath: 'png/FC-Schalke-04-v1995.png'
+  svgPath: 'svg/FC-Schalke-04-v1995.svg'
+  sourceID: dfb-club-028
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/fc-schalke-04'
+  ctrbID: ''

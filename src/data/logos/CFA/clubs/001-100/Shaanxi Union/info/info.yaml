@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-092
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [108.795806, 34.432273]
+  timeline: true
+  info:
+    - fullName: Shaanxi Union Football Club
+      shortName: Shaanxi Union
+      localName: 陕西联合足球俱乐部
+      founded: 2013
+      city: Xi'an, China
+      ground: Weinan Sports Center
+      league: China League 2
+  weiboURL: 'https://weibo.com/u/7839541023'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaanxi_Union_F.C.'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: thefa-club-015
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.6231038317033508, 54.9751154416682]
+  timeline: false
+  info:
+    - fullName: Newcastle United Football Club
+      localName: Newcastle United Football Club
+      shortName: Newcastle United
+      founded: 1881
+      city: Newcastle
+      ground: St James' Park
+      league:
+  websiteURL: 'https://www.newcastleunited.com/'
+  twitterURL: 'https://x.com/NUFC'
+  weiboURL: 'https://weibo.com/u/6278550291'
+  wikiURL: 'https://en.wikipedia.org/wiki/Newcastle_United_F.C.'

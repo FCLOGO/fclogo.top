@@ -1,0 +1,44 @@
+- data: logoPack
+  packID: 20241025-222615-426a0e
+  name: Saudi Pro League
+  season: '24-25'
+  packSource: saff-comp-001
+  logoVersion: 2022
+  slug: /pack/24-25-saudi-pro-league
+  items:
+    - id: saff-club-001
+      version: 2008
+    - id: saff-club-002
+      version: 2024
+    - id: saff-club-003
+      version: 2022
+    - id: saff-club-004
+      version: 2022
+    - id: saff-club-005
+      version: 0000
+    - id: saff-club-006
+      version: 2022
+    - id: saff-club-007
+      version: 2016
+    - id: saff-club-008
+      version: 2015
+    - id: saff-club-009
+      version: 2019
+    - id: saff-club-010
+      version: 2024
+    - id: saff-club-011
+      version: 2020
+    - id: saff-club-012
+      version: 2024
+    - id: saff-club-013
+      version: 2024
+    - id: saff-club-014
+      version: 0000
+    - id: saff-club-015
+      version: 0000
+    - id: saff-club-016
+      version: 2021
+    - id: saff-club-017
+      version: 2019
+    - id: saff-club-018
+      version: 2018

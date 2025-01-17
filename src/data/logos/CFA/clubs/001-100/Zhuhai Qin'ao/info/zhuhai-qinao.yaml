@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-087
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [113.532674, 22.160868]
+  timeline: true
+  info:
+    - fullName: Zhuhai Qin'ao Football Club
+      shortName: Zhuhai Qin'ao FC
+      localName: 珠海琴澳足球俱乐部
+      founded: 2021
+      city: Zhuhai, China
+      duration: 2021 - 2023
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

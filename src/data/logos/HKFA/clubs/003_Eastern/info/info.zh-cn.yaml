@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: hkfa-club-003
+  status: active
+  type: club
+  nation: HKG
+  coordinates: [114.17206458307413, 22.325590693178167]
+  timeline: true
+  info:
+    - fullName: 东方体育会足球队
+      shortName: 东方
+      localName: 東方體育會足球隊
+      founded: 1932
+      city: 中国，香港
+      ground: 旺角大球场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://easternsportsclub.com/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/東方足球隊'

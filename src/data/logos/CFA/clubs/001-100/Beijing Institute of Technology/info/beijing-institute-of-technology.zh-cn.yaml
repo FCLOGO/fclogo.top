@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-029
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [116.322321, 39.957541]
+  timeline: true
+  info:
+    - fullName: 北京理工足球俱乐部
+      shortName: 北京理工
+      localName: 北京理工足球俱乐部
+      city: 北京，中国
+      founded: 2000
+      ground: 北京理工大学中关村校区东体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/2727173971'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/北京理工足球俱乐部'

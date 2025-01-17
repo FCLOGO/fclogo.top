@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241205-171026-fe2671
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['ATL UTD']
+  slug: /ussf/club/Atlanta-United-v2015-mono
+  pngPath: 'png/Atlanta-United-v2015-mono.png'
+  svgPath: 'svg/Atlanta-United-v2015-mono.svg'
+  sourceID: ussf-club-001
+  style: mono
+  reference: 'https://www.atlutd.com/club/history/branding'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241205-171156-23aef9
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['ATL UTD']
+  slug: /ussf/club/Atlanta-United-v2015
+  pngPath: 'png/Atlanta-United-v2015.png'
+  svgPath: 'svg/Atlanta-United-v2015.svg'
+  sourceID: ussf-club-001
+  style: color
+  reference: 'https://www.atlutd.com/club/history/branding'
+  ctrbID: ''

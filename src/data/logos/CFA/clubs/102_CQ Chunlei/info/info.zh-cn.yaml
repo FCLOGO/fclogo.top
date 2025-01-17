@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-102
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [106.57, 29.58]
+  timeline: false
+  info:
+    - fullName: 重庆春蕾足球俱乐部
+      shortName: 重庆春蕾
+      localName: 重庆春蕾足球俱乐部
+      founded: 2015
+      city: 中国，重庆
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/%E9%87%8D%E5%BA%86%E6%98%A5%E8%95%BE%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/19697940'

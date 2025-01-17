@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-010
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-15.45766506753659, 28.100443681921305]
+  timeline: false
+  info:
+    - fullName: 拉斯帕尔马斯体育联盟
+      localName: Unión Deportiva Las Palmas
+      shortName: 拉斯帕尔马斯
+      founded: 1949
+      city: 拉斯帕尔马斯
+      ground: 大加那利体育场
+  websiteURL: 'https://www.udlaspalmas.es/'
+  twitterURL: 'http://www.twitter.com/UDLP_Oficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/UD_Las_Palmas'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-021
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.10374977740774323, 39.943836438490614]
+  timeline: false
+  info:
+    - fullName: 比利亚雷亚尔足球俱乐部
+      localName: Villarreal Club de Fútbol
+      shortName: 比利亚雷亚尔
+      founded: 1947
+      city: 比利亚雷亚尔
+      ground: 情歌球场
+  websiteURL: 'https://villarrealcf.es/'
+  twitterURL: 'https://x.com/VillarrealCF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Villarreal_CF'

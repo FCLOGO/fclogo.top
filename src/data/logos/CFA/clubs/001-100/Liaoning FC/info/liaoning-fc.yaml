@@ -1,0 +1,15 @@
+- data: sourceInfo
+  sourceID: cfa-club-039
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [123.413259, 41.790901]
+  info:
+    - fullName: Liaoning Football Club
+      shortName: Liaoning FC
+      localName: 辽宁足球俱乐部
+      city: Shenyang, China
+      founded: 1995
+      duration: 1995 - 2020
+      ground: Tiexi New District Sports Center
+  wikiURL: 'https://en.wikipedia.org/wiki/Liaoning_F.C.'

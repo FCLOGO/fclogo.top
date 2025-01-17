@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-009
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [126.49069395891843, 33.254300135779935]
+  timeline: false
+  info:
+    - fullName: 济州联足球俱乐部
+      shortName: 济州联
+      localName: 제주 유나이티드 FC
+      founded: 1982
+      city: 韩国，济州
+      ground: 济州世界杯体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://www.jeju-utd.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Jeju_United_FC'

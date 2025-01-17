@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-118
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [87.63, 43.73]
+  timeline: false
+  info:
+    - fullName: 新疆领梦者足球俱乐部
+      shortName: 新疆领梦者
+      localName: 新疆领梦者足球俱乐部
+      founded: 2018
+      city: 新疆，乌鲁木齐
+      ground:
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

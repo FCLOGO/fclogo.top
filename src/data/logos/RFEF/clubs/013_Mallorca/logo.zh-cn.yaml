@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250107-153100-fde0ae
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RCD Mallorca']
+  slug: /rfef/club/Real-Club-Deportivo-Mallorca-v1996-mono
+  pngPath: 'png/Real-Club-Deportivo-Mallorca-v1996-mono.png'
+  svgPath: 'svg/Real-Club-Deportivo-Mallorca-v1996-mono.svg'
+  sourceID: rfef-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250107-153157-bce8ce
+  version: 1996
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RCD Mallorca']
+  slug: /rfef/club/Real-Club-Deportivo-Mallorca-v1996
+  pngPath: 'png/Real-Club-Deportivo-Mallorca-v1996.png'
+  svgPath: 'svg/Real-Club-Deportivo-Mallorca-v1996.svg'
+  sourceID: rfef-club-013
+  style: color
+  reference: ''
+  ctrbID: ''

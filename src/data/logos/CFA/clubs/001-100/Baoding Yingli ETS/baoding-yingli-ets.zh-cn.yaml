@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-001
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['保定容大', '保定英利易通']
+  slug: /cfa/club/baoding-yingli-ets-v2017-mono
+  pngPath: 'png/baoding-yingli-ets-v2017-mono.png'
+  svgPath: 'svg/baoding-yingli-ets-v2017-mono.svg'
+  sourceID: cfa-club-067
+  style: mono
+
+- data: logo
+  logoID: 20211208-002
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['保定容大', '保定英利易通']
+  slug: /cfa/club/baoding-yingli-ets-v2017
+  pngPath: 'png/baoding-yingli-ets-v2017.png'
+  svgPath: 'svg/baoding-yingli-ets-v2017.svg'
+  sourceID: cfa-club-067
+  style: color

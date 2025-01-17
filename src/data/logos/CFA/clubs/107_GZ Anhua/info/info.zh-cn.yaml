@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-107
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [113.33, 23.13]
+  timeline: false
+  info:
+    - fullName: 广州安华足球俱乐部
+      shortName: 广州安华
+      localName: 广州安华足球俱乐部
+      founded:
+      city: 广东，广州
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/7943905153'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

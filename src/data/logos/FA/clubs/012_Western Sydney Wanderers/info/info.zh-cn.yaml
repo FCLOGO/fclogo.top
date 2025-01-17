@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-012
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [150.85664267050876, -33.773256455479576]
+  timeline: true
+  info:
+    - fullName: 西悉尼流浪者足球俱乐部
+      shortName: 西悉尼流浪者
+      localName: Western Sydney Wanderers Football Club
+      founded: 2012
+      city: 澳大利亚，西悉尼地区
+      ground: 联邦银行体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/wswanderersfc'
+  websiteURL: 'https://wswanderersfc.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Western_Sydney_Wanderers_FC'

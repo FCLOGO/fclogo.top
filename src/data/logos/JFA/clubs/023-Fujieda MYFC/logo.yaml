@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241012-212301-110951
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fujieda MYFC']
+  slug: /jfa/club/fujieda-myfc-v2009-mono
+  pngPath: 'png/fujieda-myfc-v2009-mono.png'
+  svgPath: 'svg/fujieda-myfc-v2009-mono.svg'
+  sourceID: jfa-club-023
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Fujieda-MYFC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241012-212455-6d4af9
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Fujieda MYFC']
+  slug: /jfa/club/fujieda-myfc-v2009
+  pngPath: 'png/fujieda-myfc-v2009.png'
+  svgPath: 'svg/fujieda-myfc-v2009.svg'
+  sourceID: jfa-club-023
+  style: color
+  reference: 'https://www.jleague.co/clubs/Fujieda-MYFC/'
+  ctrbID: ''

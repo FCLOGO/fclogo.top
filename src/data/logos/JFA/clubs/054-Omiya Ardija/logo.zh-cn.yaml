@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-165559-e0eb09
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大宫松鼠']
+  slug: /jfa/club/omiya-ardija-v2000-mono
+  pngPath: 'png/omiya-ardija-v2000-mono.png'
+  svgPath: 'svg/omiya-ardija-v2000-mono.svg'
+  sourceID: jfa-club-054
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Omiya-Ardija/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-165645-34736f
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大宫松鼠']
+  slug: /jfa/club/omiya-ardija-v2000
+  pngPath: 'png/omiya-ardija-v2000.png'
+  svgPath: 'svg/omiya-ardija-v2000.svg'
+  sourceID: jfa-club-054
+  style: color
+  reference: 'https://www.jleague.co/clubs/Omiya-Ardija/'
+  ctrbID: ''

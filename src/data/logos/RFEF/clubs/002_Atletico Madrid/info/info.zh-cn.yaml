@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: rfef-club-002
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.599473731801909, 40.435552656921736]
+  timeline: false
+  info:
+    - fullName: 马德里竞技俱乐部
+      localName: Club Atlético de Madrid
+      shortName: 马德里竞技
+      founded: 1903
+      city: 马德里
+      ground: 奇维塔斯大都会球场
+      league:
+  weiboURL: 'https://weibo.com/u/3992610596'
+  twitterURL: 'https://twitter.com/atletienglish'
+  websiteURL: 'https://en.atleticodemadrid.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid'

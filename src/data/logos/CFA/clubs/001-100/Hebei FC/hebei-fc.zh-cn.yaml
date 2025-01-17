@@ -1,0 +1,141 @@
+- data: logo
+  logoID: 20211017-001
+  version: 2016
+  isOutdated: true
+  verName: ['河北华夏幸福']
+  pngPath: 'png/hebeifc-v2016-mono.png'
+  svgPath: 'svg/hebeifc-v2016-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa/club/hebeifc-v2016-mono
+
+- data: logo
+  logoID: 20211017-002
+  version: 2016
+  isOutdated: true
+  verName: ['河北华夏幸福']
+  pngPath: 'png/hebeifc-v2016.png'
+  svgPath: 'svg/hebeifc-v2016.svg'
+  sourceID: cfa-club-017
+  style: color
+  slug: /cfa/club/hebeifc-v2016
+
+- data: logo
+  logoID: 20211018-005
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['河北 FC']
+  pngPath: 'png/hebeifc-v2021-mono.png'
+  svgPath: 'svg/hebeifc-v2021-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+  slug: /cfa/club/hebeifc-v2021-mono
+
+- data: logo
+  logoID: 20211018-006
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['河北 FC']
+  pngPath: 'png/hebeifc-v2021.png'
+  svgPath: 'svg/hebeifc-v2021.svg'
+  sourceID: cfa-club-017
+  style: color
+  slug: /cfa/club/hebeifc-v2021
+
+- data: logo
+  logoID: 20211213-150347
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北华夏幸福']
+  slug: /cfa/club/hebeifc-v2015-mono
+  pngPath: 'png/hebeifc-v2015-mono.png'
+  svgPath: 'svg/hebeifc-v2015-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+
+- data: logo
+  logoID: 20211213-150436
+  version: 2015
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北华夏幸福']
+  slug: /cfa/club/hebeifc-v2015
+  pngPath: 'png/hebeifc-v2015.png'
+  svgPath: 'svg/hebeifc-v2015.svg'
+  sourceID: cfa-club-017
+  style: color
+
+- data: logo
+  logoID: 20220615-230702
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北中基']
+  slug: /cfa/club/hebei-zhongji-v2010-mono
+  pngPath: 'png/hebei-zhongji-v2010-mono.png'
+  svgPath: 'svg/hebei-zhongji-v2010-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+
+- data: logo
+  logoID: 20220615-230800
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北中基']
+  slug: /cfa/club/hebei-zhongji-v2010
+  pngPath: 'png/hebei-zhongji-v2010.png'
+  svgPath: 'svg/hebei-zhongji-v2010.svg'
+  sourceID: cfa-club-017
+  style: color
+
+- data: logo
+  logoID: 20220615-230830
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北中基']
+  slug: /cfa/club/hebei-zhongji-v2011-mono
+  pngPath: 'png/hebei-zhongji-v2011-mono.png'
+  svgPath: 'svg/hebei-zhongji-v2011-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+
+- data: logo
+  logoID: 20220615-230910
+  version: 2011
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北中基']
+  slug: /cfa/club/hebei-zhongji-v2011
+  pngPath: 'png/hebei-zhongji-v2011.png'
+  svgPath: 'svg/hebei-zhongji-v2011.svg'
+  sourceID: cfa-club-017
+  style: color
+
+- data: logo
+  logoID: 20220615-230937
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北中基']
+  slug: /cfa/club/hebei-zhongji-v2013-mono
+  pngPath: 'png/hebei-zhongji-v2013-mono.png'
+  svgPath: 'svg/hebei-zhongji-v2013-mono.svg'
+  sourceID: cfa-club-017
+  style: mono
+
+- data: logo
+  logoID: 20220615-231000
+  version: 2013
+  isDoubtful: false
+  isOutdated: true
+  verName: ['河北中基']
+  slug: /cfa/club/hebei-zhongji-v2013
+  pngPath: 'png/hebei-zhongji-v2013.png'
+  svgPath: 'svg/hebei-zhongji-v2013.svg'
+  sourceID: cfa-club-017
+  style: color

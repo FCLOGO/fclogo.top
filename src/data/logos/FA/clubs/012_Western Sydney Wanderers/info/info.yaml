@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fa-club-012
+  status: active
+  type: club
+  nation: AUS
+  coordinates: [150.85664267050876, -33.773256455479576]
+  timeline: true
+  info:
+    - fullName: Western Sydney Wanderers Football Club
+      shortName: Western Sydney Wanderers
+      localName: Western Sydney Wanderers Football Club
+      founded: 2012
+      city: Western Sydney, Australia
+      ground: CommBank Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/wswanderersfc'
+  websiteURL: 'https://wswanderersfc.com.au/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Western_Sydney_Wanderers_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-006
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [2.155639, 41.364722]
+  timeline: false
+  info:
+    - fullName: Futbol Club Barcelona
+      localName: Futbol Club Barcelona
+      shortName: Barcelona
+      founded: 1899
+      city: Barcelona
+      ground: Estadi Olímpic Lluís Companys
+  websiteURL: 'https://www.fcbarcelona.com/'
+  twitterURL: 'https://twitter.com/FCBarcelona'
+  weiboURL: 'https://weibo.com/u/3296530723'
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Barcelona'

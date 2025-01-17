@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-054
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [108.887327, 34.196692]
+  info:
+    - fullName: Shaanxi Warriors Beyond Football Club
+      shortName: Shaanxi Warriors Beyond
+      localName: 陕西俑士超越足球俱乐部
+      founded: 2013
+      city: Xi'an, China
+      ground:
+      duration: 2013 - 2022
+  weiboURL: 'https://weibo.com/u/7574273749'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Shaanxi_Warriors_Beyond_F.C.'

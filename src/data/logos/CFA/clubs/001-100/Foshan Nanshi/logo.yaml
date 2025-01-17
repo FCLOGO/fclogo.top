@@ -1,0 +1,99 @@
+- data: logo
+  logoID: 20211117-001
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong RongYi']
+  slug: /cfa/club/dongguan-guanlian-v2016-mono
+  pngPath: 'png/dongguan-guanlian-v2016-mono.png'
+  svgPath: 'svg/dongguan-guanlian-v2016-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+
+- data: logo
+  logoID: 20211117-002
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong RongYi']
+  slug: /cfa/club/dongguan-guanlian-v2016
+  pngPath: 'png/dongguan-guanlian-v2016.png'
+  svgPath: 'svg/dongguan-guanlian-v2016.svg'
+  sourceID: cfa-club-056
+  style: color
+
+- data: logo
+  logoID: 20211117-003
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong LiangHeTang']
+  slug: /cfa/club/dongguan-guanlian-v2019-mono
+  pngPath: 'png/dongguan-guanlian-v2019-mono.png'
+  svgPath: 'svg/dongguan-guanlian-v2019-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+
+- data: logo
+  logoID: 20211117-004
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['GuangDong LiangHeTang']
+  slug: /cfa/club/dongguan-guanlian-v2019
+  pngPath: 'png/dongguan-guanlian-v2019.png'
+  svgPath: 'svg/dongguan-guanlian-v2019.svg'
+  sourceID: cfa-club-056
+  style: color
+
+- data: logo
+  logoID: 20211117-005
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['DongGuan GuanLian']
+  slug: /cfa/club/dongguan-guanlian-v2021-mono
+  pngPath: 'png/dongguan-guanlian-v2021-mono.png'
+  svgPath: 'svg/dongguan-guanlian-v2021-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+
+- data: logo
+  logoID: 20211117-006
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['DongGuan GuanLian']
+  slug: /cfa/club/dongguan-guanlian-v2021
+  pngPath: 'png/dongguan-guanlian-v2021.png'
+  svgPath: 'svg/dongguan-guanlian-v2021.svg'
+  sourceID: cfa-club-056
+  style: color
+
+- data: logo
+  logoID: 20240910-085854-4cc4a8
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Foshan Nanshi']
+  slug: /cfa/club/foshan-nanshi-v2024-mono
+  pngPath: 'png/foshan-nanshi-v2024-mono.png'
+  svgPath: 'svg/foshan-nanshi-v2024-mono.svg'
+  sourceID: cfa-club-056
+  style: mono
+  reference: 'https://weibo.com/7834538336/NCfUY1sm3'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240910-090019-27cd03
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Foshan Nanshi']
+  slug: /cfa/club/foshan-nanshi-v2024
+  pngPath: 'png/foshan-nanshi-v2024.png'
+  svgPath: 'svg/foshan-nanshi-v2024.svg'
+  sourceID: cfa-club-056
+  style: color
+  reference: 'https://weibo.com/7834538336/NCfUY1sm3'
+  ctrbID: ''

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-049
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [112.537781, 37.754899]
+  timeline: true
+  info:
+    - fullName: 山西龙晋足球俱乐部
+      shortName: 山西龙晋
+      localName: 山西龙晋足球俱乐部
+      founded: 2015
+      city: 太原，中国
+      ground: 山西省体育中心体育场
+      duration: 2015 - 2022
+  weiboURL: 'https://weibo.com/u/7514226543'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/山西龙晋足球俱乐部'

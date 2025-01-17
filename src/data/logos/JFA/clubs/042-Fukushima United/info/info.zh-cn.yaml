@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-042
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [140.4495839571895, 37.84295429434745]
+  timeline: false
+  info:
+    - fullName: 福岛联足球俱乐部
+      shortName: 福岛联
+      localName: 福島ユナイテッドFC
+      founded: 1977
+      city: Fukushima, Japan
+      ground: Toho Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/fufc_staff/'
+  websiteURL: 'http://fufc.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Fukushima_United_FC'

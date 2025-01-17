@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-016
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [141.2707215891008, 43.08928998490028]
+  timeline: false
+  info:
+    - fullName: 北海道札幌冈萨多足球俱乐部
+      shortName: 北海道札幌冈萨多
+      localName: 北海道コンサドーレ札幌
+      founded: 1935
+      city: 日本，札幌
+      ground: 札幌巨蛋
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/consaofficial/'
+  websiteURL: 'https://www.consadole-sapporo.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/北海道札幌岡薩多'

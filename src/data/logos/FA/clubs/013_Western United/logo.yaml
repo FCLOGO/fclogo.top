@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20240929-204346-0ec968
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Western United']
+  slug: /fa/club/western-united-v2019-mono
+  pngPath: 'png/western-united-v2019-mono.png'
+  svgPath: 'svg/western-united-v2019-mono.svg'
+  sourceID: fa-club-013
+  style: mono
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240929-204439-d1b3f3
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Western United']
+  slug: /fa/club/western-united-v2019
+  pngPath: 'png/western-united-v2019.png'
+  svgPath: 'svg/western-united-v2019.svg'
+  sourceID: fa-club-013
+  style: color
+  reference: 'https://aleagues.com.au/a-league-clubs/'
+  ctrbID: ''

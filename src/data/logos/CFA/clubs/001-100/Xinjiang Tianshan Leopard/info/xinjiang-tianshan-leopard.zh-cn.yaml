@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-035
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [87.560084, 43.880814]
+  timeline: true
+  info:
+    - fullName: 新疆天山雪豹足球俱乐部
+      shortName: 新疆天山雪豹
+      localName: 新疆天山雪豹足球俱乐部
+      city: 乌鲁木齐，中国
+      founded: 2011
+      duration: 2011 - 2023
+  weiboURL: 'https://weibo.com/u/3501306747'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/新疆天山雪豹足球俱乐部'

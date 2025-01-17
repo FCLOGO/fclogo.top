@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-057
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.246123, 31.545248]
+  info:
+    - fullName: 无锡吴钩足球俱乐部
+      shortName: 无锡吴钩
+      localName: 无锡吴钩足球俱乐部
+      founded: 2019
+      city: 无锡，中国
+      ground: 无锡市体育中心体育场
+      league: 中甲联赛
+  weiboURL: 'https://weibo.com/u/7009630709'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/无锡吴钩足球俱乐部/56013776'

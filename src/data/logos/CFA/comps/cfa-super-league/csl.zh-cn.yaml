@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211007-004
+  logoID: 20211007-004
   version: 2004
   verName: ['中超']
   pngPath: 'png/cfa-super-league-v2004.png'
@@ -9,7 +9,7 @@
   slug: /cfa/comp/cfa-super-league-v2004
 
 - data: logo
-  uniqueID: 20211007-005
+  logoID: 20211007-005
   version: 2004
   verName: ['中超']
   pngPath: 'png/cfa-super-league-v2004-full.png'

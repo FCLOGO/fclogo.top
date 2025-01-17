@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-051
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [138.2765727805471, 36.72074689753521]
+  timeline: false
+  info:
+    - fullName: AC长野拍档足球俱乐部
+      shortName: AC长野拍档
+      localName: AC長野パルセイロ
+      founded: 1992
+      city: 日本，长野
+      ground: 南长野运动公园総合球技场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/NAGANO_PARCEIRO/'
+  websiteURL: 'https://parceiro.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/AC_Nagano_Parceiro'

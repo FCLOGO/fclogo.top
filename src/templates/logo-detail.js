@@ -1,210 +1,267 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { graphql } from 'gatsby'
-import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import { LocalizedLink } from 'gatsby-plugin-usei18n'
-import { useIntl } from 'react-intl'
+import { StaticImage, GatsbyImage, getImage } from 'gatsby-plugin-image'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
+import AdSense from 'react-adsense'
 
-// import Layout from '../components/layout'
 import ConditionalLayout from '../components/conditional-layout'
-import ModalLink from '../components/modal-link'
+import ModalLink from '../helpers/modal-link'
 import Seo from '../components/seo'
-// import Search from '../components/single-search'
-import DetailSidebar from '../components/detail-sidebar'
+import Sidebar from '../components/detail-sidebar'
+import LogoTimeline from '../components/logo-timeline'
 
-import {
-  mainContent,
-  contentInner,
-  detailWrapper,
-  logoHolder,
-  holderInner,
-  imageHolder,
-  logoImage,
-  logoStyles,
-  styleList,
-  styleItem,
-  current,
-  styleImage,
-  styleLink,
-  detailNav,
-  linkWrapper,
-  previousLink,
-  nextLink,
-  arrowIcon,
-  notransWrapper,
-  notransText
-} from './logo-detail.module.styl'
-
-import HistoryTimline from '../components/history-timeline'
 import ArrowIcon from '../../static/assets/icons/arrowForward.inline.svg'
+import InfoIcon from '../../static/assets/icons/info.inline.svg'
+import CloseIcon from '../../static/assets/icons/close.inline.svg'
+import DoneIcon from '../../static/assets/icons/checkmark.inline.svg'
 
-const LogoDeatil = ({ data, pageContext }) => {
-  const intl = useIntl()
+// Google Adsense
+const DetailAdsense = () => {
+  return (
+    <AdSense.Google
+      style={{ display: 'block' }}
+      format="autorelaxed"
+      responsive="true"
+      client="ca-pub-9573165480183467"
+      slot="7735919201"
+    />
+  )
+}
+
+const LogoDetail = ({ data, pageContext }) => {
+  const { t } = useTranslation()
+  const [showAd, setShowAd] = useState(false) // 控制广告显示
+  const handleShowAd = () => {
+    setShowAd(true)
+  }
+  const handleCloseAd = () => {
+    setShowAd(false) // 关闭广告
+  }
   const { next, previous } = pageContext
   return (
     <ConditionalLayout pageContext={pageContext}>
-      {/* <Search locale={pageContext.locale} /> */}
-      {data.logo ? (
-        <>
-          <Seo
-            title={`${data.logo.detailInfo[0].info[0].fullName}${intl.formatMessage({
-              id: 'detail.titleVector'
-            })}`}
-          />
-          <div className={mainContent}>
-            <div className={contentInner}>
-              <section className={detailWrapper}>
-                <section className={logoHolder}>
-                  <div className={holderInner}>
-                    <div className={imageHolder}>
-                      <GatsbyImage
-                        image={getImage(data.logo.pngPath)}
-                        alt={data.logo.detailInfo[0].info[0].fullName}
-                        className={logoImage}
+      {/* <div className="fixed top-header w-full bg-gray px-xl py-lg text-center border-b border-gray-1 z-30">
+        <Search locale={pageContext.language} />
+      </div> */}
+      <div className="w-full m-[0_auto] flex-grow main-content block">
+        {data.logo ? (
+          <div className="content-inner flex flex-col items-start">
+            <div className="w-full flex-grow flex flex-row flex-nowrap tablet:flex-wrap detail-wrapper overflow-hidden">
+              <section
+                className={`w-full pt-[152px] flex-grow flex flex-col overflow-hidden relative ${data.logo.isBgDark ? 'bg-dark-gray' : 'bg-gray'}`}
+              >
+                {data.logo.reference && (
+                  <div className="logo-reference absolute left-xl top-[180px] group flex flex-row items-center p-sm bg-white rounded-md shadow max-w-[400px]">
+                    <InfoIcon className="w-xl h-xl flex-shrink-0 cursor-pointer" />
+                    <span className="text-xs whitespace-nowrap overflow-hidden text-ellipsis ml-sm hidden group-hover:inline-block">
+                      {t('detail.reference')}
+                      <a
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href={data.logo.reference}
+                        className="text-link"
+                      >
+                        {data.logo.reference}
+                      </a>
+                    </span>
+                  </div>
+                )}
+                <div className="w-full flex-grow flex items-center justify-center">
+                  <GatsbyImage
+                    image={getImage(data.logo.pngPath)}
+                    alt={data.logo.detailInfo[0].info[0].fullName}
+                  />
+                </div>
+                {data.logo.otherStyle.length > 0 ? (
+                  <div className="w-full h-[80px] my-3xl">
+                    <ul className="flex flex-row items-start justify-center">
+                      <li
+                        className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 cursor-pointer border-b-4 border-b-green  ${data.logo.isBgDark ? 'bg-dark-gray' : 'bg-gray'}`}
+                      >
+                        <GatsbyImage
+                          image={getImage(data.logo.pngPath)}
+                          alt={data.logo.detailInfo[0].info[0].fullName}
+                          className="h-[48px_!important] w-[48px_!important] m-lg"
+                        />
+                      </li>
+                      {data.logo.otherStyle.map(item => (
+                        <li
+                          key={item.id}
+                          className={`w-[80px] h-[80px] mr-md rounded border border-gray-2 last:mr-zero  ${item.isBgDark ? 'bg-dark-gray' : 'bg-gray'} hover:border-b-4 hover:border-b-green`}
+                        >
+                          <ModalLink
+                            to={item.slug}
+                            className="w-full h-full inline-block"
+                            state={{
+                              modal: true,
+                              noScroll: true
+                            }}
+                          >
+                            <GatsbyImage
+                              image={getImage(item.pngPath)}
+                              alt={item.detailInfo[0].info[0].fullName}
+                              className="h-[48px_!important] w-[48px_!important] m-lg"
+                            />
+                          </ModalLink>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {showAd && (
+                  <div className="ad-overlay text-white absolute top-zero bottom-zero right-zero left-zero bg-dark-gray bg-opacity-75 w-full h-full p-xl pt-[170px] flex flex-col justify-between">
+                    <div className="flex flex-row-reverse">
+                      <CloseIcon
+                        className="w-3xl h-3xl flex-shrink-0 cursor-pointer"
+                        onClick={handleCloseAd}
                       />
                     </div>
-                    {data.logo.styleMode.length > 0 ? (
-                      <div className={logoStyles}>
-                        <ul className={styleList}>
-                          <li className={`${styleItem} ${current}`}>
-                            <GatsbyImage
-                              image={getImage(data.logo.pngPath)}
-                              alt={data.logo.detailInfo[0].info[0].fullName}
-                              className={styleImage}
-                            />
-                          </li>
-                          {data.logo.styleMode.map(item => (
-                            <li key={item.id} className={styleItem}>
-                              <ModalLink
-                                className={styleLink}
-                                to={item.slug}
-                                state={{
-                                  modal: true,
-                                  noScroll: true
-                                }}
-                              >
-                                <GatsbyImage
-                                  image={getImage(item.pngPath)}
-                                  alt={item.detailInfo[0].info[0].fullName}
-                                  className={styleImage}
-                                />
-                              </ModalLink>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    ) : (
-                      ''
-                    )}
+                    <div className="flex-grow flex flex-col justify-center items-center">
+                      <DoneIcon className="text-light-green w-[120px] h-[120px] mb-md" />
+                      <span className="uppercase font-medium">{t('downloadtips')}</span>
+                    </div>
+                    <div className="flex-grow text-center">
+                      <DetailAdsense />
+                    </div>
                   </div>
-                </section>
-                <DetailSidebar
-                  version={data.logo.version}
-                  isOutdated={data.logo.isOutdated}
-                  isDoubtful={data.logo.isDoubtful}
-                  slug={data.logo.slug}
-                  status={data.logo.detailInfo[0].status}
-                  fullName={data.logo.detailInfo[0].info[0].fullName}
-                  pngURL={data.logo.pngPath.publicURL}
-                  svgURL={data.logo.svgPath.publicURL}
-                  type={data.logo.detailInfo[0].type}
-                  tableInfo={data.logo.detailInfo[0].info[0]}
-                  websiteURL={data.logo.detailInfo[0].websiteURL}
-                  weiboURL={data.logo.detailInfo[0].weiboURL}
-                  twitterURL={data.logo.detailInfo[0].twitterURL}
-                  wikiURL={data.logo.detailInfo[0].wikiURL}
-                  verName={data.logo.verName}
-                />
+                )}
               </section>
-              {data.logo.logoHistory.length > 1 ? (
-                <HistoryTimline logos={data.logo.logoHistory} />
-              ) : (
-                ''
-              )}
-              <section className={detailNav}>
-                <div className={linkWrapper}>
-                  {previous ? (
-                    <ModalLink
-                      className={previousLink}
-                      to={previous.slug}
-                      state={{
-                        modal: true,
-                        noScroll: true
-                      }}
-                    >
-                      <ArrowIcon className={arrowIcon} />
-                    </ModalLink>
-                  ) : (
-                    ''
-                  )}
-                </div>
-                <div className={linkWrapper}>
-                  {next ? (
-                    <ModalLink
-                      className={nextLink}
-                      to={next.slug}
-                      state={{
-                        modal: true,
-                        noScroll: true
-                      }}
-                    >
-                      <ArrowIcon className={arrowIcon} />
-                    </ModalLink>
-                  ) : (
-                    ''
-                  )}
-                </div>
-              </section>
+              <Sidebar
+                version={data.logo.version}
+                isOutdated={data.logo.isOutdated}
+                isDoubtful={data.logo.isDoubtful}
+                fullName={data.logo.detailInfo[0].info[0].fullName}
+                slug={data.logo.slug}
+                logoID={data.logo.logoID}
+                sourceID={data.logo.sourceID}
+                status={data.logo.detailInfo[0].status}
+                pngURL={data.logo.pngPath.publicURL}
+                svgURL={data.logo.svgPath.publicURL}
+                type={data.logo.detailInfo[0].type}
+                tableInfo={data.logo.detailInfo[0].info[0]}
+                websiteURL={data.logo.detailInfo[0].websiteURL}
+                weiboURL={data.logo.detailInfo[0].weiboURL}
+                twitterURL={data.logo.detailInfo[0].twitterURL}
+                wikiURL={data.logo.detailInfo[0].wikiURL}
+                verName={data.logo.verName}
+                ctrbInfo={data.logo.contributorInfo[0]}
+                detailInfo={data.logo.detailInfo[0]}
+                onDownload={handleShowAd}
+              />
             </div>
+            {data.logo.logoTimeline.length > 1 ? (
+              <LogoTimeline logos={data.logo.logoTimeline} />
+            ) : (
+              ''
+            )}
+            <nav className="w-full flex flex-row items-center justify-between px-xl py-3xl detail-nav">
+              <div className="w-[50px] h-[50px] rounded">
+                {previous ? (
+                  <ModalLink
+                    to={previous.slug}
+                    state={{
+                      modal: true,
+                      noScroll: true
+                    }}
+                    className="nav-link w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
+                  >
+                    <ArrowIcon className="w-xl h-xl stroke-dark-gray rotate-180" />
+                  </ModalLink>
+                ) : (
+                  ''
+                )}
+              </div>
+              <div className="w-[50px] h-[50px] rounded">
+                {next ? (
+                  <ModalLink
+                    to={next.slug}
+                    state={{
+                      modal: true,
+                      noScroll: true
+                    }}
+                    className="nav-link  w-[50px] h-[50px] inline-flex items-center justify-center hover:bg-green hover:bg-opacity-20 rounded"
+                  >
+                    <ArrowIcon className="w-xl h-xl stroke-dark-gray" />
+                  </ModalLink>
+                ) : (
+                  ''
+                )}
+              </div>
+            </nav>
           </div>
-        </>
-      ) : (
-        <>
-          <Seo title={intl.formatMessage({ id: 'detail.notransTitle' })} />
-          <div className={mainContent}>
-            <section className={notransWrapper}>
-              <p className={notransText}>{intl.formatMessage({ id: 'detail.notrans' })}</p>
-            </section>
-          </div>
-        </>
-      )}
+        ) : (
+          <section className="w-full p-xl text-center pt-[160px] mt-[100px]">
+            <p className="font-semibold text-light-gray">{t('detail.notrans')}</p>
+          </section>
+        )}
+      </div>
     </ConditionalLayout>
   )
 }
 
-export default LogoDeatil
+export default LogoDetail
+
+export const Head = ({ data, pageContext }) => {
+  const locales = data.locales.edges[0].node.data
+  const { i18n, language } = pageContext
+  let obj = undefined
+  if (locales) {
+    obj = JSON.parse(locales)
+  }
+  return (
+    <>
+      {data.logo ? (
+        <Seo
+          title={`${data.logo.detailInfo[0].info[0].fullName}${obj?.detailTitleVector}`}
+          path={i18n.path}
+          description={`${obj?.headDownload}${data.logo.detailInfo[0].info[0].fullName}${obj?.detailTitleVector}${obj?.detailDescription}`}
+          image={`${data.logo.pngPath.publicURL}`}
+          type="article"
+          locale={language}
+          languages={i18n.languages}
+          originalPath={i18n.originalPath}
+        />
+      ) : (
+        <Seo title={obj?.detailNotransTitle} description={obj?.indexDescription} />
+      )}
+    </>
+  )
+}
 
 export const query = graphql`
-  query ($locale: String!, $slug: String!) {
-    logo(fields: { locale: { eq: $locale } }, slug: { eq: $slug }) {
+  query ($language: String!, $slug: String!) {
+    locales: allLocale(filter: { language: { eq: $language } }) {
+      edges {
+        node {
+          ns
+          data
+          language
+        }
+      }
+    }
+    logo(fields: { locale: { eq: $language } }, slug: { eq: $slug }) {
       id
+      logoID
+      sourceID
       slug
       version
+      verName
       isDoubtful
       isOutdated
-      verName
       pngPath {
         publicURL
         childImageSharp {
-          gatsbyImageData(placeholder: BLURRED, width: 300, layout: FIXED, formats: WEBP)
+          gatsbyImageData(placeholder: BLURRED, width: 400, layout: FIXED, formats: WEBP)
         }
       }
       svgPath {
         publicURL
       }
-      styleMode {
-        id
-        slug
-        pngPath {
-          childImageSharp {
-            gatsbyImageData(placeholder: BLURRED, width: 50, layout: FIXED, formats: WEBP)
-          }
-        }
-        detailInfo {
-          info {
-            fullName
-          }
-        }
-      }
+      isBgDark
+      reference
+      ctrbID
       detailInfo {
         type
         status
@@ -228,22 +285,51 @@ export const query = graphql`
           relegation
           code
           membership
+          hostCountry
+          dates
         }
         websiteURL
         weiboURL
         twitterURL
         wikiURL
+        nation
+        nationalInfo {
+          flag2 {
+            childImageSharp {
+              gatsbyImageData(width: 28, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+            }
+          }
+        }
       }
-      logoHistory {
+      otherStyle {
         id
+        slug
+        isBgDark
+        detailInfo {
+          info {
+            fullName
+          }
+        }
+        pngPath {
+          childImageSharp {
+            gatsbyImageData(placeholder: BLURRED, width: 50, layout: FIXED, formats: WEBP)
+          }
+        }
+      }
+      logoTimeline {
+        id
+        slug
         version
         isDoubtful
-        slug
         pngPath {
           childImageSharp {
             gatsbyImageData(placeholder: BLURRED, width: 100, layout: FIXED, formats: WEBP)
           }
         }
+      }
+      contributorInfo {
+        name
+        link
       }
     }
   }

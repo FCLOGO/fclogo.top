@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-225658-581198
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山形山神']
+  slug: /jfa/club/montedio-yamagata-v2022-mono
+  pngPath: 'png/montedio-yamagata-v2022-mono.png'
+  svgPath: 'svg/montedio-yamagata-v2022-mono.svg'
+  sourceID: jfa-club-038
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Montedio-Yamagata/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-225739-77703e
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['山形山神']
+  slug: /jfa/club/montedio-yamagata-v2022
+  pngPath: 'png/montedio-yamagata-v2022.png'
+  svgPath: 'svg/montedio-yamagata-v2022.svg'
+  sourceID: jfa-club-038
+  style: color
+  reference: 'https://www.jleague.co/clubs/Montedio-Yamagata/'
+  ctrbID: ''

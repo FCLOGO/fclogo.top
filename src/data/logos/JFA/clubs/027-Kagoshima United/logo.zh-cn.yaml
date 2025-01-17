@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-192904-64f995
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['鹿儿岛联']
+  slug: /jfa/club/kagoshima-united-v2014-mono
+  pngPath: 'png/kagoshima-united-v2014-mono.png'
+  svgPath: 'svg/kagoshima-united-v2014-mono.svg'
+  sourceID: jfa-club-027
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Kagoshima-United-FC/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-192948-c75d4d
+  version: 2014
+  isDoubtful: false
+  isOutdated: false
+  verName: ['鹿儿岛联']
+  slug: /jfa/club/kagoshima-united-v2014
+  pngPath: 'png/kagoshima-united-v2014.png'
+  svgPath: 'svg/kagoshima-united-v2014.svg'
+  sourceID: jfa-club-027
+  style: color
+  reference: 'https://www.jleague.co/clubs/Kagoshima-United-FC/'
+  ctrbID: ''

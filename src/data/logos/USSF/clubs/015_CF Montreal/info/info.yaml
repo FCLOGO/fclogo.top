@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-015
+  status: active
+  type: club
+  nation: CAN
+  coordinates: [-73.5533176019067, 45.56241894069002]
+  timeline: false
+  info:
+    - fullName: Club de Foot Montréal
+      shortName: CF Montreal
+      localName: Club de Foot Montréal
+      founded: 1993
+      city: Montreal, Quebec
+      ground: Saputo Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/cfmontreal'
+  websiteURL: 'https://www.cfmontreal.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/CF_Montr%C3%A9al'

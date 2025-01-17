@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-012
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-118.25958598350915, 34.0490162705994]
+  timeline: true
+  info:
+    - fullName: Los Angeles Football Club
+      shortName: Los Angeles FC
+      localName: Los Angeles Football Club
+      founded: 2014
+      city: Los Angeles, California
+      ground: BMO Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/LAFC'
+  websiteURL: 'https://www.lafc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Los_Angeles_FC'

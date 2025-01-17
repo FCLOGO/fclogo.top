@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-018
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-73.97590867621325, 40.749323917690916]
+  timeline: true
+  info:
+    - fullName: 纽约城足球俱乐部
+      shortName: 纽约城 FC
+      localName: New York City Football Club
+      founded: 2013
+      city: 纽约市, 纽约州
+      ground: 洋基体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/newyorkcityfc'
+  websiteURL: 'https://www.newyorkcityfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/New_York_City_FC'

@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-044
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [141.43513586244964, 40.40747557797835]
+  timeline: true
+  info:
+    - fullName: Vanraure Hachinohe Football Club
+      shortName: Vanraure Hachinohe
+      localName: ヴァンラーレ八戸
+      founded: 2006
+      city: Hachinohe, Japan
+      ground: Prifoods Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/vanraure/'
+  websiteURL: 'http://www.vanraure.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vanraure_Hachinohe'

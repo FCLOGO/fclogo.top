@@ -1,0 +1,48 @@
+- data: logoPack
+  packID: 20240926-110809-f3f5d3
+  name: Japan J1 League
+  season: '2024'
+  packSource: jfa-comp-001
+  logoVersion: 2019
+  slug: /pack/2024-meiji-yasuda-j1-league
+  items:
+    - id: jfa-club-001
+      version: 2005
+    - id: jfa-club-002
+      version: 1999
+    - id: jfa-club-003
+      version: 2005
+    - id: jfa-club-004
+      version: 2011
+    - id: jfa-club-005
+      version: 2024
+    - id: jfa-club-006
+      version: 2005
+    - id: jfa-club-007
+      version: 2022
+    - id: jfa-club-008
+      version: 1996
+    - id: jfa-club-009
+      version: 2015
+    - id: jfa-club-010
+      version: 1992
+    - id: jfa-club-011
+      version: 0000
+    - id: jfa-club-012
+      version: 2020
+    - id: jfa-club-013
+      version: 2024
+    - id: jfa-club-014
+      version: 1997
+    - id: jfa-club-015
+      version: 2008
+    - id: jfa-club-016
+      version: 2016
+    - id: jfa-club-017
+      version: 0000
+    - id: jfa-club-018
+      version: 2007
+    - id: jfa-club-019
+      version: 2015
+    - id: jfa-club-020
+      version: 2000

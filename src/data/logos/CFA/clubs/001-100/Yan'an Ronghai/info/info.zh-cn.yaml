@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-100
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [108.98284, 34.215778]
+  timeline: true
+  info:
+    - fullName: 延安荣海足球俱乐部
+      shortName: 延安荣海
+      localName: 延安荣海足球俱乐部
+      founded: 2021
+      city: 中国，延安
+      ground: 延安全民健身运动中心体育场
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7828206272'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

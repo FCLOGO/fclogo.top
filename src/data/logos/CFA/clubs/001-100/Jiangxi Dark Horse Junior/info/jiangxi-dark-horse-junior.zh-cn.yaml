@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-066
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [115.031633, 24.790541]
+  timeline: true
+  info:
+    - fullName: 江西黑马青年足球俱乐部
+      shortName: 江西黑马青年
+      localName: 江西黑马青年足球俱乐部
+      founded: 2018
+      city: 宜春，中国
+      ground:
+      league: 中乙联赛
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/宜春威虎足球俱乐部'

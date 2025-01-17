@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: afa-club-002
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.44940886033882, -34.545314907307315]
+  timeline: false
+  info:
+    - fullName: 河床竞技俱乐部
+      localName: Club Atlético River Plate
+      shortName: 河床
+      founded: 1901
+      city: 布宜诺斯艾利斯
+      ground: 纪念碑球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/@RiverPlate'
+  websiteURL: 'https://www.cariverplate.com.ar/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate'

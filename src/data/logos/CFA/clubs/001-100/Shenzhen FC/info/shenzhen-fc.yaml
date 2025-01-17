@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-005
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [114.072349, 22.654589]
+  timeline: true
+  info:
+    - fullName: Shenzhen Football Club
+      shortName: Shenzhen FC
+      localName: 深圳市足球俱乐部
+      city: Shenzhen, China
+      founded: 1994
+      duration: 1994 - 2024
+  weiboURL: 'https://weibo.com/u/1913624334'
+  twitterURL: 'https://twitter.com/ShenzhenFC_'
+  websiteURL: 'http://shenzhenfc.com.cn/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Shenzhen_F.C.'

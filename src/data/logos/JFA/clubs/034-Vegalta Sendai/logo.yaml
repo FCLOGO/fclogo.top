@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241013-221950-73aef5
+  version: 0000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Vegalta Sendai']
+  slug: /jfa/club/vegalta-sendai-v0000-mono
+  pngPath: 'png/vegalta-sendai-v0000-mono.png'
+  svgPath: 'svg/vegalta-sendai-v0000-mono.svg'
+  sourceID: jfa-club-034
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Vegalta-Sendai/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241013-222033-d8635b
+  version: 0000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Vegalta Sendai']
+  slug: /jfa/club/vegalta-sendai-v0000
+  pngPath: 'png/vegalta-sendai-v0000.png'
+  svgPath: 'svg/vegalta-sendai-v0000.svg'
+  sourceID: jfa-club-034
+  style: color
+  reference: 'https://www.jleague.co/clubs/Vegalta-Sendai/'
+  ctrbID: ''

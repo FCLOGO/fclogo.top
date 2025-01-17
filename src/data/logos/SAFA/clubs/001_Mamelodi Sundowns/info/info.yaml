@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: safa-club-001
+  status: active
+  type: club
+  nation: ZAF
+  coordinates: [28.17805989995514, -26.058993013685793]
+  timeline: false
+  info:
+    - fullName: Mamelodi Sundowns Football Club
+      shortName: Mamelodi Sundowns
+      localName: Mamelodi Sundowns Football Club
+      founded: 1970
+      city: Mamelodi, Pretoria
+      ground: Loftus Versfeld Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Masandawana'
+  websiteURL: 'https://sundownsfc.co.za/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Mamelodi_Sundowns_F.C.'

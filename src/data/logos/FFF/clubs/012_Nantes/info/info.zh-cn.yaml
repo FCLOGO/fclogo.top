@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-012
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-1.541898156861338, 47.260914857397864]
+  timeline: false
+  info:
+    - fullName: 南特足球俱乐部
+      localName: Football Club de Nantes
+      shortName: FC 南特
+      founded: 1943
+      city: 南特
+      ground: 博茹瓦尔球场
+  websiteURL: 'https://www.fcnantes.com/'
+  twitterURL: 'https://twitter.com/FCNantes'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Nantes'

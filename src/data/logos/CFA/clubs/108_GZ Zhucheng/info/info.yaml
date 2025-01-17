@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-108
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [106.61, 26.62]
+  timeline: true
+  info:
+    - fullName: Guizhou Zhucheng Athletic Football Club
+      shortName: GZ Zhucheng Athletic
+      localName: 贵州筑城竞技足球俱乐部
+      founded:
+      city: Guiyang, Guizhou
+      ground:
+      league:
+  weiboURL: 'https://weibo.com/u/7853745715'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-027
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [13.239498368893296, 52.51465579398873]
+  timeline: false
+  info:
+    - fullName: 柏林赫塔体育俱乐部
+      localName: Hertha BSC GmbH & Co. KGaA
+      shortName: 柏林赫塔
+      founded: 1892
+      city: 柏林
+      ground: 柏林奥林匹克体育场
+  websiteURL: 'https://www.herthabsc.com/'
+  twitterURL: 'https://x.com/HerthaBSC_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hertha_BSC'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241207-214146-2817a6
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RSL']
+  slug: /ussf/club/Real-Salt-Lake-v2004-mono
+  pngPath: 'png/Real-Salt-Lake-v2004-mono.png'
+  svgPath: 'svg/Real-Salt-Lake-v2004-mono.svg'
+  sourceID: ussf-club-023
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241207-214231-10e1bc
+  version: 2004
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RSL']
+  slug: /ussf/club/Real-Salt-Lake-v2004
+  pngPath: 'png/Real-Salt-Lake-v2004.png'
+  svgPath: 'svg/Real-Salt-Lake-v2004.svg'
+  sourceID: ussf-club-023
+  style: color
+  reference: ''
+  ctrbID: ''

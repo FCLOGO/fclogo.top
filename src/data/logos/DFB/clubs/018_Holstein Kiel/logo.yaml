@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241220-162456-a319c3
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Holstein Kiel']
+  slug: /dfb/club/Holstein-Kiel-v0000-mono
+  pngPath: 'png/Holstein-Kiel-v0000-mono.png'
+  svgPath: 'svg/Holstein-Kiel-v0000-mono.svg'
+  sourceID: dfb-club-018
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241220-162616-87cad9
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Holstein Kiel']
+  slug: /dfb/club/Holstein-Kiel-v0000
+  pngPath: 'png/Holstein-Kiel-v0000.png'
+  svgPath: 'svg/Holstein-Kiel-v0000.svg'
+  sourceID: dfb-club-018
+  style: color
+  reference: 'https://www.bundesliga.com/en/bundesliga/clubs/holstein-kiel'
+  ctrbID: ''

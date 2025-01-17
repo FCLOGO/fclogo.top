@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-009
+  status: active
+  type: club
+  nation: USA
+  coordinates: [-77.01225528312224, 38.86845481223898]
+  timeline: false
+  info:
+    - fullName: D.C. United
+      shortName: D.C. United
+      localName: D.C. United
+      founded: 1994
+      city: Washington, D.C.
+      ground: Audi Field
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/dcunited'
+  websiteURL: 'https://www.dcunited.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/D.C._United'

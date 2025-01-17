@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20241231-165830-bf6f89
+  version: 1995
+  isDoubtful: true
+  isOutdated: true
+  verName: ['Athletic Bilbao']
+  slug: /rfef/club/Athletic-Club-Bilbao-v1995
+  pngPath: 'png/Athletic-Club-Bilbao-v1995.png'
+  svgPath: 'svg/Athletic-Club-Bilbao-v1995.svg'
+  sourceID: rfef-club-004
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20241231-170001-eb203a
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Athletic Bilbao']
+  slug: /rfef/club/Athletic-Club-Bilbao-v2008
+  pngPath: 'png/Athletic-Club-Bilbao-v2008.png'
+  svgPath: 'svg/Athletic-Club-Bilbao-v2008.svg'
+  sourceID: rfef-club-004
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20241231-170045-faf316
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Athletic Bilbao']
+  slug: /rfef/club/Athletic-Club-Bilbao-v2008-mono
+  pngPath: 'png/Athletic-Club-Bilbao-v2008-mono.png'
+  svgPath: 'svg/Athletic-Club-Bilbao-v2008-mono.svg'
+  sourceID: rfef-club-004
+  style: mono
+  reference: 'https://www.athletic-club.eus/en/'
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20241231-170151-598b9d
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Athletic Bilbao']
+  slug: /rfef/club/Athletic-Club-Bilbao-v2008-digital
+  pngPath: 'png/Athletic-Club-Bilbao-v2008-digital.png'
+  svgPath: 'svg/Athletic-Club-Bilbao-v2008-digital.svg'
+  sourceID: rfef-club-004
+  style: digi
+  reference: 'https://www.athletic-club.eus/en/'
+  ctrbID: 'ctrb-ryan'

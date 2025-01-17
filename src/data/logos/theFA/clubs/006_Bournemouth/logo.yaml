@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241218-090138-08e117
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AFC Bournemouth']
+  slug: /thefa/club/AFC-Bournemouth-v2013-mono
+  pngPath: 'png/AFC-Bournemouth-v2013-mono.png'
+  svgPath: 'svg/AFC-Bournemouth-v2013-mono.svg'
+  sourceID: thefa-club-006
+  style: mono
+  reference: 'https://www.afcb.co.uk/news/2019/June/19/afc-bournemouth-to-host-corporate-golf-day'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241218-090251-ae63d6
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AFC Bournemouth']
+  slug: /thefa/club/AFC-Bournemouth-v2013
+  pngPath: 'png/AFC-Bournemouth-v2013.png'
+  svgPath: 'svg/AFC-Bournemouth-v2013.svg'
+  sourceID: thefa-club-006
+  style: color
+  reference: 'https://s3.eu-west-1.amazonaws.com/gc-media-assets-v2.gc.afcbournemouthservices.co.uk/92b22cd0-42bc-11ef-bed5-7d64d9c58973.pdf'
+  ctrbID: ''

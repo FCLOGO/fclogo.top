@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-020
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.672331863351769, 49.857684744512284]
+  timeline: false
+  info:
+    - fullName: 达姆施塔特1898体育俱乐部
+      localName: Sportverein Darmstadt 1898 e.V.
+      shortName: 达姆施塔特
+      founded: 1898
+      city: 达姆施塔特
+      ground: 博伦法尔门畔默克体育场
+  websiteURL: 'https://www.sv98.de/'
+  twitterURL: 'https://x.com/sv98'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SV_Darmstadt_98'

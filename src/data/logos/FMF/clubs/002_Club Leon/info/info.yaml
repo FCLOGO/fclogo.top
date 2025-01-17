@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fmf-club-002
+  status: active
+  type: club
+  nation: MEX
+  coordinates: [-101.65773508904643, 21.11557540592387]
+  timeline: false
+  info:
+    - fullName: Club León
+      shortName: León
+      localName: Club León
+      founded: 1944
+      city: León, Guanajuato
+      ground: Estadio León
+      league:
+  weiboURL: ''
+  twitterURL: 'https://x.com/clubleonfc'
+  websiteURL: 'https://www.clubleon.mx/plantilla.php'
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Le%C3%B3n'

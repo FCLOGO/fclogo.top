@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241017-104445-992d7b
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Tegevajaro Miyazaki']
+  slug: /jfa/club/tegevajaro-miyazaki-v2017-mono
+  pngPath: 'png/tegevajaro-miyazaki-v2017-mono.png'
+  svgPath: 'svg/tegevajaro-miyazaki-v2017-mono.svg'
+  sourceID: jfa-club-049
+  style: mono
+  reference: 'https://www.jleague.co/clubs/Tegevajaro-Miyazaki/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241017-104517-e14033
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Tegevajaro Miyazaki']
+  slug: /jfa/club/tegevajaro-miyazaki-v2017
+  pngPath: 'png/tegevajaro-miyazaki-v2017.png'
+  svgPath: 'svg/tegevajaro-miyazaki-v2017.svg'
+  sourceID: jfa-club-049
+  style: color
+  reference: 'https://www.jleague.co/clubs/Tegevajaro-Miyazaki/'
+  ctrbID: ''

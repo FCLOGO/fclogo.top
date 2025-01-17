@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250102-165753-86d815
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Celta Vigo']
+  slug: /rfef/club/RC-Celta-de-Vigo-v2010-mono
+  pngPath: 'png/RC-Celta-de-Vigo-v2010-mono.png'
+  svgPath: 'svg/RC-Celta-de-Vigo-v2010-mono.svg'
+  sourceID: rfef-club-007
+  style: mono
+  reference: 'https://rccelta.es'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250102-165845-974006
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Celta Vigo']
+  slug: /rfef/club/RC-Celta-de-Vigo-v2010
+  pngPath: 'png/RC-Celta-de-Vigo-v2010.png'
+  svgPath: 'svg/RC-Celta-de-Vigo-v2010.svg'
+  sourceID: rfef-club-007
+  style: color
+  reference: 'https://rccelta.es/en'
+  ctrbID: ''

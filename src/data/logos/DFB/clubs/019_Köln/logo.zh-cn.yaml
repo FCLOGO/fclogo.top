@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241222-201359-e9249f
+  version: 1993
+  isDoubtful: false
+  isOutdated: false
+  verName: ['1. FC Köln']
+  slug: /dfb/club/FC-Koln-v1993-mono
+  pngPath: 'png/FC-Koln-v1993-mono.png'
+  svgPath: 'svg/FC-Koln-v1993-mono.svg'
+  sourceID: dfb-club-019
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241222-201445-0438be
+  version: 1993
+  isDoubtful: false
+  isOutdated: false
+  verName: ['1. FC Köln']
+  slug: /dfb/club/FC-Koln-v1993
+  pngPath: 'png/FC-Koln-v1993.png'
+  svgPath: 'svg/FC-Koln-v1993.svg'
+  sourceID: dfb-club-019
+  style: color
+  reference: 'https://www.bundesliga.com/en/2bundesliga/clubs/1-fc-koeln'
+  ctrbID: ''

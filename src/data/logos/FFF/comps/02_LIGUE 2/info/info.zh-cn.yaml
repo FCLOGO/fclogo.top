@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fff-comp-002
+  type: comp
+  nation: FRA
+  timeline: false
+  info:
+    - fullName: 法国足球乙级联赛
+      localName: Ligue 2
+      shortName: 法乙联赛
+      founded: 1933
+      confederation: UEFA
+      teams: 18
+      level: 第 2 级
+      promotion: 法甲联赛
+      relegation: 法国全国联赛
+  websiteURL: 'https://ligue1.fr/'
+  twitterURL: 'https://x.com/ligue1'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Ligue_2'

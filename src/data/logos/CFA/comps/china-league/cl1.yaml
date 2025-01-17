@@ -1,5 +1,5 @@
 - data: logo
-  uniqueID: 20211023-001
+  logoID: 20211023-001
   version: 2004
   isOutdated: false
   verName: ['China League One']
@@ -10,7 +10,7 @@
   style: color
 
 - data: logo
-  uniqueID: 20211023-002
+  logoID: 20211023-002
   version: 2004
   isOutdated: false
   verName: ['China League One']

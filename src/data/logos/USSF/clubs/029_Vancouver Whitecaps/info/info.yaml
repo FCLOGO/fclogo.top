@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: ussf-club-029
+  status: active
+  type: club
+  nation: CAN
+  coordinates: [-123.11345512361773, 49.27765860907568]
+  timeline: true
+  info:
+    - fullName: Vancouver Whitecaps Football Club
+      shortName: Vancouver Whitecaps FC
+      localName: Vancouver Whitecaps Football Club
+      founded: 2009
+      city: Vancouver, British Columbia
+      ground: BC Place
+      league:
+  weiboURL: ''
+  twitterURL: 'https://www.whitecapsfc.com/'
+  websiteURL: 'https://www.whitecapsfc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC'

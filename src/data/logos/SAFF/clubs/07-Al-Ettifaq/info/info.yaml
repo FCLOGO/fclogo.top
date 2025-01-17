@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-007
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [50.17842173656425, 26.378271660676774]
+  timeline: false
+  info:
+    - fullName: Al-Ettifaq Football Club
+      shortName: Al-Ettifaq FC
+      localName: نادي الاتفاق لكرة القدم
+      founded: 1945
+      city: Dammam
+      ground: Al-Ettifaq Club Stadium
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/ettifaq'
+  websiteURL: 'https://ettifaq.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al-Ettifaq_FC'

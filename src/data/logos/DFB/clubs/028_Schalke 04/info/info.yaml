@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-028
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [7.067540293253412, 51.55464767711783]
+  timeline: false
+  info:
+    - fullName: Fußballclub Gelsenkirchen-Schalke 04 e.V.
+      localName: Fußballclub Gelsenkirchen-Schalke 04 e.V.
+      shortName: FC Schalke 04
+      founded: 1904
+      city: Gelsenkirchen
+      ground: VELTINS-Arena
+  websiteURL: 'https://www.schalke04.de/'
+  twitterURL: 'https://x.com/s04_en'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Schalke_04'

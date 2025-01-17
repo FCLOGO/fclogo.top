@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-060
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.66768683855634, 35.43333323191791]
+  timeline: false
+  info:
+    - fullName: 横滨体育及文化俱乐部
+      shortName: YSCC 横滨
+      localName: 横浜スポーツ&カルチャークラブ
+      founded: 1986
+      city: 日本，横滨
+      ground: 日本发条三泽公园球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/yscc1986/'
+  websiteURL: 'http://www.yscc1986.net/'
+  wikiURL: 'https://en.wikipedia.org/wiki/YSCC_Yokohama'

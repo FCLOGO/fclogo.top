@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-002
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [116.705193, 40.421631]
+  timeline: true
+  info:
+    - fullName: Beijing Guoan Football Club
+      shortName: Beijing Guoan FC
+      localName: 北京国安足球俱乐部
+      city: Beijing, China
+      founded: 1992
+      ground: Beijing Fengtai Stadium
+      league: Chinese Super League
+  weiboURL: 'https://weibo.com/u/1912052995'
+  twitterURL: 'https://twitter.com/FCBeijingGuoan'
+  websiteURL: 'http://www.fcguoan.com'
+  wikiURL: 'https://en.wikipedia.org/wiki/Beijing_Guoan_F.C.'

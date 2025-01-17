@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-010
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [128.90768409047013, 37.747182863431156]
+  timeline: true
+  info:
+    - fullName: 江原足球俱乐部
+      shortName: 江原 FC
+      localName: 강원도민프로축구단
+      founded: 2008
+      city: 韩国，春川
+      ground: 春川松岩体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://www.gangwon-fc.com/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Gangwon_FC'

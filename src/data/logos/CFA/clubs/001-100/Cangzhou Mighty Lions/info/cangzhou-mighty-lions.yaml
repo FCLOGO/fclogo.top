@@ -1,0 +1,17 @@
+- data: sourceInfo
+  sourceID: cfa-club-016
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [116.844202, 38.323235]
+  timeline: true
+  info:
+    - fullName: Cangzhou Mighty Lions Football Club
+      shortName: Cangzhou Mighty Lions
+      localName: 沧州雄狮足球俱乐部
+      city: Cangzhou, China
+      founded: 2011
+      duration: 2011 - 2025
+  weiboURL: 'https://weibo.com/u/3032079382'
+  twitterURL: 'https://twitter.com/SJZEBFC/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Cangzhou_Mighty_Lions_F.C.'

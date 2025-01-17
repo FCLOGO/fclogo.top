@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: afa-club-002
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.44940886033882, -34.545314907307315]
+  timeline: false
+  info:
+    - fullName: Club Atlético River Plate
+      localName: Club Atlético River Plate
+      shortName: River Plate
+      founded: 1901
+      city: Buenos Aires
+      ground: Estadio Más Monumental
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/@RiverPlate'
+  websiteURL: 'https://www.cariverplate.com.ar/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241129-184350-a8a976
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['南京铁虎']
+  slug: /cfa/club/Nanjing-Tiehu-v2022-mono
+  pngPath: 'png/Nanjing-Tiehu-v2022-mono.png'
+  svgPath: 'svg/Nanjing-Tiehu-v2022-mono.svg'
+  sourceID: cfa-club-111
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241129-184418-f9e48d
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['南京铁虎']
+  slug: /cfa/club/Nanjing-Tiehu-v2022
+  pngPath: 'png/Nanjing-Tiehu-v2022.png'
+  svgPath: 'svg/Nanjing-Tiehu-v2022.svg'
+  sourceID: cfa-club-111
+  style: color
+  reference: ''
+  ctrbID: ''

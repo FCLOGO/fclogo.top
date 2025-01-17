@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: kfa-club-006
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [128.58759928459673, 35.88193718518427]
+  timeline: false
+  info:
+    - fullName: Daegu Football Club
+      shortName: Daegu FC
+      localName: 대구시민프로축구단
+      founded: 2002
+      city: Daegu, Korea
+      ground: DGB Daegu Bank Park
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'http://daegufc.co.kr/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Daegu_FC'

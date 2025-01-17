@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-009
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [137.87458137254214, 34.724657811804214]
+  timeline: false
+  info:
+    - fullName: 磐田喜悦足球俱乐部
+      shortName: 磐田喜悦
+      localName: ジュビロ磐田
+      founded: 1972
+      city: 日本，磐田
+      ground: 山叶球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/Jubiloiwata_YFC/'
+  websiteURL: 'http://www.jubilo-iwata.co.jp/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/磐田喜悅'

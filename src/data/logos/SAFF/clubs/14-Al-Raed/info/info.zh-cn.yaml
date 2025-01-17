@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: saff-club-014
+  status: active
+  type: club
+  nation: SAU
+  coordinates: [43.933720051260586, 26.58519759241163]
+  timeline: false
+  info:
+    - fullName: 布赖代先锋足球俱乐部
+      shortName: 布赖代先锋
+      localName: نادي الرائد
+      founded: 1954
+      city: 布赖代
+      ground: 阿卜杜拉国王体育城体育场
+      league:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: 'https://alraedclub.sa/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Al_Raed_FC'

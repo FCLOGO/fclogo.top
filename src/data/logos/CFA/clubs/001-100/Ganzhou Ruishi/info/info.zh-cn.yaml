@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-086
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [115.034996, 24.773725]
+  timeline: true
+  info:
+    - fullName: 赣州瑞狮足球俱乐部
+      shortName: 赣州瑞狮
+      localName: 赣州瑞狮足球俱乐部
+      founded: 2017
+      city: 中国，赣州
+      ground: 定南青少年足球训练中心
+      league: 中乙联赛
+  weiboURL: 'https://weibo.com/u/7905003911'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/赣州瑞狮足球俱乐部/64043000'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-004
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-4.455408364639818, 48.4078427215196]
+  timeline: true
+  info:
+    - fullName: 布雷斯特足球俱乐部
+      localName: Stade brestois 29
+      shortName: 布雷斯特
+      founded: 1903
+      city: 布雷斯特
+      ground: 弗朗西斯·勒布莱球场
+  websiteURL: 'https://www.sb29.bzh/'
+  twitterURL: 'https://twitter.com/SB29'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Stade_Brestois_29'

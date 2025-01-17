@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-005
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['DaLian Transcendence']
+  slug: /cfa/club/dalian-transcendence-v2015-mono
+  pngPath: 'png/dalian-transcendence-v2015-mono.png'
+  svgPath: 'svg/dalian-transcendence-v2015-mono.svg'
+  sourceID: cfa-club-069
+  style: mono
+
+- data: logo
+  logoID: 20211208-006
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['DaLian Transcendence']
+  slug: /cfa/club/dalian-transcendence-v2015
+  pngPath: 'png/dalian-transcendence-v2015.png'
+  svgPath: 'svg/dalian-transcendence-v2015.svg'
+  sourceID: cfa-club-069
+  style: color

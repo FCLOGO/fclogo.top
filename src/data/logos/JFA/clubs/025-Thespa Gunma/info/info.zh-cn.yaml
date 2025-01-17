@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-025
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.14139404907644, 36.40178082629418]
+  timeline: false
+  info:
+    - fullName: 群马温泉足球俱乐部
+      shortName: 群马温泉
+      localName: ザスパクサツ群馬
+      founded: 1995
+      city: 日本，前桥
+      ground: 正田酱油群马体育场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/OfficialThespa/'
+  websiteURL: 'http://www.thespa.co.jp/'
+  wikiURL: 'https://en.wikipedia.org/wiki/Thespa_Gunma'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20241018-183412-27ed34
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SC 相模原']
+  slug: /jfa/club/sc-sagamihara-v2008-mono
+  pngPath: 'png/sc-sagamihara-v2008-mono.png'
+  svgPath: 'svg/sc-sagamihara-v2008-mono.svg'
+  sourceID: jfa-club-056
+  style: mono
+  reference: 'https://www.jleague.co/clubs/SC-Sagamihara/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20241018-183517-41aee6
+  version: 2008
+  isDoubtful: false
+  isOutdated: false
+  verName: ['SC 相模原']
+  slug: /jfa/club/sc-sagamihara-v2008
+  pngPath: 'png/sc-sagamihara-v2008.png'
+  svgPath: 'svg/sc-sagamihara-v2008.svg'
+  sourceID: jfa-club-056
+  style: color
+  reference: 'https://www.jleague.co/clubs/SC-Sagamihara/'
+  ctrbID: ''

@@ -1,0 +1,23 @@
+- data: logo
+  logoID: 20211208-009
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['JiLin BaiJia']
+  slug: /cfa/club/jilin-baijia-v2015-mono
+  pngPath: 'png/jilin-baijia-v2015-mono.png'
+  svgPath: 'svg/jilin-baijia-v2015-mono.svg'
+  sourceID: cfa-club-071
+  style: mono
+
+- data: logo
+  logoID: 20211208-010
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['JiLin BaiJia']
+  slug: /cfa/club/jilin-baijia-v2015
+  pngPath: 'png/jilin-baijia-v2015.png'
+  svgPath: 'svg/jilin-baijia-v2015.svg'
+  sourceID: cfa-club-071
+  style: color

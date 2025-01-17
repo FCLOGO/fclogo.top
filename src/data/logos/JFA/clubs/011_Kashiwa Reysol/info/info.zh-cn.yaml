@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: jfa-club-011
+  status: active
+  type: club
+  nation: JPN
+  coordinates: [139.9755626642994, 35.84899432739414]
+  timeline: false
+  info:
+    - fullName: 柏太阳神足球俱乐部
+      shortName: 柏太阳神
+      localName: 柏レイソル
+      founded: 1940
+      city: 日本，柏市
+      ground: 日立柏足球场
+      league:
+  weiboURL: ''
+  twitterURL: 'https://twitter.com/REYSOL_Official/'
+  websiteURL: 'https://www.reysol.co.jp/index.php/'
+  wikiURL: 'https://zh.wikipedia.org/wiki/柏雷素爾'

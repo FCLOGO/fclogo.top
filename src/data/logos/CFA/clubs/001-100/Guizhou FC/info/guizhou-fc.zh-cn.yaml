@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: cfa-club-024
+  status: inactive
+  type: club
+  nation: CHN
+  coordinates: [106.622988, 26.680906]
+  timeline: true
+  info:
+    - fullName: 贵州足球俱乐部
+      shortName: 贵州 FC
+      localName: 贵州足球俱乐部
+      city: 贵阳，中国
+      founded: 2005
+      ground: 贵阳市奥林匹克体育中心
+      duration: 2005 - 2022
+  weiboURL: 'https://weibo.com/u/2611553927'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://zh.wikipedia.org/wiki/贵州足球俱乐部'
