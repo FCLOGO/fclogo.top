@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250117-155839-931af1
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['阿拉祖蘭斯']         
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2018-mono
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v2018-mono.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v2018-mono.svg'
+  sourceID: rcrf-club-001
+  style: mono
+  reference: 'https://lda.cr/'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250117-160626-a31f0e
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['阿拉祖蘭斯']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2018
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v2018.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v2018.svg'
+  sourceID: rcrf-club-001
+  style: color
+  reference: 'https://lda.cr/'
+  ctrbID: 'ctrb-dani'

@@ -186,3 +186,11 @@
   zoom: 5.5
   flag: 'img/monaco.png'
   flag2: 'img2/monaco.png'
+
+- data: country
+  nation: CRC
+  center: [10.0, -84.0]
+  zoom: 7
+  flag: 'img/costa-rica.png'
+  flag2: 'img2/costa-rica.png'
+
