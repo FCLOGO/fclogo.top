@@ -1,0 +1,83 @@
+- data: logo
+  logoID: 20250117-143428-43457e
+  version: 2010
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Serie A']
+  slug: /figc/comp/Serie-A-v2010
+  pngPath: 'png/Serie-A-v2010.png'
+  svgPath: 'svg/Serie-A-v2010.svg'
+  sourceID: figc-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250117-143550-6ecb49
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Serie A']
+  slug: /figc/comp/Serie-A-v2018
+  pngPath: 'png/Serie-A-v2018.png'
+  svgPath: 'svg/Serie-A-v2018.svg'
+  sourceID: figc-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250117-143624-0adf03
+  version: 2019
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Serie A']
+  slug: /figc/comp/Serie-A-v2019
+  pngPath: 'png/Serie-A-v2019.png'
+  svgPath: 'svg/Serie-A-v2019.svg'
+  sourceID: figc-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250117-143644-58a6cc
+  version: 2021
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Serie A']
+  slug: /figc/comp/Serie-A-v2021
+  pngPath: 'png/Serie-A-v2021.png'
+  svgPath: 'svg/Serie-A-v2021.svg'
+  sourceID: figc-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250117-143855-f9d5f7
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Serie A']
+  slug: /figc/comp/Serie-A-v2022-mono
+  pngPath: 'png/Serie-A-v2022-mono.png'
+  svgPath: 'svg/Serie-A-v2022-mono.svg'
+  sourceID: figc-comp-001
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250117-144707-28c10e
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Serie A']
+  slug: /figc/comp/Serie-A-v2022
+  pngPath: 'png/Serie-A-v2022.png'
+  svgPath: 'svg/Serie-A-v2022.svg'
+  sourceID: figc-comp-001
+  style: color
+  reference: ''
+  ctrbID: ''

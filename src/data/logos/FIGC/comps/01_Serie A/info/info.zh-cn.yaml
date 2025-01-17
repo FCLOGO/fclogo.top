@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: figc-comp-001
+  type: comp
+  nation: ITA
+  timeline: false
+  info:
+    - fullName: 意大利足球甲级联赛
+      localName: Lega Serie A
+      shortName: 意甲联赛
+      founded: 1898
+      confederation: UEFA
+      teams: 20
+      level: 第 1 级
+      promotion:
+      relegation: 意乙联赛
+  websiteURL: 'https://www.legaseriea.it/'
+  twitterURL: 'https://twitter.com/SerieA'
+  weiboURL: 'https://weibo.com/u/7504461351'
+  wikiURL: 'https://en.wikipedia.org/wiki/Serie_A'

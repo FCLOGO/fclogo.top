@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-004
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [11.309980952932321, 44.492308894182436]
+  timeline: false
+  info:
+    - fullName: Bologna Football Club 1909
+      localName: Bologna Football Club 1909
+      shortName: Bologna FC 1909
+      founded: 1909
+      city: Bologna
+      ground: Stadio Renato Dall'Ara
+  websiteURL: 'https://www.bolognafc.it/'
+  twitterURL: 'https://x.com/Bolognafc1909'
+  weiboURL: 'https://weibo.com/bolognafc1909'
+  wikiURL: 'https://en.wikipedia.org/wiki/Bologna_FC_1909'

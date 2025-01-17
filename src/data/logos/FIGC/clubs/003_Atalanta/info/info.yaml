@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-003
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.680246314115726, 45.70948661780983]
+  timeline: false
+  info:
+    - fullName: Atalanta Bergamasca Calcio
+      localName: Atalanta Bergamasca Calcio
+      shortName: Atalanta BC
+      founded: 1907
+      city: Bergamo
+      ground: Gewiss Stadium
+  websiteURL: 'https://atalanta.it/'
+  twitterURL: 'https://x.com/Atalanta_BC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Atalanta_BC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-003
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.680246314115726, 45.70948661780983]
+  timeline: false
+  info:
+    - fullName: 亚特兰大贝加莫足球俱乐部
+      localName: Atalanta Bergamasca Calcio
+      shortName: 亚特兰大
+      founded: 1907
+      city: 贝加莫
+      ground: 蓝色竞技体育场
+  websiteURL: 'https://atalanta.it/'
+  twitterURL: 'https://x.com/Atalanta_BC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Atalanta_BC'

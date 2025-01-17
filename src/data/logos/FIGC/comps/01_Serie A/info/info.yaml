@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: figc-comp-001
+  type: comp
+  nation: ITA
+  timeline: false
+  info:
+    - fullName: Lega Serie A
+      localName: Lega Serie A
+      shortName: Serie A
+      founded: 1898
+      confederation: UEFA
+      teams: 20
+      level: Level 1
+      promotion:
+      relegation: Serie B
+  websiteURL: 'https://www.legaseriea.it/'
+  twitterURL: 'https://twitter.com/SerieA'
+  weiboURL: 'https://weibo.com/u/7504461351'
+  wikiURL: 'https://en.wikipedia.org/wiki/Serie_A'
