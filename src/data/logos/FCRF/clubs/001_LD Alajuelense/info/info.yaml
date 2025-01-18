@@ -2,8 +2,8 @@
   sourceID: fcrf-club-001
   status: active
   type: club
-  nation: CRC
-  coordinates: [10.0209411, -84.2078203]
+  nation: CRI
+  coordinates: [-84.2078203, 10.0209411]
   timeline: false
   info:
     - fullName: Liga Deportiva Alajuelense
