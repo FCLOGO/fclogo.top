@@ -7,7 +7,7 @@
   slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2018-mono
   pngPath: 'png/Liga-Deportiva-Alajuelense-v2018-mono.png'
   svgPath: 'svg/Liga-Deportiva-Alajuelense-v2018-mono.svg'
-  sourceID: rcrf-club-001
+  sourceID: fcrf-club-001
   style: mono
   reference: 'https://lda.cr/'
   ctrbID: 'ctrb-dani'
@@ -21,7 +21,7 @@
   slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2018
   pngPath: 'png/Liga-Deportiva-Alajuelense-v2018.png'
   svgPath: 'svg/Liga-Deportiva-Alajuelense-v2018.svg'
-  sourceID: rcrf-club-001
+  sourceID: fcrf-club-001
   style: color
   reference: 'https://lda.cr/'
   ctrbID: 'ctrb-dani'
