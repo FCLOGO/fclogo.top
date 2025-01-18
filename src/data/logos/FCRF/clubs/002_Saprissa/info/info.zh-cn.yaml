@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-002
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.0732066, 9.9672887]
+  timeline: false
+  info:
+    - fullName: 萨普里萨体育俱乐部
+      localName: Deportivo Saprissa
+      shortName: 薩普里沙
+      founded: 1935
+      city: 圣胡安-德-蒂瓦斯
+      ground: 里卡多·萨普里萨·艾马体育场
+  websiteURL: 'https://www.saprissa.com/'
+  twitterURL: 'https://twitter.com/SaprissaOficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Deportivo_Saprissa'

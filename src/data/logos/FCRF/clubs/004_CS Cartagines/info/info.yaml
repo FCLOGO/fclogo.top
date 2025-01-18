@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-004
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-83.921144, 9.8576923]
+  timeline: false
+  info:
+    - fullName: Club Sport Cartaginés
+      localName: Club Sport Cartaginés
+      shortName: Cartaginés
+      founded: 1906
+      city: Cartago
+      ground: Estadio José Rafael "Fello" Meza
+  websiteURL: 'https://cscartagines.com/'
+  twitterURL: 'https://twitter.com/Cartagines'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/C.S._Cartagin%C3%A9s'
