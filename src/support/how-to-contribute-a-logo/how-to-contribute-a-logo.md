@@ -199,6 +199,18 @@ Note that the development build is not optimized.
 To create a production build, use gatsby build
 ```
 
+#### Mapbox Access Token
+
+Although the project has successfully run in the local development environment, the **map** page cannot be displayed properly because we have not configured the `Access Token` for the map component.
+
+You can register for a [Mapbox](https://www.mapbox.com/) account and get an `Access Token` for development and testing.
+
+After get the `TOKEN`, create a file named `.env.development` in the root directory of the project and add the following content:
+
+```
+GATSBY_MAPBOX_ACCESS_TOKEN=YOUR ACCESS TOKEN
+```
+
 ## 🎨 Preparing Vector Logos
 
 The logos collected in the project currently include four types of entities: **Associations/Leagues**, **National Teams**, **Competitions**, and **Clubs**.

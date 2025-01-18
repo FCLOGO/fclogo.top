@@ -199,6 +199,18 @@ Note that the development build is not optimized.
 To create a production build, use gatsby build
 ```
 
+#### Mapbox Access Token
+
+虽然项目已成功在本地开发环境运行，但**地图**页面无法正常显示，因为我们没有为地图组件配置 `Access Token`。
+
+您可以注册一个 [Mapbox](https://www.mapbox.com/) 账号，获取一个 `Access Token` 用于开发测试。
+
+获取 `TOKEN` 后，在项目根目录下创建一个名为：`.env.development` 的文件，并添加以下内容：
+
+```
+GATSBY_MAPBOX_ACCESS_TOKEN=YOUR ACCESS TOKEN
+```
+
 ## 🎨 准备矢量徽标
 
 目前项目收集的徽标包含：**协会/联盟**、**国家队**、**赛事**、**俱乐部**四种主体类型的徽标。
