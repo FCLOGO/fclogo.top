@@ -1,0 +1,28 @@
+
+- data: logo
+  logoID: 20250118-025805-869ae3
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: [埃雷迪亚诺体育俱乐部]
+  slug: /fcrf/club/Club-Sport-Herediano-v2000-mono
+  pngPath: 'png/Club-Sport-Herediano-v2000-mono.png'
+  svgPath: 'svg/Club-Sport-Herediano-v2000-mono.svg'
+  sourceID: fcrf-club-003
+  style: mono
+  reference: 'https://www.herediano.com/identidad'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250118-025832-7254a6
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: [埃雷迪亚诺体育俱乐部]
+  slug: /fcrf/club/Club-Sport-Herediano-v2000
+  pngPath: 'png/Club-Sport-Herediano-v2000.png'
+  svgPath: 'svg/Club-Sport-Herediano-v2000.svg'
+  sourceID: fcrf-club-003
+  style: color
+  reference: 'https://www.herediano.com/identidad'
+  ctrbID: 'ctrb-dani'

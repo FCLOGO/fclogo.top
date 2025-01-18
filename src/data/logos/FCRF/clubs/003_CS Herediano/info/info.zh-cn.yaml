@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-003
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.1231263, 9.9991257]
+  timeline: false
+  info:
+    - fullName: 埃雷迪亚诺体育俱乐部
+      localName: Club Sport Herediano
+      shortName: 希雷迪亞洛
+      founded: 1921
+      city: 埃雷迪亞
+      ground: 埃拉迪奥·罗萨瓦尔·科尔德罗体育场
+  websiteURL: 'https://www.herediano.com/'
+  twitterURL: 'https://twitter.com/csherediano1921'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/C.S._Herediano'

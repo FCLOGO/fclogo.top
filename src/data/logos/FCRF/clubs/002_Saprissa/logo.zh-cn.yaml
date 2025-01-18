@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20250117-221547-1c4235
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: [萨普里萨体育俱乐部]
+  slug: /fcrf/club/Deportivo-Saprissa-v2012
+  pngPath: 'png/Deportivo-Saprissa-v2012.png'
+  svgPath: 'svg/Deportivo-Saprissa-v2012.svg'
+  sourceID: fcrf-club-002
+  style: color
+  reference: 'https://www.saprissa.com/'
+  ctrbID: 'ctrb-dani'
