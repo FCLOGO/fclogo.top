@@ -207,7 +207,7 @@ Each logo must include a PNG bitmap `png` format and an SVG vector `svg` format,
 
 Illustrator canvas size reference:
 
-![Illustrator Logo Canvas Reference](./img/logo-canvas.png)
+![Illustrator Logo Canvas Reference](./img/logo-canvas-en.png)
 
 The vector `svg` file of the logo must follow these principles:
 
@@ -217,12 +217,12 @@ The vector `svg` file of the logo must follow these principles:
 - Monochrome logos should not use clipping masks and should use solid fills. You can use the main color of the entity or black (e.g., #171819).
 - Monochrome logos are recommended to be created as a **compound path**.
 - When saving as `svg` format in Illustrator, set the options as shown below:
-![Illustrator SVG Options](./img/svg-options.png)
+![Illustrator SVG Options](./img/svg-options-en.png)
 
 The bitmap `png` file of the logo can be exported directly from the `svg` file. The operation path in Illustrator is:
 
 ```
-File -> Export -> Export for Screens...
+File -> Export -> Exports for Screens...
 ```
 
 ### Where to Get Vector Logos
@@ -241,6 +241,8 @@ Most of the following operations will be performed in VS Code. To reduce our wor
 
 - [FCLOGO Snippets](https://marketplace.visualstudio.com/items?itemName=iiiRyan.fclogo-snippets): A code snippet plugin that helps us quickly input fields for entities and logos.
 - [Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure): A folder template plugin that helps us quickly create folder templates.
+
+> If the shortcut input code snippets are not working after installing the plugin, you may need to install the [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugin.
   
 In addition to installing through the above links, you can also click the **Extensions** icon on the left side of VS Code and search for the extensions by **name** in the marketplace.
 
@@ -320,6 +322,11 @@ The complete data fields supported by each entity type are as follows:
 | weiboURL |  | No |  | The official Weibo link of the entity |
 | wikiURL |  | No |  | The Wikipedia link of the entity |
 
+> If the entity you want to add does not have country information created, you need to [create country information](#creating-country-information) first.
+>
+> If you obtained the entity coordinates using Google Maps, you need to convert the coordinates. 
+> Google Maps provides coordinates with latitude `lat` first and longitude `lon` second, so you need to rearrange them to have longitude `lon` first and latitude `lat` second.
+
 We continue to use **Athletic Bilbao** as an example to complete the entity information.
 
 In the `004_Athletic Bilbao` folder we created in the previous step, open `info/info.yaml`, type `cbinfo`, and press `tab` to quickly generate the club entity data template:
@@ -391,6 +398,33 @@ In general, at this point, you have successfully created the entity information 
 ```
 
 The creation of other entity information is similar to the creation of club entity information. The shortcut input code for association/league entity information is `asinfo`, the shortcut input code for competition entity information is `cpinfo`, and the shortcut input code for national team entity information is `ntinfo`.
+
+#### Creating Country Information
+
+The country and flag information is stored in the directory: `/src/data/countries`. Open the `flags.yaml` file in this directory using VS Code and add the country information using the following code (taking Costa Rica as an example):
+
+```yaml
+- data: country
+  nation: CRI
+  center: [-84.0, 10.0]
+  zoom: 7
+  flag: 'img/costa-rica.png'
+  flag2: 'img2/costa-rica.png'
+```
+
+Explanation of country information fields:
+
+| <nobr>Field</nobr> | <nobr>Required</nobr> | <nobr>Default Value</nobr> | <nobr>Description</nobr>                                                                                                                            |
+| --- | --- | --- | --- |
+| nation | Yes |  | Country code, represented by the [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) three-letter code |
+| center | Yes |  | Initial geographic coordinates of the map center, represented as an array, with longitude `lon` first and latitude `lat` second |
+| zoom | Yes | 0 | Initial zoom level of the map, generally between 0-10 |
+| flag | Yes |  | Path to the square flag image |
+| flag2 | Yes |  | Path to the rectangular flag image |
+
+> Flag images can be downloaded from [Flaticon](https://www.flaticon.com/packs/international-flags).
+> 
+> Download the `Square` style for the square flag and the `Rectangular` style for the rectangular flag, and place the flags in the `img` and `img2` folders respectively.
 
 ### Creating Logo Information
 

@@ -241,6 +241,8 @@ Illustrator 画布尺寸参考下图：
 
 - [FCLOGO Snippets](https://marketplace.visualstudio.com/items?itemName=iiiRyan.fclogo-snippets)：代码片段插件，可以帮助我们快速输入主体及徽标的字段模板。
 - [Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure)：文件夹模板插件，可以帮助我们快速创建文件夹模板。
+
+> 如果插件安装完成后，无法使用快捷输入代码片段，可能需要安装 [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) 这个插件。
   
 除了通过点击上述链接安装外，也可以直接点击 VS Code 左侧的**扩展**图标，在应用商店中使用**名称**搜索扩展。
 
@@ -320,6 +322,10 @@ Illustrator 画布尺寸参考下图：
 | weiboURL |  | 否 |  | 主体官方微博链接 |
 | wikiURL |  | 否 |  | 主体维基百科链接 |
 
+> 如果您要添加的主体尚未创建国家信息，需要先[创建国家信息](#创建国家信息)。
+>
+> 如果您是使用 Google Map 得到主体坐标信息，需要将坐标进行转换。 Google Map 的坐标信息纬度 `lat` 在前，经度 `lon` 在后，所以您需要将它重新调整顺序为经度 `lon` 在前，纬度 `lat` 在后。
+
 我们继续以**毕尔巴鄂竞技**为例，完成主体信息。
 
 在我们上一步建立的 `004_Athletic Bilbao` 文件夹中，打开 `info/info.yaml`，键入 `cbinfo`，按 `tab`键，即可快速生成俱乐部主体数据模板：
@@ -391,6 +397,34 @@ Illustrator 画布尺寸参考下图：
 ```
 
 其他主体信息的创建与俱乐部主体信息的创建类似。协会/联盟主体信息快捷输入代码为 `asinfo`，赛事主体的快捷输入代码为：`cpinfo`，国家队主体快捷输入代码为：`ntinfo`。
+
+#### 创建国家信息
+
+国家与国旗信息存储目录为：`/src/data/countries`，使用 VS Code 打开该目录下 `flags.yaml`，使用以下代码添加国家信息（以添加哥斯达黎加为例）：
+
+```yaml
+- data: country
+  nation: CRI
+  center: [-84.0, 10.0]
+  zoom: 7
+  flag: 'img/costa-rica.png'
+  flag2: 'img2/costa-rica.png'
+```
+
+国家信息字段说明：
+
+| <nobr>字段</nobr> | <nobr>是否必填</nobr> | <nobr>默认值</nobr> | <nobr>说明</nobr> |
+| ----------------- | --------------------- | ------------------- | ----------------- |
+| nation | 是 |  | 国家代码，使用 [ISO 3166-1 alpha-3](https://zh.wikipedia.org/wiki/ISO_3166-1%E4%B8%89%E4%BD%8D%E5%AD%97%E6%AF%8D%E4%BB%A3%E7%A0%81) 三字母代码表示 |
+| center | 是 |  | 地图的初始地理中心点坐标，用一个数组表示，经度`lon`在前，纬度`lat`在后 |
+| zoom | 是 | 0 | 地图的初始缩放级别，一般为 0-10 |
+| flag | 是 |  | 正方形国旗图片路径 |
+| flag2 | 是 |  | 长方形国旗图片路径 |
+
+> 国旗图片可以在 [Flaticon](https://www.flaticon.com/packs/international-flags) 下载。
+> 
+> 正方形国旗下载 `Square` 样式，长方形国旗下载 `Rectangular` 样式，并将国旗分别放置于 `img` 和 `img2` 文件夹中。
+
 
 ### 创建徽标信息
 
