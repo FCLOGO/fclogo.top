@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fcrf-comp-001
+  type: comp
+  nation: CRI
+  timeline: false
+  info:
+    - fullName: Liga Promerica
+      localName: Liga Promerica
+      shortName: Liga Promerica
+      founded: 1921
+      confederation: CONCACAF
+      teams: 12
+      level: Level 1
+      promotion:
+      relegation: Liga Transcomer
+  websiteURL: 'https://www.unafut.com/'
+  twitterURL: 'https://x.com/unafutoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Liga_FPD'

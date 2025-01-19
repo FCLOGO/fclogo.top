@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20250119-163942-0839fe
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: [Liga Promerica]
+  slug: /fcrf/comp/LIGA-PROMERICA-v2019
+  pngPath: 'png/LIGA-PROMERICA-v2019.png'
+  svgPath: 'svg/LIGA-PROMERICA-v2019.svg'
+  sourceID: fcrf-comp-001
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-dani'

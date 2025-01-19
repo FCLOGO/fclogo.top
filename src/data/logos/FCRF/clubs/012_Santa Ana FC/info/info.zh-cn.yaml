@@ -1,0 +1,20 @@
+- data: sourceInfo
+  sourceID: fcrf-club-012
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.218504, 9.933766]
+  timeline: false
+  info:
+    - fullName: 圣塔安娜足球俱乐部
+      localName: Santa Ana Fútbol Club
+      shortName: 圣塔安娜
+      founded: 1993
+      city: 圣塔安娜
+      ground: 圣塔安娜皮埃达斯体育场
+  websiteURL: 'https://santaanafc.net/'
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._Municipal_Santa_Ana'
+
+

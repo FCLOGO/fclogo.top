@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-008
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.838985, 9.976341]
+  timeline: false
+  info:
+    - fullName: 普恩塔雷纳斯足球俱乐部
+      localName: Puntarenas Fútbol Club
+      shortName: 普恩塔雷纳斯
+      founded: 2004
+      city: 普恩塔雷纳斯
+      ground: 米格尔·安赫尔 "利托"·佩雷斯体育场
+  websiteURL: ''
+  twitterURL: 'https://twitter.com/fc_puntarenas'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Puntarenas_F.C.'

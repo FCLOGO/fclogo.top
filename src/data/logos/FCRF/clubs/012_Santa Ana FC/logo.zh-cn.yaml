@@ -1,0 +1,28 @@
+- data: logo
+  logoID: 20250119-154512-df3f5e
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: [圣塔安娜足球俱乐部]
+  slug: /fcrf/club/Santa-Ana-Futbol-Club-v2024-mono
+  pngPath: 'png/Santa-Ana-Futbol-Club-v2024-mono.png'
+  svgPath: 'svg/Santa-Ana-Futbol-Club-v2024-mono.svg'
+  sourceID: fcrf-club-012
+  style: mono
+  reference: https://santaanafc.net/'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-154639-702a01
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: [圣塔安娜足球俱乐部]
+  slug: /fcrf/club/Santa-Ana-Futbol-Club-v2024
+  pngPath: 'png/Santa-Ana-Futbol-Club-v2024.png'
+  svgPath: 'svg/Santa-Ana-Futbol-Club-v2024.svg'
+  sourceID: fcrf-club-012
+  style: color
+  reference: https://santaanafc.net/'
+  ctrbID: 'ctrb-dani'
+

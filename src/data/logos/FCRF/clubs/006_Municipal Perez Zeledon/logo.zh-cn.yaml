@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250119-143353-06f364
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: [佩雷斯·塞莱东市政体育协会]
+  slug: /fcrf/club/Municipal-Perez-Zeledon-v2015-mono
+  pngPath: 'png/Municipal-Perez-Zeledon-v2015-mono.png'
+  svgPath: 'svg/Municipal-Perez-Zeledon-v2015-mono.svg'
+  sourceID: fcrf-club-006
+  style: mono
+  reference: 'https://www.municipalpz.net/'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-143546-fb562a
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: [佩雷斯·塞莱东市政体育协会]
+  slug: /fcrf/club/Municipal-Perez-Zeledon-v2015
+  pngPath: 'png/Municipal-Perez-Zeledon-v2015.png'
+  svgPath: 'svg/Municipal-Perez-Zeledon-v2015.svg'
+  sourceID: fcrf-club-006
+  style: color
+  reference: 'https://www.municipalpz.net/'
+  ctrbID: 'ctrb-dani'
