@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: fcrf-club-011
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.130280, 9.942484]
+  timeline: false
+  info:
+    - fullName: 斯波廷足球俱乐部
+      localName: Sporting Football Club
+      shortName: 斯波廷
+      founded: 2016
+      city: 圣何塞
+      ground: 埃内斯托·罗尔莫泽尔·拉赫曼体育场
+  websiteURL: 'https://sporting.cr/'
+  twitterURL: 'https://twitter.com/sportingcr'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Sporting_F.C.'
+

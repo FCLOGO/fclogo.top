@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-006
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-83.704731, 9.368821]
+  timeline: false
+  info:
+    - fullName: 佩雷斯·塞莱东市政体育协会
+      localName: Asociación Deportiva Municipal Pérez Zeledón
+      shortName: 佩雷斯·塞莱东市政
+      founded: 1991
+      city: 埃尔赫内拉尔的圣伊西德罗
+      ground: 佩雷斯·塞莱东市政体育场
+  websiteURL: 'https://www.municipalpz.net/'
+  twitterURL: 'https://twitter.com/municipalpz'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._Municipal_P%C3%A9rez_Zeled%C3%B3n'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-005
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.423911, 10.324013]
+  timeline: false
+  info:
+    - fullName: 圣卡洛斯体育协会
+      localName: Asociación Deportiva San Carlos
+      shortName: 圣卡洛斯
+      founded: 1965
+      city: 克萨达市
+      ground: 卡洛斯·乌加尔德·阿尔瓦雷斯体育场
+  websiteURL: 'https://www.torosdelnorte.com/'
+  twitterURL: 'https://twitter.com/adsancarlos'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._San_Carlos'

@@ -1,0 +1,28 @@
+- data: logo
+  logoID: 20250119-150459-6c45c5
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: [Asociación Deportiva Municipal Liberia]
+  slug: /fcrf/club/Municipal-Liberia-v2022-mono
+  pngPath: 'png/Municipal-Liberia-v2022-mono.png'
+  svgPath: 'svg/Municipal-Liberia-v2022-mono.svg'
+  sourceID: fcrf-club-009
+  style: mono
+  reference: 'https://admliberia.com/'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-150633-464a0d
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: [Asociación Deportiva Municipal Liberia]
+  slug: /fcrf/club/Municipal-Liberia-v2022
+  pngPath: 'png/Municipal-Liberia-v2022.png'
+  svgPath: 'svg/Municipal-Liberia-v2022.svg'
+  sourceID: fcrf-club-009
+  style: color
+  reference: 'https://admliberia.com/'
+  ctrbID: 'ctrb-dani'
+

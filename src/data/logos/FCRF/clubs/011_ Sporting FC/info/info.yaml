@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-011
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.130280, 9.942484]
+  timeline: false
+  info:
+    - fullName: Sporting Football Club
+      localName: Sporting Football Club
+      shortName: Sporting FC
+      founded: 2016
+      city: San José
+      ground: Estadio Ernesto Rohrmoser Lahmann
+  websiteURL: 'https://sporting.cr/'
+  twitterURL: 'https://twitter.com/sportingcr'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Sporting_F.C.'

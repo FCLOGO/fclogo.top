@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-010
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [ -85.455027, 10.139055]
+  timeline: false
+  info:
+    - fullName: 瓜纳卡斯特卡体育协会
+      localName: Asociación Deportiva Guanacasteca
+      shortName: 瓜纳卡斯特卡
+      founded: 1973
+      city: 尼科亚
+      ground: 乔罗特加体育场
+  websiteURL: 'https://www.adguanacasteca.com/'
+  twitterURL: 'https://twitter.com/ADGuanacasteca'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._Guanacasteca'
