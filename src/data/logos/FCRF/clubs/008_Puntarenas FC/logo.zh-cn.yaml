@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250119-145516-6c77c9
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: [普恩塔雷纳斯足球俱乐部]
+  slug: /fcrf/club/Puntarenas-Futbol-Club-v2017-mono
+  pngPath: 'png/Puntarenas-Futbol-Club-v2017-mono.png'
+  svgPath: 'svg/Puntarenas-Futbol-Club-v2017-mono.svg'
+  sourceID: fcrf-club-008
+  style: mono
+  reference: 'https://www.facebook.com/PuntarenasFCOficial'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-145625-da9eb8
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: [普恩塔雷纳斯足球俱乐部]
+  slug: /fcrf/club/Puntarenas-Futbol-Club-v2017
+  pngPath: 'png/Puntarenas-Futbol-Club-v2017.png'
+  svgPath: 'svg/Puntarenas-Futbol-Club-v2017.svg'
+  sourceID: fcrf-club-008
+  style: color
+  reference: 'https://www.facebook.com/PuntarenasFCOficial'
+  ctrbID: 'ctrb-dani'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250119-141956-7cde49
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: [圣卡洛斯体育协会]
+  slug: /fcrf/club/Asociacion-Deportiva-San-Carlos-v2018-mono
+  pngPath: 'png/Asociacion-Deportiva-San-Carlos-v2018-mono.png'
+  svgPath: 'svg/Asociacion-Deportiva-San-Carlos-v2018-mono.svg'
+  sourceID: fcrf-club-005
+  style: mono
+  reference: 'https://www.torosdelnorte.com/'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-142215-44d67f
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: [圣卡洛斯体育协会]
+  slug: /fcrf/club/Asociacion-Deportiva-San-Carlos-v2018
+  pngPath: 'png/Asociacion-Deportiva-San-Carlos-v2018.png'
+  svgPath: 'svg/Asociacion-Deportiva-San-Carlos-v2018.svg'
+  sourceID: fcrf-club-005
+  style: color
+  reference: 'https://www.torosdelnorte.com/'
+  ctrbID: 'ctrb-dani'

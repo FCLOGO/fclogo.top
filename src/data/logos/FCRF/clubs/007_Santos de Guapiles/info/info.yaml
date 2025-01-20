@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-007
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-83.790013, 10.211389]
+  timeline: false
+  info:
+    - fullName: Asociación Deportiva Santos
+      localName: Asociación Deportiva Santos
+      shortName: Santos de Guápiles
+      founded: 1961
+      city: Guápiles
+      ground: Estadio Ebal Rodríguez Aguilar
+  websiteURL: ''
+  twitterURL: 'https://twitter.com/ADSantos61'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Santos_de_Gu%C3%A1piles_F.C.'

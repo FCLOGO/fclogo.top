@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-005
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.423911, 10.324013]
+  timeline: false
+  info:
+    - fullName: Asociación Deportiva San Carlos
+      localName: Asociación Deportiva San Carlos
+      shortName: San Carlos
+      founded: 1965
+      city: Ciudad Quesada
+      ground: Estadio Carlos Ugalde Álvarez
+  websiteURL: 'https://www.torosdelnorte.com/'
+  twitterURL: 'https://twitter.com/adsancarlos'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._San_Carlos'

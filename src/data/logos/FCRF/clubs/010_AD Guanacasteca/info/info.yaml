@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-010
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-85.455027, 10.139055]
+  timeline: false
+  info:
+    - fullName: Asociación Deportiva Guanacasteca
+      localName: Asociación Deportiva Guanacasteca
+      shortName: Guanacasteca
+      founded: 1973
+      city: Nicoya
+      ground: Estadio Chorotega
+  websiteURL: 'https://www.adguanacasteca.com/'
+  twitterURL: 'https://twitter.com/ADGuanacasteca'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._Guanacasteca'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-009
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-85.433225, 10.635827]
+  timeline: false
+  info:
+    - fullName: Asociación Deportiva Municipal Liberia
+      localName: Asociación Deportiva Municipal Liberia
+      shortName: Municipal Liberia
+      founded: 1977
+      city: Liberia
+      ground: Estadio Edgardo Baltodano Briceño
+  websiteURL: 'https://admliberia.com/'
+  twitterURL: 'https://twitter.com/admliberiaofic1'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/A.D._Municipal_Liberia'

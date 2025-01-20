@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fcrf-club-008
+  status: active
+  type: club
+  nation: CRI
+  coordinates: [-84.838985, 9.976341]
+  timeline: false
+  info:
+    - fullName: Puntarenas Fútbol Club
+      localName: Puntarenas Fútbol Club
+      shortName: Puntarenas FC
+      founded: 2004
+      city: Puntarenas
+      ground: Estadio Miguel Ángel "Lito" Pérez
+  websiteURL: ''
+  twitterURL: 'https://twitter.com/fc_puntarenas'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Puntarenas_F.C.'

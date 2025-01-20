@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250119-144642-66bd92
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: [桑托斯体育协会]
+  slug: /fcrf/club/Asociacion-Deportiva-Santos-v2015-mono
+  pngPath: 'png/Asociacion-Deportiva-Santos-v2015-mono.png'
+  svgPath: 'svg/Asociacion-Deportiva-Santos-v2015-mono.svg'
+  sourceID: fcrf-club-007
+  style: mono
+  reference: 'https://www.facebook.com/ADSantosOficial?'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-144843-0419da
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: [桑托斯体育协会]
+  slug: /fcrf/club/Asociacion-Deportiva-Santos-v2015
+  pngPath: 'png/Asociacion-Deportiva-Santos-v2015.png'
+  svgPath: 'svg/Asociacion-Deportiva-Santos-v2015.svg'
+  sourceID: fcrf-club-007
+  style: color
+  reference: 'https://www.facebook.com/ADSantosOficial?'
+  ctrbID: 'ctrb-dani'

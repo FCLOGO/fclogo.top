@@ -1,0 +1,29 @@
+- data: logo
+  logoID: 20250119-152139-f06cdf
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: [Asociación Deportiva Guanacasteca]
+  slug: /fcrf/club/Asociacion-Deportiva-Guanacasteca-v2019-mono
+  pngPath: 'png/Asociacion-Deportiva-Guanacasteca-v2019-mono.png'
+  svgPath: 'svg/Asociacion-Deportiva-Guanacasteca-v2019-mono.svg'
+  sourceID: fcrf-club-010
+  style: mono
+  reference: 'https://www.adguanacasteca.com/'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250119-152333-7e4822
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: [Asociación Deportiva Guanacasteca]
+  slug: /fcrf/club/Asociacion-Deportiva-Guanacasteca-v2019
+  pngPath: 'png/Asociacion-Deportiva-Guanacasteca-v2019.png'
+  svgPath: 'svg/Asociacion-Deportiva-Guanacasteca-v2019.svg'
+  sourceID: fcrf-club-010
+  style: color
+  reference: 'https://www.adguanacasteca.com/'
+  ctrbID: 'ctrb-dani'
+
+

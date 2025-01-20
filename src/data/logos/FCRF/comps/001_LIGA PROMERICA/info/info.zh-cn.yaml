@@ -1,0 +1,20 @@
+- data: sourceInfo
+  sourceID: fcrf-comp-001
+  type: comp
+  nation: CRI
+  timeline: false
+  info:
+    - fullName: 普罗美里卡联赛
+      localName: Liga Promerica
+      shortName: 普罗美里卡联赛
+      founded: 1921
+      confederation: CONCACAF
+      teams: 12
+      level: 第 1 级
+      promotion:
+      relegation: 特朗斯科梅尔联赛
+  websiteURL: 'https://www.unafut.com/'
+  twitterURL: 'https://x.com/unafutoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Liga_FPD'
+
