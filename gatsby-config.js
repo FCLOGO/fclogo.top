@@ -138,6 +138,7 @@ module.exports = {
         gfm: true,
         plugins: [
           `gatsby-remark-autolink-headers`,
+          `remark-admonition`,
           {
             resolve: `gatsby-remark-prismjs`,
             options: {

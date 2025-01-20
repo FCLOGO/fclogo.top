@@ -6,3 +6,4 @@
 
 import './src/styles/global.css'
 require('./src/styles/prism-okaidia.css')
+require('./src/styles/admonition.css')
