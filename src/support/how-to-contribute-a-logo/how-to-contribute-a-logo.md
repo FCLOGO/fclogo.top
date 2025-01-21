@@ -43,7 +43,9 @@ Before installing these tools, it is best to have some basic understanding of **
 
 [Node.js](https://nodejs.org/en) is an environment that allows you to run JavaScript code outside of a web browser. Our project is built using Gatsby. To get Gatsby up and running, you need to install Node.js version 18 (or higher, but below v21) on your computer.
 
-> The current Node.js version used by this project is: v20.18.1
+:::note
+The current Node.js version used by this project is: **v20.18.1**
+:::
 
 For easier management, it is recommended to use Node version managers like [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm). You also need to install a package manager, and we recommend using [Yarn](https://yarnpkg.com/).
 
@@ -254,7 +256,9 @@ Most of the following operations will be performed in VS Code. To reduce our wor
 - [FCLOGO Snippets](https://marketplace.visualstudio.com/items?itemName=iiiRyan.fclogo-snippets): A code snippet plugin that helps us quickly input fields for entities and logos.
 - [Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure): A folder template plugin that helps us quickly create folder templates.
 
-> If the shortcut input code snippets are not working after installing the plugin, you may need to install the [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugin.
+:::tips
+If the shortcut input code snippets are not working after installing the plugin, you may need to install the [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugin.
+:::
   
 In addition to installing through the above links, you can also click the **Extensions** icon on the left side of VS Code and search for the extensions by **name** in the marketplace.
 
@@ -296,7 +300,9 @@ If the entity information does not exist, follow the subsequent steps to create 
 
    After completion, you will see the **Athletic Bilbao** club directory we created in the explorer (the rightmost image above).
 
-> The creation method for other types of entities (associations/leagues, competitions, national teams) is similar.
+:::tips
+The creation method for other types of entities (associations/leagues, competitions, national teams) is similar.
+:::
 
 #### Creating Entity Information
 
@@ -334,10 +340,12 @@ The complete data fields supported by each entity type are as follows:
 | weiboURL |  | No |  | The official Weibo link of the entity |
 | wikiURL |  | No |  | The Wikipedia link of the entity |
 
-> If the entity you want to add does not have country information created, you need to [create country information](#creating-country-information) first.
->
-> If you obtained the entity coordinates using Google Maps, you need to convert the coordinates. 
-> Google Maps provides coordinates with latitude `lat` first and longitude `lon` second, so you need to rearrange them to have longitude `lon` first and latitude `lat` second.
+:::warn
+If the entity you want to add does not have country information created, you need to [create country information](#creating-country-information) first.
+
+If you obtained the entity coordinates using Google Maps, you need to convert the coordinates. 
+**Google Maps provides coordinates with latitude `lat` first and longitude `lon` second, so you need to rearrange them to have longitude `lon` first and latitude `lat` second.**
+:::
 
 We continue to use **Athletic Bilbao** as an example to complete the entity information.
 
@@ -434,9 +442,11 @@ Explanation of country information fields:
 | flag | Yes |  | Path to the square flag image |
 | flag2 | Yes |  | Path to the rectangular flag image |
 
-> Flag images can be downloaded from [Flaticon](https://www.flaticon.com/packs/international-flags).
-> 
-> Download the `Square` style for the square flag and the `Rectangular` style for the rectangular flag, and place the flags in the `img` and `img2` folders respectively.
+:::tips
+Flag images can be downloaded from [Flaticon](https://www.flaticon.com/packs/international-flags).
+
+Download the `Square` style for the square flag and the `Rectangular` style for the rectangular flag, and place the flags in the `img` and `img2` folders respectively.
+:::
 
 ### Creating Logo Information
 
@@ -498,8 +508,11 @@ Currently supported logo style names:
 | star | Champion Star Logo | The logo with champion star style |
 | full | Full Logo | The full style of the logo |
 
-> The main styles of the logo are color, minor, and comm.
-> Other styles are derivative styles of the main styles of the logo.
+:::note
+**The main styles of the logo are color, minor, and comm.**
+
+Other styles are derivative styles of the main styles of the logo.
+:::
 
 We continue to use **Athletic Bilbao** as an example to add the `2008` version of the logo.
 

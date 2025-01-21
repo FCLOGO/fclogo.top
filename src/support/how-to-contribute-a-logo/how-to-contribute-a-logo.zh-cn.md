@@ -43,7 +43,9 @@ type: 帮助
 
 [Node.js](https://nodejs.org/zh-cn)是一个可以在 Web 浏览器之外运行 JavaScript 代码的环境。 我们的项目是使用 Gatsby 构建的。要启动并运行 Gatsby，您需要在计算机上安装 Node.js 版本 18（或更高版本，但低于 v21）。
 
-> 当前本项目使用的 Node.js 版本为：v20.18.1
+:::note
+本项目使用的 Node.js 版本为：**v20.18.1**
+:::
 
 为方便管理，建议使用 [nvm](https://github.com/nvm-sh/nvm) 或者 [fnm](https://github.com/Schniz/fnm)等 Node 版本管理工具安装，同时需要安装一个包管理器，建议使用 [Yarn](https://yarnpkg.com/)。
 
@@ -254,7 +256,9 @@ Illustrator 画布尺寸参考下图：
 - [FCLOGO Snippets](https://marketplace.visualstudio.com/items?itemName=iiiRyan.fclogo-snippets)：代码片段插件，可以帮助我们快速输入主体及徽标的字段模板。
 - [Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure)：文件夹模板插件，可以帮助我们快速创建文件夹模板。
 
-> 如果插件安装完成后，无法使用快捷输入代码片段，可能需要安装 [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) 这个插件。
+:::tips
+如果插件安装完成后，无法使用快捷输入代码片段，可能需要安装 [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) 这个插件。
+:::
   
 除了通过点击上述链接安装外，也可以直接点击 VS Code 左侧的**扩展**图标，在应用商店中使用**名称**搜索扩展。
 
@@ -296,7 +300,9 @@ Illustrator 画布尺寸参考下图：
 
    完成后，在资源管理器中就能看到我们创建完成的**毕尔巴鄂竞技**俱乐部目录（上图最右图）。
 
-> 其他类型主体（协会/联盟、赛事、国家队）目录创建方式类似。
+:::tips
+其他类型主体（协会/联盟、赛事、国家队）目录创建方式类似。
+:::
 
 #### 创建主体信息
 
@@ -334,9 +340,11 @@ Illustrator 画布尺寸参考下图：
 | weiboURL |  | 否 |  | 主体官方微博链接 |
 | wikiURL |  | 否 |  | 主体维基百科链接 |
 
-> 如果您要添加的主体尚未创建国家信息，需要先[创建国家信息](#创建国家信息)。
->
-> 如果您是使用 Google Map 得到主体坐标信息，需要将坐标进行转换。 Google Map 的坐标信息纬度 `lat` 在前，经度 `lon` 在后，所以您需要将它重新调整顺序为经度 `lon` 在前，纬度 `lat` 在后。
+:::warn
+如果您要添加的主体尚未创建国家信息，需要先[创建国家信息](#创建国家信息)。
+
+如果您是使用 Google Map 得到主体坐标信息，需要将坐标进行转换。**Google Map 的坐标信息纬度 `lat` 在前，经度 `lon` 在后，所以您需要将它重新调整顺序为经度 `lon` 在前，纬度 `lat` 在后。**
+:::
 
 我们继续以**毕尔巴鄂竞技**为例，完成主体信息。
 
@@ -433,9 +441,11 @@ Illustrator 画布尺寸参考下图：
 | flag | 是 |  | 正方形国旗图片路径 |
 | flag2 | 是 |  | 长方形国旗图片路径 |
 
-> 国旗图片可以在 [Flaticon](https://www.flaticon.com/packs/international-flags) 下载。
-> 
-> 正方形国旗下载 `Square` 样式，长方形国旗下载 `Rectangular` 样式，并将国旗分别放置于 `img` 和 `img2` 文件夹中。
+:::tips
+国旗图片可以在 [Flaticon](https://www.flaticon.com/packs/international-flags) 下载。
+
+正方形国旗下载 `Square` 样式，长方形国旗下载 `Rectangular` 样式，并将国旗分别放置于 `img` 和 `img2` 文件夹中。
+:::
 
 
 ### 创建徽标信息
@@ -498,8 +508,11 @@ Real-Madrid-v1996-mono-2.svg
 | star | 冠军星标 | 徽标包含冠军星样式 |
 | full | 完整徽标 | 徽标的完整样式 |
 
-> color、minor、comm 三种样式为徽标的主要样式。
-> 其他样式为徽标主要样式的衍生样式。
+:::note
+**color、minor、comm 三种样式为徽标的主要样式。**
+
+其他样式为徽标主要样式的衍生样式。
+:::
 
 我们继续以**毕尔巴鄂竞技**为例，添加个`2008`版本的徽标。
 
