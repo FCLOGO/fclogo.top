@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-009
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [8.823913816023651, 44.428084156095146]
+  timeline: false
+  info:
+    - fullName: Genoa Cricket and Football Club
+      localName: Genoa Cricket and Football Club
+      shortName: Genoa CFC
+      founded: 1893
+      city: Genoa
+      ground: Stadio Luigi Ferraris
+  websiteURL: 'https://genoacfc.it/'
+  twitterURL: 'https://twitter.com/GenoaCFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Genoa_CFC'

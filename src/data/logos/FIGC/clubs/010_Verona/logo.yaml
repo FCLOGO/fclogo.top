@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20250121-233006-fe802a
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Verona']
+  slug: /figc/club/Hellas-Verona-v2020
+  pngPath: 'png/Hellas-Verona-v2020.png'
+  svgPath: 'svg/Hellas-Verona-v2020.svg'
+  sourceID: figc-club-010
+  style: color
+  reference: 'https://www.hellasverona.it/'
+  ctrbID: ''

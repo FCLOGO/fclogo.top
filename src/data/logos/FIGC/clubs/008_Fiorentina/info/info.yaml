@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-008
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [11.282163731809263, 43.78112979615943]
+  timeline: false
+  info:
+    - fullName: Associacione Calcio Firenze Fiorentina
+      localName: Associacione Calcio Firenze Fiorentina
+      shortName: ACF Fiorentina
+      founded: 1920
+      city: Fiorentina
+      ground: Stadio Artemio Franchi
+  websiteURL: 'https://www.acffiorentina.com/'
+  twitterURL: 'https://twitter.com/acffiorentina'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/ACF_Fiorentina'

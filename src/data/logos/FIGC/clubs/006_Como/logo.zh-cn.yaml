@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250121-215930-9c2d64
+  version: 2017
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Como 1907']
+  slug: /figc/club/Como-1907-v2017
+  pngPath: 'png/Como-1907-v2017.png'
+  svgPath: 'svg/Como-1907-v2017.svg'
+  sourceID: figc-club-006
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250121-215955-fa9c9f
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Como 1907']
+  slug: /figc/club/Como-1907-v2019-mono
+  pngPath: 'png/Como-1907-v2019-mono.png'
+  svgPath: 'svg/Como-1907-v2019-mono.svg'
+  sourceID: figc-club-006
+  style: mono
+  reference: 'https://comofootball.com/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250121-220022-9c84af
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Como 1907']
+  slug: /figc/club/Como-1907-v2019
+  pngPath: 'png/Como-1907-v2019.png'
+  svgPath: 'svg/Como-1907-v2019.svg'
+  sourceID: figc-club-006
+  style: color
+  reference: 'https://comofootball.com/'
+  ctrbID: ''

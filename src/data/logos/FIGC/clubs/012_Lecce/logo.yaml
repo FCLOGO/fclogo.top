@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250121-234720-ea28df
+  version: 2001
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Lecce']
+  slug: /figc/club/US-Lecce-v2001-mono
+  pngPath: 'png/US-Lecce-v2001-mono.png'
+  svgPath: 'svg/US-Lecce-v2001-mono.svg'
+  sourceID: figc-club-012
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250121-234739-f7a025
+  version: 2001
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Lecce']
+  slug: /figc/club/US-Lecce-v2001
+  pngPath: 'png/US-Lecce-v2001.png'
+  svgPath: 'svg/US-Lecce-v2001.svg'
+  sourceID: figc-club-012
+  style: color
+  reference: ''
+  ctrbID: ''

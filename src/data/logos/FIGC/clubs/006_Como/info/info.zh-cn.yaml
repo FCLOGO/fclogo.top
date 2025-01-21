@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-006
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.073272449249801, 45.81336015307094]
+  timeline: false
+  info:
+    - fullName: 科莫1907足球俱乐部
+      localName: Como 1907
+      shortName: 科莫1907
+      founded: 1907
+      city: 科莫
+      ground: 朱塞佩西尼加利亚球场
+  websiteURL: 'https://comofootball.com/'
+  twitterURL: 'https://twitter.com/Como_1907'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Como_1907'

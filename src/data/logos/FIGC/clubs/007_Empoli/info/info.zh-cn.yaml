@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-007
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.917925818637128, 43.69427403614055]
+  timeline: false
+  info:
+    - fullName: 恩波利足球俱乐部
+      localName: Empoli Football Club
+      shortName: 恩波利
+      founded: 1920
+      city: 恩波利
+      ground: 卡罗·卡斯特拉尼体育场
+  websiteURL: 'https://empolifc.com/'
+  twitterURL: 'https://twitter.com/EmpoliCalcio'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Empoli_FC'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-007
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.917925818637128, 43.69427403614055]
+  timeline: false
+  info:
+    - fullName: Empoli Football Club
+      localName: Empoli Football Club
+      shortName: Empoli FC
+      founded: 1920
+      city: Empoli
+      ground: Stadio Carlo Castellani
+  websiteURL: 'https://empolifc.com/'
+  twitterURL: 'https://twitter.com/EmpoliCalcio'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Empoli_FC'

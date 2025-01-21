@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-011
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [12.407107585079107, 42.049693087557095]
+  timeline: false
+  info:
+    - fullName: Società Sportiva Lazio
+      localName: Società Sportiva Lazio
+      shortName: SS Lazio
+      founded: 1900
+      city: Rome
+      ground: Stadio Olimpico
+  websiteURL: 'https://www.sslazio.it/'
+  twitterURL: 'https://twitter.com/OfficialSSLazio'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SS_Lazio'

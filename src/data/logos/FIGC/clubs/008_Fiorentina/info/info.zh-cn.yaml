@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-008
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [11.282163731809263, 43.78112979615943]
+  timeline: false
+  info:
+    - fullName: 佛罗伦萨足球俱乐部
+      localName: Associacione Calcio Firenze Fiorentina
+      shortName: 佛罗伦萨
+      founded: 1920
+      city: 佛罗伦萨
+      ground: 弗兰基球场
+  websiteURL: 'https://www.acffiorentina.com/'
+  twitterURL: 'https://twitter.com/acffiorentina'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/ACF_Fiorentina'

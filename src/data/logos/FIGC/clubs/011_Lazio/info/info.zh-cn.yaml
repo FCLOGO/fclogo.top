@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-011
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [12.407107585079107, 42.049693087557095]
+  timeline: false
+  info:
+    - fullName: 拉齐奥体育俱乐部
+      localName: Società Sportiva Lazio
+      shortName: 拉齐奥
+      founded: 1900
+      city: 罗马
+      ground: 罗马奥林匹克体育场
+  websiteURL: 'https://www.sslazio.it/'
+  twitterURL: 'https://twitter.com/OfficialSSLazio'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SS_Lazio'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-012
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [18.174776776935524, 40.35680760182606]
+  timeline: false
+  info:
+    - fullName: Unione Sportiva Lecce
+      localName: Unione Sportiva Lecce
+      shortName: US Lecce
+      founded: 1908
+      city: Lecce
+      ground: Stadio Ettore Giardiniero - Via del mare
+  websiteURL: 'https://www.uslecce.it/'
+  twitterURL: 'https://twitter.com/OfficialUSLecce'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/US_Lecce'

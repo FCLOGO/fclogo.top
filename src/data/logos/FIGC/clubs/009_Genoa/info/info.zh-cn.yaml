@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-009
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [8.823913816023651, 44.428084156095146]
+  timeline: false
+  info:
+    - fullName: 热那亚板球与足球俱乐部
+      localName: Genoa Cricket and Football Club
+      shortName: 热那亚
+      founded: 1893
+      city: 热那亚
+      ground: 费拉里斯球场
+  websiteURL: 'https://genoacfc.it/'
+  twitterURL: 'https://twitter.com/GenoaCFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Genoa_CFC'

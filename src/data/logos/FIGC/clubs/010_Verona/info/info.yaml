@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-010
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.973960723097331, 45.412774470474446]
+  timeline: false
+  info:
+    - fullName: Hellas Verona Football Club
+      localName: Hellas Verona Football Club
+      shortName: Hellas Verona
+      founded: 1903
+      city: Verona
+      ground: Marcantonio Bentegodi
+  websiteURL: 'https://www.hellasverona.it/'
+  twitterURL: 'https://x.com/HellasVeronaFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hellas_Verona_FC'
