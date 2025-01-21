@@ -4,15 +4,15 @@
   nation: CRI
   timeline: false
   info:
-    - fullName: Liga Promerica
-      localName: Liga Promerica
-      shortName: Liga Promerica
+    - fullName: Primera División de Costa Rica
+      localName: Primera División de Costa Rica
+      shortName: Liga FPD
       founded: 1921
       confederation: CONCACAF
       teams: 12
       level: Level 1
       promotion:
-      relegation: Liga Transcomer
+      relegation: Segunda División de Costa Rica
   websiteURL: 'https://www.unafut.com/'
   twitterURL: 'https://x.com/unafutoficial'
   weiboURL: ''
