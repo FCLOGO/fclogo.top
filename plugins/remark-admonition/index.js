@@ -72,13 +72,13 @@ module.exports = async ({ markdownAST }) => {
 
           // 构建 HTML 结点
           const admonitionHtml = `
-            <div class="admonition admonition-${keyword.toLowerCase()}">
+            <section class="admonition admonition-${keyword.toLowerCase()}">
               <p class="admonition-title">
                 ${keyword === 'NOTE' ? noteIcon : keyword === 'TIPS' ? tipsIcon : warnIcon}
                 ${keyword}
               </p>
-              <div class="admonition-content">${contentHtml}</div>
-            </div>
+              <section class="admonition-content">${contentHtml}</section>
+            </section>
           `
           parent.children.splice(index, endIndex - index + 1, {
             type: 'html',
