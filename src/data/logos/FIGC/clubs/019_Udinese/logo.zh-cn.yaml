@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250122-131115-034e42
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Udinese']
+  slug: /figc/club/Udinese-Calcio-v2010-mono
+  pngPath: 'png/Udinese-Calcio-v2010-mono.png'
+  svgPath: 'svg/Udinese-Calcio-v2010-mono.svg'
+  sourceID: figc-club-019
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250122-131140-d6469e
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Udinese']
+  slug: /figc/club/Udinese-Calcio-v2010
+  pngPath: 'png/Udinese-Calcio-v2010.png'
+  svgPath: 'svg/Udinese-Calcio-v2010.svg'
+  sourceID: figc-club-019
+  style: color
+  reference: ''
+  ctrbID: ''

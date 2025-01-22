@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250122-130605-353961
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Torino']
+  slug: /figc/club/Torino-FC-v2005-mono
+  pngPath: 'png/Torino-FC-v2005-mono.png'
+  svgPath: 'svg/Torino-FC-v2005-mono.svg'
+  sourceID: figc-club-018
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250122-130624-1f7b79
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Torino']
+  slug: /figc/club/Torino-FC-v2005
+  pngPath: 'png/Torino-FC-v2005.png'
+  svgPath: 'svg/Torino-FC-v2005.svg'
+  sourceID: figc-club-018
+  style: color
+  reference: ''
+  ctrbID: ''

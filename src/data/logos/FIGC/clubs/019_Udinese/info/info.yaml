@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-019
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [13.199109315898813, 46.08131717891849]
+  timeline: false
+  info:
+    - fullName: Udinese Calcio
+      localName: Udinese Calcio
+      shortName: Udinese
+      founded: 1896
+      city: Udine
+      ground: Bluenergy Stadium
+  websiteURL: 'https://www.udinese.it/'
+  twitterURL: 'https://twitter.com/Udinese_1896'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Udinese_Calcio'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-020
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [12.363422583231822, 45.42771837091454]
+  timeline: false
+  info:
+    - fullName: 威尼斯足球俱乐部
+      localName: Venezia Football Club
+      shortName: 威尼斯
+      founded: 1907
+      city: 威尼斯
+      ground: 皮埃尔路易吉·本佐体育场
+  websiteURL: 'https://www.veneziafc.it/'
+  twitterURL: 'https://twitter.com/VeneziaFC_IT'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Venezia_FC'

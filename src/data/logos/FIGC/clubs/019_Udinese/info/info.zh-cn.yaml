@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-019
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [13.199109315898813, 46.08131717891849]
+  timeline: false
+  info:
+    - fullName: 乌迪内斯足球俱乐部
+      localName: Udinese Calcio
+      shortName: 乌迪内斯
+      founded: 1896
+      city: 乌迪内
+      ground: 弗留利球场
+  websiteURL: 'https://www.udinese.it/'
+  twitterURL: 'https://twitter.com/Udinese_1896'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Udinese_Calcio'

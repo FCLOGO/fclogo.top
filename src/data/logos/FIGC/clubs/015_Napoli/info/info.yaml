@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-015
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [14.193050369031331, 40.827928353122715]
+  timeline: false
+  info:
+    - fullName: Società Sportiva Calcio Napoli
+      localName: Società Sportiva Calcio Napoli
+      shortName: SSC Napoli
+      founded: 1926
+      city: Naples
+      ground: Stadio Diego Armando Maradona
+  websiteURL: 'https://sscnapoli.it/'
+  twitterURL: 'https://twitter.com/SSCNapoli'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SSC_Napoli'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-017
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [12.468038209944577, 41.74614429444656]
+  timeline: false
+  info:
+    - fullName: 罗马体育俱乐部
+      localName: Associazione Sportiva Roma
+      shortName: 罗马
+      founded: 1927
+      city: 罗马
+      ground: 罗马奥林匹克体育场
+  websiteURL: 'https://www.asroma.com/'
+  twitterURL: 'https://twitter.com/ASRomaEN'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AS_Roma'

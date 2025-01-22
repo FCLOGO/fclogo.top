@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250122-112626-fbf4a2
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AC Milan']
+  slug: /figc/club/AC-Milan-v2009-mono
+  pngPath: 'png/AC-Milan-v2009-mono.png'
+  svgPath: 'svg/AC-Milan-v2009-mono.svg'
+  sourceID: figc-club-013
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250122-112644-bb9d61
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AC Milan']
+  slug: /figc/club/AC-Milan-v2009
+  pngPath: 'png/AC-Milan-v2009.png'
+  svgPath: 'svg/AC-Milan-v2009.svg'
+  sourceID: figc-club-013
+  style: color
+  reference: ''
+  ctrbID: ''

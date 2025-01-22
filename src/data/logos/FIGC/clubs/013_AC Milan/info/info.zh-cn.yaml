@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-013
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.14846807695356, 45.48581794876569]
+  timeline: false
+  info:
+    - fullName: 米兰足球俱乐部
+      localName: Associazione Calcio Milan
+      shortName: AC 米兰
+      founded: 1899
+      city: 米兰
+      ground: 圣西罗球场
+  websiteURL: 'https://www.acmilan.com/'
+  twitterURL: 'https://twitter.com/acmilan'
+  weiboURL: 'https://www.weibo.com/acmilanofficial'
+  wikiURL: 'https://en.wikipedia.org/wiki/AC_Milan'

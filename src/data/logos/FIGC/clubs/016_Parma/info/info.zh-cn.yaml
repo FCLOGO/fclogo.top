@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-016
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.337674183933359, 44.795307533215954]
+  timeline: false
+  info:
+    - fullName: 帕尔马1913足球俱乐部
+      localName: Parma Calcio 1913
+      shortName: 帕尔马
+      founded: 1913
+      city: 帕尔马
+      ground: 塔尔迪尼球场
+  websiteURL: 'https://www.parmacalcio1913.com/'
+  twitterURL: 'https://twitter.com/1913parmacalcio'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Parma_Calcio_1913'

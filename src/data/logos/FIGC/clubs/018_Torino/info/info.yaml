@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-018
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [7.649999815688808, 45.041910126605536]
+  timeline: false
+  info:
+    - fullName: Torino Football Club
+      localName: Torino Football Club
+      shortName: Torino FC
+      founded: 1906
+      city: Turin
+      ground: Stadio Olimpico Grande Torino
+  websiteURL: 'https://www.torinofc.it/'
+  twitterURL: 'https://twitter.com/TorinoFC_1906'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Torino_FC'

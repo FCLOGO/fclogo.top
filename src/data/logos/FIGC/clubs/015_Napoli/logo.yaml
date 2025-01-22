@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250122-113829-dfadea
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Napoli']
+  slug: /figc/club/SSC-Napoli-v2007
+  pngPath: 'png/SSC-Napoli-v2007.png'
+  svgPath: 'svg/SSC-Napoli-v2007.svg'
+  sourceID: figc-club-015
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250122-113855-a42059
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Napoli']
+  slug: /figc/club/SSC-Napoli-v2024
+  pngPath: 'png/SSC-Napoli-v2024.png'
+  svgPath: 'svg/SSC-Napoli-v2024.svg'
+  sourceID: figc-club-015
+  style: color
+  reference: 'https://www.sscnapoli.it/'
+  ctrbID: ''

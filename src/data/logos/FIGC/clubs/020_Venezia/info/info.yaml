@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-020
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [12.363422583231822, 45.42771837091454]
+  timeline: false
+  info:
+    - fullName: Venezia Football Club
+      localName: Venezia Football Club
+      shortName: Venezia FC
+      founded: 1907
+      city: Venice
+      ground: Pier Luigi Penzo
+  websiteURL: 'https://www.veneziafc.it/'
+  twitterURL: 'https://twitter.com/VeneziaFC_IT'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Venezia_FC'

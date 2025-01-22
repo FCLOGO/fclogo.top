@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-015
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [14.193050369031331, 40.827928353122715]
+  timeline: false
+  info:
+    - fullName: 那不勒斯足球俱乐部
+      localName: Società Sportiva Calcio Napoli
+      shortName: 那不勒斯
+      founded: 1926
+      city: 那不勒斯
+      ground: 马拉多纳球场
+  websiteURL: 'https://sscnapoli.it/'
+  twitterURL: 'https://twitter.com/SSCNapoli'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SSC_Napoli'

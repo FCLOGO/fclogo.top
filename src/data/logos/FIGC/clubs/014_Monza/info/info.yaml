@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-014
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [9.30808301149278, 45.58307247991698]
+  timeline: false
+  info:
+    - fullName: Associazione Calcio Monza
+      localName: Associazione Calcio Monza
+      shortName: AC Monza
+      founded: 1912
+      city: Monza
+      ground: Stadio Brianteo
+  websiteURL: 'https://www.acmonza.com/'
+  twitterURL: 'https://twitter.com/ACMonza'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AC_Monza'
