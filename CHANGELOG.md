@@ -2,6 +2,40 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/FCLOGO/fclogo.top/compare/v2.6.1...v2.7.0) (2025-01-22)
+
+
+### ❇️ Chores | 其他更新
+
+* 修正俱乐部中文名称和场馆名称 ([bb9b654](https://github.com/FCLOGO/fclogo.top/commit/bb9b65482848f87ea6415ddacc88c29cd1c0947b))
+
+
+### ✨ Features | 新功能
+
+* 添加Admonition 提醒文本样式，支持不同类型的提示信息 ([df318cc](https://github.com/FCLOGO/fclogo.top/commit/df318cc62d648272c8a1714c40d2cfaa1f6c7014))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 更新贡献指南中的 Git 远程仓库地址 ([5793f4d](https://github.com/FCLOGO/fclogo.top/commit/5793f4d428db2a72ac1ca09cdf57c948c7530cc1))
+* 更新乌迪内斯俱乐部徽标样式为单色 ([5779a38](https://github.com/FCLOGO/fclogo.top/commit/5779a3880f919bd39f6e5b941227cd8be479d0ab))
+* 将Admonition组件的HTML结构从<div>更改为<section>以提高语义性 ([750623e](https://github.com/FCLOGO/fclogo.top/commit/750623ea73d7b587f7a7d5cbe05c18ce173f47aa))
+* 修正多个俱乐部和联赛的名称拼写及相关信息 ([7296877](https://github.com/FCLOGO/fclogo.top/commit/7296877a95c99532b761e42f6ccd99744ccf9af3))
+* 修正萨普里萨、埃雷迪亚诺和卡达真尼斯的名称拼写 ([1809ecd](https://github.com/FCLOGO/fclogo.top/commit/1809ecde2da24e9e02574d810728d52b8dca63c2))
+
+
+### 📝 Documentation | 文档
+
+* 更新如何贡献徽标的文档，添加国家信息创建指南及坐标转换说明 ([6178c1a](https://github.com/FCLOGO/fclogo.top/commit/6178c1aa1ee59645b9ea35b37014f6b7c2dbc925))
+* 添加24/25赛季意甲联赛徽标包 ([5fcdf90](https://github.com/FCLOGO/fclogo.top/commit/5fcdf90261472b76aa7dd8163ff9a888da4efb4f))
+* 添加多个意大利足球俱乐部的徽标和信息 ([86ecf8b](https://github.com/FCLOGO/fclogo.top/commit/86ecf8ba15c4ec0af79daa8f4ce7cb54faefaf94))
+* 添加多个意大利足球俱乐部的详细信息和徽标 ([f4e54d5](https://github.com/FCLOGO/fclogo.top/commit/f4e54d5634dffe73dcfadb6a8f36db6038f01e1c))
+* 添加关于配置 Mapbox Access Token 的说明 ([10cc27a](https://github.com/FCLOGO/fclogo.top/commit/10cc27a849bc66bb1c0a52cf8a949e38eb240dea))
+* 添加卡利亚里足球俱乐部徽标 ([fba3ac6](https://github.com/FCLOGO/fclogo.top/commit/fba3ac6ba960c585aa5e8db85a57cfc5c7949f0f))
+* 添加提示框以增强文档可读性 ([6593c65](https://github.com/FCLOGO/fclogo.top/commit/6593c6579f98ac3290c0cbd56d3e8c283953c956))
+* 添加新贡献者 danisalach 并修改Le Havre徽标错误 ([1e4b04f](https://github.com/FCLOGO/fclogo.top/commit/1e4b04f93aefa17b0c92fc37539a47a415edc6c6))
+* 添加意甲联赛及相关俱乐部信息和标志 ([2aef33d](https://github.com/FCLOGO/fclogo.top/commit/2aef33dc2bbe3c46996875bada4d9a2b2d6c85e4))
+
 ### [2.6.1](https://github.com/FCLOGO/fclogo.top/compare/v2.6.0...v2.6.1) (2025-01-14)
 
 
