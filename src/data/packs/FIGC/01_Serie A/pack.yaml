@@ -1,0 +1,68 @@
+- data: logoPack
+  packID: 20250122-134114-f7cadb
+  name: Serie A
+  season: '24-25'
+  packSource: figc-comp-001
+  logoVersion: 2022
+  slug: /pack/24-25-Serie-A
+  items:
+    - id: figc-club-001
+      version: 2017
+      style: color
+    - id: figc-club-002
+      version: 2021
+      style: color
+    - id: figc-club-003
+      version: 1993
+      style: color
+    - id: figc-club-004
+      version: 2018
+      style: color
+    - id: figc-club-005
+      version: 2015
+      style: color
+    - id: figc-club-006
+      version: 2019
+      style: color
+    - id: figc-club-007
+      version: 2021
+      style: color
+    - id: figc-club-008
+      version: 2022
+      style: color
+    - id: figc-club-009
+      version: 2022
+      style: color
+    - id: figc-club-010
+      version: 2020
+      style: color
+    - id: figc-club-011
+      version: 1993
+      style: color
+    - id: figc-club-012
+      version: 2001
+      style: color
+    - id: figc-club-013
+      version: 2009
+      style: color
+    - id: figc-club-014
+      version: 2021
+      style: color
+    - id: figc-club-015
+      version: 2024
+      style: color
+    - id: figc-club-016
+      version: 2016
+      style: color
+    - id: figc-club-017
+      version: 2016
+      style: color
+    - id: figc-club-018
+      version: 2005
+      style: color
+    - id: figc-club-019
+      version: 2010
+      style: color
+    - id: figc-club-020
+      version: 2022
+      style: color
