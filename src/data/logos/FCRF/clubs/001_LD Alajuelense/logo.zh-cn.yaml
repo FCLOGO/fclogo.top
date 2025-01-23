@@ -3,7 +3,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: false
-  verName: ['阿拉祖蘭斯']         
+  verName: ['阿拉祖蘭斯']
   slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2018-mono
   pngPath: 'png/Liga-Deportiva-Alajuelense-v2018-mono.png'
   svgPath: 'svg/Liga-Deportiva-Alajuelense-v2018-mono.svg'
@@ -25,3 +25,283 @@
   style: color
   reference: 'https://lda.cr/'
   ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250123-164015-3d73d6
+  version: 1919
+  isDoubtful: true
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1919
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1919.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1919.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164142-7ca4ce
+  version: 1925
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1925
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1925.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1925.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164159-74b31d
+  version: 1959
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1959
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1959.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1959.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164218-914955
+  version: 1966
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1966
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1966.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1966.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164243-2dfa19
+  version: 1970
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1970
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1970.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1970.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164300-03132e
+  version: 1980
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1980
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1980.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1980.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164316-4f3b06
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1984
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1984.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1984.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164332-b18dc4
+  version: 1985
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1985
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1985.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1985.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164351-a9f2da
+  version: 1986
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1986
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1986.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1986.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164404-e4f5e4
+  version: 1987
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1987
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1987.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1987.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164423-20b131
+  version: 1989
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1989
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1989.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1989.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164443-94792c
+  version: 1990
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1990
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1990.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1990.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164456-2e95c5
+  version: 1991
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1991
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1991.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1991.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164528-e3018b
+  version: 1992
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1992
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1992.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1992.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164546-61e5bf
+  version: 1994
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1994
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1994.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1994.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164603-a35d1a
+  version: 1996
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1996
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1996.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1996.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164620-f3898b
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v1998
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v1998.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v1998.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164706-7ed967
+  version: 2002
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2002
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v2002.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v2002.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164721-0f1f31
+  version: 2005
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2005
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v2005.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v2005.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250123-164735-8ca084
+  version: 2007
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Alajuelense']
+  slug: /fcrf/club/Liga-Deportiva-Alajuelense-v2007
+  pngPath: 'png/Liga-Deportiva-Alajuelense-v2007.png'
+  svgPath: 'svg/Liga-Deportiva-Alajuelense-v2007.svg'
+  sourceID: fcrf-club-001
+  style: color
+  reference: ''
+  ctrbID: ''
