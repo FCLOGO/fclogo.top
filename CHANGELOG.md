@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.2](https://github.com/FCLOGO/fclogo.top/compare/v2.7.0...v2.7.2) (2025-01-25)
+
+
+### 📝 Documentation | 文档
+
+* 添加Alajuelense的多个历史徽标 ([8860564](https://github.com/FCLOGO/fclogo.top/commit/886056493439d5e562c6ee95519c9638a8662320))
+
+
+### ❇️ Chores | 其他更新
+
+* **release:** 2.7.1 ([d9197f3](https://github.com/FCLOGO/fclogo.top/commit/d9197f3b32599f602452514798683b5536158942))
+
 ### [2.7.1](https://github.com/FCLOGO/fclogo.top/compare/v2.7.0...v2.7.1) (2025-01-25)
 
 
