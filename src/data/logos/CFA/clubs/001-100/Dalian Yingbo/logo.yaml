@@ -62,7 +62,7 @@
   logoID: 20240905-220527-eec8c6
   version: 2024
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Dalian Yingbo']
   slug: /cfa/club/dalian-yingbo-v2024-mono
   pngPath: 'png/dalian-yingbo-v2024-mono.png'
@@ -76,7 +76,7 @@
   logoID: 20240905-220627-963e24
   version: 2024
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Dalian Yingbo']
   slug: /cfa/club/dalian-yingbo-v2024
   pngPath: 'png/dalian-yingbo-v2024.png'
@@ -85,3 +85,31 @@
   style: color
   reference: 'https://weibo.com/7762205779/O7fRHk6T9'
   ctrbID: ''
+
+- data: logo
+  logoID: 20250125-231503-f1b752
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dalian Yingbo']
+  slug: /cfa/club/Dalian-Yingbo-v2025-mono
+  pngPath: 'png/Dalian-Yingbo-v2025-mono.png'
+  svgPath: 'svg/Dalian-Yingbo-v2025-mono.svg'
+  sourceID: cfa-club-090
+  style: mono
+  reference: 'https://weibo.com/7762205779/P7wnl3ePs'
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250125-231623-19f592
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dalian Yingbo']
+  slug: /cfa/club/Dalian-Yingbo-v2025
+  pngPath: 'png/Dalian-Yingbo-v2025.png'
+  svgPath: 'svg/Dalian-Yingbo-v2025.svg'
+  sourceID: cfa-club-090
+  style: color
+  reference: 'https://weibo.com/7762205779/P7wnl3ePs'
+  ctrbID: 'ctrb-ryan'
