@@ -38,7 +38,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164142-7ca4ce
@@ -52,7 +52,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164159-74b31d
@@ -66,7 +66,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164218-914955
@@ -80,7 +80,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164243-2dfa19
@@ -94,7 +94,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164300-03132e
@@ -108,7 +108,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164316-4f3b06
@@ -122,7 +122,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164332-b18dc4
@@ -136,7 +136,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164351-a9f2da
@@ -150,7 +150,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164404-e4f5e4
@@ -164,7 +164,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164423-20b131
@@ -178,7 +178,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164443-94792c
@@ -192,7 +192,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164456-2e95c5
@@ -206,7 +206,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164528-e3018b
@@ -220,7 +220,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164546-61e5bf
@@ -234,7 +234,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164603-a35d1a
@@ -248,7 +248,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164620-f3898b
@@ -262,7 +262,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164706-7ed967
@@ -276,7 +276,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164721-0f1f31
@@ -290,7 +290,7 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
 
 - data: logo
   logoID: 20250123-164735-8ca084
@@ -304,4 +304,4 @@
   sourceID: fcrf-club-001
   style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ramr'
