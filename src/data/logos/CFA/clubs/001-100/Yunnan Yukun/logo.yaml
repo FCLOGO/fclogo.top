@@ -50,7 +50,7 @@
   logoID: 20231006-160949
   version: 2023
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Yunnan Yukun']
   slug: /cfa/club/yunnan-yukun-v2023-mono
   pngPath: 'png/yunnan-yukun-v2023-mono.png'
@@ -62,10 +62,38 @@
   logoID: 20231006-161019
   version: 2023
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Yunan Yukun']
   slug: /cfa/club/yunnan-yukun-v2023
   pngPath: 'png/yunnan-yukun-v2023.png'
   svgPath: 'svg/yunnan-yukun-v2023.svg'
   sourceID: cfa-club-088
   style: color
+
+- data: logo
+  logoID: 20250126-210901-030263
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YN YuKun']
+  slug: /cfa/club/YunNan-YuKun-v2025-mono
+  pngPath: 'png/YunNan-YuKun-v2025-mono.png'
+  svgPath: 'svg/YunNan-YuKun-v2025-mono.svg'
+  sourceID: cfa-club-088
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250126-210936-7529c7
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['YN YuKun']
+  slug: /cfa/club/YunNan-YuKun-v2025
+  pngPath: 'png/YunNan-YuKun-v2025.png'
+  svgPath: 'svg/YunNan-YuKun-v2025.svg'
+  sourceID: cfa-club-088
+  style: color
+  reference: ''
+  ctrbID: ''
