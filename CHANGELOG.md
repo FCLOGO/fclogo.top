@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.3](https://github.com/FCLOGO/fclogo.top/compare/v2.7.2...v2.7.3) (2025-01-26)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 更新Alajuelense徽标的贡献者 ([6d1eab4](https://github.com/FCLOGO/fclogo.top/commit/6d1eab4197ad97fb5bf6284d9eef0996a498d8be))
+
+
+### 📝 Documentation | 文档
+
+* 更新大连英博徽标信息 ([0819366](https://github.com/FCLOGO/fclogo.top/commit/081936636b32e2433a3b63108d3893c254231a4c))
+* 更新云南玉昆俱乐部信息，添加2025年新徽标 ([5df4f44](https://github.com/FCLOGO/fclogo.top/commit/5df4f447f0f62bb6449c10fda78b6632892cef37))
+* 添加2025年中超联赛徽标集 ([e82ba2b](https://github.com/FCLOGO/fclogo.top/commit/e82ba2ba8b7a53ccb8279673c41eedf55dfe8ca5))
+
 ### [2.7.2](https://github.com/FCLOGO/fclogo.top/compare/v2.7.0...v2.7.2) (2025-01-25)
 
 
