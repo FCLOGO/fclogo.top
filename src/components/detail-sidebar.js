@@ -238,10 +238,14 @@ const DetailSidebar = props => {
             {t('sidebar.tellMe')}
           </a>
         </h6>
-        <span className="text-light-gray uppercase font-mono">
+        <p className="text-light-gray uppercase font-mono">
           {t('sidebar.logoid')}
           {props.logoID}
-        </span>
+        </p>
+        <p className="text-light-gray uppercase font-mono">
+          {t('sidebar.sourceid')}
+          {props.sourceID}
+        </p>
       </div>
     </aside>
   )
