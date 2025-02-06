@@ -74,7 +74,7 @@
   logoID: 20220427-104104
   version: 2022.04
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Shijiazhuang Gongfu']
   slug: /cfa/club/shijiazhuang-gongfu-v202204-mono
   pngPath: 'png/shijiazhuang-gongfu-v202204-mono.png'
@@ -86,10 +86,38 @@
   logoID: 20220427-104153
   version: 2022.04
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Shijiazhuang Gongfu']
   slug: /cfa/club/shijiazhuang-gongfu-v202204
   pngPath: 'png/shijiazhuang-gongfu-v202204.png'
   svgPath: 'svg/shijiazhuang-gongfu-v202204.svg'
   sourceID: cfa-club-050
   style: color
+
+- data: logo
+  logoID: 20250206-101243-ed53d8
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shijiazhuang Gongfu']
+  slug: /cfa/club/Shijiazhuang-Gongfu-v2025-mono
+  pngPath: 'png/Shijiazhuang-Gongfu-v2025-mono.png'
+  svgPath: 'svg/Shijiazhuang-Gongfu-v2025-mono.svg'
+  sourceID: cfa-club-050
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250206-101312-a8781a
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Shijiazhuang Gongfu']
+  slug: /cfa/club/Shijiazhuang-Gongfu-v2025
+  pngPath: 'png/Shijiazhuang-Gongfu-v2025.png'
+  svgPath: 'svg/Shijiazhuang-Gongfu-v2025.svg'
+  sourceID: cfa-club-050
+  style: color
+  reference: ''
+  ctrbID: ''
