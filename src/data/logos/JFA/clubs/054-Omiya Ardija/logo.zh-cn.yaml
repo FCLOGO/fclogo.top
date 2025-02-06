@@ -2,7 +2,7 @@
   logoID: 20241018-165559-e0eb09
   version: 2000
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['大宫松鼠']
   slug: /jfa/club/omiya-ardija-v2000-mono
   pngPath: 'png/omiya-ardija-v2000-mono.png'
@@ -16,7 +16,7 @@
   logoID: 20241018-165645-34736f
   version: 2000
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['大宫松鼠']
   slug: /jfa/club/omiya-ardija-v2000
   pngPath: 'png/omiya-ardija-v2000.png'
@@ -24,4 +24,32 @@
   sourceID: jfa-club-054
   style: color
   reference: 'https://www.jleague.co/clubs/Omiya-Ardija/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250206-095722-068a25
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RB Omiya Ardija']
+  slug: /jfa/club/RB-Omiya-Ardija-v2025-mono
+  pngPath: 'png/RB-Omiya-Ardija-v2025-mono.png'
+  svgPath: 'svg/RB-Omiya-Ardija-v2025-mono.svg'
+  sourceID: jfa-club-054
+  style: mono
+  reference: 'https://www.rbomiya.com/club/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250206-095857-a9041e
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['RB Omiya Ardija']
+  slug: /jfa/club/RB-Omiya-Ardija-v2025
+  pngPath: 'png/RB-Omiya-Ardija-v2025.png'
+  svgPath: 'svg/RB-Omiya-Ardija-v2025.svg'
+  sourceID: jfa-club-054
+  style: color
+  reference: 'https://www.rbomiya.com/club/'
   ctrbID: ''
