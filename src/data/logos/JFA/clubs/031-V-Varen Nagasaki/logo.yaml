@@ -2,7 +2,7 @@
   logoID: 20241013-204832-6bd992
   version: 2005
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['V-Varen Nagasaki']
   slug: /jfa/club/v-varen-nagasaki-v2005-mono
   pngPath: 'png/v-varen-nagasaki-v2005-mono.png'
@@ -16,7 +16,7 @@
   logoID: 20241013-204920-91b168
   version: 2005
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['V-Varen Nagasaki']
   slug: /jfa/club/v-varen-nagasaki-v2005
   pngPath: 'png/v-varen-nagasaki-v2005.png'
@@ -24,4 +24,32 @@
   sourceID: jfa-club-031
   style: color
   reference: 'https://www.jleague.co/clubs/V-Varen-Nagasaki/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250206-095259-f3e3b8
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['V-Varen']
+  slug: /jfa/club/V-Varen-Nagasaki-v2025-mono
+  pngPath: 'png/V-Varen-Nagasaki-v2025-mono.png'
+  svgPath: 'svg/V-Varen-Nagasaki-v2025-mono.svg'
+  sourceID: jfa-club-031
+  style: mono
+  reference: 'https://www.v-varen.com/emblem'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250206-095436-27fd83
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['V-Varen']
+  slug: /jfa/club/V-Varen-Nagasaki-v2025
+  pngPath: 'png/V-Varen-Nagasaki-v2025.png'
+  svgPath: 'svg/V-Varen-Nagasaki-v2025.svg'
+  sourceID: jfa-club-031
+  style: color
+  reference: 'https://www.v-varen.com/emblem'
   ctrbID: ''
