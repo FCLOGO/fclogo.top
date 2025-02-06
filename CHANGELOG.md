@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.4](https://github.com/FCLOGO/fclogo.top/compare/v2.7.3...v2.7.4) (2025-02-06)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修正随机徽标标题的拼写错误 ([6be5a47](https://github.com/FCLOGO/fclogo.top/commit/6be5a4700503f40cb853e85fdb0eee22bb7310df))
+
+
+### ❇️ Chores | 其他更新
+
+* 在侧边栏中添加SourceID信息 ([93820cb](https://github.com/FCLOGO/fclogo.top/commit/93820cb41bbf42674eb387b1834cec3f7b74dde6))
+
+
+### 📝 Documentation | 文档
+
+* 更新大宫松鼠俱乐部信息及徽标 ([386e8f8](https://github.com/FCLOGO/fclogo.top/commit/386e8f87f37f363f3733c05403d54115dd6c914e))
+* 更新石家庄功夫俱乐部的徽标 ([ad36ac8](https://github.com/FCLOGO/fclogo.top/commit/ad36ac84f842ca9bce834daea972e2519dfaf6d8))
+* 更新长崎航海俱乐部徽标 ([649aa90](https://github.com/FCLOGO/fclogo.top/commit/649aa90fe2ce64679b318d4dd3c94169502e2a4d))
+* 添加2025赛季日本J1和J2联赛的徽标集 ([27f4f98](https://github.com/FCLOGO/fclogo.top/commit/27f4f9831d970af35f149f57ca5bc2c9a509c482))
+
 ### [2.7.3](https://github.com/FCLOGO/fclogo.top/compare/v2.7.2...v2.7.3) (2025-01-26)
 
 
