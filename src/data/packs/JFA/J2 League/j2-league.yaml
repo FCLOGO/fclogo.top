@@ -46,3 +46,58 @@
       version: 2013
     - id: jfa-club-040
       version: 1999
+
+- data: logoPack
+  packID: 20250206-092533-64a50a
+  name: Japan J2 League
+  season: '2025'
+  packSource: jfa-comp-002
+  logoVersion: 2019
+  slug: /pack/2025-meiji-yasuda-j2-league
+  items:
+    - id: jfa-club-016
+      version: 2016
+      style: color
+    - id: jfa-club-009
+      version: 2015
+      style: color
+    - id: jfa-club-019
+      version: 2015
+      style: color
+    - id: jfa-club-021
+      version: 2014
+    - id: jfa-club-022
+      version: 1996
+    - id: jfa-club-023
+      version: 2009
+    - id: jfa-club-024
+      version: 1994
+    - id: jfa-club-026
+      version: 2015
+    - id: jfa-club-028
+      version: 1994
+    - id: jfa-club-029
+      version: 2005
+    - id: jfa-club-030
+      version: 2000
+    - id: jfa-club-031
+      version: 2025
+    - id: jfa-club-032
+      version: 2006
+    - id: jfa-club-034
+      version: 0000
+    - id: jfa-club-037
+      version: 2024
+    - id: jfa-club-038
+      version: 2022
+    - id: jfa-club-039
+      version: 2013
+    - id: jfa-club-045
+      version: 2015
+      style: color
+    - id: jfa-club-059
+      version: 2007
+      style: color
+    - id: jfa-club-054
+      version: 2025
+      style: color
