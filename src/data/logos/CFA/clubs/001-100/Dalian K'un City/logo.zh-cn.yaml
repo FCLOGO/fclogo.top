@@ -30,7 +30,7 @@
   logoID: 20240914-224400-02034e
   version: 2024
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['大连鲲城']
   slug: /cfa/club/dalian-kuncity-v2024-mono
   pngPath: 'png/dalian-kuncity-v2024-mono.png'
@@ -44,11 +44,39 @@
   logoID: 20240914-224448-448b0e
   version: 2024
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['大连鲲城']
   slug: /cfa/club/dalian-kuncity-v2024
   pngPath: 'png/dalian-kuncity-v2024.png'
   svgPath: 'svg/dalian-kuncity-v2024.svg'
+  sourceID: cfa-club-098
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250208-194635-245093
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大连鲲城']
+  slug: /cfa/club/dalian-kuncity-v2025-mono
+  pngPath: 'png/dalian-kuncity-v2025-mono.png'
+  svgPath: 'svg/dalian-kuncity-v2025-mono.svg'
+  sourceID: cfa-club-098
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250208-194711-f35c84
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['大连鲲城']
+  slug: /cfa/club/dalian-kuncity-v2025
+  pngPath: 'png/dalian-kuncity-v2025.png'
+  svgPath: 'svg/dalian-kuncity-v2025.svg'
   sourceID: cfa-club-098
   style: color
   reference: ''
