@@ -25,3 +25,45 @@
   style: color
   reference: 'https://www.facebook.com/CartaginesCR'
   ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250208-212456-39e96a
+  version: 1984
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CS Cartagines']
+  slug: /fcrf/club/Club-Sport-Cartagines-v1984
+  pngPath: 'png/Club-Sport-Cartagines-v1984.png'
+  svgPath: 'svg/Club-Sport-Cartagines-v1984.svg'
+  sourceID: fcrf-club-004
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20250208-212612-87a9b3
+  version: 1997
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CS Cartagines']
+  slug: /fcrf/club/Club-Sport-Cartagines-v1997
+  pngPath: 'png/Club-Sport-Cartagines-v1997.png'
+  svgPath: 'svg/Club-Sport-Cartagines-v1997.svg'
+  sourceID: fcrf-club-004
+  style: color
+  reference: ''
+  ctrbID: 'crtb-ramr'
+
+- data: logo
+  logoID: 20250208-212644-983af3
+  version: 2001
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CS Cartagines']
+  slug: /fcrf/club/Club-Sport-Cartagines-v2001
+  pngPath: 'png/Club-Sport-Cartagines-v2001.png'
+  svgPath: 'svg/Club-Sport-Cartagines-v2001.svg'
+  sourceID: fcrf-club-004
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
