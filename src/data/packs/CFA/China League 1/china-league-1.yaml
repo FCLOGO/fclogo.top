@@ -124,3 +124,60 @@
       version: 2024
     - id: cfa-club-028
       version: 2023
+
+- data: logoPack
+  packID: 20250208-200034-4e27ee
+  name: China League 1
+  season: '2025'
+  packSource: cfa-comp-002
+  logoVersion: 2004
+  slug: /pack/2025-china-league-1
+  items:
+    - id: cfa-club-022
+      version: 2018
+      style: color
+    - id: cfa-club-034
+      version: 2024
+      style: color
+    - id: cfa-club-089
+      version: 2023
+      style: color
+    - id: cfa-club-050
+      version: 2025
+      style: color
+    - id: cfa-club-025
+      version: 2018
+      style: color
+    - id: cfa-club-047
+      version: 2025
+      style: color
+    - id: cfa-club-033
+      version: 2022
+      style: color
+    - id: cfa-club-056
+      version: 2024
+      style: color
+    - id: cfa-club-058
+      version: 2021
+      style: color
+    - id: cfa-club-065
+      version: 2024
+      style: color
+    - id: cfa-club-032
+      version: 2021
+      style: color
+    - id: cfa-club-060
+      version: 2024
+      style: color
+    - id: cfa-club-093
+      version: 2024
+      style: color
+    - id: cfa-club-098
+      version: 2025
+      style: color
+    - id: cfa-club-097
+      version: 2022
+      style: color
+    - id: cfa-club-092
+      version: 2023.07
+      style: color
