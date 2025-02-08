@@ -6,13 +6,12 @@
   coordinates: [107.585152, 23.331804]
   timeline: true
   info:
-    - fullName: Guangxi Pingguo Haliao Football Club
-      shortName: Guangxi Pingguo Haliao
-      localName: 广西平果哈嘹足球俱乐部
+    - fullName: 广西平果足球俱乐部
+      shortName: 广西平果
+      localName: 广西平果足球俱乐部
       founded: 2018
-      city: Pingguo, China
-      ground: Guangxi Sports Centre Stadium
-      league: China League
+      city: 平果，中国
+      ground: 广西体育中心
   weiboURL: 'https://weibo.com/u/7588479512'
   twitterURL: ''
   websiteURL: ''

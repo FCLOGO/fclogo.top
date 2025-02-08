@@ -1,0 +1,51 @@
+- data: logo
+  logoID: 20211106-007
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangxi Baoyun', 'Guangxi Pingguo Haliao']
+  slug: /cfa/club/guangxi-pingguo-haliao-v2018-mono
+  pngPath: 'png/guangxi-pingguo-haliao-v2018-mono.png'
+  svgPath: 'svg/guangxi-pingguo-haliao-v2018-mono.svg'
+  sourceID: cfa-club-047
+  style: mono
+
+- data: logo
+  logoID: 20211106-008
+  version: 2018
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Guangxi Baoyun', 'Guangxi Pingguo Haliao']
+  slug: /cfa/club/guangxi-pingguo-haliao-v2018
+  pngPath: 'png/guangxi-pingguo-haliao-v2018.png'
+  svgPath: 'svg/guangxi-pingguo-haliao-v2018.svg'
+  sourceID: cfa-club-047
+  style: color
+
+- data: logo
+  logoID: 20250208-160434-f4873a
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangxi Pingguo']
+  slug: /cfa/club/Guangxi-Pingguo-v2025-mono
+  pngPath: 'png/Guangxi-Pingguo-v2025-mono.png'
+  svgPath: 'svg/Guangxi-Pingguo-v2025-mono.svg'
+  sourceID: cfa-club-047
+  style: mono
+  reference: 'https://weibo.com/7588479512/Pa0RKcMbf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250208-160525-333be4
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Guangxi Pingguo']
+  slug: /cfa/club/Guangxi-Pingguo-v2025
+  pngPath: 'png/Guangxi-Pingguo-v2025.png'
+  svgPath: 'svg/Guangxi-Pingguo-v2025.svg'
+  sourceID: cfa-club-047
+  style: color
+  reference: 'https://weibo.com/7588479512/Pa0RKcMbf'
+  ctrbID: ''
