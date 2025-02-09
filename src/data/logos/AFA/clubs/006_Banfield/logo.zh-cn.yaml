@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250209-204144-ba0c7f
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Banfield']
+  slug: /afa/club/Club-Atletico-Banfield-v0000-mono
+  pngPath: 'png/Club-Atletico-Banfield-v0000-mono.png'
+  svgPath: 'svg/Club-Atletico-Banfield-v0000-mono.svg'
+  sourceID: afa-club-006
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/BAN-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-204247-e2954b
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Banfield']
+  slug: /afa/club/Club-Atletico-Banfield-v0000
+  pngPath: 'png/Club-Atletico-Banfield-v0000.png'
+  svgPath: 'svg/Club-Atletico-Banfield-v0000.svg'
+  sourceID: afa-club-006
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/BAN-Marca.pdf'
+  ctrbID: 'ctrb-niu'

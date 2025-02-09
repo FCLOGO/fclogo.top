@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250209-212316-9db27b
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Central Córdoba']
+  slug: /afa/club/Club-Atletico-Central-Cordoba-v2018-mono
+  pngPath: 'png/Club-Atletico-Central-Cordoba-v2018-mono.png'
+  svgPath: 'svg/Club-Atletico-Central-Cordoba-v2018-mono.svg'
+  sourceID: afa-club-009
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/CCO-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-212445-b18e89
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Central Córdoba']
+  slug: /afa/club/Club-Atletico-Central-Cordoba-v2018-graph
+  pngPath: 'png/Club-Atletico-Central-Cordoba-v2018-graph.png'
+  svgPath: 'svg/Club-Atletico-Central-Cordoba-v2018-graph.svg'
+  sourceID: afa-club-009
+  style: graph
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/CCO-Marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250209-212524-07bfcf
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Central Córdoba']
+  slug: /afa/club/Club-Atletico-Central-Cordoba-v2018
+  pngPath: 'png/Club-Atletico-Central-Cordoba-v2018.png'
+  svgPath: 'svg/Club-Atletico-Central-Cordoba-v2018.svg'
+  sourceID: afa-club-009
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/CCO-Marca.pdf'
+  ctrbID: 'ctrb-niu'

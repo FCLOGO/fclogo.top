@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250209-202649-a5f82c
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Atlético Tucumán']
+  slug: /afa/club/Club-Atletico-Tucuman-v2017-mono
+  pngPath: 'png/Club-Atletico-Tucuman-v2017-mono.png'
+  svgPath: 'svg/Club-Atletico-Tucuman-v2017-mono.svg'
+  sourceID: afa-club-005
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/ATU-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-202746-c4a686
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Atlético Tucumán']
+  slug: /afa/club/Club-Atletico-Tucuman-v2017
+  pngPath: 'png/Club-Atletico-Tucuman-v2017.png'
+  svgPath: 'svg/Club-Atletico-Tucuman-v2017.svg'
+  sourceID: afa-club-005
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/ATU-Marca.pdf'
+  ctrbID: 'ctrb-niu'

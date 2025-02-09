@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-006
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.38516364008855, -34.75052975914652]
+  timeline: false
+  info:
+    - fullName: Club Atlético Banfield
+      localName: Club Atlético Banfield
+      shortName: Banfield
+      founded: 1896
+      city: Banfield
+      ground: Estadio Florencio Solá
+  websiteURL: 'https://www.clubabanfield.org/'
+  twitterURL: 'https://twitter.com/CAB_oficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Banfield'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-004
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.473084767535155, -34.590427201291995]
+  timeline: false
+  info:
+    - fullName: 阿根廷青年人竞技协会
+      localName: Asociación Atlética Argentinos Juniors
+      shortName: 阿根廷青年人
+      founded: 1904
+      city: 布宜诺斯艾利斯
+      ground: 马拉多纳体育场
+  websiteURL: 'https://www.argentinosjuniors.com.ar'
+  twitterURL: 'https://twitter.com/aaajoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Argentinos_Juniors'

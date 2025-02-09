@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250209-205533-e928ff
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Barracas Central']
+  slug: /afa/club/Barracas-Central-v0000-mono
+  pngPath: 'png/Barracas-Central-v0000-mono.png'
+  svgPath: 'svg/Barracas-Central-v0000-mono.svg'
+  sourceID: afa-club-007
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-205606-24301f
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Barracas Central']
+  slug: /afa/club/Barracas-Central-v0000
+  pngPath: 'png/Barracas-Central-v0000.png'
+  svgPath: 'svg/Barracas-Central-v0000.svg'
+  sourceID: afa-club-007
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-niu'

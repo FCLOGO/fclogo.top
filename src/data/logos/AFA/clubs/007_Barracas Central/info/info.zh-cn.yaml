@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-007
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.396386772261295, -34.64691160545248]
+  timeline: false
+  info:
+    - fullName: 巴拉卡斯中央体育俱乐部
+      localName: Club Atlético Barracas Central
+      shortName: 巴拉卡斯中央
+      founded: 1904
+      city: 布宜诺斯艾利斯
+      ground: 克劳迪奥·法比安·塔皮亚体育场
+  websiteURL: 'http://www.barracascentral.com'
+  twitterURL: 'https://twitter.com/barracascentral'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Barracas_Central'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-010
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.28645539841295, -34.82169162802153]
+  timeline: false
+  info:
+    - fullName: 国防与司法社会体育俱乐部
+      localName: Club Social y Deportivo Defensa y Justicia
+      shortName: 国防与司法
+      founded: 1935
+      city: 弗洛伦西奥巴雷拉
+      ground: 诺贝托·托马赫洛体育场
+  websiteURL: 'https://www.defensayjusticia.org.ar/'
+  twitterURL: 'https://twitter.com/ClubDefensayJus'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Defensa_y_Justicia'

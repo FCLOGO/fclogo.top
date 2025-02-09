@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250209-213404-326cda
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Defensa y Justicia']
+  slug: /afa/club/Defensa-y-Justicia-v0000-mono
+  pngPath: 'png/Defensa-y-Justicia-v0000-mono.png'
+  svgPath: 'svg/Defensa-y-Justicia-v0000-mono.svg'
+  sourceID: afa-club-010
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/DYJ-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-213456-c47dcb
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Defensa y Justicia']
+  slug: /afa/club/Defensa-y-Justicia-v0000-mono-dark
+  pngPath: 'png/Defensa-y-Justicia-v0000-mono-dark.png'
+  svgPath: 'svg/Defensa-y-Justicia-v0000-mono-dark.svg'
+  sourceID: afa-club-010
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/DYJ-Marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250209-213531-26065c
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Defensa y Justicia']
+  slug: /afa/club/Defensa-y-Justicia-v0000
+  pngPath: 'png/Defensa-y-Justicia-v0000.png'
+  svgPath: 'svg/Defensa-y-Justicia-v0000.svg'
+  sourceID: afa-club-010
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/DYJ-Marca.pdf'
+  ctrbID: 'ctrb-niu'

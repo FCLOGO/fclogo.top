@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-010
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.28645539841295, -34.82169162802153]
+  timeline: false
+  info:
+    - fullName: Club Social y Deportivo Defensa y Justicia
+      localName: Club Social y Deportivo Defensa y Justicia
+      shortName: Defensa y Justicia
+      founded: 1935
+      city: Florencio Varela
+      ground: Estadio Norberto Tomaghello
+  websiteURL: 'https://www.defensayjusticia.org.ar/'
+  twitterURL: 'https://twitter.com/ClubDefensayJus'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Defensa_y_Justicia'

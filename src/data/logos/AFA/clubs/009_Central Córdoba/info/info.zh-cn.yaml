@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-009
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-64.26438750865195, -27.793776303553763]
+  timeline: false
+  info:
+    - fullName: 科尔多瓦中央体育俱乐部
+      localName: Club Atlético Central Córdoba
+      shortName: 科尔多瓦中央
+      founded: 1919
+      city: 圣地亚哥·德尔埃斯特罗
+      ground: 阿尔弗雷多·特雷拉体育场
+  websiteURL: 'https://www.cacentralcordoba.com/'
+  twitterURL: 'https://twitter.com/cacc_sde'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Central_C%C3%B3rdoba_de_Santiago_del_Estero'

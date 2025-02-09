@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-011
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.44348676092588, -34.653572480422724]
+  timeline: false
+  info:
+    - fullName: 巴里奥科隆社区德波尔蒂沃·利斯特雷协会
+      localName: Deportivo Riestra Asociación de Fomento Barrio Colon
+      shortName: 利斯特雷
+      founded: 1931
+      city: 布宜诺斯艾利斯
+      ground: 吉列尔莫·拉萨体育场
+  websiteURL: ''
+  twitterURL: 'https://twitter.com/prensariestra'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Deportivo_Riestra'

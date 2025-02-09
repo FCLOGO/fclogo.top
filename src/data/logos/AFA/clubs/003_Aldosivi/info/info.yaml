@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-003
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-57.54512827521405, -38.05793985892521]
+  timeline: false
+  info:
+    - fullName: Club Atlético Aldosivi
+      localName: Club Atlético Aldosivi
+      shortName: Aldosivi
+      founded: 1913
+      city: Mar del Plata
+      ground: Estadio José María Minella
+  websiteURL: 'https://www.aldosivi.com/'
+  twitterURL: 'https://twitter.com/clubaldosivi'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Aldosivi'

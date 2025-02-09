@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-005
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-65.20016114877133, -26.812735862688015]
+  timeline: false
+  info:
+    - fullName: Club Atlético Tucumán
+      localName: Club Atlético Tucumán
+      shortName: Atlético Tucumán
+      founded: 1902
+      city: Tucumán
+      ground: Monumental José Fierro
+  websiteURL: 'http://www.clubatleticotucuman.com.ar/'
+  twitterURL: 'https://twitter.com/ATOficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Atl%C3%A9tico_Tucum%C3%A1n'

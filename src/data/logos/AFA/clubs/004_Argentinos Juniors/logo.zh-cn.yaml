@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250209-201307-f493ce
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Argentinos Juniors']
+  slug: /afa/club/Argentinos-Juniors-v2010-mono
+  pngPath: 'png/Argentinos-Juniors-v2010-mono.png'
+  svgPath: 'svg/Argentinos-Juniors-v2010-mono.svg'
+  sourceID: afa-club-004
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/ARG-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-201402-f64136
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Argentinos Juniors']
+  slug: /afa/club/Argentinos-Juniors-v2010
+  pngPath: 'png/Argentinos-Juniors-v2010.png'
+  svgPath: 'svg/Argentinos-Juniors-v2010.svg'
+  sourceID: afa-club-004
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/ARG-Marca.pdf'
+  ctrbID: 'ctrb-niu'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250209-210432-25294c
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Belgrano']
+  slug: /afa/club/Club-Atletico-Belgrano-v2010-mono
+  pngPath: 'png/Club-Atletico-Belgrano-v2010-mono.png'
+  svgPath: 'svg/Club-Atletico-Belgrano-v2010-mono.svg'
+  sourceID: afa-club-008
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2022/12/Belgrano-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250209-210524-201af5
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Belgrano']
+  slug: /afa/club/Club-Atletico-Belgrano-v2010
+  pngPath: 'png/Club-Atletico-Belgrano-v2010.png'
+  svgPath: 'svg/Club-Atletico-Belgrano-v2010.svg'
+  sourceID: afa-club-008
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2022/12/Belgrano-Marca.pdf'
+  ctrbID: 'ctrb-niu'
