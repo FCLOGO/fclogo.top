@@ -1,13 +1,12 @@
-
 - data: logo
   logoID: 20250118-025805-869ae3
-  version: 2000
+  version: 2012
   isDoubtful: false
   isOutdated: false
   verName: [Club Sport Herediano]
-  slug: /fcrf/club/Club-Sport-Herediano-v2000-mono
-  pngPath: 'png/Club-Sport-Herediano-v2000-mono.png'
-  svgPath: 'svg/Club-Sport-Herediano-v2000-mono.svg'
+  slug: /fcrf/club/Club-Sport-Herediano-v2012-mono
+  pngPath: 'png/Club-Sport-Herediano-v2012-mono.png'
+  svgPath: 'svg/Club-Sport-Herediano-v2012-mono.svg'
   sourceID: fcrf-club-003
   style: mono
   reference: 'https://www.herediano.com/identidad'
@@ -15,16 +14,56 @@
 
 - data: logo
   logoID: 20250118-025832-7254a6
-  version: 2000
+  version: 2012
   isDoubtful: false
   isOutdated: false
   verName: [Club Sport Herediano]
-  slug: /fcrf/club/Club-Sport-Herediano-v2000
-  pngPath: 'png/Club-Sport-Herediano-v2000.png'
-  svgPath: 'svg/Club-Sport-Herediano-v2000.svg'
+  slug: /fcrf/club/Club-Sport-Herediano-v2012
+  pngPath: 'png/Club-Sport-Herediano-v2012.png'
+  svgPath: 'svg/Club-Sport-Herediano-v2012.svg'
   sourceID: fcrf-club-003
   style: color
   reference: 'https://www.herediano.com/identidad'
   ctrbID: 'ctrb-dani'
 
+- data: logo
+  logoID: 20250209-101554-5a43d7
+  version: 1991
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CS Herediano']
+  slug: /fcrf/club/Club-Sport-Herediano-v1991
+  pngPath: 'png/Club-Sport-Herediano-v1991.png'
+  svgPath: 'svg/Club-Sport-Herediano-v1991.svg'
+  sourceID: fcrf-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
 
+- data: logo
+  logoID: 20250209-101638-fb004e
+  version: 1991
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CS Herediano']
+  slug: /fcrf/club/Club-Sport-Herediano-v1991-star
+  pngPath: 'png/Club-Sport-Herediano-v1991-star.png'
+  svgPath: 'svg/Club-Sport-Herediano-v1991-star.svg'
+  sourceID: fcrf-club-003
+  style: star
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20250209-101725-621cd4
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['CS Herediano']
+  slug: /fcrf/club/Club-Sport-Herediano-v2009
+  pngPath: 'png/Club-Sport-Herediano-v2009.png'
+  svgPath: 'svg/Club-Sport-Herediano-v2009.svg'
+  sourceID: fcrf-club-003
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
