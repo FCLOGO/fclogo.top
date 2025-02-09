@@ -11,3 +11,87 @@
   style: color
   reference: 'https://www.saprissa.com/'
   ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250209-104910-23ac98
+  version: 1978
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Deportivo Saprissa']
+  slug: /fcrf/club/Deportivo-Saprissa-v1978
+  pngPath: 'png/Deportivo-Saprissa-v1978.png'
+  svgPath: 'svg/Deportivo-Saprissa-v1978.svg'
+  sourceID: fcrf-club-002
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20250209-104957-6361d9
+  version: 1988
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Deportivo Saprissa']
+  slug: /fcrf/club/Deportivo-Saprissa-v1988
+  pngPath: 'png/Deportivo-Saprissa-v1988.png'
+  svgPath: 'svg/Deportivo-Saprissa-v1988.svg'
+  sourceID: fcrf-club-002
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20250209-105033-a9c8af
+  version: 1994
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Deportivo Saprissa']
+  slug: /fcrf/club/Deportivo-Saprissa-v1994
+  pngPath: 'png/Deportivo-Saprissa-v1994.png'
+  svgPath: 'svg/Deportivo-Saprissa-v1994.svg'
+  sourceID: fcrf-club-002
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20250209-105125-48e266
+  version: 1998
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Deportivo Saprissa']
+  slug: /fcrf/club/Deportivo-Saprissa-v1998
+  pngPath: 'png/Deportivo-Saprissa-v1998.png'
+  svgPath: 'svg/Deportivo-Saprissa-v1998.svg'
+  sourceID: fcrf-club-002
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
+
+- data: logo
+  logoID: 20250209-105159-43a278
+  version: 2004
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Deportivo Saprissa']
+  slug: /fcrf/club/Deportivo-Saprissa-v2004
+  pngPath: 'png/Deportivo-Saprissa-v2004.png'
+  svgPath: 'svg/Deportivo-Saprissa-v2004.svg'
+  sourceID: fcrf-club-002
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250209-105219-cb034b
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Deportivo Saprissa']
+  slug: /fcrf/club/Deportivo-Saprissa-v2012-circl
+  pngPath: 'png/Deportivo-Saprissa-v2012-circl.png'
+  svgPath: 'svg/Deportivo-Saprissa-v2012-circl.svg'
+  sourceID: fcrf-club-002
+  style: circl
+  reference: ''
+  ctrbID: 'ctrb-ramr'
