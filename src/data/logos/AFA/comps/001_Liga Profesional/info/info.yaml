@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: afa-comp-001
+  type: comp
+  nation: ARG
+  timeline: false
+  info:
+    - fullName: AFA Liga Profesional de Fútbol
+      localName: AFA Liga Profesional de Fútbol
+      shortName: AFA Liga Profesional
+      founded: 1931
+      confederation: CONMEBOL
+      teams: 30
+      level: Level 1
+      promotion:
+      relegation: Primera Nacional
+  websiteURL: 'https://www.ligaprofesional.ar/'
+  twitterURL: 'https://twitter.com/LigaAFA'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Argentine_Primera_Divisi%C3%B3n'

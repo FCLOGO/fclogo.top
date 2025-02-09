@@ -1,0 +1,19 @@
+- data: sourceInfo
+  sourceID: afa-comp-001
+  type: comp
+  nation: ARG
+  timeline: false
+  info:
+    - fullName: 阿根廷职业足球联赛
+      localName: AFA Liga Profesional de Fútbol
+      shortName: 阿根廷职业联赛
+      founded: 1931
+      confederation: CONMEBOL
+      teams: 30
+      level: 第 1 级别
+      promotion:
+      relegation: 阿根廷全国联赛
+  websiteURL: 'https://www.ligaprofesional.ar/'
+  twitterURL: 'https://twitter.com/LigaAFA'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Argentine_Primera_Divisi%C3%B3n'

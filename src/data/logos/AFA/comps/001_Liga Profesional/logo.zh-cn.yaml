@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250209-152111-a1911b
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liga Profesional']
+  slug: /afa/comp/Liga-Profesional-de-Futbol-v2020-mono
+  pngPath: 'png/Liga-Profesional-de-Futbol-v2020-mono.png'
+  svgPath: 'svg/Liga-Profesional-de-Futbol-v2020-mono.svg'
+  sourceID: afa-comp-001
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250209-152226-0768e5
+  version: 2020
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liga Profesional']
+  slug: /afa/comp/Liga-Profesional-de-Futbol-v2020
+  pngPath: 'png/Liga-Profesional-de-Futbol-v2020.png'
+  svgPath: 'svg/Liga-Profesional-de-Futbol-v2020.svg'
+  sourceID: afa-comp-001
+  style: color
+  reference: 'https://www.ligaprofesional.ar/'
+  ctrbID: ''
