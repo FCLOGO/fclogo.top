@@ -1,0 +1,98 @@
+- data: logoPack
+  packID: 20250210-212323-c9dd42
+  name: Argentine Liga Profesional
+  season: '2025'
+  packSource: afa-comp-001
+  logoVersion: 2020
+  slug: /pack/2025-Argentine-Liga-Profesional
+  items:
+    - id: afa-club-001
+      version: 1996
+      style: color
+    - id: afa-club-002
+      version: 2022
+      style: color
+    - id: afa-club-003
+      version: 0000
+      style: color
+    - id: afa-club-004
+      version: 2010
+      style: color
+    - id: afa-club-005
+      version: 2017
+      style: color
+    - id: afa-club-006
+      version: 0000
+      style: color
+    - id: afa-club-007
+      version: 0000
+      style: color
+    - id: afa-club-008
+      version: 2010
+      style: color
+    - id: afa-club-009
+      version: 2018
+      style: color
+    - id: afa-club-010
+      version: 0000
+      style: color
+    - id: afa-club-011
+      version: 0000
+      style: color
+    - id: afa-club-012
+      version: 0000
+      style: color
+    - id: afa-club-013
+      version: 0000
+      style: color
+    - id: afa-club-014
+      version: 0000
+      style: color
+    - id: afa-club-015
+      version: 2011
+      style: color
+    - id: afa-club-016
+      version: 1987
+      style: color
+    - id: afa-club-017
+      version: 0000
+      style: color
+    - id: afa-club-018
+      version: 0000
+      style: color
+    - id: afa-club-019
+      version: 2017
+      style: color
+    - id: afa-club-020
+      version: 0000
+      style: color
+    - id: afa-club-021
+      version: 0000
+      style: color
+    - id: afa-club-022
+      version: 2014
+      style: color
+    - id: afa-club-023
+      version: 2024
+      style: color
+    - id: afa-club-024
+      version: 2015
+      style: color
+    - id: afa-club-025
+      version: 0000
+      style: color
+    - id: afa-club-026
+      version: 0000
+      style: color
+    - id: afa-club-027
+      version: 2015
+      style: color
+    - id: afa-club-028
+      version: 0000
+      style: color
+    - id: afa-club-029
+      version: 2005
+      style: color
+    - id: afa-club-030
+      version: 0000
+      style: color
