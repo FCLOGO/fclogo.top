@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.5](https://github.com/FCLOGO/fclogo.top/compare/v2.7.4...v2.7.5) (2025-02-10)
+
+
+### ❇️ Chores | 其他更新
+
+* 更新 yarn.lock ([87e0b8b](https://github.com/FCLOGO/fclogo.top/commit/87e0b8ba4f732bc15cc3bd9e51c56c1b32d6ceca))
+
+
+### 📝 Documentation | 文档
+
+* 更新2025赛季中甲联赛徽标集 ([0d2684e](https://github.com/FCLOGO/fclogo.top/commit/0d2684e1ed34922b8b3089bdb2c6716cae0c3a06))
+* 更新阿根廷职业联赛徽标 ([c81423f](https://github.com/FCLOGO/fclogo.top/commit/c81423f345fe16bf496299f75f6956a8194a260a))
+* 更新埃雷迪亚诺体育俱乐部徽标 ([8827210](https://github.com/FCLOGO/fclogo.top/commit/88272103fa962ac4a3a436b76817977309dbdd27))
+* 更新大连鲲城2025赛季徽标 ([8a3010e](https://github.com/FCLOGO/fclogo.top/commit/8a3010eba999b7c09e59287512846ede8589c547))
+* 更新河北卓奥足球俱乐部的坐标信息 ([02fada7](https://github.com/FCLOGO/fclogo.top/commit/02fada77870fb79433c6ba349fed6e5057d8f5cb))
+* 更新徽标ID ([fa52510](https://github.com/FCLOGO/fclogo.top/commit/fa52510e3d9865b7587ae0582a01448b442280ee))
+* 更新萨普里萨俱乐部历史徽标 ([eb7f8fe](https://github.com/FCLOGO/fclogo.top/commit/eb7f8fedd767ce338c5604ec8feaf2d83df4adf9))
+* 添加2025赛季美职联徽标集 ([cc288d1](https://github.com/FCLOGO/fclogo.top/commit/cc288d1dc910c186a0c14f76ba72fd178e869231))
+* 添加阿根廷职业联赛2025赛季徽标集 ([ca00a73](https://github.com/FCLOGO/fclogo.top/commit/ca00a73ebe769cf750bf47939acdd130148fb0ee))
+* 添加阿根廷职业联赛多个俱乐部信息及徽标 ([d158664](https://github.com/FCLOGO/fclogo.top/commit/d158664f75b279eadf5c426d981ef3b33d1072d2))
+* 添加阿根廷职业联赛多个俱乐部信息及徽标 ([3bbaf96](https://github.com/FCLOGO/fclogo.top/commit/3bbaf969795443ae1c3863bffc6ea72b124e4d0f))
+* 添加阿根廷职业联赛信息及徽标 ([f2d987c](https://github.com/FCLOGO/fclogo.top/commit/f2d987c57f3fbdf7d728cee385f340bb511c74b9))
+* 添加CS Cartagines历史徽标 ([dae7cd7](https://github.com/FCLOGO/fclogo.top/commit/dae7cd7a43b8b9e698478eacd06474e4fade6de1))
+
 ### [2.7.4](https://github.com/FCLOGO/fclogo.top/compare/v2.7.3...v2.7.4) (2025-02-06)
 
 
