@@ -1,0 +1,98 @@
+- data: logoPack
+  packID: 20250210-213827-f67b68
+  name: 美职联
+  season: '2025'
+  packSource: ussf-comp-001
+  logoVersion: 2015
+  slug: /pack/2025-Major-League-Soccer
+  items:
+    - id: ussf-club-001
+      version: 2015
+      style: color
+    - id: ussf-club-002
+      version: 2018
+      style: color
+    - id: ussf-club-003
+      version: 2019
+      style: color
+    - id: ussf-club-004
+      version: 2022
+      style: color
+    - id: ussf-club-005
+      version: 2019
+      style: color
+    - id: ussf-club-006
+      version: 2007
+      style: color
+    - id: ussf-club-007
+      version: 2021
+      style: color
+    - id: ussf-club-008
+      version: 2005
+      style: color
+    - id: ussf-club-009
+      version: 2015
+      style: color
+    - id: ussf-club-010
+      version: 2020
+      style: color
+    - id: ussf-club-011
+      version: 2007
+      style: color
+    - id: ussf-club-012
+      version: 2016
+      style: color
+    - id: ussf-club-013
+      version: 2018
+      style: color
+    - id: ussf-club-014
+      version: 2013
+      style: color
+    - id: ussf-club-015
+      version: 2023
+      style: color
+    - id: ussf-club-016
+      version: 2021
+      style: color
+    - id: ussf-club-017
+      version: 2019
+      style: color
+    - id: ussf-club-018
+      version: 2025
+      style: color
+    - id: ussf-club-019
+      version: 2008
+      style: color
+    - id: ussf-club-020
+      version: 2014
+      style: color
+    - id: ussf-club-021
+      version: 2018
+      style: color
+    - id: ussf-club-022
+      version: 2018
+      style: color
+    - id: ussf-club-023
+      version: 2004
+      style: color
+    - id: ussf-club-024
+      version: 2014
+      style: color
+    - id: ussf-club-025
+      version: 2024
+      style: color
+    - id: ussf-club-026
+      version: 2010
+      style: color
+    - id: ussf-club-027
+      version: 2020
+      style: color
+    - id: ussf-club-028
+      version: 2007
+      style: color
+    - id: ussf-club-029
+      version: 2009
+      style: color
+    - id: ussf-club-030
+      version: 2023
+      style: color
