@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-015
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.40815209211197, -34.63725926486168]
+  timeline: false
+  info:
+    - fullName: Club Atlético Huracán
+      localName: Club Atlético Huracán
+      shortName: Huracán
+      founded: 1908
+      city: Buenos Aires
+      ground: Estadio Tomás Adolfo Ducó
+  websiteURL: 'https://cahuracan.com/'
+  twitterURL: 'https://twitter.com/CAHuracan'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n'

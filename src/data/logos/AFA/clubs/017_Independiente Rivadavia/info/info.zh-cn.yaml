@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-017
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-68.86303219012729, -32.89097689673471]
+  timeline: false
+  info:
+    - fullName: 里瓦达维亚独立体育俱乐部
+      localName: Club Sportivo Independiente Rivadavia
+      shortName: 里瓦达维亚独立
+      founded: 1913
+      city: 门多萨
+      ground: 巴蒂斯塔·加尔甘蒂尼体育场
+  websiteURL: 'https://independienterivadavia.com.ar/'
+  twitterURL: 'https://twitter.com/CSIRoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Independiente_Rivadavia'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-024
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.42434335919213, -34.63587598043238]
+  timeline: false
+  info:
+    - fullName: 阿尔马格罗圣洛伦索竞技俱乐部
+      localName: Club Atlético San Lorenzo de Almagro
+      shortName: 圣洛伦索
+      founded: 1908
+      city: 布宜诺斯艾利斯市
+      ground: 比德盖安球场
+  websiteURL: 'https://sanlorenzo.com.ar/'
+  twitterURL: 'https://twitter.com/SanLorenzo'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/San_Lorenzo_de_Almagro'

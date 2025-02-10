@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-022
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.362842362274755, -34.6634732109797]
+  timeline: false
+  info:
+    - fullName: Racing Club
+      localName: Racing Club
+      shortName: Racing
+      founded: 1903
+      city: Avellaneda
+      ground: Estadio Presidente Perón
+  websiteURL: 'https://www.racingclub.com.ar/'
+  twitterURL: 'https://twitter.com/RacingClub'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Racing_Club_de_Avellaneda'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-014
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-68.84014606266389, -32.92011063630525]
+  timeline: false
+  info:
+    - fullName: Club Deportivo Godoy Cruz Antonio Tomba
+      localName: Club Deportivo Godoy Cruz Antonio Tomba
+      shortName: Godoy Cruz
+      founded: 1921
+      city: Godoy Cruz
+      ground: Estadio Malvinas Argentinas
+  websiteURL: 'https://clubgodoycruz.com.ar/'
+  twitterURL: 'https://twitter.com/ClubGodoyCruz'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Godoy_Cruz_Antonio_Tomba'

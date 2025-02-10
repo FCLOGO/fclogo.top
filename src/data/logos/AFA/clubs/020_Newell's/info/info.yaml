@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-020
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.66149377395887, -32.95601343783044]
+  timeline: false
+  info:
+    - fullName: Club Atlético Newell's Old Boys
+      localName: Club Atlético Newell's Old Boys
+      shortName: Newell's Old Boys
+      founded: 1903
+      city: Rosario
+      ground: Estadio Marcelo Bielsa
+  websiteURL: 'https://www.newellsoldboys.com.ar/'
+  twitterURL: 'https://twitter.com/Newells'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Newell%27s_Old_Boys'

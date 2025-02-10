@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-027
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-64.18382672137442, -31.415950089723633]
+  timeline: false
+  info:
+    - fullName: 科尔多瓦工厂竞技俱乐部
+      localName: Club Atlético Talleres
+      shortName: 科尔多瓦工厂
+      founded: 1913
+      city: 科尔多瓦
+      ground: 马里奥·阿尔伯托·肯佩斯球场
+  websiteURL: 'https://www.clubtalleres.com.ar/'
+  twitterURL: 'https://twitter.com/CATalleresdecba'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Talleres_de_C%C3%B3rdoba'

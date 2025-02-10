@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-204618-ad3c1a
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Talleres']
+  slug: /afa/club/Club-Atletico-Talleres-v2015-mono
+  pngPath: 'png/Club-Atletico-Talleres-v2015-mono.png'
+  svgPath: 'svg/Club-Atletico-Talleres-v2015-mono.svg'
+  sourceID: afa-club-027
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/TAL-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-204715-d927ae
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Talleres']
+  slug: /afa/club/Club-Atletico-Talleres-v2015
+  pngPath: 'png/Club-Atletico-Talleres-v2015.png'
+  svgPath: 'svg/Club-Atletico-Talleres-v2015.svg'
+  sourceID: afa-club-027
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/TAL-Marca.pdf'
+  ctrbID: 'ctrb-niu'

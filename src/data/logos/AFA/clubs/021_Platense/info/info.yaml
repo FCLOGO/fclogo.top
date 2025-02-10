@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-021
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.482358039824994, -34.54108187610747]
+  timeline: false
+  info:
+    - fullName: Club Atlético Platense
+      localName: Club Atlético Platense
+      shortName: Platense
+      founded: 1905
+      city: Vicente López
+      ground: Estadio Ciudad de Vicente López
+  websiteURL: 'https://cap.org.ar/'
+  twitterURL: 'https://twitter.com/caplatense'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Platense'

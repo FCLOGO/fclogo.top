@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-155051-8222e3
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Huracán']
+  slug: /afa/club/Club-Atletico-Huracan-v2011-mono
+  pngPath: 'png/Club-Atletico-Huracan-v2011-mono.png'
+  svgPath: 'svg/Club-Atletico-Huracan-v2011-mono.svg'
+  sourceID: afa-club-015
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/HUR-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-155144-f7bbdd
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Huracán']
+  slug: /afa/club/Club-Atletico-Huracan-v2011
+  pngPath: 'png/Club-Atletico-Huracan-v2011.png'
+  svgPath: 'svg/Club-Atletico-Huracan-v2011.svg'
+  sourceID: afa-club-015
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/HUR-Marca.pdf'
+  ctrbID: 'ctrb-niu'

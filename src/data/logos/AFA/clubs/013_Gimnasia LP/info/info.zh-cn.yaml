@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-013
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-57.93239251946462, -34.91025957488054]
+  timeline: false
+  info:
+    - fullName: 拉普拉塔体操击剑俱乐部
+      localName: Club de Gimnasia y Esgrima La Plata
+      shortName: 拉普拉塔体操
+      founded: 1887
+      city: 拉普拉塔
+      ground: 胡安·卡洛斯·泽里洛球场
+  websiteURL: 'https://www.gimnasia.org.ar/'
+  twitterURL: 'https://twitter.com/gimnasiaoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata'

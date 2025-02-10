@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-026
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.92994500007774, -34.58580633332434]
+  timeline: false
+  info:
+    - fullName: Club Atlético Sarmiento
+      localName: Club Atlético Sarmiento
+      shortName: Sarmiento
+      founded: 1911
+      city: Junín
+      ground: Estadio Eva Perón
+  websiteURL: 'https://clubatleticosarmiento.com/'
+  twitterURL: 'https://twitter.com/CASarmientoOf'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Sarmiento'

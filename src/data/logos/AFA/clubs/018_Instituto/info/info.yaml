@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-018
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-64.1808786170689, -31.38250974772509]
+  timeline: false
+  info:
+    - fullName: Instituto Atlético Central Córdoba
+      localName: Instituto Atlético Central Córdoba
+      shortName: Instituto
+      founded: 1918
+      city: Córdoba
+      ground: Estadio Juan Domingo Perón
+  websiteURL: 'https://www.institutoacc.com.ar/'
+  twitterURL: 'https://twitter.com/InstitutoACC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Instituto_Atl%C3%A9tico_Central_C%C3%B3rdoba'

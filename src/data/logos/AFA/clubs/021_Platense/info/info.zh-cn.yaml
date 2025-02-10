@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-021
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.482358039824994, -34.54108187610747]
+  timeline: false
+  info:
+    - fullName: 普拉腾斯竞技俱乐部
+      localName: Club Atlético Platense
+      shortName: 普拉腾斯
+      founded: 1905
+      city: 维森特·洛佩斯
+      ground: 维森特·洛佩斯市体育场
+  websiteURL: 'https://cap.org.ar/'
+  twitterURL: 'https://twitter.com/caplatense'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Platense'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-012
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-57.9480379417784, -34.91677867532795]
+  timeline: false
+  info:
+    - fullName: 拉普拉塔大学生俱乐部
+      localName: Club Estudiantes de La Plata
+      shortName: 拉普拉塔大学生
+      founded: 1905
+      city: 拉普拉塔
+      ground: 路易斯希斯治球场
+  websiteURL: 'https://www.estudiantesdelaplata.com/'
+  twitterURL: 'https://twitter.com/EdelpOficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Estudiantes_de_La_Plata'

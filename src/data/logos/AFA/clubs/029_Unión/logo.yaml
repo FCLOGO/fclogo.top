@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-210231-04cc8a
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Unión']
+  slug: /afa/club/Club-Atletico-Union-v2005-mono
+  pngPath: 'png/Club-Atletico-Union-v2005-mono.png'
+  svgPath: 'svg/Club-Atletico-Union-v2005-mono.svg'
+  sourceID: afa-club-029
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2024/10/CAU-usos-escudo-feb2023-1.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-210330-b30b0d
+  version: 2005
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Unión']
+  slug: /afa/club/Club-Atletico-Union-v2005
+  pngPath: 'png/Club-Atletico-Union-v2005.png'
+  svgPath: 'svg/Club-Atletico-Union-v2005.svg'
+  sourceID: afa-club-029
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2024/10/CAU-usos-escudo-feb2023-1.pdf'
+  ctrbID: 'ctrb-niu'

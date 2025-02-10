@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-203904-04be32
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Sarmiento']
+  slug: /afa/club/Club-Atletico-Sarmiento-v0000-mono
+  pngPath: 'png/Club-Atletico-Sarmiento-v0000-mono.png'
+  svgPath: 'svg/Club-Atletico-Sarmiento-v0000-mono.svg'
+  sourceID: afa-club-026
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-203935-59ea01
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Sarmiento']
+  slug: /afa/club/Club-Atletico-Sarmiento-v0000
+  pngPath: 'png/Club-Atletico-Sarmiento-v0000.png'
+  svgPath: 'svg/Club-Atletico-Sarmiento-v0000.svg'
+  sourceID: afa-club-026
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-niu'

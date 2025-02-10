@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-030
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.52119117413495, -34.63454236537099]
+  timeline: false
+  info:
+    - fullName: Club Atlético Vélez Sarsfield
+      localName: Club Atlético Vélez Sarsfield
+      shortName: Vélez Sarsfield
+      founded: 1910
+      city: Buenos Aires
+      ground: Estadio José Amalfitani
+  websiteURL: 'https://www.velez.com.ar/'
+  twitterURL: 'https://twitter.com/Velez'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield'

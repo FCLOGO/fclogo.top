@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-161705-2d95bb
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Independiente Rivadavia']
+  slug: /afa/club/Club-Sportivo-Independiente-Rivadavia-v0000-mono
+  pngPath: 'png/Club-Sportivo-Independiente-Rivadavia-v0000-mono.png'
+  svgPath: 'svg/Club-Sportivo-Independiente-Rivadavia-v0000-mono.svg'
+  sourceID: afa-club-017
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250210-161740-0fb46f
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Independiente Rivadavia']
+  slug: /afa/club/Club-Sportivo-Independiente-Rivadavia-v0000
+  pngPath: 'png/Club-Sportivo-Independiente-Rivadavia-v0000.png'
+  svgPath: 'svg/Club-Sportivo-Independiente-Rivadavia-v0000.svg'
+  sourceID: afa-club-017
+  style: color
+  reference: ''
+  ctrbID: ''

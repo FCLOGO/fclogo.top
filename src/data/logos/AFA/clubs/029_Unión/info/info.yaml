@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-029
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.715085017755605, -31.632634308199172]
+  timeline: false
+  info:
+    - fullName: Club Atlético Unión
+      localName: Club Atlético Unión
+      shortName: Unión
+      founded: 1907
+      city: Santa Fe
+      ground: Estadio 15 de Abril
+  websiteURL: 'https://www.clubaunion.com.ar/'
+  twitterURL: 'https://twitter.com/clubaunion'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Uni%C3%B3n_de_Santa_Fe'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-028
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.54272637028656, -34.45025016018513]
+  timeline: false
+  info:
+    - fullName: Club Atlético Tigre
+      localName: Club Atlético Tigre
+      shortName: Tigre
+      founded: 1902
+      city: Victoria
+      ground: Estadio José Dellagiovanna
+  websiteURL: 'https://catigre.com.ar/'
+  twitterURL: 'https://twitter.com/catigreoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tigre'

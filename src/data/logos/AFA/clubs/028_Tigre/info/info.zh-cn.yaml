@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-028
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.54272637028656, -34.45025016018513]
+  timeline: false
+  info:
+    - fullName: 蒂格雷竞技俱乐部
+      localName: Club Atlético Tigre
+      shortName: 蒂格雷
+      founded: 1902
+      city: 维多利亚
+      ground: 何塞·德拉吉奥万纳体育场
+  websiteURL: 'https://catigre.com.ar/'
+  twitterURL: 'https://twitter.com/catigreoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tigre'

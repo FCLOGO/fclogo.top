@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-022
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.362842362274755, -34.6634732109797]
+  timeline: false
+  info:
+    - fullName: 竞赛俱乐部
+      localName: Racing Club
+      shortName: 竞赛
+      founded: 1903
+      city: 阿韦利亚内达
+      ground: 胡安·多明戈·庇隆体育场
+  websiteURL: 'https://www.racingclub.com.ar/'
+  twitterURL: 'https://twitter.com/RacingClub'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Racing_Club_de_Avellaneda'

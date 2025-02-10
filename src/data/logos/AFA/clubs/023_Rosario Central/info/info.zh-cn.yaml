@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-023
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.67312353066307, -32.91431251012114]
+  timeline: false
+  info:
+    - fullName: 罗萨里奥中央竞技俱乐部
+      localName: Club Atlético Rosario Central
+      shortName: 罗萨里奥中央
+      founded: 1889
+      city: 罗萨里奥
+      ground: 阿罗约托巨人体育场
+  websiteURL: 'https://www.rosariocentral.com/'
+  twitterURL: 'https://twitter.com/RosarioCentral'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Rosario_Central'

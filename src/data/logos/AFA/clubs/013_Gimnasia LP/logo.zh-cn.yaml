@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-145316-cf47c5
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Gimnasia']
+  slug: /afa/club/Club-de-Gimnasia-y-Esgrima-La-Plata-v0000-mono
+  pngPath: 'png/Club-de-Gimnasia-y-Esgrima-La-Plata-v0000-mono.png'
+  svgPath: 'svg/Club-de-Gimnasia-y-Esgrima-La-Plata-v0000-mono.svg'
+  sourceID: afa-club-013
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-145406-25882f
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Gimnasia']
+  slug: /afa/club/Club-de-Gimnasia-y-Esgrima-La-Plata-v0000
+  pngPath: 'png/Club-de-Gimnasia-y-Esgrima-La-Plata-v0000.png'
+  svgPath: 'svg/Club-de-Gimnasia-y-Esgrima-La-Plata-v0000.svg'
+  sourceID: afa-club-013
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/GIM-Marca.pdf'
+  ctrbID: 'ctrb-niu'

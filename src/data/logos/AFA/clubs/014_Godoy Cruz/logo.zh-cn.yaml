@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-153624-0a3e28
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Godoy Cruz']
+  slug: /afa/club/Club-Deportivo-Godoy-Cruz-v0000-mono
+  pngPath: 'png/Club-Deportivo-Godoy-Cruz-v0000-mono.png'
+  svgPath: 'svg/Club-Deportivo-Godoy-Cruz-v0000-mono.svg'
+  sourceID: afa-club-014
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/GOD-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-153721-8d518b
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Godoy Cruz']
+  slug: /afa/club/Club-Deportivo-Godoy-Cruz-v0000
+  pngPath: 'png/Club-Deportivo-Godoy-Cruz-v0000.png'
+  svgPath: 'svg/Club-Deportivo-Godoy-Cruz-v0000.svg'
+  sourceID: afa-club-014
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/GOD-Marca.pdf'
+  ctrbID: 'ctrb-niu'

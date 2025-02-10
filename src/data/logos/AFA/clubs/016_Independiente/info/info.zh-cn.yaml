@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-016
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.367998919266654, -34.65991716706658]
+  timeline: false
+  info:
+    - fullName: 独立竞技俱乐部
+      localName: Club Atlético Independiente
+      shortName: 独立竞技
+      founded: 1904
+      city: 阿韦亚内达
+      ground: 美洲任意球场
+  websiteURL: 'https://clubaindependiente.com/'
+  twitterURL: 'https://twitter.com/Independiente'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Independiente'

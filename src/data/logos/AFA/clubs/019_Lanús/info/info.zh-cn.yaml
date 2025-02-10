@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-019
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.384730197783576, -34.71163982548603]
+  timeline: false
+  info:
+    - fullName: 拉努斯竞技俱乐部
+      localName: Club Atlético Lanús
+      shortName: 拉努斯
+      founded: 1915
+      city: 拉努斯
+      ground: 拉努斯体育场
+  websiteURL: 'https://www.clublanus.com/'
+  twitterURL: 'https://twitter.com/clublanus'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Lan%C3%BAs'

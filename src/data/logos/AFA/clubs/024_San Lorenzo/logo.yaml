@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20250210-194238-e95927
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Lorenzo']
+  slug: /afa/club/Club-Atletico-San-Lorenzo-v2015-graph
+  pngPath: 'png/Club-Atletico-San-Lorenzo-v2015-graph.png'
+  svgPath: 'svg/Club-Atletico-San-Lorenzo-v2015-graph.svg'
+  sourceID: afa-club-024
+  style: graph
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/SLO-Marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250210-194345-c9fe0b
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Lorenzo']
+  slug: /afa/club/Club-Atletico-San-Lorenzo-v2015-graph-dark
+  pngPath: 'png/Club-Atletico-San-Lorenzo-v2015-graph-dark.png'
+  svgPath: 'svg/Club-Atletico-San-Lorenzo-v2015-graph-dark.svg'
+  sourceID: afa-club-024
+  style: graph
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/SLO-Marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250210-194421-abe2bf
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Lorenzo']
+  slug: /afa/club/Club-Atletico-San-Lorenzo-v2015-mono
+  pngPath: 'png/Club-Atletico-San-Lorenzo-v2015-mono.png'
+  svgPath: 'svg/Club-Atletico-San-Lorenzo-v2015-mono.svg'
+  sourceID: afa-club-024
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/SLO-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-194451-b3ed4a
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['San Lorenzo']
+  slug: /afa/club/Club-Atletico-San-Lorenzo-v2015
+  pngPath: 'png/Club-Atletico-San-Lorenzo-v2015.png'
+  svgPath: 'svg/Club-Atletico-San-Lorenzo-v2015.svg'
+  sourceID: afa-club-024
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/11/SLO-Marca.pdf'
+  ctrbID: 'ctrb-niu'

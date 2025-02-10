@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-211833-3fea08
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Colón']
+  slug: /afa/club/Club-Atletico-Colon-v0000-mono
+  pngPath: 'png/Club-Atletico-Colon-v0000-mono.png'
+  svgPath: 'svg/Club-Atletico-Colon-v0000-mono.svg'
+  sourceID: afa-club-031
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/COL-Marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250210-211921-a625bd
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['Colón']
+  slug: /afa/club/Club-Atletico-Colon-v0000
+  pngPath: 'png/Club-Atletico-Colon-v0000.png'
+  svgPath: 'svg/Club-Atletico-Colon-v0000.svg'
+  sourceID: afa-club-031
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2020/12/COL-Marca.pdf'
+  ctrbID: ''

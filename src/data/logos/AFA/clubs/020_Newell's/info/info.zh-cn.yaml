@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-020
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.66149377395887, -32.95601343783044]
+  timeline: false
+  info:
+    - fullName: 纽维尔老男孩竞技俱乐部
+      localName: Club Atlético Newell's Old Boys
+      shortName: 纽维尔老男孩
+      founded: 1903
+      city: 罗萨里奥
+      ground: 马塞洛·比尔萨体育场
+  websiteURL: 'https://www.newellsoldboys.com.ar/'
+  twitterURL: 'https://twitter.com/Newells'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Newell%27s_Old_Boys'

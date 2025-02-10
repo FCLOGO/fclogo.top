@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-030
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-58.52119117413495, -34.63454236537099]
+  timeline: false
+  info:
+    - fullName: 萨斯菲尔德竞技俱乐部
+      localName: Club Atlético Vélez Sarsfield
+      shortName: 萨斯菲尔德
+      founded: 1910
+      city: 布宜诺斯艾利斯
+      ground: 何塞·阿马尔菲塔尼体育场
+  websiteURL: 'https://www.velez.com.ar/'
+  twitterURL: 'https://twitter.com/Velez'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield'

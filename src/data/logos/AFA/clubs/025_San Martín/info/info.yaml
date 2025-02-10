@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-025
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-68.53030590245815, -31.519504205310753]
+  timeline: false
+  info:
+    - fullName: Club Atlético San Martín
+      localName: Club Atlético San Martín
+      shortName: San Martín de San Juan
+      founded: 1907
+      city: San Juan
+      ground: Estadio Hilario Sánchez Rodríguez
+  websiteURL: 'https://sanmartinsj.accessfan.ar/'
+  twitterURL: 'https://x.com/casanmartinsj?lang=es'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_San_Juan'

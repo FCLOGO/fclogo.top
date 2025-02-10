@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-029
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.715085017755605, -31.632634308199172]
+  timeline: false
+  info:
+    - fullName: 圣菲联合体育俱乐部
+      localName: Club Atlético Unión
+      shortName: 圣菲联合
+      founded: 1907
+      city: 圣菲
+      ground: 四月十五日体育场
+  websiteURL: 'https://www.clubaunion.com.ar/'
+  twitterURL: 'https://twitter.com/clubaunion'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Uni%C3%B3n_de_Santa_Fe'

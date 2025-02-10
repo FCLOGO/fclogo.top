@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-031
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-60.72533941619534, -31.661732016297286]
+  timeline: false
+  info:
+    - fullName: 圣菲科隆竞技俱乐部
+      localName: Club Atlético Colón
+      shortName: 圣菲科隆
+      founded: 1905
+      city: 圣菲
+      ground: 洛佩兹将军球场
+  websiteURL: 'https://clubcolon.com.ar/'
+  twitterURL: 'https://twitter.com/colonoficial'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Col%C3%B3n'

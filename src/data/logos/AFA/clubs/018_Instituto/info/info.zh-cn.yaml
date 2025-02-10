@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: afa-club-018
+  status: active
+  type: club
+  nation: ARG
+  coordinates: [-64.1808786170689, -31.38250974772509]
+  timeline: false
+  info:
+    - fullName: 科尔多瓦学院足球俱乐部
+      localName: Instituto Atlético Central Córdoba
+      shortName: 科尔多瓦学院
+      founded: 1918
+      city: 科尔多瓦
+      ground: 佩隆总统体育场
+  websiteURL: 'https://www.institutoacc.com.ar/'
+  twitterURL: 'https://twitter.com/InstitutoACC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Instituto_Atl%C3%A9tico_Central_C%C3%B3rdoba'

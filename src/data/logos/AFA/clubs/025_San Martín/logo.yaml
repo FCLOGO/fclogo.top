@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250210-195822-21a54d
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['San Martín']
+  slug: /afa/club/Club-Atletico-San-Martin-v0000-graph
+  pngPath: 'png/Club-Atletico-San-Martin-v0000-graph.png'
+  svgPath: 'svg/Club-Atletico-San-Martin-v0000-graph.svg'
+  sourceID: afa-club-025
+  style: graph
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2025/01/San-Martin-Manual-de-Marca.pdf'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250210-195923-c5ac6e
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['San Martín']
+  slug: /afa/club/Club-Atletico-San-Martin-v0000-mono
+  pngPath: 'png/Club-Atletico-San-Martin-v0000-mono.png'
+  svgPath: 'svg/Club-Atletico-San-Martin-v0000-mono.svg'
+  sourceID: afa-club-025
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2025/01/San-Martin-Manual-de-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-200006-06bbf7
+  version: 0000
+  isDoubtful: true
+  isOutdated: false
+  verName: ['San Martín']
+  slug: /afa/club/Club-Atletico-San-Martin-v0000
+  pngPath: 'png/Club-Atletico-San-Martin-v0000.png'
+  svgPath: 'svg/Club-Atletico-San-Martin-v0000.svg'
+  sourceID: afa-club-025
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2025/01/San-Martin-Manual-de-Marca.pdf'
+  ctrbID: 'ctrb-niu'

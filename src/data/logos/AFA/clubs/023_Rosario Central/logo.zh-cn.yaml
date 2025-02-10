@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250210-192013-0063bb
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Rosario Central']
+  slug: /afa/club/Club-Atletico-Rosario-Central-v2024-mono
+  pngPath: 'png/Club-Atletico-Rosario-Central-v2024-mono.png'
+  svgPath: 'svg/Club-Atletico-Rosario-Central-v2024-mono.svg'
+  sourceID: afa-club-023
+  style: mono
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2023/12/RosarioCentral-Marca.pdf'
+  ctrbID: 'ctrb-niu'
+
+- data: logo
+  logoID: 20250210-192102-cb539c
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Rosario Central']
+  slug: /afa/club/Club-Atletico-Rosario-Central-v2024
+  pngPath: 'png/Club-Atletico-Rosario-Central-v2024.png'
+  svgPath: 'svg/Club-Atletico-Rosario-Central-v2024.svg'
+  sourceID: afa-club-023
+  style: color
+  reference: 'https://www.ligaprofesional.ar/wp-content/uploads/2023/12/RosarioCentral-Marca.pdf'
+  ctrbID: 'ctrb-niu'
