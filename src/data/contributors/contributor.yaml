@@ -1,7 +1,8 @@
 - data: contributor
-  ctrbID: ctrb-fclogo
-  name: FCLOGO
-  link: https://weibo.com/u/7578670869
+  ctrbID: ctrb-ryan
+  name: iiiRyan
+  link: https://weibo.com/u/1652080652
+  avatar: 'avatar/iiiryan.jpg'
 
 - data: contributor
   ctrbID: ctrb-waimaer
@@ -17,11 +18,7 @@
   ctrbID: ctrb-ramr
   name: Ramr LaPalma
   link: https://www.facebook.com/RamrPalma/
-
-- data: contributor
-  ctrbID: ctrb-ryan
-  name: iiiRyan
-  link: https://weibo.com/u/1652080652
+  avatar: 'avatar/ramr-lapalma.jpg'
 
 - data: contributor
   ctrbID: ctrb-niu

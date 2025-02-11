@@ -249,6 +249,26 @@ exports.createResolvers = ({ createResolvers }) => {
           return entries
         }
       }
+    },
+    contributor: {
+      // 统计贡献者贡献的徽标数量
+      logoCount: {
+        type: `Int`,
+        resolve: async (source, args, context, info) => {
+          const { entries } = await context.nodeModel.findAll({
+            query: {
+              filter: {
+                ctrbID: { eq: source.ctrbID },
+                fields: {
+                  locale: { eq: 'en' }
+                }
+              }
+            },
+            type: `logo`
+          })
+          return Array.from(entries).length
+        }
+      }
     }
   }
 
