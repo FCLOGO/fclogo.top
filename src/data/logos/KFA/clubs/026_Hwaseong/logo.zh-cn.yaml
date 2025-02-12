@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250212-205109-f475c7
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hwaseong']
+  slug: /kfa/club/Hwaseong-FC-v2023-mono
+  pngPath: 'png/Hwaseong-FC-v2023-mono.png'
+  svgPath: 'svg/Hwaseong-FC-v2023-mono.svg'
+  sourceID: kfa-club-026
+  style: mono
+  reference: 'https://www.hwaseongfc.com/about/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250212-205138-f5ddad
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Hwaseong']
+  slug: /kfa/club/Hwaseong-FC-v2023
+  pngPath: 'png/Hwaseong-FC-v2023.png'
+  svgPath: 'svg/Hwaseong-FC-v2023.svg'
+  sourceID: kfa-club-026
+  style: color
+  reference: 'https://www.hwaseongfc.com/about/emblem.php'
+  ctrbID: ''

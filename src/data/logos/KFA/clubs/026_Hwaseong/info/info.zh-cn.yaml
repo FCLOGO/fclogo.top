@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: kfa-club-026
+  status: active
+  type: club
+  nation: KOR
+  coordinates: [126.92377229664642, 37.137632288326216]
+  timeline: false
+  info:
+    - fullName: 华城足球俱乐部
+      localName: 화성에프씨
+      shortName: 华城 FC
+      founded: 2013
+      city: 华城
+      ground: 华城体育场
+  websiteURL: 'https://www.hwaseongfc.com/'
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Hwaseong_FC'
