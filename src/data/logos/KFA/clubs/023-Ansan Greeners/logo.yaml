@@ -2,7 +2,7 @@
   logoID: 20241024-103330-3b46b1
   version: 2017
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Ansan Greeners']
   slug: /kfa/club/ansan-greeners-v2017-mono
   pngPath: 'png/ansan-greeners-v2017-mono.png'
@@ -16,11 +16,39 @@
   logoID: 20241024-103359-21b0db
   version: 2017
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Ansan Greeners']
   slug: /kfa/club/ansan-greeners-v2017
   pngPath: 'png/ansan-greeners-v2017.png'
   svgPath: 'svg/ansan-greeners-v2017.svg'
+  sourceID: kfa-club-023
+  style: color
+  reference: 'https://www.greenersfc.com/fc/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250212-203927-52d91a
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ansan Greeners']
+  slug: /kfa/club/Ansan-greeners-v2025-mono
+  pngPath: 'png/Ansan-greeners-v2025-mono.png'
+  svgPath: 'svg/Ansan-greeners-v2025-mono.svg'
+  sourceID: kfa-club-023
+  style: mono
+  reference: 'https://www.greenersfc.com/fc/emblem.php'
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250212-204107-7b4ec4
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ansan Greeners']
+  slug: /kfa/club/Ansan-greeners-v2025
+  pngPath: 'png/Ansan-greeners-v2025.png'
+  svgPath: 'svg/Ansan-greeners-v2025.svg'
   sourceID: kfa-club-023
   style: color
   reference: 'https://www.greenersfc.com/fc/emblem.php'
