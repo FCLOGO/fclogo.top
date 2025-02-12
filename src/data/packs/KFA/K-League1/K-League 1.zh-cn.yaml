@@ -30,3 +30,36 @@
       version: 2016
     - id: kfa-club-012
       version: 2021
+
+- data: logoPack
+  packID: 20250212-205749-6865e1
+  name: 韩国 K1 联赛
+  season: '2025'
+  packSource: kfa-comp-001
+  logoVersion: 2021
+  slug: /pack/2025-k-league-1
+  items:
+    - id: kfa-club-001
+      version: 2024
+    - id: kfa-club-002
+      version: 2003
+    - id: kfa-club-003
+      version: 2011
+    - id: kfa-club-004
+      version: 2018
+    - id: kfa-club-013
+      version: 2013
+    - id: kfa-club-006
+      version: 2013
+    - id: kfa-club-007
+      version: 2004
+    - id: kfa-club-008
+      version: 2020
+    - id: kfa-club-009
+      version: 2009
+    - id: kfa-club-010
+      version: 2009
+    - id: kfa-club-011
+      version: 2016
+    - id: kfa-club-012
+      version: 2021
