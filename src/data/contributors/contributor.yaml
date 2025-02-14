@@ -8,11 +8,13 @@
   ctrbID: ctrb-waimaer
   name: 外马尔
   link: https://weibo.com/u/2438756991
+  avatar: 'avatar/waimaer.jpg'
 
 - data: contributor
   ctrbID: ctrb-cuida
   name: 崔大本事__
   link: https://weibo.com/u/7400881820
+  avatar: 'avatar/default.png'
 
 - data: contributor
   ctrbID: ctrb-ramr
@@ -24,8 +26,10 @@
   ctrbID: ctrb-niu
   name: Niuchak
   link: https://weibo.com/u/1735831840
+  avatar: 'avatar/niuchak.jpg'
 
 - data: contributor
   ctrbID: ctrb-dani
   name: danisalach
   link: https://bibliotecaescudos.blogspot.com/
+  avatar: 'avatar/dani.webp'

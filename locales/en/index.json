@@ -11,6 +11,8 @@
   "headDownload": "Download ",
   "detailDescription": ". Includes SVG and PNG formats, no account required, unlimited free downloads.",
 
+  "contributiontitle": "Contribution List",
+
   "switch.lang": "Switch Language",
   "switch.theme": "Switch Color Theme",
   "header.sponsor": "Sponsor",
@@ -26,6 +28,7 @@
   "menu.contribute": "Contribute Logos",
   "menu.map": "Map",
   "menu.links": "Links",
+  "menu.contribution": "Contribution",
 
   "hero.title": "Access <1>{{totalCount}}</1> vector logos",
   "hero.subtitle": "All logos include SVG and PNG formats. No account and unlimited downloads for free.👋",
@@ -93,6 +96,10 @@
   "linkstitle": "Links",
   "contactus": "Contact Us",
   "exchangelinks": "Exchange Links?",
+
+  "contribution.slogan": "Your contribution is our motivation",
+  "contribution.subtitle": "Thanks to everyone who has contributed to the project🙌",
+  "contributeLogo": "How to contribute logos?",
 
   "sidebar.logoVer": "ver. ",
   "sidebar.doubtful": "?",

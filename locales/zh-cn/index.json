@@ -11,6 +11,8 @@
   "headDownload": "下载",
   "detailDescription": "。包含SVG和PNG格式，无需账户，无限制免费下载。",
 
+  "contributiontitle": "贡献统计",
+
   "switch.lang": "切换语言",
   "switch.theme": "更改颜色主题",
   "header.sponsor": "支持我们",
@@ -26,6 +28,7 @@
   "menu.contribute": "贡献徽标",
   "menu.map": "地图",
   "menu.links": "友情链接",
+  "menu.contribution": "贡献",
 
   "hero.title": "收集 <1>{{totalCount}}</1> 个矢量徽标",
   "hero.subtitle": "所有徽标包含 SVG 和 PNG 两种格式。无需账号，无限制免费下载。👋",
@@ -93,6 +96,10 @@
   "linkstitle": "友情链接",
   "contactus": "联系我们",
   "exchangelinks": "交换链接?",
+
+  "contribution.slogan": "您的贡献是我们的动力",
+  "contribution.subtitle": "感谢每一位为项目做出贡献的人🙌",
+  "contributeLogo": "如何贡献徽标?",
 
   "sidebar.logoVer": "版本：",
   "sidebar.doubtful": "?",
