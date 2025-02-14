@@ -2,7 +2,7 @@
   logoID: 20240916-195436-ee531f
   version: 2011
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['光州 FC']
   slug: /kfa/club/gwangju-fc-v2011-mono-2
   pngPath: 'png/gwangju-fc-v2011-mono-2.png'
@@ -16,7 +16,7 @@
   logoID: 20240916-195522-46e076
   version: 2011
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['光州 FC']
   slug: /kfa/club/gwangju-fc-v2011
   pngPath: 'png/gwangju-fc-v2011.png'
@@ -30,7 +30,7 @@
   logoID: 20240916-195548-6b95f9
   version: 2011
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['光州 FC']
   slug: /kfa/club/gwangju-fc-v2011-mono
   pngPath: 'png/gwangju-fc-v2011-mono.png'
@@ -39,3 +39,17 @@
   style: mono
   reference: 'https://www.gwangjufc.com/fc/emblem.php'
   ctrbID: ''
+
+- data: logo
+  logoID: 20250214-154800-8456b4
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gwangju FC']
+  slug: /kfa/club/gwangju-fc-v2025
+  pngPath: 'png/gwangju-fc-v2025.png'
+  svgPath: 'svg/gwangju-fc-v2025.svg'
+  sourceID: kfa-club-003
+  style: color
+  reference: 'https://www.gwangjufc.com/fc/emblem.php'
+  ctrbID: 'ctrb-waimaer'
