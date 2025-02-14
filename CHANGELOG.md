@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.8.0](https://github.com/FCLOGO/fclogo.top/compare/v2.7.5...v2.8.0) (2025-02-14)
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* 更新贡献者信息并添加徽标统计功能 ([6962828](https://github.com/FCLOGO/fclogo.top/commit/696282895c6099186c555e6b4c481f0a42a720bf))
+
+
+### 📝 Documentation | 文档
+
+* 更新2025赛季K1、K2联赛徽标集 ([18e346d](https://github.com/FCLOGO/fclogo.top/commit/18e346dd67fd3e46946bbaac7689e575cfdbabe1))
+* 更新安山绿人俱乐部徽标 ([4dfde48](https://github.com/FCLOGO/fclogo.top/commit/4dfde4854b59917574bf1ca6d6d27f8555e90f43))
+* 更新K联赛2俱乐部徽标版本 ([c1232c1](https://github.com/FCLOGO/fclogo.top/commit/c1232c191d5d43e99fc7cbbc7286d0007e741d17))
+* 添加华城足球俱乐部信息及徽标 ([466b565](https://github.com/FCLOGO/fclogo.top/commit/466b565e84ad7a950d2f370ea378dbc966ee0648))
+
+
+### ✨ Features | 新功能
+
+* 添加贡献页面及徽标贡献统计数据 ([26998eb](https://github.com/FCLOGO/fclogo.top/commit/26998eb594ee044b6f76858a45f5cb387052b1b9))
+
 ### [2.7.5](https://github.com/FCLOGO/fclogo.top/compare/v2.7.4...v2.7.5) (2025-02-10)
 
 
