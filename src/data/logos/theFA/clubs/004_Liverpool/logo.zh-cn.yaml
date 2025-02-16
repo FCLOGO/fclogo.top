@@ -30,12 +30,26 @@
   logoID: 20241217-095706-f2df0e
   version: 2012
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Liverpool']
   slug: /thefa/club/Liverpool-Football-Club-v2012-minor
   pngPath: 'png/Liverpool-Football-Club-v2012-minor.png'
   svgPath: 'svg/Liverpool-Football-Club-v2012-minor.svg'
   sourceID: thefa-club-004
   style: minor
-  reference: 'https://www.liverpoolfc.com/corporate/brand-protection'
+  reference: ''
   ctrbID: ''
+
+- data: logo
+  logoID: 20250216-165048-c0e372
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Liverpool']
+  slug: /thefa/club/Liverpool-Football-Club-v2024-minor
+  pngPath: 'png/Liverpool-Football-Club-v2024-minor.png'
+  svgPath: 'svg/Liverpool-Football-Club-v2024-minor.svg'
+  sourceID: thefa-club-004
+  style: minor
+  reference: 'https://www.liverpoolfc.com/corporate/brand-protection'
+  ctrbID: 'ctrb-ryan'
