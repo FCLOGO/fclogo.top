@@ -3,7 +3,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: true
-  verName: ['YiChun JiangWu WeiHu']
+  verName: ['宜春江钨威虎']
   slug: /cfa/club/yichun-weihu-v2018-mono
   pngPath: 'png/yichun-weihu-v2018-mono.png'
   svgPath: 'svg/yichun-weihu-v2018-mono.svg'
@@ -15,7 +15,7 @@
   version: 2018
   isDoubtful: false
   isOutdated: true
-  verName: ['YiChun JiangWu WeiHu']
+  verName: ['宜春江钨威虎']
   slug: /cfa/club/yichun-weihu-v2018
   pngPath: 'png/yichun-weihu-v2018.png'
   svgPath: 'svg/yichun-weihu-v2018.svg'
@@ -27,7 +27,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: true
-  verName: ['YiChun WeiHu']
+  verName: ['宜春威虎']
   slug: /cfa/club/yichun-weihu-v2021-mono
   pngPath: 'png/yichun-weihu-v2021-mono.png'
   svgPath: 'svg/yichun-weihu-v2021-mono.svg'
@@ -39,7 +39,7 @@
   version: 2021
   isDoubtful: false
   isOutdated: true
-  verName: ['YiChun WeiHu']
+  verName: ['宜春威虎']
   slug: /cfa/club/yichun-weihu-v2021
   pngPath: 'png/yichun-weihu-v2021.png'
   svgPath: 'svg/yichun-weihu-v2021.svg'
@@ -50,8 +50,8 @@
   logoID: 20220530-165714
   version: 2022
   isDoubtful: false
-  isOutdated: false
-  verName: ['Jiangxi Dark Horse Junior']
+  isOutdated: true
+  verName: ['江西黑马青年']
   slug: /cfa/club/jiangxi-dark-horse-junior-v2022-mono
   pngPath: 'png/jiangxi-dark-horse-junior-v2022-mono.png'
   svgPath: 'svg/jiangxi-dark-horse-junior-v2022-mono.svg'
@@ -62,10 +62,53 @@
   logoID: 20220530-165810
   version: 2022
   isDoubtful: false
-  isOutdated: false
-  verName: ['Jiangxi Dark Horse Junior']
+  isOutdated: true
+  verName: ['江西黑马青年']
   slug: /cfa/club/jiangxi-dark-horse-junior-v2022
   pngPath: 'png/jiangxi-dark-horse-junior-v2022.png'
   svgPath: 'svg/jiangxi-dark-horse-junior-v2022.svg'
   sourceID: cfa-club-066
   style: color
+
+- data: logo
+  logoID: 20250220-123020-5f0023
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wenzhou']
+  slug: /cfa/club/Wenzhou-v2025-mono-dark
+  pngPath: 'png/Wenzhou-v2025-mono-dark.png'
+  svgPath: 'svg/Wenzhou-v2025-mono-dark.svg'
+  sourceID: cfa-club-066
+  style: mono
+  isBgDark: true
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250220-123051-a21901
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wenzhou']
+  slug: /cfa/club/Wenzhou-v2025-mono
+  pngPath: 'png/Wenzhou-v2025-mono.png'
+  svgPath: 'svg/Wenzhou-v2025-mono.svg'
+  sourceID: cfa-club-066
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250220-123113-232691
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Wenzhou']
+  slug: /cfa/club/Wenzhou-v2025
+  pngPath: 'png/Wenzhou-v2025.png'
+  svgPath: 'svg/Wenzhou-v2025.svg'
+  sourceID: cfa-club-066
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

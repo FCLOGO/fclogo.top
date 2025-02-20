@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-066
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.645008, 28.011923]
+  timeline: true
+  info:
+    - fullName: Wenzhou Professional Football Club
+      shortName: Wenzhou FC
+      localName: 温州职业足球俱乐部
+      founded: 2018
+      city: Wenzhou, China
+      ground:
+  weiboURL: ''
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -3,16 +3,15 @@
   status: active
   type: club
   nation: CHN
-  coordinates: [115.031633, 24.790541]
+  coordinates: [120.645008, 28.011923]
   timeline: true
   info:
-    - fullName: 江西黑马青年足球俱乐部
-      shortName: 江西黑马青年
-      localName: 江西黑马青年足球俱乐部
+    - fullName: 温州职业足球俱乐部
+      shortName: 温州 FC
+      localName: 温州职业足球俱乐部
       founded: 2018
-      city: 宜春，中国
+      city: 中国，温州
       ground:
-      league: 中乙联赛
   weiboURL: ''
   twitterURL: ''
   websiteURL: ''
