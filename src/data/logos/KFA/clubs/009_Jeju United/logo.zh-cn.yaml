@@ -2,7 +2,7 @@
   logoID: 20241001-231358-ad4706
   version: 2009
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['济州联']
   slug: /kfa/club/jeju-united-v2009-mono
   pngPath: 'png/jeju-united-v2009-mono.png'
@@ -16,7 +16,7 @@
   logoID: 20241001-231457-b276bb
   version: 2009
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['济州联']
   slug: /kfa/club/jeju-united-v2009
   pngPath: 'png/jeju-united-v2009.png'
@@ -25,3 +25,31 @@
   style: color
   reference: 'https://www.jeju-utd.com/club/introduction/mascot'
   ctrbID: ''
+
+- data: logo
+  logoID: 20250220-110612-3a8e1e
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jeju United']
+  slug: /kfa/club/jeju-united-v2025-mono
+  pngPath: 'png/jeju-united-v2025-mono.png'
+  svgPath: 'svg/jeju-united-v2025-mono.svg'
+  sourceID: kfa-club-009
+  style: mono
+  reference: 'https://www.jejuskfc.com/club/introduction/mascot'
+  ctrbID: 'ctrb-kang'
+
+- data: logo
+  logoID: 20250220-110705-00ee75
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Jeju United']
+  slug: /kfa/club/jeju-united-v2025
+  pngPath: 'png/jeju-united-v2025.png'
+  svgPath: 'svg/jeju-united-v2025.svg'
+  sourceID: kfa-club-009
+  style: color
+  reference: 'https://www.jejuskfc.com/club/introduction/mascot'
+  ctrbID: 'ctrb-ryan'
