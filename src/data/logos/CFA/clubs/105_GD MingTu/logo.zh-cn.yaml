@@ -2,7 +2,7 @@
   logoID: 20241129-110607-80c141
   version: 2024
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['广东铭途']
   slug: /cfa/club/Guangdong-Mingtu-v2024-mono
   pngPath: 'png/Guangdong-Mingtu-v2024-mono.png'
@@ -16,7 +16,7 @@
   logoID: 20241129-110634-da8983
   version: 2024
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['广东铭途']
   slug: /cfa/club/Guangdong-Mingtu-v2024
   pngPath: 'png/Guangdong-Mingtu-v2024.png'
@@ -25,3 +25,31 @@
   style: color
   reference: ''
   ctrbID: ''
+
+- data: logo
+  logoID: 20250221-095618-2166ae
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['GD Mingtu']
+  slug: /cfa/club/Guangdong-Mingtu-v2025-mono
+  pngPath: 'png/Guangdong-Mingtu-v2025-mono.png'
+  svgPath: 'svg/Guangdong-Mingtu-v2025-mono.svg'
+  sourceID: cfa-club-105
+  style: mono
+  reference: 'https://weibo.com/7788396485/Pf9Q5dQBX'
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250221-095721-c5ad3d
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['GD Mingtu']
+  slug: /cfa/club/Guangdong-Mingtu-v2025
+  pngPath: 'png/Guangdong-Mingtu-v2025.png'
+  svgPath: 'svg/Guangdong-Mingtu-v2025.svg'
+  sourceID: cfa-club-105
+  style: color
+  reference: 'https://weibo.com/7788396485/Pf9Q5dQBX'
+  ctrbID: 'ctrb-ryan'
