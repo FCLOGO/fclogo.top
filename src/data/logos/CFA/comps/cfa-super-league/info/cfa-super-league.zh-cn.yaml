@@ -3,9 +3,9 @@
   type: comp
   nation: CHN
   info:
-    - fullName: 中国足球协会超级联赛
+    - fullName: 中国足球超级联赛
       shortName: 中超联赛
-      localName: 中国足球协会超级联赛
+      localName: 中国足球超级联赛
       founded: 2004
       confederation: AFC
       teams: 16

@@ -3,9 +3,9 @@
   type: comp
   nation: CHN
   info:
-    - fullName: Chinese Football Association Super League
+    - fullName: Chinese Football Super League
       shortName: Chinese Super League
-      localName: 中国足球协会超级联赛
+      localName: 中国足球超级联赛
       founded: 2004
       confederation: AFC
       teams: 16
