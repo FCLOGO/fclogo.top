@@ -22,9 +22,9 @@ const MainMenu = () => {
         <MenuLink to="/logos">{t('menu.logo')}</MenuLink>
         <MenuLink to="/packs">{t('menu.pack')}</MenuLink>
         <MenuLink to="/logomap">{t('menu.map')}</MenuLink>
-        <MenuLink to="/about">{t('menu.about')}</MenuLink>
         <MenuLink to="/contribution">{t('menu.contribution')}</MenuLink>
         <MenuLink to="/links">{t('menu.links')}</MenuLink>
+        <MenuLink to="/about">{t('menu.about')}</MenuLink>
       </ul>
       <LanguageSwitcher />
     </div>
