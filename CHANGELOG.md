@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.1](https://github.com/FCLOGO/fclogo.top/compare/v2.8.0...v2.8.1) (2025-02-23)
+
+
+### 📝 Documentation | 文档
+
+* 更新光州FC 2025 新徽标 ([575cae8](https://github.com/FCLOGO/fclogo.top/commit/575cae8dbf53dce9cbfbe16813d0377e2ea0c485))
+* 更新广东铭途2025新队徽 ([3cc6190](https://github.com/FCLOGO/fclogo.top/commit/3cc61903313ef2bc9eca286205e6cd38090b309e))
+* 更新广东铭途2025新队徽 ([f7da2b1](https://github.com/FCLOGO/fclogo.top/commit/f7da2b1a7f7c3c8aa77312ac00d42c4dc7ae211c))
+* 更新济州联2025新队徽 ([d5c18f2](https://github.com/FCLOGO/fclogo.top/commit/d5c18f282b1dab7c4fbb0e70d67ffe9a36e194b6))
+* 更新济州联2025新队徽 ([dc8ecab](https://github.com/FCLOGO/fclogo.top/commit/dc8ecab8fa93c8ead7da5e43890172db06c9f6e7))
+* 更新利物浦足球俱乐部徽标版本 ([4514f92](https://github.com/FCLOGO/fclogo.top/commit/4514f92437cf57007f858462d8838efc26d2f437))
+* 更新中国足球超级联赛名称 ([49877bb](https://github.com/FCLOGO/fclogo.top/commit/49877bba813139bd33cde36771c54e286d093389))
+* 添加威尼斯FC多个历史徽标 ([bda1e84](https://github.com/FCLOGO/fclogo.top/commit/bda1e842557180eba872acfb8512e2af917eaeba))
+
+
+### ❇️ Chores | 其他更新
+
+* 调整菜单顺序 ([eadf87b](https://github.com/FCLOGO/fclogo.top/commit/eadf87b80f2cdf8a92f73be7c1bdb26887c53a81))
+
 ## [2.8.0](https://github.com/FCLOGO/fclogo.top/compare/v2.7.5...v2.8.0) (2025-02-14)
 
 
