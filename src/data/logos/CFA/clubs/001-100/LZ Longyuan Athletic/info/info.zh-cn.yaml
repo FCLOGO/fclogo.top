@@ -3,16 +3,15 @@
   status: active
   type: club
   nation: CHN
-  coordinates: [119.524265, 35.396726]
+  coordinates: [103.792311, 36.063767]
   timeline: true
   info:
-    - fullName: Rizhao Yuqi Football Club
-      shortName: Rizhao Yuqi
-      localName: 日照宇启足球俱乐部
+    - fullName: 兰州陇原竞技足球俱乐部
+      shortName: 兰州陇原竞技
+      localName: 兰州陇原竞技足球俱乐部
       founded: 2014
-      city: Rizhao, China
-      ground: Rizhao International Football Center
-      league: China League 2
+      city: 中国，兰州
+      ground:
   weiboURL: 'https://weibo.com/u/7785722383'
   twitterURL: ''
   websiteURL: ''

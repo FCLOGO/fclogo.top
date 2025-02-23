@@ -1,0 +1,55 @@
+- data: logo
+  logoID: 20240914-232923-66aa31
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Rizhao Yuqi']
+  slug: /cfa/club/rizhao-yuqi-v2014-mono
+  pngPath: 'png/rizhao-yuqi-v2014-mono.png'
+  svgPath: 'svg/rizhao-yuqi-v2014-mono.svg'
+  sourceID: cfa-club-099
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20240914-233036-88f44b
+  version: 2014
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Rizhao Yuqi']
+  slug: /cfa/club/rizhao-yuqi-v2014
+  pngPath: 'png/rizhao-yuqi-v2014.png'
+  svgPath: 'svg/rizhao-yuqi-v2014.svg'
+  sourceID: cfa-club-099
+  style: color
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250223-111001-e35ef7
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Longyuan Athletic']
+  slug: /cfa/club/Lanzhou-Longyuan-Athletic-v2025-mono
+  pngPath: 'png/Lanzhou-Longyuan-Athletic-v2025-mono.png'
+  svgPath: 'svg/Lanzhou-Longyuan-Athletic-v2025-mono.svg'
+  sourceID: cfa-club-099
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250223-111035-8cc78c
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Longyuan Athletic']
+  slug: /cfa/club/Lanzhou-Longyuan-Athletic-v2025
+  pngPath: 'png/Lanzhou-Longyuan-Athletic-v2025.png'
+  svgPath: 'svg/Lanzhou-Longyuan-Athletic-v2025.svg'
+  sourceID: cfa-club-099
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'
