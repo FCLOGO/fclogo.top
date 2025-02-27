@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-032
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [115.034996, 24.773725]
+  timeline: true
+  info:
+    - fullName: Dingnan Ganlian Football Club
+      shortName: Dingnan Ganlian
+      localName: 定南赣联足球俱乐部
+      city: Ganzhou, China
+      founded: 2014
+      ground:
+  weiboURL: 'https://weibo.com/u/7322753496'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

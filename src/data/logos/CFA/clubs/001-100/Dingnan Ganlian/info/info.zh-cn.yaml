@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-032
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [115.034996, 24.773725]
+  timeline: true
+  info:
+    - fullName: 定南赣联足球俱乐部
+      shortName: 定南赣联
+      localName: 定南赣联足球俱乐部
+      city: 中国，赣州
+      founded: 2014
+      ground:
+  weiboURL: 'https://weibo.com/u/7322753496'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: 'https://baike.baidu.com/item/黑龙江冰城足球俱乐部/'

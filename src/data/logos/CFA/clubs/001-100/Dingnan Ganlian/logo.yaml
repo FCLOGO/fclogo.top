@@ -3,7 +3,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['黑龙江火山鸣泉']
+  verName: ['Heilongjiang Lava Spring']
   slug: /cfa/club/heilongjiang-ice-city-v2016-mono
   pngPath: 'png/heilongjiang-ice-city-v2016-mono.png'
   svgPath: 'svg/heilongjiang-ice-city-v2016-mono.svg'
@@ -15,7 +15,7 @@
   version: 2016
   isDoubtful: false
   isOutdated: true
-  verName: ['黑龙江火山鸣泉']
+  verName: ['Heilongjiang Lava Spring']
   slug: /cfa/club/heilongjiang-ice-city-v2016
   pngPath: 'png/heilongjiang-ice-city-v2016.png'
   svgPath: 'svg/heilongjiang-ice-city-v2016.svg'
@@ -26,8 +26,8 @@
   logoID: 20211101-011
   version: 2021
   isDoubtful: false
-  isOutdated: false
-  verName: ['黑龙江冰城']
+  isOutdated: true
+  verName: ['Heilongjiang Ice City']
   slug: /cfa/club/heilongjiang-ice-city-v2021-mono
   pngPath: 'png/heilongjiang-ice-city-v2021-mono.png'
   svgPath: 'svg/heilongjiang-ice-city-v2021-mono.svg'
@@ -38,8 +38,8 @@
   logoID: 20211101-012
   version: 2021
   isDoubtful: false
-  isOutdated: false
-  verName: ['黑龙江冰城']
+  isOutdated: true
+  verName: ['Heilongjiang Ice City']
   slug: /cfa/club/heilongjiang-ice-city-v2021
   pngPath: 'png/heilongjiang-ice-city-v2021.png'
   svgPath: 'svg/heilongjiang-ice-city-v2021.svg'
@@ -51,9 +51,37 @@
   version: 2014
   isDoubtful: false
   isOutdated: true
-  verName: ['安徽力天']
+  verName: ['Anhui Litian']
   slug: /cfa/club/anhui-litian-v2014
   pngPath: 'png/anhui-litian-v2014.png'
   svgPath: 'svg/anhui-litian-v2014.svg'
   sourceID: cfa-club-032
   style: color
+
+- data: logo
+  logoID: 20250227-150259-5ffe97
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dingnan Ganlian']
+  slug: /cfa/club/Dingnan-Ganlian-v2025-mono
+  pngPath: 'png/Dingnan-Ganlian-v2025-mono.png'
+  svgPath: 'svg/Dingnan-Ganlian-v2025-mono.svg'
+  sourceID: cfa-club-032
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250227-150341-e23524
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dingnan Ganlian']
+  slug: /cfa/club/Dingnan-Ganlian-v2025
+  pngPath: 'png/Dingnan-Ganlian-v2025.png'
+  svgPath: 'svg/Dingnan-Ganlian-v2025.svg'
+  sourceID: cfa-club-032
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'
