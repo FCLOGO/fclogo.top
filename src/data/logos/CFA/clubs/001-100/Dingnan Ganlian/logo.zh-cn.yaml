@@ -26,7 +26,7 @@
   logoID: 20211101-011
   version: 2021
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['黑龙江冰城']
   slug: /cfa/club/heilongjiang-ice-city-v2021-mono
   pngPath: 'png/heilongjiang-ice-city-v2021-mono.png'
@@ -38,7 +38,7 @@
   logoID: 20211101-012
   version: 2021
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['黑龙江冰城']
   slug: /cfa/club/heilongjiang-ice-city-v2021
   pngPath: 'png/heilongjiang-ice-city-v2021.png'
