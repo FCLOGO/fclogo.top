@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-095
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.302094, 30.424334]
+  timeline: true
+  info:
+    - fullName: Hangzhou Linping Wuyue Football Club
+      shortName: HZ Linping Wuyue
+      localName: 杭州临平吴越足球俱乐部
+      founded: 2022
+      city: Hangzhou, Zhejiang
+      ground: Linping Sports Center Stadium
+  weiboURL: 'https://weibo.com/u/7831687308'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

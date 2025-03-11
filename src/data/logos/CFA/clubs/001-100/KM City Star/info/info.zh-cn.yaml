@@ -3,16 +3,15 @@
   status: active
   type: club
   nation: CHN
-  coordinates: [110.283729, 19.871112]
+  coordinates: [102.661474, 25.097125]
   timeline: true
   info:
-    - fullName: Haikou Mingcheng Football Club
-      shortName: Haikou Mingcheng
-      localName: 海口名城足球俱乐部
+    - fullName: 昆明城星足球俱乐部
+      shortName: 昆明城星
+      localName: 昆明城星足球俱乐部
       founded: 2019
-      city: Haikou, China
-      ground: Guanlanhu Football Training Base
-      league: China League 2
+      city: 中国，昆明
+      ground:
   weiboURL: 'https://weibo.com/u/7746920606'
   twitterURL: ''
   websiteURL: ''

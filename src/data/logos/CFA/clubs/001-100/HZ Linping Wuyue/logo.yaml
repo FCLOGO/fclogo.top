@@ -1,0 +1,53 @@
+- data: logo
+  logoID: 20231113-153842-403ebe
+  version: 2022
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Langfang City of Glory']
+  slug: /cfa/club/langfang-city-of-glory-v2022-mono
+  pngPath: 'png/langfang-city-of-glory-v2022-mono.png'
+  svgPath: 'svg/langfang-city-of-glory-v2022-mono.svg'
+  sourceID: cfa-club-095
+  style: mono
+  reference: ''
+
+- data: logo
+  logoID: 20231113-153926-ef3ea6
+  version: 2022
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Langfang City of Glory']
+  slug: /cfa/club/langfang-city-of-glory-v2022
+  pngPath: 'png/langfang-city-of-glory-v2022.png'
+  svgPath: 'svg/langfang-city-of-glory-v2022.svg'
+  sourceID: cfa-club-095
+  style: color
+  reference: ''
+
+- data: logo
+  logoID: 20250311-171457-8e4cd3
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Linping Wuyue']
+  slug: /cfa/club/Hangzhou-Linping-Wuyue-v2025-mono
+  pngPath: 'png/Hangzhou-Linping-Wuyue-v2025-mono.png'
+  svgPath: 'svg/Hangzhou-Linping-Wuyue-v2025-mono.svg'
+  sourceID: cfa-club-095
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250311-171536-d6810b
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Linping Wuyue']
+  slug: /cfa/club/Hangzhou-Linping-Wuyue-v2025
+  pngPath: 'png/Hangzhou-Linping-Wuyue-v2025.png'
+  svgPath: 'svg/Hangzhou-Linping-Wuyue-v2025.svg'
+  sourceID: cfa-club-095
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

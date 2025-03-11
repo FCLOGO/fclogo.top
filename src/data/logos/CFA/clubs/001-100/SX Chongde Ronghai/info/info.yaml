@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-100
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [112.517749, 37.857333]
+  timeline: true
+  info:
+    - fullName: Shanxi Chongde Ronghai Football club
+      shortName: Shanxi Chongde Ronghai
+      localName: 山西崇德荣海足球俱乐部
+      founded: 2021
+      city: Taiyuan, Shanxi
+      ground:
+  weiboURL: 'https://weibo.com/u/7828206272'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-095
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [120.302094, 30.424334]
+  timeline: true
+  info:
+    - fullName: 杭州临平吴越足球俱乐部
+      shortName: 杭州临平吴越
+      localName: 杭州临平吴越足球俱乐部
+      founded: 2022
+      city: 浙江，杭州
+      ground: 杭州临平体育中心体育场 ​
+  weiboURL: 'https://weibo.com/u/7831687308'
+  twitterURL: ''
+  websiteURL: ''
+  wikiURL: ''

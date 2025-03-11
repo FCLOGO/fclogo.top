@@ -3,16 +3,15 @@
   status: active
   type: club
   nation: CHN
-  coordinates: [110.283729, 19.871112]
+  coordinates: [102.661474, 25.097125]
   timeline: true
   info:
-    - fullName: 海口名城足球俱乐部
-      shortName: 海口名城
-      localName: 海口名城足球俱乐部
+    - fullName: Kunming City Star Football Club
+      shortName: Kunming City Star
+      localName: 昆明城星足球俱乐部
       founded: 2019
-      city: 海口，中国
-      ground: 观澜湖足球训练基地
-      league: 中乙联赛
+      city: Kunming, China
+      ground:
   weiboURL: 'https://weibo.com/u/7746920606'
   twitterURL: ''
   websiteURL: ''

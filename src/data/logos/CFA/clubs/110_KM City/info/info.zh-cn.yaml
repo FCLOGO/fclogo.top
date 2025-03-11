@@ -1,6 +1,6 @@
 - data: sourceInfo
   sourceID: cfa-club-110
-  status: active
+  status: inactive
   type: club
   nation: CHN
   coordinates: [102.66, 25.11]
