@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250311-153912-5360df
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Córdoba']
+  slug: /rfef/club/Cordoba-CF-v2012-mono
+  pngPath: 'png/Cordoba-CF-v2012-mono.png'
+  svgPath: 'svg/Cordoba-CF-v2012-mono.svg'
+  sourceID: rfef-club-028
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250311-154012-eaba71
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Córdoba']
+  slug: /rfef/club/Cordoba-CF-v2012
+  pngPath: 'png/Cordoba-CF-v2012.png'
+  svgPath: 'svg/Cordoba-CF-v2012.svg'
+  sourceID: rfef-club-028
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

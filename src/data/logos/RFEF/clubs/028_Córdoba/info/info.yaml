@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-028
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-4.7664, 37.8685]
+  timeline: false
+  info:
+    - fullName: Córdoba Club de Fútbol
+      localName: Córdoba Club de Fútbol
+      shortName: Córdoba
+      founded: 1954
+      city: Córdoba
+      ground: Estadio Nuevo Arcángel
+  websiteURL: 'https://cordobacf.com/'
+  twitterURL: 'https://x.com/CordobaCF_ofi'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/C%C3%B3rdoba_CF'

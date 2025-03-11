@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-024
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.6809, 42.3442]
+  timeline: false
+  info:
+    - fullName: Burgos Club de Fútbol, SAD
+      localName: Burgos Club de Fútbol, SAD
+      shortName: Burgos
+      founded: 1985
+      city: Burgos
+      ground: Estadio El Plantío
+  websiteURL: 'https://www.burgoscf.es/'
+  twitterURL: 'https://x.com/Burgos_CF'
+  weiboURL: ''
+  wikiURL: 'https://es.wikipedia.org/wiki/Burgos_Club_de_F%C3%BAtbol'

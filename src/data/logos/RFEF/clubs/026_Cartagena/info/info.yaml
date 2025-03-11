@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-026
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.996, 37.6096]
+  timeline: false
+  info:
+    - fullName: Fútbol Club Cartagena
+      localName: Fútbol Club Cartagena
+      shortName: Cartagena
+      founded: 1995
+      city: Cartagena
+      ground: Estadio Cartagonova
+  websiteURL: 'https://www.fccartagena.es/'
+  twitterURL: 'https://x.com/FcCartagena_efs'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Cartagena'

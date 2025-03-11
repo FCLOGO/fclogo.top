@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-025
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-6.27215, 36.50352]
+  timeline: false
+  info:
+    - fullName: Cádiz Club de Fútbol
+      localName: Cádiz Club de Fútbol
+      shortName: Cádiz
+      founded: 1910
+      city: Cádiz
+      ground: Nuevo Mirandilla
+  websiteURL: 'https://www.cadizcf.com/'
+  twitterURL: 'https://x.com/Cadiz_CF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/C%C3%A1diz_CF'

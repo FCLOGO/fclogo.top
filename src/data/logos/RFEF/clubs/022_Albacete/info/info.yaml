@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-022
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-1.8523, 38.982]
+  timeline: false
+  info:
+    - fullName: Albacete Balompié, SAD
+      localName: Albacete Balompié, SAD
+      shortName: Albacete
+      founded: 1939
+      city: Albacete
+      ground: Estadio Carlos Belmonte
+  websiteURL: 'https://www.albacetebalompie.es/'
+  twitterURL: 'https://x.com/AlbaceteBPSAD'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Albacete_Balompi%C3%A9'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250311-145348-851089
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Cádiz']
+  slug: /rfef/club/Cadiz-CF-v2009-mono
+  pngPath: 'png/Cadiz-CF-v2009-mono.png'
+  svgPath: 'svg/Cadiz-CF-v2009-mono.svg'
+  sourceID: rfef-club-025
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250311-145428-e8c614
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Cádiz']
+  slug: /rfef/club/Cadiz-CF-v2009
+  pngPath: 'png/Cadiz-CF-v2009.png'
+  svgPath: 'svg/Cadiz-CF-v2009.svg'
+  sourceID: rfef-club-025
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

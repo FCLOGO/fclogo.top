@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-029
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-8.4162, 43.3681]
+  timeline: false
+  info:
+    - fullName: Real Club Deportivo de La Coruña
+      localName: Real Club Deportivo de La Coruña
+      shortName: Deportivo de La Coruña
+      founded: 1906
+      city: La Coruña
+      ground: Estadio de Riazor
+  websiteURL: 'https://www.rcdeportivo.es/'
+  twitterURL: 'https://x.com/RCDeportivo'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Deportivo_de_La_Coru%C3%B1a'

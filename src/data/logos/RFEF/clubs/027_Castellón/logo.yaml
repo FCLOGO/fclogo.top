@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250311-151628-1ffe67
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Castellón']
+  slug: /rfef/club/CD-Castellon-v2015-mono
+  pngPath: 'png/CD-Castellon-v2015-mono.png'
+  svgPath: 'svg/CD-Castellon-v2015-mono.svg'
+  sourceID: rfef-club-027
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250311-151813-cc7f19
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Castellón']
+  slug: /rfef/club/CD-Castellon-v2015
+  pngPath: 'png/CD-Castellon-v2015.png'
+  svgPath: 'svg/CD-Castellon-v2015.svg'
+  sourceID: rfef-club-027
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

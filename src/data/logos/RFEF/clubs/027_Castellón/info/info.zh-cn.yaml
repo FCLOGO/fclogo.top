@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-027
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.039, 39.9954]
+  timeline: false
+  info:
+    - fullName: 卡斯特利翁体育俱乐部
+      localName: Club Deportivo Castellón
+      shortName: 卡斯特利翁
+      founded: 1922
+      city: Castellón
+      ground: Estadio Castalia
+  websiteURL: ''
+  twitterURL: 'https://x.com/cdcastellon'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Castell%C3%B3n'

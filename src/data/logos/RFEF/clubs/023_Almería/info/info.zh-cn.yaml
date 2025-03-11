@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-023
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.4355, 36.8399]
+  timeline: false
+  info:
+    - fullName: 阿尔梅里亚体育联盟
+      localName: Unión Deportiva Almería, SAD
+      shortName: 阿尔梅里亚
+      founded: 1989
+      city: 阿尔梅里亚
+      ground: 地中海运动会体育场
+  websiteURL: 'https://www.udalmeriasad.com/'
+  twitterURL: 'https://x.com/U_D_Almeria'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/UD_Almer%C3%ADa'

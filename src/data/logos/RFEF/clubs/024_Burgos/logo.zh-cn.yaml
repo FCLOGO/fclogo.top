@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250302-220656-7f87a3
+  version: 1994
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Burgos']
+  slug: /rfef/club/Burgos-CF-v1994-mono
+  pngPath: 'png/Burgos-CF-v1994-mono.png'
+  svgPath: 'svg/Burgos-CF-v1994-mono.svg'
+  sourceID: rfef-club-024
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250302-220728-93e49f
+  version: 1994
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Burgos']
+  slug: /rfef/club/Burgos-CF-v1994
+  pngPath: 'png/Burgos-CF-v1994.png'
+  svgPath: 'svg/Burgos-CF-v1994.svg'
+  sourceID: rfef-club-024
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

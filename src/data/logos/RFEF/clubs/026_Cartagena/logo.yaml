@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250311-150356-67fef1
+  version: 2003
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Cartagena']
+  slug: /rfef/club/FC-Cartagena-v2003-mono
+  pngPath: 'png/FC-Cartagena-v2003-mono.png'
+  svgPath: 'svg/FC-Cartagena-v2003-mono.svg'
+  sourceID: rfef-club-026
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250311-150416-b55599
+  version: 2003
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Cartagena']
+  slug: /rfef/club/FC-Cartagena-v2003
+  pngPath: 'png/FC-Cartagena-v2003.png'
+  svgPath: 'svg/FC-Cartagena-v2003.svg'
+  sourceID: rfef-club-026
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

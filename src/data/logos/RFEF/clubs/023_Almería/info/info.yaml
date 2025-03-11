@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-023
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.4355, 36.8399]
+  timeline: false
+  info:
+    - fullName: Unión Deportiva Almería, SAD
+      localName: Unión Deportiva Almería, SAD
+      shortName: Almería
+      founded: 1989
+      city: Almería
+      ground: Estadio de los Juegos Mediterráneos
+  websiteURL: 'https://www.udalmeriasad.com/'
+  twitterURL: 'https://x.com/U_D_Almeria'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/UD_Almer%C3%ADa'

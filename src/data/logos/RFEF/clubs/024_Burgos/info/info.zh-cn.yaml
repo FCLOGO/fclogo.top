@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-024
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.6809, 42.3442]
+  timeline: false
+  info:
+    - fullName: 布尔戈斯足球俱乐部
+      localName: Burgos Club de Fútbol, SAD
+      shortName: 布尔戈斯
+      founded: 1985
+      city: 布尔戈斯
+      ground: 普兰提奥体育场
+  websiteURL: 'https://www.burgoscf.es/'
+  twitterURL: 'https://x.com/Burgos_CF'
+  weiboURL: ''
+  wikiURL: 'https://es.wikipedia.org/wiki/Burgos_Club_de_F%C3%BAtbol'

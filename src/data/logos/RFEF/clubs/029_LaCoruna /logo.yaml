@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250311-154409-58f73c
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['La Coruña']
+  slug: /rfef/club/Deportivo-de-La-Coruna-v2000-mono
+  pngPath: 'png/Deportivo-de-La-Coruna-v2000-mono.png'
+  svgPath: 'svg/Deportivo-de-La-Coruna-v2000-mono.svg'
+  sourceID: rfef-club-029
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250311-154457-9636ce
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['La Coruña']
+  slug: /rfef/club/Deportivo-de-La-Coruna-v2000
+  pngPath: 'png/Deportivo-de-La-Coruna-v2000.png'
+  svgPath: 'svg/Deportivo-de-La-Coruna-v2000.svg'
+  sourceID: rfef-club-029
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

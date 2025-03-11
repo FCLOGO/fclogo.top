@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-022
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-1.8523, 38.982]
+  timeline: false
+  info:
+    - fullName: 阿尔瓦塞特足球俱乐部
+      localName: Albacete Balompié, SAD
+      shortName: 阿尔瓦塞特
+      founded: 1939
+      city: 阿尔瓦塞特
+      ground: 卡洛斯·比蒙迪球场
+  websiteURL: 'https://www.albacetebalompie.es/'
+  twitterURL: 'https://x.com/AlbaceteBPSAD'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Albacete_Balompi%C3%A9'

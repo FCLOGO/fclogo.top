@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250302-204452-82733b
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Albacete']
+  slug: /rfef/club/Albacete-Balompie-v2009-mono
+  pngPath: 'png/Albacete-Balompie-v2009-mono.png'
+  svgPath: 'svg/Albacete-Balompie-v2009-mono.svg'
+  sourceID: rfef-club-022
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250302-204525-8156db
+  version: 2009
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Albacete']
+  slug: /rfef/club/Albacete-Balompie-v2009
+  pngPath: 'png/Albacete-Balompie-v2009.png'
+  svgPath: 'svg/Albacete-Balompie-v2009.svg'
+  sourceID: rfef-club-022
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
