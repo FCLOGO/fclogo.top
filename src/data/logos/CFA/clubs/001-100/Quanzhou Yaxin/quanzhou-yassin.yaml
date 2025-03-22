@@ -49,3 +49,17 @@
   style: color
   reference: ''
   ctrbID: ''
+
+- data: logo
+  logoID: 20250322-200714-2ac135
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Quanzhou Yaxin']
+  slug: /cfa/club/quanzhou-yaxin-v2024-mono
+  pngPath: 'png/quanzhou-yaxin-v2024-mono.png'
+  svgPath: 'svg/quanzhou-yaxin-v2024-mono.svg'
+  sourceID: cfa-club-064
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
