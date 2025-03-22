@@ -6,11 +6,11 @@
   coordinates: [113.33, 23.13]
   timeline: false
   info:
-    - fullName: 广州安华足球俱乐部
-      shortName: 广州安华
-      localName: 广州安华足球俱乐部
-      founded:
-      city: 广东，广州
+    - fullName: Guangzhou Dandelion Alpha Football Club
+      shortName: Guangzhou Dandelion
+      localName: 广州蒲公英足球俱乐部
+      founded: 2020
+      city: Guangzhou, Guangdong
       ground:
       league:
   weiboURL: 'https://weibo.com/u/7943905153'

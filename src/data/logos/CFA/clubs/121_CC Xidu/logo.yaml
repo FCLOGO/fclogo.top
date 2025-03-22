@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250322-173011-d65a51
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CC Xidu']
+  slug: /cfa/club/Changchun-Xidu-v2022-mono
+  pngPath: 'png/Changchun-Xidu-v2022-mono.png'
+  svgPath: 'svg/Changchun-Xidu-v2022-mono.svg'
+  sourceID: cfa-club-121
+  style: mono
+  reference: ''
+  ctrbID: ''
+
+- data: logo
+  logoID: 20250322-173041-c7bb41
+  version: 2022
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CC Xidu']
+  slug: /cfa/club/Changchun-Xidu-v2022
+  pngPath: 'png/Changchun-Xidu-v2022.png'
+  svgPath: 'svg/Changchun-Xidu-v2022.svg'
+  sourceID: cfa-club-121
+  style: color
+  reference: ''
+  ctrbID: ''

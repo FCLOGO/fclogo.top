@@ -6,11 +6,11 @@
   coordinates: [113.33, 23.13]
   timeline: false
   info:
-    - fullName: Guangzhou Anhua Football Club
-      shortName: Guangzhou Anhua
-      localName: 广州安华足球俱乐部
-      founded:
-      city: Guangzhou, Guangdong
+    - fullName: 广州蒲公英足球俱乐部
+      shortName: 广州蒲公英
+      localName: 广州蒲公英足球俱乐部
+      founded: 2020
+      city: 广东，广州
       ground:
       league:
   weiboURL: 'https://weibo.com/u/7943905153'

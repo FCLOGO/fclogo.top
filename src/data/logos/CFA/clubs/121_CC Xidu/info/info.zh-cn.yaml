@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: cfa-club-121
+  status: active
+  type: club
+  nation: CHN
+  coordinates: [125.260128, 43.881374]
+  timeline: true
+  info:
+    - fullName: 长春喜都足球俱乐部
+      localName: 长春喜都足球俱乐部
+      shortName: 长春喜都
+      founded: 2021
+      city: 吉林，长春
+      ground:
+  websiteURL: ''
+  twitterURL: ''
+  weiboURL: ''
+  wikiURL: 'https://baike.baidu.com/item/%E9%95%BF%E6%98%A5%E5%96%9C%E9%83%BD%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/61303449'
