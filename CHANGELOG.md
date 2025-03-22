@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.3](https://github.com/FCLOGO/fclogo.top/compare/v2.8.2...v2.8.3) (2025-03-22)
+
+
+### 📝 Documentation | 文档
+
+* 更新广州蒲公英和长春喜都信息及徽标 ([a06b252](https://github.com/FCLOGO/fclogo.top/commit/a06b252ab7f1308c20873121aa9f40ef16111447))
+* 更新中国足球协会乙级联赛球队数量及2025赛季徽标包信息 ([543e4b1](https://github.com/FCLOGO/fclogo.top/commit/543e4b1938aa38c10b6272b86855759eb9f50d3c))
+
 ### [2.8.2](https://github.com/FCLOGO/fclogo.top/compare/v2.8.1...v2.8.2) (2025-03-11)
 
 
