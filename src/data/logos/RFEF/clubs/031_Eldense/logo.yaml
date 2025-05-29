@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250529-102559-b554a9
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Eldense']
+  slug: /rfef/club/CD-Eldense-v2013-mono
+  pngPath: 'png/CD-Eldense-v2013-mono.png'
+  svgPath: 'svg/CD-Eldense-v2013-mono.svg'
+  sourceID: rfef-club-031
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250529-102640-bac53b
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Eldense']
+  slug: /rfef/club/CD-Eldense-v2013
+  pngPath: 'png/CD-Eldense-v2013.png'
+  svgPath: 'svg/CD-Eldense-v2013.svg'
+  sourceID: rfef-club-031
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

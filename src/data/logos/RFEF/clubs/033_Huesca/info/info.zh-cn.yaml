@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-033
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.4247, 42.1318]
+  timeline: false
+  info:
+    - fullName: 韦斯卡体育协会
+      localName: Sociedad Deportiva Huesca
+      shortName: 韦斯卡
+      founded: 1960
+      city: 韦斯卡
+      ground: 阿尔科拉斯球场
+  websiteURL: 'https://www.sdhuesca.es/'
+  twitterURL: 'https://x.com/SDHuesca'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SD_Huesca'

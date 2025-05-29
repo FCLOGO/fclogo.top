@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-031
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.7962, 38.4673]
+  timeline: false
+  info:
+    - fullName: 埃尔达斯足球俱乐部
+      localName: Club Deportivo Eldense
+      shortName: 埃尔达斯
+      founded: 1921
+      city: Elda
+      ground: Estadio Nuevo Pepico Amat
+  websiteURL: 'https://www.cdeldense.es/'
+  twitterURL: 'https://x.com/CD_Eldense'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Eldense'

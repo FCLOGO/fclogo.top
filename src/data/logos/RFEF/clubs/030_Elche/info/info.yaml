@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-030
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.6633, 38.267]
+  timeline: false
+  info:
+    - fullName: Elche Club de Fútbol
+      localName: Elche Club de Fútbol
+      shortName: Elche CF
+      founded: 1923
+      city: Elche
+      ground: Estadio Martínez Valero
+  websiteURL: 'https://www.elchecf.es/'
+  twitterURL: 'https://x.com/elchecf'
+  weiboURL: 'https://m.weibo.cn/u/7583064969?uid=7583064969&luicode=10000011&lfid=100103type%3D1%26q%3Delche'
+  wikiURL: 'https://en.wikipedia.org/wiki/Elche_CF'

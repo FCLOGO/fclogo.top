@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-032
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.6293, 37.1639]
+  timeline: false
+  info:
+    - fullName: 格拉纳达足球俱乐部
+      localName: Granada Club de Fútbol
+      shortName: 格拉纳达
+      founded: 1931
+      city: 格拉纳达
+      ground: 新洛斯卡门斯球场
+  websiteURL: 'https://www.granadacf.es/'
+  twitterURL: 'https://x.com/GranadaCF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Granada_CF'

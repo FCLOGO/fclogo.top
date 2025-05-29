@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250529-111931-90cd73
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Huesca']
+  slug: /rfef/club/SD-Huesca-v2024-mono
+  pngPath: 'png/SD-Huesca-v2024-mono.png'
+  svgPath: 'svg/SD-Huesca-v2024-mono.svg'
+  sourceID: rfef-club-033
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250529-111957-c7dc3e
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Huesca']
+  slug: /rfef/club/SD-Huesca-v2024
+  pngPath: 'png/SD-Huesca-v2024.png'
+  svgPath: 'svg/SD-Huesca-v2024.svg'
+  sourceID: rfef-club-033
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

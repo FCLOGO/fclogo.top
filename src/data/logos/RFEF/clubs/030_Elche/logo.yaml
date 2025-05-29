@@ -1,0 +1,41 @@
+- data: logo
+  logoID: 20250529-100925-b01cd8
+  version: 2009
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Elche CF']
+  slug: /rfef/club/Elche-CF-v2009
+  pngPath: 'png/Elche-CF-v2009.png'
+  svgPath: 'svg/Elche-CF-v2009.svg'
+  sourceID: rfef-club-030
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250529-101028-17ead3
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Elche CF']
+  slug: /rfef/club/Elche-CF-v2012-mono
+  pngPath: 'png/Elche-CF-v2012-mono.png'
+  svgPath: 'svg/Elche-CF-v2012-mono.svg'
+  sourceID: rfef-club-030
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250529-101105-de53ec
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Elche CF']
+  slug: /rfef/club/Elche-CF-v2012
+  pngPath: 'png/Elche-CF-v2012.png'
+  svgPath: 'svg/Elche-CF-v2012.svg'
+  sourceID: rfef-club-030
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

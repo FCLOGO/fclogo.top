@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-033
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.4247, 42.1318]
+  timeline: false
+  info:
+    - fullName: Sociedad Deportiva Huesca
+      localName: Sociedad Deportiva Huesca
+      shortName: SD Huesca
+      founded: 1960
+      city: Huesca
+      ground: Estadio El Alcoraz
+  websiteURL: 'https://www.sdhuesca.es/'
+  twitterURL: 'https://x.com/SDHuesca'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/SD_Huesca'

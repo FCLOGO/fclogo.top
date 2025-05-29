@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-032
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.6293, 37.1639]
+  timeline: false
+  info:
+    - fullName: Granada Club de Fútbol
+      localName: Granada Club de Fútbol
+      shortName: Granada
+      founded: 1931
+      city: Granada
+      ground: Nuevo Estadio de Los Cármenes
+  websiteURL: 'https://www.granadacf.es/'
+  twitterURL: 'https://x.com/GranadaCF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Granada_CF'
