@@ -5,6 +5,8 @@ require('dotenv').config({
 // node 监听数量
 require('events').EventEmitter.defaultMaxListeners = 50
 
+const adapter = require('gatsby-adapter-netlify').default
+
 /**
  * Configure your Gatsby site with this file.
  *
@@ -13,6 +15,10 @@ require('events').EventEmitter.defaultMaxListeners = 50
 
 module.exports = {
   /* Your site config here */
+  adapter: adapter({
+    excludeDatastoreFromEngineFunction: true,
+    imageCDN: true
+  }),
   siteMetadata: {
     title: `FCLOGO`,
     description: `Collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.`,
