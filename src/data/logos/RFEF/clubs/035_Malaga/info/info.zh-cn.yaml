@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-035
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-4.4187, 36.7422]
+  timeline: false
+  info:
+    - fullName: 马拉加足球俱乐部
+      localName: Málaga Club de Fútbol
+      shortName: 马拉加
+      founded: 1941
+      city: 马拉加
+      ground: 拿罗沙里达球场
+  websiteURL: 'https://www.malagacf.com/'
+  twitterURL: 'https://x.com/MalagaCF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/M%C3%A1laga_CF'

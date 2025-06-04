@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-034
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.3639, 39.4946]
+  timeline: false
+  info:
+    - fullName: Levante Unión Deportiva
+      localName: Levante Unión Deportiva
+      shortName: Levante UD
+      founded: 1909
+      city: Valencia
+      ground: Estadi Ciutat de València
+  websiteURL: 'https://www.levanteud.com/'
+  twitterURL: 'https://x.com/LevanteUD'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Levante_UD'

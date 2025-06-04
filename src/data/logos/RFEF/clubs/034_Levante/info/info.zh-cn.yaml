@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-034
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.3639, 39.4946]
+  timeline: false
+  info:
+    - fullName: 莱万特体育联盟
+      localName: Levante Unión Deportiva
+      shortName: 莱万特
+      founded: 1909
+      city: 巴伦西亚
+      ground: 巴伦西亚城市球场
+  websiteURL: 'https://www.levanteud.com/'
+  twitterURL: 'https://x.com/LevanteUD'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Levante_UD'

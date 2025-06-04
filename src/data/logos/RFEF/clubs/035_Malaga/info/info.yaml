@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-035
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-4.4187, 36.7422]
+  timeline: false
+  info:
+    - fullName: Málaga Club de Fútbol
+      localName: Málaga Club de Fútbol
+      shortName: Málaga CF
+      founded: 1941
+      city: Málaga
+      ground: Estadio La Rosaleda
+  websiteURL: 'https://www.malagacf.com/'
+  twitterURL: 'https://x.com/MalagaCF'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/M%C3%A1laga_CF'
