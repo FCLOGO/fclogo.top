@@ -1,7 +1,0 @@
-[build]
-  publish = "public"
-[[plugins]]
-  package = "@netlify/plugin-gatsby"
-[build.caching]
-  directory = "/.cache"
-  directory = "/public"
