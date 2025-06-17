@@ -59,7 +59,7 @@ const Footer = () => {
     <footer className="z-19 flex-initial w-full p-[40px] bg-dark-gray text-gray flex flex-col flex-wrap justify-center items-start">
       <section className="max-w-[1400px] w-full m-[0_auto] h-[40px] mb-3xl flex flex-row flex-nowrap justify-start tablet:justify-center">
         <Link to="/">
-          <LogoIcon className="h-[40px] fill-gray" />
+          <LogoIcon className="h-2xl fill-gray [&_.path-2]:fill-light-green" />
         </Link>
       </section>
       <section className="max-w-[1400px] w-full m-[0_auto] flex flex-row flex-nowrap items-center justify-start pb-xl tablet:flex-col tablet:flex-wrap tablet:items-center">
