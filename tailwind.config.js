@@ -14,7 +14,6 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        'metropolis',
         'ui-sans-serif',
         'system-ui',
         '-apple-system',
