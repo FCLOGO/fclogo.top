@@ -2,67 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Fonts: metropolis */
-@font-face {
-  font-family: metropolis;
-  font-style: normal;
-  font-weight: 100;
-  src: url('./fonts/Metropolis/eot/Metropolis-Thin.eot');
-  src:
-    local('Metropolis Thin'),
-    url('./fonts/Metropolis/eot/Metropolis-Thin.eot?#iefix') format('embedded-opentype'),
-    url('./fonts/Metropolis/woff/Metropolis-Thin.woff') format('woff'),
-    url('./fonts/Metropolis/TrueType/Metropolis-Thin.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: metropolis;
-  font-style: normal;
-  font-weight: 400;
-  src: url('./fonts/Metropolis/eot/Metropolis-Regular.eot');
-  src:
-    local('Metropolis Regular'),
-    url('./fonts/Metropolis/eot/Metropolis-Regular.eot?#iefix') format('embedded-opentype'),
-    url('./fonts/Metropolis/woff/Metropolis-Regular.woff') format('woff'),
-    url('./fonts/Metropolis/TrueType/Metropolis-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: metropolis;
-  font-style: normal;
-  font-weight: 500;
-  src: url('./fonts/Metropolis/eot/Metropolis-Medium.eot');
-  src:
-    local('Metropolis Medium'),
-    url('./fonts/Metropolis/eot/Metropolis-Medium.eot?#iefix') format('embedded-opentype'),
-    url('./fonts/Metropolis/woff/Metropolis-Medium.woff') format('woff'),
-    url('./fonts/Metropolis/TrueType/Metropolis-Medium.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: metropolis;
-  font-style: normal;
-  font-weight: 600;
-  src: url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot');
-  src:
-    local('Metropolis SemiBold'),
-    url('./fonts/Metropolis/eot/Metropolis-SemiBold.eot?#iefix') format('embedded-opentype'),
-    url('./fonts/Metropolis/woff/Metropolis-SemiBold.woff') format('woff'),
-    url('./fonts/Metropolis/TrueType/Metropolis-SemiBold.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: metropolis;
-  font-style: normal;
-  font-weight: 700;
-  src: url('./fonts/Metropolis/eot/Metropolis-Bold.eot');
-  src:
-    local('Metropolis Bold'),
-    url('./fonts/Metropolis/eot/Metropolis-Bold.eot?#iefix') format('embedded-opentype'),
-    url('./fonts/Metropolis/woff/Metropolis-Bold.woff') format('woff'),
-    url('./fonts/Metropolis/TrueType/Metropolis-Bold.ttf') format('truetype');
-}
-
 /* Font JetBrainsMono */
 @font-face {
   font-family: 'JetBrainsMono';
