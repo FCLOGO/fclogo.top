@@ -41,7 +41,7 @@ const MainMenu = () => {
         <LanguageSwitcher />
         <Link
           to="/support/how-to-contribute-a-logo"
-          className="flex-initial px-md rounded inline-flex items-center justify-center text-white bg-green hover:bg-light-green ml-md h-3xl leading-3xl tablet:hidden"
+          className="flex-initial px-md rounded font-semibold inline-flex items-center justify-center text-white bg-green hover:bg-light-green ml-md h-3xl leading-3xl tablet:hidden"
         >
           <MergeIcon className="stroke-white h-lg w-lg mr-sm" />
           {t('menu.contribute')}
