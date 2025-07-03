@@ -2,7 +2,7 @@
   logoID: 20241029-224751-9d8a85
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Al Nassr']
   slug: /saff/club/Al-Nassr-v2020-mono
   pngPath: 'png/Al-Nassr-v2020-mono.png'
@@ -16,7 +16,7 @@
   logoID: 20241029-224903-c4107b
   version: 2020
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['Al Nassr']
   slug: /saff/club/Al-Nassr-v2020
   pngPath: 'png/Al-Nassr-v2020.png'
@@ -25,3 +25,31 @@
   style: color
   reference: ''
   ctrbID: ''
+
+- data: logo
+  logoID: 20250703-092312-657661
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Riyadh Nassr']
+  slug: /saff/club/Riyadh-Nassr-v2025-mono
+  pngPath: 'png/Riyadh-Nassr-v2025-mono.png'
+  svgPath: 'svg/Riyadh-Nassr-v2025-mono.svg'
+  sourceID: saff-club-011
+  style: mono
+  reference: 'https://alnassr.sa/'
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250703-092450-013b7c
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Riyadh Nassr']
+  slug: /saff/club/Riyadh-Nassr-v2025
+  pngPath: 'png/Riyadh-Nassr-v2025.png'
+  svgPath: 'svg/Riyadh-Nassr-v2025.svg'
+  sourceID: saff-club-011
+  style: color
+  reference: 'https://alnassr.sa/'
+  ctrbID: 'ctrb-ryan'
