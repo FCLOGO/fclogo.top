@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-038
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.7914, 43.4752]
+  timeline: false
+  info:
+    - fullName: Real Racing Club de Santander
+      localName: Real Racing Club de Santander
+      shortName: Racing Santander
+      founded: 1913
+      city: Santander
+      ground: Estadio El Sardinero
+  websiteURL: 'https://www.realracingclub.es/'
+  twitterURL: 'https://twitter.com/realracingclub'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Racing_de_Santander'

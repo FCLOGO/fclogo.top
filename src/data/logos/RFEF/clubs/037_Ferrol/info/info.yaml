@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-037
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-8.2198, 43.4915]
+  timeline: false
+  info:
+    - fullName: Racing Club de Ferrol
+      localName: Racing Club de Ferrol
+      shortName: Racing Ferrol
+      founded: 1919
+      city: Ferrol
+      ground: Estadio Municipal da Malata
+  websiteURL: 'https://www.racingclubferrol.net/'
+  twitterURL: 'https://twitter.com/racingferrolsad'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Racing_de_Ferrol'

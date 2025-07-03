@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-042
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.4786, 43.1816]
+  timeline: false
+  info:
+    - fullName: Sociedad Deportiva Eibar
+      localName: Sociedad Deportiva Éibar
+      shortName: Eibar
+      founded: 1940
+      city: Eibar
+      ground: Ipurua Municipal Stadium
+  websiteURL: 'https://www.sdeibar.com/'
+  twitterURL: 'https://twitter.com/sdeibar'
+  weiboURL: 'https://weibo.com/sdeibar'
+  wikiURL: 'https://en.wikipedia.org/wiki/SD_Eibar'

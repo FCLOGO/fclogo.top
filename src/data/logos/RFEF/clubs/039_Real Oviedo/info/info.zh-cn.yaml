@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-039
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.8661, 43.3619]
+  timeline: false
+  info:
+    - fullName: 皇家奥维耶多足球俱乐部
+      localName: Real Oviedo
+      shortName: 皇家奥维耶多
+      founded: 1926
+      city: 奥维耶多
+      ground: 卡洛斯·塔尔蒂埃雷球场
+  websiteURL: 'https://www.realoviedo.es/'
+  twitterURL: 'https://twitter.com/RealOviedo'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Oviedo'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-036
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.9461, 42.6844]
+  timeline: false
+  info:
+    - fullName: Club Deportivo Mirandés
+      localName: Club Deportivo Mirandés
+      shortName: Mirandés
+      founded: 1927
+      city: Miranda de Ebro
+      ground: Estadio Municipal de Anduva
+  websiteURL: 'https://www.cdmirandes.com/'
+  twitterURL: 'https://twitter.com/CDMirandes'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Mirand%C3%A9s'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-042
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-2.4786, 43.1816]
+  timeline: false
+  info:
+    - fullName: 埃瓦尔体育协会
+      localName: Sociedad Deportiva Éibar
+      shortName: 埃瓦尔
+      founded: 1940
+      city: 埃瓦尔
+      ground: 伊普鲁阿市政球场
+  websiteURL: 'https://www.sdeibar.com/'
+  twitterURL: 'https://twitter.com/sdeibar'
+  weiboURL: 'https://weibo.com/sdeibar'
+  wikiURL: 'https://en.wikipedia.org/wiki/SD_Eibar'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-043
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-16.257722, 28.459028]
+  timeline: false
+  info:
+    - fullName: Club Deportivo Tenerife
+      localName: Club Deportivo Tenerife
+      shortName: Tenerife
+      founded: 1912
+      city: Santa Cruz de Tenerife
+      ground: Estadio Heliodoro Rodríguez López
+  websiteURL: 'https://www.clubdeportivotenerife.es/'
+  twitterURL: 'https://twitter.com/CDTOficial'
+  weiboURL: 'https://weibo.com/u/7675461185'
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Tenerife'

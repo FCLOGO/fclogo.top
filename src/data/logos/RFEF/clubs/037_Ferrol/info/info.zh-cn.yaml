@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-037
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-8.2198, 43.4915]
+  timeline: false
+  info:
+    - fullName: 费罗尔竞技俱乐部
+      localName: Racing Club de Ferrol
+      shortName: 费罗尔竞技
+      founded: 1919
+      city: 费罗尔
+      ground: 马拉塔市政球场
+  websiteURL: 'https://www.racingclubferrol.net/'
+  twitterURL: 'https://twitter.com/racingferrolsad'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Racing_de_Ferrol'

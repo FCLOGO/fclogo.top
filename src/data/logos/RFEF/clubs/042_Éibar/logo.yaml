@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250703-090129-4b6ecb
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Éibar']
+  slug: /rfef/club/SD-Eibar-v2015-mono
+  pngPath: 'png/SD-Eibar-v2015-mono.png'
+  svgPath: 'svg/SD-Eibar-v2015-mono.svg'
+  sourceID: rfef-club-042
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250703-090211-1a421d
+  version: 2015
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Éibar']
+  slug: /rfef/club/SD-Eibar-v2015
+  pngPath: 'png/SD-Eibar-v2015.png'
+  svgPath: 'svg/SD-Eibar-v2015.svg'
+  sourceID: rfef-club-042
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

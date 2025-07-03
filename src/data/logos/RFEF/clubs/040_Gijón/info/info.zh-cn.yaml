@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-040
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.6375, 43.5361]
+  timeline: false
+  info:
+    - fullName: 皇家希洪体育俱乐部
+      localName: Real Sporting de Gijón
+      shortName: 希洪竞技
+      founded: 1905
+      city: 希洪
+      ground: 埃尔·莫利农球场
+  websiteURL: 'https://www.realsporting.com/'
+  twitterURL: 'https://twitter.com/RealSporting'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Sporting_de_Gij%C3%B3n'

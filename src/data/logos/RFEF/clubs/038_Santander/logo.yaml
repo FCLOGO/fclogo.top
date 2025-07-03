@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250703-082951-d6d9cd
+  version: 2003
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Santander']
+  slug: /rfef/club/Racing-de-Santander-v2003-mono
+  pngPath: 'png/Racing-de-Santander-v2003-mono.png'
+  svgPath: 'svg/Racing-de-Santander-v2003-mono.svg'
+  sourceID: rfef-club-038
+  style: mono
+  reference: ''
+  ctrbID: 'crtb-ryan'
+
+- data: logo
+  logoID: 20250703-083043-8026b1
+  version: 2003
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Santander']
+  slug: /rfef/club/Racing-de-Santander-v2003
+  pngPath: 'png/Racing-de-Santander-v2003.png'
+  svgPath: 'svg/Racing-de-Santander-v2003.svg'
+  sourceID: rfef-club-038
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

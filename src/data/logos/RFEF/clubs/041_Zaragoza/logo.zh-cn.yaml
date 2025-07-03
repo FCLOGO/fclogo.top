@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250703-085527-1df1f7
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Zaragoza']
+  slug: /rfef/club/Real-Zaragoza-v2012-mono
+  pngPath: 'png/Real-Zaragoza-v2012-mono.png'
+  svgPath: 'svg/Real-Zaragoza-v2012-mono.svg'
+  sourceID: rfef-club-041
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250703-085556-a370a7
+  version: 2012
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Zaragoza']
+  slug: /rfef/club/Real-Zaragoza-v2012
+  pngPath: 'png/Real-Zaragoza-v2012.png'
+  svgPath: 'svg/Real-Zaragoza-v2012.svg'
+  sourceID: rfef-club-041
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

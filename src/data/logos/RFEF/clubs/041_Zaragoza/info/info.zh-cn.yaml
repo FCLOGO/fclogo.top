@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-041
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.9022, 41.6364]
+  timeline: false
+  info:
+    - fullName: 皇家萨拉戈萨足球俱乐部
+      localName: Real Zaragoza
+      shortName: 皇家萨拉戈萨
+      founded: 1932
+      city: 萨拉戈萨
+      ground: 罗马雷达球场
+  websiteURL: 'https://www.realzaragoza.com/'
+  twitterURL: 'https://twitter.com/RealZaragoza'
+  weiboURL: 'https://weibo.com/u/7074996259'
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Zaragoza'

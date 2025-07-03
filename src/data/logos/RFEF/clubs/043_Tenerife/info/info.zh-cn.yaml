@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-043
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-16.257722, 28.459028]
+  timeline: false
+  info:
+    - fullName: 特内里费体育俱乐部
+      localName: Club Deportivo Tenerife
+      shortName: 特内里费
+      founded: 1912
+      city: 圣克鲁斯-德特内里费
+      ground: 埃利奥多罗·罗德里格斯·洛佩斯球场
+  websiteURL: 'https://www.clubdeportivotenerife.es/'
+  twitterURL: 'https://twitter.com/CDTOficial'
+  weiboURL: 'https://weibo.com/u/7675461185'
+  wikiURL: 'https://en.wikipedia.org/wiki/CD_Tenerife'

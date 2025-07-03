@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-041
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-0.9022, 41.6364]
+  timeline: false
+  info:
+    - fullName: Real Zaragoza
+      localName: Real Zaragoza
+      shortName: Real Zaragoza
+      founded: 1932
+      city: Zaragoza
+      ground: Estadio La Romareda
+  websiteURL: 'https://www.realzaragoza.com/'
+  twitterURL: 'https://twitter.com/RealZaragoza'
+  weiboURL: 'https://weibo.com/u/7074996259'
+  wikiURL: 'https://en.wikipedia.org/wiki/Real_Zaragoza'

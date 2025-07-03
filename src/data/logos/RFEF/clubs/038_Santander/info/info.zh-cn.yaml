@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-038
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-3.7914, 43.4752]
+  timeline: false
+  info:
+    - fullName: 桑坦德竞技俱乐部
+      localName: Real Racing Club de Santander
+      shortName: 桑坦德竞技
+      founded: 1913
+      city: 桑坦德
+      ground: 沙丁鱼人球场
+  websiteURL: 'https://www.realracingclub.es/'
+  twitterURL: 'https://twitter.com/realracingclub'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Racing_de_Santander'

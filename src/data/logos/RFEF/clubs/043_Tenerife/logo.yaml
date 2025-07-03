@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250703-090522-2b995f
+  version: 1992
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Tenerife']
+  slug: /rfef/club/CD-Tenerife-v1992-mono
+  pngPath: 'png/CD-Tenerife-v1992-mono.png'
+  svgPath: 'svg/CD-Tenerife-v1992-mono.svg'
+  sourceID: rfef-club-043
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250703-090559-1288f3
+  version: 1992
+  isDoubtful: false
+  isOutdated: false
+  verName: [Tenerife]
+  slug: /rfef/club/CD-Tenerife-v1992
+  pngPath: 'png/CD-Tenerife-v1992.png'
+  svgPath: 'svg/CD-Tenerife-v1992.svg'
+  sourceID: rfef-club-043
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

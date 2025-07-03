@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250703-083626-1da101
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Oviedo']
+  slug: /rfef/club/Real-Oviedo-v2019-mono
+  pngPath: 'png/Real-Oviedo-v2019-mono.png'
+  svgPath: 'svg/Real-Oviedo-v2019-mono.svg'
+  sourceID: rfef-club-039
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250703-083651-73fe2e
+  version: 2019
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Oviedo']
+  slug: /rfef/club/Real-Oviedo-v2019
+  pngPath: 'png/Real-Oviedo-v2019.png'
+  svgPath: 'svg/Real-Oviedo-v2019.svg'
+  sourceID: rfef-club-039
+  style: color
+  reference: 'ctrb-ramr'
+  ctrbID: ''

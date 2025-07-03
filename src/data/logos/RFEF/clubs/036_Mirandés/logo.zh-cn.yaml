@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250702-224849-806b2d
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CD Mirandés']
+  slug: /rfef/club/Club-Deportivo-Mirandes-v2010-mono
+  pngPath: 'png/Club-Deportivo-Mirandes-v2010-mono.png'
+  svgPath: 'svg/Club-Deportivo-Mirandes-v2010-mono.svg'
+  sourceID: rfef-club-036
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250702-224953-455ca5
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['CD Mirandés']
+  slug: /rfef/club/Club-Deportivo-Mirandes-v2010
+  pngPath: 'png/Club-Deportivo-Mirandes-v2010.png'
+  svgPath: 'svg/Club-Deportivo-Mirandes-v2010.svg'
+  sourceID: rfef-club-036
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250702-225653-c42173
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ferrol']
+  slug: /rfef/club/Racing-de-Ferrol-v2016-mono
+  pngPath: 'png/Racing-de-Ferrol-v2016-mono.png'
+  svgPath: 'svg/Racing-de-Ferrol-v2016-mono.svg'
+  sourceID: rfef-club-037
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250702-225732-8aea24
+  version: 2016
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ferrol']
+  slug: /rfef/club/Racing-de-Ferrol-v2016
+  pngPath: 'png/Racing-de-Ferrol-v2016.png'
+  svgPath: 'svg/Racing-de-Ferrol-v2016.svg'
+  sourceID: rfef-club-037
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

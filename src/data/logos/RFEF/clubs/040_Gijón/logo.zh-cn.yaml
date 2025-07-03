@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250703-084157-3ce77b
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gijón']
+  slug: /rfef/club/Real-Sporting-de-Gijon-v2000-mono
+  pngPath: 'png/Real-Sporting-de-Gijon-v2000-mono.png'
+  svgPath: 'svg/Real-Sporting-de-Gijon-v2000-mono.svg'
+  sourceID: rfef-club-040
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250703-084251-b1cbb2
+  version: 2000
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Gijón']
+  slug: /rfef/club/Real-Sporting-de-Gijon-v2000
+  pngPath: 'png/Real-Sporting-de-Gijon-v2000.png'
+  svgPath: 'svg/Real-Sporting-de-Gijon-v2000.svg'
+  sourceID: rfef-club-040
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'
