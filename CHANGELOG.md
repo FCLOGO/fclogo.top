@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.4](https://github.com/FCLOGO/fclogo.top/compare/v2.8.3...v2.8.4) (2025-07-03)
+
+
+### ⚡️ Performance Improvements | 性能优化
+
+* **删除** metropolis 字体 ([78e117c](https://github.com/FCLOGO/fclogo.top/commit/78e117c0a27f42a1c7c804afe3e954d43015c937))
+* 添加 `gatsby-adapter-netlify` build 插件配置 ([8e937da](https://github.com/FCLOGO/fclogo.top/commit/8e937da80615fbbbcf4b5f5a57b01a8682ec1d79))
+
+
+### ❇️ Chores | 其他更新
+
+* **删除** metropolis 字体 ([6e03948](https://github.com/FCLOGO/fclogo.top/commit/6e03948a504a543996d2ada2f43bc9fc73eabf78))
+* 将贡献链接的文本样式修改为大写 ([4d3208b](https://github.com/FCLOGO/fclogo.top/commit/4d3208b8ca9e3f307c7781050a0aa163f28e1996))
+* 删除 Netlify 配置文件 ([7e903d6](https://github.com/FCLOGO/fclogo.top/commit/7e903d66a5a2fc135fcd58d2d2b176e4ff096ddd))
+* 添加 Netlify 配置文件 ([ff8bf82](https://github.com/FCLOGO/fclogo.top/commit/ff8bf821eee77b4ad6976eb26d831301abe5efc1))
+* 添加**新闻博客**及**贡献徽标**链接 ([6be597c](https://github.com/FCLOGO/fclogo.top/commit/6be597cca7d4765856314f3485e11ca87992b5af))
+* 修改贡献链接的样式，添加字体加粗 ([45ec6d9](https://github.com/FCLOGO/fclogo.top/commit/45ec6d9f5c8d56114536879019f2aa90dad13812))
+* 修改网站 LOGO ([401d1d0](https://github.com/FCLOGO/fclogo.top/commit/401d1d00b397ad64436f6d150b4e5487b2006139))
+* 修改网站LOGO ([89a2734](https://github.com/FCLOGO/fclogo.top/commit/89a2734cf66bc8a2abc2057f297dfbe082624b03))
+
+
+### 📝 Documentation | 文档
+
+* **新增** 西乙联赛俱乐部徽标 ([194dd75](https://github.com/FCLOGO/fclogo.top/commit/194dd75456dbe854fa6347f488740e94ae2a311b))
+* **新增**利雅得胜利2025新徽标 ([7effaae](https://github.com/FCLOGO/fclogo.top/commit/7effaae0204e22aa0fe38abdd4249f28c3242360))
+* 更新泉州亚新2024版单色徽标 ([2178a64](https://github.com/FCLOGO/fclogo.top/commit/2178a649a3e03a9ba3de400e2f68a123fd0a1720))
+* 新增西乙联赛俱乐部徽标 ([3e9d0a3](https://github.com/FCLOGO/fclogo.top/commit/3e9d0a3b6b13629c479dd3aa9c25cb8b92861631))
+* 新增西乙联赛俱乐部徽标 ([d6822c7](https://github.com/FCLOGO/fclogo.top/commit/d6822c79543ed81dd6087613bc12f6889e6d07cd))
+* 修正Elche CF徽标样式错误 ([4f81196](https://github.com/FCLOGO/fclogo.top/commit/4f81196a519b00371c1ecd4aece8ea6a0a3449ed))
+
 ### [2.8.3](https://github.com/FCLOGO/fclogo.top/compare/v2.8.2...v2.8.3) (2025-03-22)
 
 
