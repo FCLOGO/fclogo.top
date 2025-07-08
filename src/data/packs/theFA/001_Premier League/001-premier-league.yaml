@@ -66,3 +66,72 @@
     - id: thefa-club-020
       version: 2002
       style: color
+
+- data: logoPack
+  packID: 20250708-213217-a1afbc
+  name: Premier League
+  season: '25-26'
+  packSource: thefa-comp-001
+  logoVersion: 2016
+  slug: /pack/25-26-Premier-League
+  items:
+    - id: thefa-club-001
+      version: 2006
+      style: color
+    - id: thefa-club-002
+      version: 2016
+      style: color
+    - id: thefa-club-003
+      version: 2002
+      style: color
+    - id: thefa-club-004
+      version: 2024
+      style: minor
+    - id: thefa-club-005
+      version: 2024
+      style: color
+    - id: thefa-club-006
+      version: 2013
+      style: color
+    - id: thefa-club-007
+      version: 2017
+      style: color
+    - id: thefa-club-008
+      version: 2011
+      style: color
+    - id: thefa-club-009
+      version: 2022
+      style: color
+    - id: thefa-club-010
+      version: 2014
+      style: color
+    - id: thefa-club-011
+      version: 2001
+      style: color
+    - id: thefa-club-014
+      version: 1998
+      style: color
+    - id: thefa-club-015
+      version: 1988
+      style: color
+    - id: thefa-club-016
+      version: 2010
+      style: color
+    - id: thefa-club-018
+      version: 2006
+      style: color
+    - id: thefa-club-019
+      version: 2016
+      style: color
+    - id: thefa-club-020
+      version: 2002
+      style: color
+    - id: thefa-club-021
+      version: 2002
+      style: color
+    - id: thefa-club-022
+      version: 2023
+      style: color
+    - id: thefa-club-023
+      version: 1997
+      style: color
