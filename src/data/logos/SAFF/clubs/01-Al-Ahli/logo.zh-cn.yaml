@@ -2,7 +2,7 @@
   logoID: 20241025-154638-5fb8ee
   version: 2008
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['吉达国民', '沙特国民']
   slug: /saff/club/al-ahli-saudi-v2008-mono
   pngPath: 'png/al-ahli-saudi-v2008-mono.png'
@@ -16,7 +16,7 @@
   logoID: 20241025-154730-75750b
   version: 2008
   isDoubtful: false
-  isOutdated: false
+  isOutdated: true
   verName: ['吉达国民', '沙特国民']
   slug: /saff/club/al-ahli-saudi-v2008
   pngPath: 'png/al-ahli-saudi-v2008.png'
@@ -25,3 +25,31 @@
   style: color
   reference: 'https://www.spl.com.sa/en/teams/3097/al-ahli/fixtures?compSeason=858'
   ctrbID: ''
+
+- data: logo
+  logoID: 20250708-212241-5a8beb
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al-Ahli']
+  slug: /saff/club/Al-Ahli-v2025-mono
+  pngPath: 'png/Al-Ahli-v2025-mono.png'
+  svgPath: 'svg/Al-Ahli-v2025-mono.svg'
+  sourceID: saff-club-001
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250708-212327-0d178f
+  version: 2025
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Al Ahli']
+  slug: /saff/club/Al-Ahli-v2025
+  pngPath: 'png/Al-Ahli-v2025.png'
+  svgPath: 'svg/Al-Ahli-v2025.svg'
+  sourceID: saff-club-001
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'
