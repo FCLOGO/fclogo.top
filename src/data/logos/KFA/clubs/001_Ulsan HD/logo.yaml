@@ -9,7 +9,7 @@
   svgPath: 'svg/ulsan-hd-v2024-mono.svg'
   sourceID: kfa-club-001
   style: mono
-  reference: ''
+  reference: 'https://uhdfc.com/eng/fc/emblem.php'
   ctrbID: ''
 
 - data: logo
@@ -23,5 +23,48 @@
   svgPath: 'svg/ulsan-hd-v2024.svg'
   sourceID: kfa-club-001
   style: color
+  reference: 'https://uhdfc.com/eng/fc/emblem.php'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250708-154333-e0d7b5
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ulsan HD']
+  slug: /kfa/club/ulsan-hd-v2024-star
+  pngPath: 'png/ulsan-hd-v2024-star.png'
+  svgPath: 'svg/ulsan-hd-v2024-star.svg'
+  sourceID: kfa-club-001
+  style: star
+  reference: 'https://uhdfc.com/eng/fc/emblem.php'
+  ctrbID: 'ctrb-dani'
+
+- data: logo
+  logoID: 20250708-154510-409d3c
+  version: 2016
+  isDoubtful: false
+  isOutdated: true
+  verName: ['Ulsan Hyundai']
+  slug: /kfa/club/Ulsan-Hyundai-v2016
+  pngPath: 'png/Ulsan-Hyundai-v2016.png'
+  svgPath: 'svg/Ulsan-Hyundai-v2016.svg'
+  sourceID: kfa-club-001
+  style: color
   reference: ''
-  ctrbID: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250708-154624-6c9bba
+  version: 2024
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Ulsan HD']
+  slug: /kfa/club/ulsan-hd-v2024-mono-dark
+  pngPath: 'png/ulsan-hd-v2024-mono-dark.png'
+  svgPath: 'svg/ulsan-hd-v2024-mono-dark.svg'
+  sourceID: kfa-club-001
+  style: mono
+  isBgDark: true
+  reference: 'https://uhdfc.com/eng/fc/emblem.php'
+  ctrbID: 'ctrb-ryan'
