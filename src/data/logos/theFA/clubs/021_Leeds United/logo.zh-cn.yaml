@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250708-210323-5c3b4a
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Leeds United']
+  slug: /thefa/club/Leeds-United-v2002-mono
+  pngPath: 'png/Leeds-United-v2002-mono.png'
+  svgPath: 'svg/Leeds-United-v2002-mono.svg'
+  sourceID: thefa-club-021
+  style: mono
+  reference: 'https://www.premierleague.com/en/clubs/2/leeds-united/overview'
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250708-210422-d4a283
+  version: 2002
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Leeds United']
+  slug: /thefa/club/Leeds-United-v2002
+  pngPath: 'png/Leeds-United-v2002.png'
+  svgPath: 'svg/Leeds-United-v2002.svg'
+  sourceID: thefa-club-021
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

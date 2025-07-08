@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: thefa-club-023
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.388333, 54.914444]
+  timeline: false
+  info:
+    - fullName: 桑德兰足球俱乐部
+      localName: Sunderland Association Football Club
+      shortName: 桑德兰
+      founded: 1879
+      city: 桑德兰
+      ground: 光明球场
+  websiteURL: 'https://www.safc.com/'
+  twitterURL: 'https://twitter.com/SunderlandAFC'
+  weiboURL: 'https://weibo.com/sunderlandafc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sunderland_A.F.C.'

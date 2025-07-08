@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: thefa-club-023
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.388333, 54.914444]
+  timeline: false
+  info:
+    - fullName: Sunderland Association Football Club
+      localName: Sunderland Association Football Club
+      shortName: Sunderland
+      founded: 1879
+      city: Sunderland
+      ground: Stadium of Light
+  websiteURL: 'https://www.safc.com/'
+  twitterURL: 'https://twitter.com/SunderlandAFC'
+  weiboURL: 'https://weibo.com/sunderlandafc'
+  wikiURL: 'https://en.wikipedia.org/wiki/Sunderland_A.F.C.'

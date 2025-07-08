@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250708-210651-cd4078
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Burnley']
+  slug: /thefa/club/Burnley-FC-v2023-mono
+  pngPath: 'png/Burnley-FC-v2023-mono.png'
+  svgPath: 'svg/Burnley-FC-v2023-mono.svg'
+  sourceID: thefa-club-022
+  style: mono
+  reference: 'https://www.premierleague.com/en/clubs/90/burnley/overview'
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250708-210807-8fb06a
+  version: 2023
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Burnley']
+  slug: /thefa/club/Burnley-FC-v2023
+  pngPath: 'png/Burnley-FC-v2023.png'
+  svgPath: 'svg/Burnley-FC-v2023.svg'
+  sourceID: thefa-club-022
+  style: color
+  reference: 'https://www.premierleague.com/en/clubs/90/burnley/overview'
+  ctrbID: 'ctrb-ryan'

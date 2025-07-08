@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: thefa-club-021
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-1.572222, 53.777778]
+  timeline: false
+  info:
+    - fullName: 利兹联足球俱乐部
+      localName: Leeds United Football Club
+      shortName: 利兹联
+      founded: 1919
+      city: 利兹
+      ground: 埃兰路球场
+  websiteURL: 'https://www.leedsunited.com/'
+  twitterURL: 'https://twitter.com/LUFC'
+  weiboURL: 'https://weibo.com/u/7058189023'
+  wikiURL: 'https://en.wikipedia.org/wiki/Leeds_United_F.C.'

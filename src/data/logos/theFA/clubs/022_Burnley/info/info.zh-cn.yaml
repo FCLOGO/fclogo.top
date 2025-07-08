@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: thefa-club-022
+  status: active
+  type: club
+  nation: ENG
+  coordinates: [-2.230181, 53.789047]
+  timeline: false
+  info:
+    - fullName: 伯恩利足球俱乐部
+      localName: Burnley Football Club
+      shortName: 伯恩利
+      founded: 1882
+      city: 伯恩利
+      ground: 特富摩尔球场
+  websiteURL: 'https://www.burnleyfootballclub.com/'
+  twitterURL: 'https://twitter.com/BurnleyOfficial'
+  weiboURL: 'https://weibo.com/burnleyofficial'
+  wikiURL: 'https://en.wikipedia.org/wiki/Burnley_F.C.'
