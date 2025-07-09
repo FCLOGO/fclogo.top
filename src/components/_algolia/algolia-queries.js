@@ -8,6 +8,7 @@ const pageQuery = `{
       fields {
         uniqueID
       }
+      logoID
       slug
       verName
       version
@@ -33,6 +34,7 @@ const pageQuery = `{
 }`
 
 function pageToAlgoliaRecord({
+  logoID,
   slug,
   fields,
   version,
@@ -47,6 +49,7 @@ function pageToAlgoliaRecord({
   verName ? verName : ''
   return {
     objectID: fields.uniqueID,
+    logoID,
     slug,
     locale: fields.locale,
     version,
