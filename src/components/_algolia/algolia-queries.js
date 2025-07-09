@@ -56,6 +56,7 @@ function pageToAlgoliaRecord({
     localName: detailInfo[0].info[0].localName,
     shortName: detailInfo[0].info[0].shortName,
     league,
+    pngPath,
     ...rest
   }
 }
