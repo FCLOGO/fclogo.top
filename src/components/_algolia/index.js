@@ -1,5 +1,6 @@
 import { createRef, default as React, useState, useMemo } from 'react'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
+import { useStaticQuery, graphql } from 'gatsby'
 import algoliasearch from 'algoliasearch'
 import { InstantSearch, Configure, SearchBox, PoweredBy } from 'react-instantsearch'
 
@@ -8,6 +9,34 @@ import UseClickOutside from '../../hooks/use-click-outside'
 
 const AlgoliaSearch = ({ locale }) => {
   const { t } = useTranslation()
+
+  const { logos } = useStaticQuery(graphql`
+    query AllLogosForSearch {
+      logos: allLogo {
+        nodes {
+          fields {
+            uniqueID
+          }
+          slug
+          fullName: detailInfo {
+            info {
+              fullName
+            }
+          }
+          pngPath {
+            childImageSharp {
+              gatsbyImageData(placeholder: BLURRED, formats: WEBP, layout: FIXED, width: 40)
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  // 将数据转换为一个以 uniqueID 为 key 的 Map，以便快速查找
+  const logoDataMap = useMemo(() => {
+    return new Map(logos.nodes.map(node => [node.fields.uniqueID, node]))
+  }, [logos.nodes])
 
   // Algolia Client
   const algoliaClient = useMemo(
@@ -85,7 +114,7 @@ const AlgoliaSearch = ({ locale }) => {
         />
         {hasFocus && (
           <div className="bg-white w-full shadow-card absolute top-header rounded-b-lg flex flex-col">
-            <SearchResult locale={locale} />
+            <SearchResult locale={locale} logoDataMap={logoDataMap} />
             <PoweredBy
               classNames={{
                 root: 'h-auto px-2xl py-lg flex flex-row-reverse items-center border-t border-gray-1',

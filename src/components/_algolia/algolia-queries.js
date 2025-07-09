@@ -25,7 +25,7 @@ const pageQuery = `{
       }
       pngPath {
         childImageSharp {
-          gatsbyImageData(placeholder: BLURRED, formats: WEBP, layout: FULL_WIDTH)
+          gatsbyImageData(placeholder: BLURRED, formats: WEBP, layout: FIXED, width: 40)
         }
       }
     }
@@ -56,7 +56,6 @@ function pageToAlgoliaRecord({
     localName: detailInfo[0].info[0].localName,
     shortName: detailInfo[0].info[0].shortName,
     league,
-    pngPath,
     ...rest
   }
 }
