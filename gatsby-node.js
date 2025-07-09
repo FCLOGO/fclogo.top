@@ -353,7 +353,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         slug: node.slug,
         next,
         previous
-      }
+      },
+      defer: true
     })
   })
 
@@ -366,7 +367,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         slug: node.slug,
         next,
         previous
-      }
+      },
+      defer: true
     })
   })
 
