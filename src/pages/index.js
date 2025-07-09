@@ -15,7 +15,7 @@ const IndexPage = ({ data, pageContext }) => {
       <div className="w-full mx-auto mt-xl mb-[100px] px-[40px] max-w-[1400px] flex-auto flex flex-col flex-nowrap">
         <LogoList data={data} />
         {data.allLogoPack.nodes.length ? <LogoPack data={data} /> : ''}
-        {data.allLogo.nodes.length > 50 ? <RandomList data={data} /> : ''}
+        {/* {data.allLogo.nodes.length > 50 ? <RandomList data={data} /> : ''} */}
       </div>
     </Layout>
   )
@@ -53,7 +53,7 @@ export const query = graphql`
         }
       }
     }
-    allLogo(sort: { logoID: DESC }, filter: { fields: { locale: { eq: $language } } }) {
+    allLogo(sort: { logoID: DESC }, limit: 12, filter: { fields: { locale: { eq: $language } } }) {
       nodes {
         id
         slug
