@@ -70,7 +70,7 @@
 - data: logoPack
   packID: 20250708-214015-77d2c7
   name: 西甲联赛
-  season: '25-26'
+  season: '25/26'
   packSource: rfef-comp-001
   logoVersion: 2023
   slug: /pack/25-26-laliga-primera-division
