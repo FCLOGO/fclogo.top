@@ -1,9 +1,11 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link, useTranslation, Trans } from 'gatsby-plugin-react-i18next'
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import AdSense from 'react-adsense'
 import UpdateDownloads from '../lib/update-downloads'
 import DownloadCounter from '../components/download-counter'
+// import { incrementCount, getBatchCounts } from '../lib/cloudflare-counter'
+// import DoCounter from '../components/do-counter'
 
 import DownloadIcon from '../../static/assets/icons/download.inline.svg'
 import VectorIcon from '../../static/assets/icons/vector.inline.svg'
@@ -52,8 +54,28 @@ const InfoTable = ({ info }) => {
 const DetailSidebar = props => {
   const { t } = useTranslation()
   const [downloadingButton, setDownloadingButton] = useState(null) // 控制下载状态
+  // const [downloadCount, setDownloadCount] = useState(null) // 控制下载次数
   const fullName = props.fullName
   const pushCounter = () => UpdateDownloads(props.sourceID, props.logoID)
+
+  // 在组件加载时获取初始下载次数
+  // useEffect(() => {
+  //   const fetchCount = async () => {
+  //     if (props.logoID) {
+  //       // 注意：getBatchCounts 返回的是一个对象，我们需要从中取值
+  //       const counts = await getBatchCounts([props.logoID])
+  //       setDownloadCount(counts[props.logoID] || 0)
+  //     }
+  //   }
+  //   fetchCount()
+  // }, [props.logoID])
+
+  // const pushCounter_2 = async () => {
+  //   const newCount = await incrementCount(props.logoID, 'downloads')
+  //   if (newCount !== null) {
+  //     setDownloadCount(newCount) // 更新 UI
+  //   }
+  // }
 
   // 处理下载链接
   const handleDownloadClick = (event, url, buttonType) => {
@@ -63,6 +85,7 @@ const DetailSidebar = props => {
     // 延迟下载逻辑
     setTimeout(() => {
       pushCounter() // 更新点击统计
+      // pushCounter_2()
       const downloadLink = document.createElement('a') // 创建下载链接元素
       downloadLink.href = url // 设置链接为图片的URL
       downloadLink.download = '' // 指定为下载
@@ -157,6 +180,7 @@ const DetailSidebar = props => {
           </p>
         </div>
         <DownloadCounter sourceID={props.sourceID} logoID={props.logoID} />
+        {/* <DoCounter count={downloadCount} /> */}
       </div>
       <div className="p-xl w-aside border-t border-t-gray-1 tablet:w-full">
         <DetailAdsense />
