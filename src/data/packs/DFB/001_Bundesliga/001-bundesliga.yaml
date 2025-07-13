@@ -60,3 +60,66 @@
     - id: dfb-club-018
       version: 0000
       style: color
+
+- data: logoPack
+  packID: 20250712-221857-6ac767
+  name: Bundesliga
+  season: '25/26'
+  packSource: dfb-comp-001
+  logoVersion: 2017
+  slug: /pack/25-26-bundesliga
+  items:
+    - id: dfb-club-001
+      version: 2024
+      style: color
+    - id: dfb-club-002
+      version: 1993
+      style: color
+    - id: dfb-club-003
+      version: 2002
+      style: color
+    - id: dfb-club-004
+      version: 2006
+      style: color
+    - id: dfb-club-005
+      version: 2014
+      style: color
+    - id: dfb-club-006
+      version: 2020
+      style: color
+    - id: dfb-club-007
+      version: 1998
+      style: color
+    - id: dfb-club-008
+      version: 2014
+      style: color
+    - id: dfb-club-009
+      version: 2007
+      style: color
+    - id: dfb-club-010
+      version: 1981
+      style: color
+    - id: dfb-club-011
+      version: 2008
+      style: color
+    - id: dfb-club-012
+      version: 2002
+      style: color
+    - id: dfb-club-013
+      version: 2018
+      style: color
+    - id: dfb-club-014
+      version: 1999
+      style: color
+    - id: dfb-club-015
+      version: 1966
+      style: color
+    - id: dfb-club-017
+      version: 2001
+      style: color
+    - id: dfb-club-019
+      version: 1993
+      style: color
+    - id: dfb-club-022
+      version: 1978
+      style: color

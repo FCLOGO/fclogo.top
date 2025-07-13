@@ -60,3 +60,66 @@
     - id: dfb-club-036
       version: 2012
       style: color
+
+- data: logoPack
+  packID: 20250712-222054-e8a548
+  name: 2. Bundesliga
+  season: '25/26'
+  packSource: dfb-comp-002
+  logoVersion: 2017
+  slug: /pack/25-26-2-bundesliga
+  items:
+    - id: dfb-club-016
+      version: 2000
+      style: color
+    - id: dfb-club-018
+      version: 0000
+      style: color
+    - id: dfb-club-020
+      version: 2015
+      style: color
+    - id: dfb-club-021
+      version: 0000
+      style: color
+    - id: dfb-club-023
+      version: 2005
+      style: color
+    - id: dfb-club-024
+      version: 2007
+      style: color
+    - id: dfb-club-025
+      version: 1997
+      style: color
+    - id: dfb-club-026
+      version: 2017
+      style: color
+    - id: dfb-club-027
+      version: 2012
+      style: color
+    - id: dfb-club-028
+      version: 1995
+      style: color
+    - id: dfb-club-029
+      version: 2021
+      style: color
+    - id: dfb-club-030
+      version: 2011
+      style: color
+    - id: dfb-club-031
+      version: 2012
+      style: color
+    - id: dfb-club-032
+      version: 0000
+      style: color
+    - id: dfb-club-033
+      version: 2012
+      style: color
+    - id: dfb-club-034
+      version: 2015
+      style: color
+    - id: dfb-club-037
+      version: 2021
+      style: color
+    - id: dfb-club-038
+      version: 2011
+      style: color
