@@ -7,45 +7,35 @@ import ModalLink from '../../helpers/modal-link'
 
 import ArrowIcon from '../../../static/assets/icons/arrowForward.inline.svg'
 
-import algoliasearch from 'algoliasearch'
-
-// Algolia Client
-const searchClient = algoliasearch(
-  process.env.GATSBY_ALGOLIA_APP_ID,
-  process.env.GATSBY_ALGOLIA_SEARCH_KEY
-)
-
-const index = searchClient.initIndex(process.env.GATSBY_ALGOLIA_INDEX_NAME)
-
 const TopDownloads = ({ locale }) => {
   const { t } = useTranslation()
-  // const data = useStaticQuery(graphql`
-  //   query {
-  //     allLogo {
-  //       nodes {
-  //         fields {
-  //           locale
-  //         }
-  //         logoID
-  //         sourceID
-  //         slug
-  //         style
-  //         version
-  //         pngPath {
-  //           childImageSharp {
-  //             gatsbyImageData(width: 40, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
-  //           }
-  //         }
-  //         detailInfo {
-  //           info {
-  //             fullName
-  //             localName
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
+  const data = useStaticQuery(graphql`
+    query {
+      allLogo {
+        nodes {
+          fields {
+            locale
+          }
+          logoID
+          sourceID
+          slug
+          style
+          version
+          pngPath {
+            childImageSharp {
+              gatsbyImageData(width: 40, placeholder: BLURRED, formats: WEBP, layout: CONSTRAINED)
+            }
+          }
+          detailInfo {
+            info {
+              fullName
+              localName
+            }
+          }
+        }
+      }
+    }
+  `)
 
   const [topDownloads, setTopDownloads] = useState([])
   useEffect(() => {
@@ -54,39 +44,26 @@ const TopDownloads = ({ locale }) => {
       if (!downloadData || downloadData.length === 0) {
         return
       }
-      const objectIDs = downloadData.map(item => `${locale}-${item.logoID}`)
-      const { results } = await index.getObjects(objectIDs, {
-        attributesToRetrieve: [
-          'logoID',
-          'slug',
-          'fullName',
-          'localName',
-          'version',
-          'style',
-          'pngPath',
-          'logoID'
-        ] // 只取需要的字段
-      })
 
       // 匹配项目并添加其他数据
-      // const updatedDownloadData = downloadData.map(item => {
-      //   const matchedItem = data.allLogo.nodes.find(
-      //     node => node.logoID === item.logoID && node.fields.locale === locale
-      //   )
-      //   if (matchedItem) {
-      //     return {
-      //       ...item,
-      //       slug: matchedItem.slug,
-      //       fullName: matchedItem.detailInfo[0].info[0].fullName,
-      //       localName: matchedItem.detailInfo[0].info[0].localName,
-      //       version: matchedItem.version,
-      //       style: matchedItem.style,
-      //       pngPath: matchedItem.pngPath
-      //     }
-      //   }
-      //   return item
-      // })
-      setTopDownloads(results.filter(Boolean))
+      const updatedDownloadData = downloadData.map(item => {
+        const matchedItem = data.allLogo.nodes.find(
+          node => node.logoID === item.logoID && node.fields.locale === locale
+        )
+        if (matchedItem) {
+          return {
+            ...item,
+            slug: matchedItem.slug,
+            fullName: matchedItem.detailInfo[0].info[0].fullName,
+            localName: matchedItem.detailInfo[0].info[0].localName,
+            version: matchedItem.version,
+            style: matchedItem.style,
+            pngPath: matchedItem.pngPath
+          }
+        }
+        return item
+      })
+      setTopDownloads(updatedDownloadData.filter(Boolean))
     }
     // 清理函数以取消异步操作和处理内存泄漏
     let isMounted = true
