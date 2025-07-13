@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250713-213949-876a94
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AD Ceuta FC']
+  slug: /rfef/club/AD-Ceuta-FC-v2013-mono
+  pngPath: 'png/AD-Ceuta-FC-v2013-mono.png'
+  svgPath: 'svg/AD-Ceuta-FC-v2013-mono.svg'
+  sourceID: rfef-club-046
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250713-214024-b3fcc5
+  version: 2013
+  isDoubtful: false
+  isOutdated: false
+  verName: ['AD Ceuta FC']
+  slug: /rfef/club/AD-Ceuta-FC-v2013
+  pngPath: 'png/AD-Ceuta-FC-v2013.png'
+  svgPath: 'svg/AD-Ceuta-FC-v2013.svg'
+  sourceID: rfef-club-046
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ramr'

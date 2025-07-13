@@ -1,0 +1,74 @@
+- data: logoPack
+  packID: 20250712-213517-3ffb5d
+  name: 西乙联赛
+  season: '25/26'
+  packSource: rfef-comp-002
+  logoVersion: 2023
+  slug: /pack/25-26-segunda-division
+  items:
+    - id: rfef-club-022
+      version: 2009
+      style: color
+    - id: rfef-club-023
+      version: 2015
+      style: color
+    - id: rfef-club-044
+      version: 2021
+      style: color
+    - id: rfef-club-024
+      version: 1994
+      style: color
+    - id: rfef-club-025
+      version: 2009
+      style: color
+    - id: rfef-club-027
+      version: 2015
+      style: color
+    - id: rfef-club-028
+      version: 2012
+      style: color
+    - id: rfef-club-045
+      version: 2018
+      style: color
+    - id: rfef-club-029
+      version: 2000
+      style: color
+    - id: rfef-club-042
+      version: 2015
+      style: color
+    - id: rfef-club-032
+      version: 2023
+      style: color
+    - id: rfef-club-033
+      version: 2024
+      style: color
+    - id: rfef-club-010
+      version: 2011
+      style: color
+    - id: rfef-club-011
+      version: 2014
+      style: color
+    - id: rfef-club-035
+      version: 2011
+      style: color
+    - id: rfef-club-036
+      version: 2010
+      style: color
+    - id: rfef-club-038
+      version: 2003
+      style: color
+    - id: rfef-club-017
+      version: 1997
+      style: color
+    - id: rfef-club-040
+      version: 2000
+      style: color
+    - id: rfef-club-020
+      version: 2024
+      style: color
+    - id: rfef-club-041
+      version: 2012
+      style: color
+    - id: rfef-club-046
+      version: 2013
+      style: color
