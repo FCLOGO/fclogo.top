@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250712-225008-8ed79b
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dynamo Dresden']
+  slug: /dfb/club/Dynamo-Dresden-v2011-mono
+  pngPath: 'png/Dynamo-Dresden-v2011-mono.png'
+  svgPath: 'svg/Dynamo-Dresden-v2011-mono.svg'
+  sourceID: dfb-club-038
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250712-225046-0bfc19
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Dynamo Dresden']
+  slug: /dfb/club/Dynamo-Dresden-v2011
+  pngPath: 'png/Dynamo-Dresden-v2011.png'
+  svgPath: 'svg/Dynamo-Dresden-v2011.svg'
+  sourceID: dfb-club-038
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

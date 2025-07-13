@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-045
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.556944, 42.583333]
+  timeline: false
+  info:
+    - fullName: 莱昂内萨文化体育俱乐部
+      localName: Cultural y Deportiva Leonesa
+      shortName: 莱昂内萨
+      founded: 1923
+      city: 莱昂
+      ground: 莱昂王国球场
+  websiteURL: 'https://www.cydleonesa.com/'
+  twitterURL: 'https://twitter.com/CyDLeonesa'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Cultural_y_Deportiva_Leonesa'

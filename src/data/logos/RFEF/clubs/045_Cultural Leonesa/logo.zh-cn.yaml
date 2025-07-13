@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250712-213132-4efc4c
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Cultural Leonesa']
+  slug: /rfef/club/Cultural-Leonesa-v2018-mono
+  pngPath: 'png/Cultural-Leonesa-v2018-mono.png'
+  svgPath: 'svg/Cultural-Leonesa-v2018-mono.svg'
+  sourceID: rfef-club-045
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250712-213222-d553f9
+  version: 2018
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Cultural Leonesa']
+  slug: /rfef/club/Cultural-Leonesa-v2018
+  pngPath: 'png/Cultural-Leonesa-v2018.png'
+  svgPath: 'svg/Cultural-Leonesa-v2018.svg'
+  sourceID: rfef-club-045
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

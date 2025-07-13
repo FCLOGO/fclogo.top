@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-038
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [13.748280, 51.040440]
+  timeline: false
+  info:
+    - fullName: 德累斯顿迪纳摩体育俱乐部
+      localName: Sportgemeinschaft Dynamo Dresden e. V.
+      shortName: 德累斯顿迪纳摩
+      founded: 1953
+      city: 德累斯顿
+      ground: 鲁道夫·哈比格体育场
+  websiteURL: 'https://www.dynamo-dresden.de/'
+  twitterURL: 'https://twitter.com/dynamodresden'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Dynamo_Dresden'

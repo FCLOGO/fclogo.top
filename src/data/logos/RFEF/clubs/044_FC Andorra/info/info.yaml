@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-044
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [1.514417, 42.507472]
+  timeline: false
+  info:
+    - fullName: Futbol Club Andorra
+      localName: Futbol Club Andorra
+      shortName: FC Andorra
+      founded: 1942
+      city: Andorra la Vella
+      ground: Estadi Nacional
+  websiteURL: 'https://www.fcandorra.com/'
+  twitterURL: 'https://twitter.com/fcandorra'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Andorra'

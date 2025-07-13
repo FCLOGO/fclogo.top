@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-038
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [13.748280, 51.040440]
+  timeline: false
+  info:
+    - fullName: Sportgemeinschaft Dynamo Dresden
+      localName: Sportgemeinschaft Dynamo Dresden e. V.
+      shortName: Dynamo Dresden
+      founded: 1953
+      city: Dresden
+      ground: Rudolf-Harbig-Stadion
+  websiteURL: 'https://www.dynamo-dresden.de/'
+  twitterURL: 'https://twitter.com/dynamodresden'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Dynamo_Dresden'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: dfb-club-037
+  status: active
+  type: club
+  nation: DEU
+  coordinates: [8.517222, 52.031111]
+  timeline: false
+  info:
+    - fullName: Deutscher Sport-Club Arminia Bielefeld
+      localName: Deutscher Sport-Club Arminia Bielefeld
+      shortName: Arminia Bielefeld
+      founded: 1905
+      city: Bielefeld
+      ground: SchücoArena
+  websiteURL: 'https://www.arminia.de/'
+  twitterURL: 'https://twitter.com/arminia'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Arminia_Bielefeld'

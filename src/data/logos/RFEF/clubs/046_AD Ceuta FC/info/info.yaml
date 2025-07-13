@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-046
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.329167, 35.888611]
+  timeline: false
+  info:
+    - fullName: Agrupación Deportiva Ceuta Fútbol Club
+      localName: Agrupación Deportiva Ceuta Fútbol Club
+      shortName: AD Ceuta FC
+      founded: 1956
+      city: Ceuta
+      ground: Estadio Alfonso Murube
+  websiteURL: 'https://adceutafc.com/'
+  twitterURL: 'https://twitter.com/ADCeuta_FC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AD_Ceuta_FC'

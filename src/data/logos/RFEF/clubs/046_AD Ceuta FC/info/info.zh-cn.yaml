@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: rfef-club-046
+  status: active
+  type: club
+  nation: ESP
+  coordinates: [-5.329167, 35.888611]
+  timeline: false
+  info:
+    - fullName: 休达体育会足球俱乐部
+      localName: Agrupación Deportiva Ceuta Fútbol Club
+      shortName: 休达FC
+      founded: 1956
+      city: 休达
+      ground: 阿方索·穆鲁贝球场
+  websiteURL: 'https://adceutafc.com/'
+  twitterURL: 'https://twitter.com/ADCeuta_FC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/AD_Ceuta_FC'
