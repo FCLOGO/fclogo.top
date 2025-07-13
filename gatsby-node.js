@@ -354,7 +354,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         next,
         previous
       },
-      defer: true
+      defer: false
     })
   })
 
@@ -368,7 +368,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         next,
         previous
       },
-      defer: true
+      defer: false
     })
   })
 
