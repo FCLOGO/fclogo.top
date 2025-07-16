@@ -498,7 +498,7 @@ Currently supported logo style names:
 
 | <nobr>Code</nobr> | <nobr>Style</nobr> | <nobr>Description</nobr> |
 | --- | --- | --- |
-| color | Color | The default style of the logo. **Each logo must include a color version** |
+| color | Full-Color | The default style of the logo. **Each logo must include a full-color version** |
 | minor | Minor Logo | The second logo used by the entity |
 | comm | Commemorative Logo | The commemorative logo used by the entity, such as anniversary commemorations |
 | mono | Monochrome | Monochrome style logo |
