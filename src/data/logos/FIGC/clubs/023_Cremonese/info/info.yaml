@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-023
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.033611, 45.143333]
+  timeline: false
+  info:
+    - fullName: Unione Sportiva Cremonese
+      localName: Unione Sportiva Cremonese
+      shortName: Cremonese
+      founded: 1903
+      city: Cremona
+      ground: Stadio Giovanni Zini
+  websiteURL: 'https://uscremonese.it/'
+  twitterURL: 'https://twitter.com/USCremonese'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/U.S._Cremonese'

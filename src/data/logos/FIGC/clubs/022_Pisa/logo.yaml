@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250717-104716-a4f5b6
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Pisa']
+  slug: /figc/club/Pisa-SC-v2017-mono
+  pngPath: 'png/Pisa-SC-v2017-mono.png'
+  svgPath: 'svg/Pisa-SC-v2017-mono.svg'
+  sourceID: figc-club-022
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250717-104742-149e8e
+  version: 2017
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Pisa']
+  slug: /figc/club/Pisa-SC-v2017
+  pngPath: 'png/Pisa-SC-v2017.png'
+  svgPath: 'svg/Pisa-SC-v2017.svg'
+  sourceID: figc-club-022
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

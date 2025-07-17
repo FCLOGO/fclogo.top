@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-021
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.648611, 44.710278]
+  timeline: false
+  info:
+    - fullName: Unione Sportiva Sassuolo Calcio
+      localName: Unione Sportiva Sassuolo Calcio
+      shortName: Sassuolo
+      founded: 1920
+      city: Sassuolo
+      ground: Mapei Stadium – Città del Tricolore
+  websiteURL: 'https://www.sassuolocalcio.it/'
+  twitterURL: 'https://twitter.com/SassuoloUS'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/U.S._Sassuolo_Calcio'

@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-023
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.033611, 45.143333]
+  timeline: false
+  info:
+    - fullName: 克雷莫纳体育联盟
+      localName: Unione Sportiva Cremonese
+      shortName: 克雷莫纳
+      founded: 1903
+      city: 克雷莫纳
+      ground: 乔瓦尼·齐尼体育场
+  websiteURL: 'https://uscremonese.it/'
+  twitterURL: 'https://twitter.com/USCremonese'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/U.S._Cremonese'

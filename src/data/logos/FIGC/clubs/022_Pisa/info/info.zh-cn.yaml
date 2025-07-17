@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-022
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.407778, 43.722500]
+  timeline: false
+  info:
+    - fullName: 比萨体育俱乐部
+      localName: Pisa Sporting Club
+      shortName: 比萨
+      founded: 1909
+      city: 比萨
+      ground: 加里波第竞技场 - 罗密欧·安科内塔尼球场
+  websiteURL: 'https://pisasportingclub.com/'
+  twitterURL: 'https://twitter.com/PisaSC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Pisa_S.C.'

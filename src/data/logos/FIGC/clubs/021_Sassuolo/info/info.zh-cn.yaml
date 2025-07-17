@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: figc-club-021
+  status: active
+  type: club
+  nation: ITA
+  coordinates: [10.648611, 44.710278]
+  timeline: false
+  info:
+    - fullName: 萨索洛足球体育俱乐部
+      localName: Unione Sportiva Sassuolo Calcio
+      shortName: 萨索洛
+      founded: 1920
+      city: 萨索洛
+      ground: 马佩体育场 - 三色城
+  websiteURL: 'https://www.sassuolocalcio.it/'
+  twitterURL: 'https://twitter.com/SassuoloUS'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/U.S._Sassuolo_Calcio'
