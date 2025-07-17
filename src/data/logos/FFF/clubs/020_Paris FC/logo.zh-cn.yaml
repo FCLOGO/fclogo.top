@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250717-103248-4c0d58
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Paris FC']
+  slug: /fff/club/Paris-FC-v2011-mono
+  pngPath: 'png/Paris-FC-v2011-mono.png'
+  svgPath: 'svg/Paris-FC-v2011-mono.svg'
+  sourceID: fff-club-020
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250717-103316-b5f4ef
+  version: 2011
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Paris FC']
+  slug: /fff/club/Paris-FC-v2011
+  pngPath: 'png/Paris-FC-v2011.png'
+  svgPath: 'svg/Paris-FC-v2011.svg'
+  sourceID: fff-club-020
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

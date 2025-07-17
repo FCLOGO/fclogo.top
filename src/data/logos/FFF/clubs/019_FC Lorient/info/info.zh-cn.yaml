@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-019
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-3.372778, 47.748611]
+  timeline: false
+  info:
+    - fullName: 洛里昂布列塔尼南部足球俱乐部
+      localName: Football Club Lorient Bretagne Sud
+      shortName: 洛里昂
+      founded: 1926
+      city: 洛里昂
+      ground: 勒·穆斯托伊球场
+  websiteURL: 'https://fclorient.bzh/'
+  twitterURL: 'https://twitter.com/FCLorient'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Lorient'

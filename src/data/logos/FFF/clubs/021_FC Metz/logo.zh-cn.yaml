@@ -1,0 +1,13 @@
+- data: logo
+  logoID: 20250717-103545-5dc8d6
+  version: 2021
+  isDoubtful: false
+  isOutdated: false
+  verName: ['FC Metz']
+  slug: /fff/club/FC-Metz-v2021
+  pngPath: 'png/FC-Metz-v2021.png'
+  svgPath: 'svg/FC-Metz-v2021.svg'
+  sourceID: fff-club-021
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

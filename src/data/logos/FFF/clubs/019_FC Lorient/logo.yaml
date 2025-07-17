@@ -1,0 +1,27 @@
+- data: logo
+  logoID: 20250717-102915-1f43b4
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Lorient']
+  slug: /fff/club/FC-Lorient-v2010-mono
+  pngPath: 'png/FC-Lorient-v2010-mono.png'
+  svgPath: 'svg/FC-Lorient-v2010-mono.svg'
+  sourceID: fff-club-019
+  style: mono
+  reference: ''
+  ctrbID: 'ctrb-ryan'
+
+- data: logo
+  logoID: 20250717-102949-b863b9
+  version: 2010
+  isDoubtful: false
+  isOutdated: false
+  verName: ['Lorient']
+  slug: /fff/club/FC-Lorient-v2010
+  pngPath: 'png/FC-Lorient-v2010.png'
+  svgPath: 'svg/FC-Lorient-v2010.svg'
+  sourceID: fff-club-019
+  style: color
+  reference: ''
+  ctrbID: 'ctrb-ryan'

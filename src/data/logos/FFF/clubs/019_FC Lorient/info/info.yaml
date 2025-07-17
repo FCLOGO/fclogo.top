@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-019
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [-3.372778, 47.748611]
+  timeline: false
+  info:
+    - fullName: Football Club Lorient Bretagne Sud
+      localName: Football Club Lorient Bretagne Sud
+      shortName: FC Lorient
+      founded: 1926
+      city: Lorient
+      ground: Stade du Moustoir
+  websiteURL: 'https://fclorient.bzh/'
+  twitterURL: 'https://twitter.com/FCLorient'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/FC_Lorient'

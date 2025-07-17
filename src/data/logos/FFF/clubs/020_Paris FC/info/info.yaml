@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-020
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [2.347861, 48.818583]
+  timeline: false
+  info:
+    - fullName: Paris Football Club
+      localName: Paris Football Club
+      shortName: Paris FC
+      founded: 1969
+      city: Paris
+      ground: Stade Charléty
+  websiteURL: 'https://parisfc.fr/'
+  twitterURL: 'https://twitter.com/ParisFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Paris_FC'

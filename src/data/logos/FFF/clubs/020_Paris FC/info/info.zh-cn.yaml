@@ -1,0 +1,18 @@
+- data: sourceInfo
+  sourceID: fff-club-020
+  status: active
+  type: club
+  nation: FRA
+  coordinates: [2.347861, 48.818583]
+  timeline: false
+  info:
+    - fullName: 巴黎足球俱乐部
+      localName: Paris Football Club
+      shortName: 巴黎FC
+      founded: 1969
+      city: 巴黎
+      ground: 沙勒蒂体育场
+  websiteURL: 'https://parisfc.fr/'
+  twitterURL: 'https://twitter.com/ParisFC'
+  weiboURL: ''
+  wikiURL: 'https://en.wikipedia.org/wiki/Paris_FC'
