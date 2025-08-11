@@ -1,6 +1,7 @@
 # FCLOGO
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f12224e-7952-4a68-9855-13f409bf7def/deploy-status)](https://app.netlify.com/sites/glistening-pixie-5836cd/deploys)
+> [!CAUTION]
+> The project has been restructured and remodeled using Next.js, new project: [fclogo-next](https://github.com/FCLOGO/fclogo-next)
 
 
 [FCLOGO](https://fclogo.top) is a collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.
@@ -25,8 +26,8 @@ We started FCLOGO because we as football fans want everyone to know the culture 
 
 - [x] Localized name search
 - [x] Logo History Timeline
-- [ ] Logo News
-- [ ] Site Feed
+- [x] Logo News
+- [ ] ~~Site Feed~~
 - [x] Logo Package
 - [x] Number of Logo Downloads
 
