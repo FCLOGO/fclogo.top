@@ -1,0 +1,309 @@
+:root {
+  color-scheme: light dark;
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  font-synthesis: none;
+}
+
+html,
+body {
+  margin: 0;
+  min-block-size: 100%;
+}
+
+body {
+  background: #f8faf9;
+}
+
+::selection {
+  background: rgba(55, 48, 221, 0.22);
+}
+
+.migration-page {
+  --migration-bg: #f8faf9;
+  --migration-text: #18201d;
+  --migration-muted: #56615d;
+  --migration-line: rgba(24, 32, 29, 0.16);
+  --migration-accent: #2d2cdd;
+  --migration-accent-hover: #2423b1;
+  --migration-art-surface: #2d2cdd;
+  --migration-button-text: #f8faf9;
+  --migration-radius: 1.5rem;
+
+  box-sizing: border-box;
+  display: grid;
+  min-block-size: 100vh;
+  min-block-size: 100dvh;
+  grid-template-rows: auto 1fr auto;
+  gap: clamp(2rem, 5vw, 5rem);
+  padding: clamp(1.5rem, 4vw, 3.5rem);
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 72% 48%, rgba(45, 44, 221, 0.1), transparent 34rem),
+    var(--migration-bg);
+  color: var(--migration-text);
+}
+
+.migration-page :where(header, section, footer, div, p, h1, figure, a, span, img) {
+  box-sizing: border-box;
+}
+
+.migration-logo {
+  display: block;
+  inline-size: min(8rem, 24vw);
+  block-size: auto;
+}
+
+.migration-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(17rem, 0.72fr);
+  gap: clamp(3rem, 8vw, 8rem);
+  inline-size: min(100%, 86rem);
+  margin-inline: auto;
+  align-items: center;
+}
+
+.migration-copy {
+  max-inline-size: 48rem;
+}
+
+.migration-kicker {
+  margin: 0 0 clamp(1.25rem, 2.5vw, 2rem);
+  color: var(--migration-muted);
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.migration-copy h1 {
+  max-inline-size: 16ch;
+  margin: 0;
+  font-size: clamp(2.5rem, 6vw, 5.75rem);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.migration-copy h1 span {
+  display: block;
+  margin-block-start: 0.16em;
+  color: var(--migration-muted);
+  font-size: 0.6em;
+  font-weight: 500;
+  letter-spacing: -0.04em;
+  line-height: 1.05;
+}
+
+.migration-description {
+  max-inline-size: 37rem;
+  margin-block-start: clamp(1.5rem, 3vw, 2.25rem);
+  color: var(--migration-muted);
+  font-size: clamp(0.9375rem, 1.4vw, 1.0625rem);
+  line-height: 1.65;
+  text-wrap: pretty;
+}
+
+.migration-description p {
+  margin: 0;
+}
+
+.migration-description p + p {
+  margin-block-start: 0.25rem;
+  font-size: 0.9em;
+}
+
+.migration-link {
+  display: inline-flex;
+  min-block-size: 3.5rem;
+  margin-block-start: clamp(1.75rem, 4vw, 2.75rem);
+  padding: 0.9rem 1.1rem 0.9rem 1.35rem;
+  align-items: center;
+  gap: 1.1rem;
+  border: 1px solid transparent;
+  border-radius: var(--migration-radius);
+  background: var(--migration-accent);
+  color: var(--migration-button-text);
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap;
+  transition:
+    background-color 180ms ease,
+    transform 180ms ease;
+}
+
+.migration-arrow {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1;
+  transition: transform 180ms ease;
+}
+
+.migration-link:hover {
+  background: var(--migration-accent-hover);
+  transform: translateY(-0.125rem);
+}
+
+.migration-link:hover .migration-arrow {
+  transform: translateX(0.2rem);
+}
+
+.migration-link:active {
+  transform: translateY(0.0625rem);
+}
+
+.migration-link:focus-visible {
+  outline: 0.2rem solid var(--migration-accent);
+  outline-offset: 0.25rem;
+}
+
+.migration-art {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  aspect-ratio: 1;
+  inline-size: min(100%, 32rem);
+  margin: 0;
+  padding: 28% 11%;
+  place-items: center;
+  color-scheme: dark;
+  border-radius: var(--migration-radius);
+  background: var(--migration-art-surface);
+  box-shadow: 0 2rem 5rem rgba(30, 35, 68, 0.16);
+  justify-self: end;
+}
+
+.migration-art::before {
+  position: absolute;
+  z-index: -1;
+  inset: 8% -12% -10% 18%;
+  border: 1px solid var(--migration-line);
+  border-radius: var(--migration-radius);
+  content: "";
+  transform: rotate(7deg);
+}
+
+.migration-art img {
+  display: block;
+  inline-size: 100%;
+  block-size: auto;
+}
+
+.migration-footer {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--migration-muted);
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  font-size: 0.6875rem;
+  line-height: 1.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121614;
+  }
+
+  .migration-page {
+    --migration-bg: #121614;
+    --migration-text: #edf2ef;
+    --migration-muted: #aab5b0;
+    --migration-line: rgba(237, 242, 239, 0.18);
+    --migration-accent: #3f3edc;
+    --migration-accent-hover: #5252e5;
+    --migration-art-surface: #2d2cdd;
+    --migration-button-text: #fbfcff;
+
+    background:
+      radial-gradient(circle at 72% 48%, rgba(45, 44, 221, 0.2), transparent 34rem),
+      var(--migration-bg);
+  }
+
+    .migration-art {
+      box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.34);
+  }
+}
+
+@media (max-width: 47.99rem) {
+  .migration-page {
+    gap: 2rem;
+    padding: 1.25rem;
+    overflow: auto;
+  }
+
+  .migration-hero {
+    grid-template-columns: 1fr;
+    gap: 2.75rem;
+    align-content: center;
+  }
+
+  .migration-copy h1 {
+    max-inline-size: 13ch;
+    font-size: clamp(2.3rem, 12vw, 4rem);
+    line-height: 1.02;
+  }
+
+  .migration-art {
+    inline-size: min(72vw, 21rem);
+    justify-self: center;
+  }
+
+  .migration-footer {
+    margin-block-start: 0.5rem;
+  }
+}
+
+@media (max-height: 43rem) and (min-width: 48rem) {
+  .migration-page {
+    gap: 1.5rem;
+    padding-block: 1.5rem;
+  }
+
+  .migration-copy h1 {
+    font-size: clamp(2.75rem, 8.5vh, 4.5rem);
+  }
+
+  .migration-description {
+    margin-block-start: 1.25rem;
+  }
+
+  .migration-link {
+    margin-block-start: 1.5rem;
+  }
+
+  .migration-art {
+    max-inline-size: min(42vh, 25rem);
+  }
+}
+
+@media (pointer: coarse) {
+  .migration-link {
+    min-block-size: 3.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .migration-link,
+  .migration-arrow {
+    transition: none;
+  }
+}
+
+@media (forced-colors: active) {
+  .migration-link {
+    border-color: ButtonText;
+  }
+
+  .migration-art::before {
+    border-color: CanvasText;
+  }
+}

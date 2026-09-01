@@ -1,48 +1,34 @@
-# FCLOGO
+# FCLOGO Legacy
 
-> [!CAUTION]
-> The project has been restructured and remodeled using Next.js, new project: [fclogo-next](https://github.com/FCLOGO/fclogo-next)
+此仓库是 FCLOGO 旧版本的归档首页。项目已迁移至 [https://fclogo.top](https://fclogo.top)。
 
+## 构建
 
-[FCLOGO](https://fclogo.top) is a collection of football club vector logos. All logos work with SVG and PNG. No account and unlimited downloads for free.
+```sh
+yarn build
+```
 
-We started FCLOGO because we as football fans want everyone to know the culture and heritage of the Football Club. Our mission is to make all football club logos accessible to you.This is a huge challenge, and we are constantly improving our service to make that happen. We are not alone in this. We always like to receive your feedback and new ideas, and welcome to join us.
+构建产物位于 `public/`。页面使用原生 HTML 与 CSS，不需要安装第三方依赖。
 
-## 🔗 SITE URL
+## 本地开发
 
-- primary: [https://fclogo.top](https://fclogo.top)
-- secondary: [https://fclogo.netlify.app](https://fclogo.netlify.app)
+```sh
+yarn dev
+```
 
-## 🛠 MAIN FEATURES
+浏览器访问 [http://127.0.0.1:8000](http://127.0.0.1:8000)。修改 HTML 或 CSS 后刷新页面即可看到结果。
 
-- All logos work with SVG and PNG.
-- No account and unlimited downloads for free.
-- Support for searching using localized names.
-- Two color modes: multicolor and monochrome.
-- Logo history timeline.
-- ...
+检查最终构建产物时运行：
 
-## ✅ TODO
+```sh
+yarn preview
+```
 
-- [x] Localized name search
-- [x] Logo History Timeline
-- [x] Logo News
-- [ ] ~~Site Feed~~
-- [x] Logo Package
-- [x] Number of Logo Downloads
+## Netlify
 
-*For anything you may think necessary tell me by opening an issue or a PR : )!*
+仓库中的 `netlify.toml` 已配置：
 
-## 📝 CONTRIBUTING
+- 构建命令：`node build.mjs`
+- 发布目录：`public`
 
-Everyone is more than welcome to contribute to this package!
-
-## 💬 COMMUNITY
-
-For help, submit a bug, or any other conversation that would benefit from being searchable:
-
-[Discuss FCLOGO on GitHub](https://github.com/FCLOGO/fclogo.top/discussions)
-
-For casual chit-chat:
-
-[Join the Discord Server](https://discord.gg/gVcbysaEWD)
+在 Netlify 导入此 Git 仓库并选择需要部署的分支即可。旧站的其他访问路径会显示同一个迁移首页。
