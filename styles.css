@@ -87,12 +87,23 @@ body {
   margin: 0;
   font-size: clamp(2.5rem, 6vw, 5.75rem);
   font-weight: 500;
-  letter-spacing: -0.055em;
-  line-height: 1.25;
+  line-height: 1.05;
   text-wrap: balance;
 }
 
-.migration-copy h1 span {
+.title-name {
+  display: block;
+  margin-block-end: 0.16em;
+  font-weight: 900;
+}
+
+.title-des {
+  display: block;
+  margin-block-start: 0.16em;
+  font-weight: 500;
+}
+
+.title-en {
   display: block;
   margin-block-start: 0.16em;
   color: var(--migration-muted);
